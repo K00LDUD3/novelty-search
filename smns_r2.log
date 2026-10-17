@@ -1,0 +1,845 @@
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+22:15:18 [INFO] scraper: Search plan:
+22:15:18 [INFO] scraper:   Google Scholar: 8 queries
+22:15:18 [INFO] scraper:   IEEE Xplore: 6 queries
+22:15:18 [INFO] scraper:   ScienceDirect: 6 queries
+22:15:18 [INFO] scraper:   Springer Nature Link: 6 queries
+22:15:18 [INFO] scraper:   ACM Digital Library: 3 queries
+22:15:18 [INFO] scraper:   AIAA Aerospace Research Central: 6 queries
+22:15:18 [INFO] scraper:   IFAC-PapersOnLine: 6 queries
+22:15:18 [INFO] scraper: ════════════════════════════════════════════════════════════
+22:15:18 [INFO] scraper: Site: Google Scholar
+22:15:18 [INFO] scraper: [Google Scholar] Running query: actuator degradation bifurcation control
+22:15:59 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0005109803002589 — waiting 2.0s
+22:16:01 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0005109803002589 — waiting 4.0s
+22:16:05 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0005109803002589 — waiting 8.0s
+22:16:13 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2072-666X/7/10/177 — waiting 2.0s
+22:16:15 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2072-666X/7/10/177 — waiting 4.0s
+22:16:19 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2072-666X/7/10/177 — waiting 8.0s
+22:16:27 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S1474667015339380 — waiting 2.0s
+22:16:29 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S1474667015339380 — waiting 4.0s
+22:16:33 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S1474667015339380 — waiting 8.0s
+22:16:51 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/computationalnonlinear/article-abstract/10/2/021002/371844 — waiting 2.0s
+22:16:54 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/computationalnonlinear/article-abstract/10/2/021002/371844 — waiting 4.0s
+22:16:58 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/computationalnonlinear/article-abstract/10/2/021002/371844 — waiting 8.0s
+22:17:11 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0920379614003457 — waiting 2.0s
+22:17:13 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0920379614003457 — waiting 4.0s
+22:17:17 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0920379614003457 — waiting 8.0s
+22:17:35 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/1996-1944/17/7/1499 — waiting 2.0s
+22:17:37 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/1996-1944/17/7/1499 — waiting 4.0s
+22:17:41 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/1996-1944/17/7/1499 — waiting 8.0s
+22:18:09 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/full/10.2514/1.G005840 — waiting 2.0s
+22:18:11 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/full/10.2514/1.G005840 — waiting 4.0s
+22:18:15 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/full/10.2514/1.G005840 — waiting 8.0s
+22:18:28 [WARNING] scraper: HTTP 403 from https://pubs.acs.org/doi/abs/10.1021/ie9606653 — waiting 2.0s
+22:18:31 [WARNING] scraper: HTTP 403 from https://pubs.acs.org/doi/abs/10.1021/ie9606653 — waiting 4.0s
+22:18:35 [WARNING] scraper: HTTP 403 from https://pubs.acs.org/doi/abs/10.1021/ie9606653 — waiting 8.0s
+22:18:43 [WARNING] scraper: HTTP 429 from https://www.igi-global.com/chapter/neural-approximation-based-adaptive-control-for-pure-feedback-fractional-order-systems-with-output-constraints-and-actuator-nonlinearities/204809 — waiting 2.0s
+22:18:45 [WARNING] scraper: HTTP 429 from https://www.igi-global.com/chapter/neural-approximation-based-adaptive-control-for-pure-feedback-fractional-order-systems-with-output-constraints-and-actuator-nonlinearities/204809 — waiting 4.0s
+22:18:49 [WARNING] scraper: HTTP 429 from https://www.igi-global.com/chapter/neural-approximation-based-adaptive-control-for-pure-feedback-fractional-order-systems-with-output-constraints-and-actuator-nonlinearities/204809 — waiting 8.0s
+22:19:14 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/10775463251364313 — waiting 2.0s
+22:19:16 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/10775463251364313 — waiting 4.0s
+22:19:20 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/10775463251364313 — waiting 8.0s
+22:19:33 [WARNING] scraper: HTTP 403 from https://www.worldscientific.com/doi/abs/10.1142/S1758825125500498 — waiting 2.0s
+22:19:35 [WARNING] scraper: HTTP 403 from https://www.worldscientific.com/doi/abs/10.1142/S1758825125500498 — waiting 4.0s
+22:19:39 [WARNING] scraper: HTTP 403 from https://www.worldscientific.com/doi/abs/10.1142/S1758825125500498 — waiting 8.0s
+22:19:58 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S088832702500500X — waiting 2.0s
+22:20:00 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S088832702500500X — waiting 4.0s
+22:20:04 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S088832702500500X — waiting 8.0s
+22:20:12 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2073-8994/18/8/1390 — waiting 2.0s
+22:20:14 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2073-8994/18/8/1390 — waiting 4.0s
+22:20:18 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2073-8994/18/8/1390 — waiting 8.0s
+22:20:31 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0093641326001886 — waiting 2.0s
+22:20:33 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0093641326001886 — waiting 4.0s
+22:20:37 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0093641326001886 — waiting 8.0s
+22:20:51 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/cha/article/36/1/013103/3376040 — waiting 2.0s
+22:20:53 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/cha/article/36/1/013103/3376040 — waiting 4.0s
+22:20:57 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/cha/article/36/1/013103/3376040 — waiting 8.0s
+22:21:21 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0263822300000970 — waiting 2.0s
+22:21:23 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0263822300000970 — waiting 4.0s
+22:21:27 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0263822300000970 — waiting 8.0s
+22:21:35 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-0825/14/5/203 — waiting 2.0s
+22:21:37 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-0825/14/5/203 — waiting 4.0s
+22:21:41 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-0825/14/5/203 — waiting 8.0s
+22:21:49 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2072-666X/17/9/1048 — waiting 2.0s
+22:21:51 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2072-666X/17/9/1048 — waiting 4.0s
+22:21:55 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2072-666X/17/9/1048 — waiting 8.0s
+22:22:04 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/pamm.202300214 — waiting 2.0s
+22:22:06 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/pamm.202300214 — waiting 4.0s
+22:22:10 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/pamm.202300214 — waiting 8.0s
+22:22:18 [WARNING] scraper: HTTP 403 from https://www.academia.edu/download/47063715/Event_generation_and_simulation_of_excep20160706-30745-91n2u6.pdf — waiting 2.0s
+22:22:20 [WARNING] scraper: HTTP 403 from https://www.academia.edu/download/47063715/Event_generation_and_simulation_of_excep20160706-30745-91n2u6.pdf — waiting 4.0s
+22:22:24 [WARNING] scraper: HTTP 403 from https://www.academia.edu/download/47063715/Event_generation_and_simulation_of_excep20160706-30745-91n2u6.pdf — waiting 8.0s
+22:22:32 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/pof/article/25/5/054106/258692 — waiting 2.0s
+22:22:34 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/pof/article/25/5/054106/258692 — waiting 4.0s
+22:22:39 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/pof/article/25/5/054106/258692 — waiting 8.0s
+22:22:47 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/1729881417718801 — waiting 2.0s
+22:22:49 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/1729881417718801 — waiting 4.0s
+22:22:53 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/1729881417718801 — waiting 8.0s
+22:23:01 [WARNING] scraper: HTTP 403 from https://www.tandfonline.com/doi/abs/10.1080/00423114.2026.2621043 — waiting 2.0s
+22:23:03 [WARNING] scraper: HTTP 403 from https://www.tandfonline.com/doi/abs/10.1080/00423114.2026.2621043 — waiting 4.0s
+22:23:08 [WARNING] scraper: HTTP 403 from https://www.tandfonline.com/doi/abs/10.1080/00423114.2026.2621043 — waiting 8.0s
+22:23:21 [WARNING] scraper: HTTP 403 from https://www.tandfonline.com/doi/abs/10.1080/00423114.2019.1610182 — waiting 2.0s
+22:23:23 [WARNING] scraper: HTTP 403 from https://www.tandfonline.com/doi/abs/10.1080/00423114.2019.1610182 — waiting 4.0s
+22:23:27 [WARNING] scraper: HTTP 403 from https://www.tandfonline.com/doi/abs/10.1080/00423114.2019.1610182 — waiting 8.0s
+22:23:36 [INFO] scraper: [scholar] Query done — raw: 50, unique: 49
+22:23:36 [INFO] scraper: [Google Scholar] Running query: fault induced bifurcation nonlinear control
+22:24:21 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0022460X22004023 — waiting 2.0s
+22:24:23 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0022460X22004023 — waiting 4.0s
+22:24:27 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0022460X22004023 — waiting 8.0s
+22:24:35 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0888327025007368 — waiting 2.0s
+22:24:37 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0888327025007368 — waiting 4.0s
+22:24:41 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0888327025007368 — waiting 8.0s
+22:24:50 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0020740306001068 — waiting 2.0s
+22:24:52 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0020740306001068 — waiting 4.0s
+22:24:56 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0020740306001068 — waiting 8.0s
+22:25:04 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0022460X99922642 — waiting 2.0s
+22:25:06 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0022460X99922642 — waiting 4.0s
+22:25:10 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0022460X99922642 — waiting 8.0s
+22:25:55 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/0378437180900102 — waiting 2.0s
+22:25:58 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/0378437180900102 — waiting 4.0s
+22:26:02 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/0378437180900102 — waiting 8.0s
+22:26:10 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/0016003294900906 — waiting 2.0s
+22:26:12 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/0016003294900906 — waiting 4.0s
+22:26:16 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/0016003294900906 — waiting 8.0s
+22:26:35 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.3597 — waiting 2.0s
+22:26:37 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.3597 — waiting 4.0s
+22:26:41 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.3597 — waiting 8.0s
+22:27:04 [WARNING] scraper: HTTP 403 from https://www.worldscientific.com/doi/abs/10.1142/S0218127426500707 — waiting 2.0s
+22:27:06 [WARNING] scraper: HTTP 403 from https://www.worldscientific.com/doi/abs/10.1142/S0218127426500707 — waiting 4.0s
+22:27:10 [WARNING] scraper: HTTP 403 from https://www.worldscientific.com/doi/abs/10.1142/S0218127426500707 — waiting 8.0s
+22:27:28 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/pdf/10.2514/6.2005-6167 — waiting 2.0s
+22:27:31 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/pdf/10.2514/6.2005-6167 — waiting 4.0s
+22:27:35 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/pdf/10.2514/6.2005-6167 — waiting 8.0s
+22:27:48 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0888327003000190 — waiting 2.0s
+22:27:50 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0888327003000190 — waiting 4.0s
+22:27:54 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0888327003000190 — waiting 8.0s
+22:28:21 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S100757041630137X — waiting 2.0s
+22:28:23 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S100757041630137X — waiting 4.0s
+22:28:27 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S100757041630137X — waiting 8.0s
+22:28:40 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S1007570426007628 — waiting 2.0s
+22:28:42 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S1007570426007628 — waiting 4.0s
+22:28:46 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S1007570426007628 — waiting 8.0s
+22:29:05 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0022460X0093298X — waiting 2.0s
+22:29:07 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0022460X0093298X — waiting 4.0s
+22:29:11 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0022460X0093298X — waiting 8.0s
+22:29:19 [WARNING] scraper: HTTP 202 from https://www.degruyterbrill.com/document/doi/10.1515/nleng-2016-0077/html
+22:29:24 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/002074629290040E — waiting 2.0s
+22:29:26 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/002074629290040E — waiting 4.0s
+22:29:30 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/002074629290040E — waiting 8.0s
+22:29:48 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/abs/10.2514/1.C038835 — waiting 2.0s
+22:29:50 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/abs/10.2514/1.C038835 — waiting 4.0s
+22:29:55 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/abs/10.2514/1.C038835 — waiting 8.0s
+22:30:08 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/10775463251412291 — waiting 2.0s
+22:30:10 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/10775463251412291 — waiting 4.0s
+22:30:14 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/10775463251412291 — waiting 8.0s
+22:30:27 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/stc.215 — waiting 2.0s
+22:30:29 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/stc.215 — waiting 4.0s
+22:30:33 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/stc.215 — waiting 8.0s
+22:30:41 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0376042197000018 — waiting 2.0s
+22:30:43 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0376042197000018 — waiting 4.0s
+22:30:47 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0376042197000018 — waiting 8.0s
+22:30:56 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0022460X14008311 — waiting 2.0s
+22:30:58 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0022460X14008311 — waiting 4.0s
+22:31:02 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0022460X14008311 — waiting 8.0s
+22:31:10 [WARNING] scraper: HTTP 403 from https://digital-library.theiet.org/doi/abs/10.1049/ip-gtd%3A20010189 — waiting 2.0s
+22:31:16 [INFO] scraper: [scholar] Query done — raw: 50, unique: 50
+22:31:16 [INFO] scraper: [Google Scholar] Running query: actuator effectiveness bifurcation
+22:31:50 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0022460X13005142 — waiting 2.0s
+22:31:52 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0022460X13005142 — waiting 4.0s
+22:31:56 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0022460X13005142 — waiting 8.0s
+22:32:04 [WARNING] scraper: HTTP 403 from https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.106.094102 — waiting 2.0s
+22:32:06 [WARNING] scraper: HTTP 403 from https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.106.094102 — waiting 4.0s
+22:32:10 [WARNING] scraper: HTTP 403 from https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.106.094102 — waiting 8.0s
+22:32:19 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0005109801002412 — waiting 2.0s
+22:32:21 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0005109801002412 — waiting 4.0s
+22:32:25 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0005109801002412 — waiting 8.0s
+22:32:48 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0005109801002400 — waiting 2.0s
+22:32:50 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0005109801002400 — waiting 4.0s
+22:32:54 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0005109801002400 — waiting 8.0s
+22:33:02 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/full/10.2514/1.G005840 — waiting 2.0s
+22:33:05 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/full/10.2514/1.G005840 — waiting 4.0s
+22:33:09 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/full/10.2514/1.G005840 — waiting 8.0s
+22:33:17 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2072-666X/7/10/177 — waiting 2.0s
+22:33:19 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2072-666X/7/10/177 — waiting 4.0s
+22:33:23 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2072-666X/7/10/177 — waiting 8.0s
+22:33:36 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0020740319341487 — waiting 2.0s
+22:33:38 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0020740319341487 — waiting 4.0s
+22:33:42 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0020740319341487 — waiting 8.0s
+22:33:50 [WARNING] scraper: HTTP 403 from https://www.worldscientific.com/doi/abs/10.1142/S0218127400000360 — waiting 2.0s
+22:33:52 [WARNING] scraper: HTTP 403 from https://www.worldscientific.com/doi/abs/10.1142/S0218127400000360 — waiting 4.0s
+22:33:57 [WARNING] scraper: HTTP 403 from https://www.worldscientific.com/doi/abs/10.1142/S0218127400000360 — waiting 8.0s
+22:34:10 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/cha/article/36/1/013103/3376040 — waiting 2.0s
+22:34:12 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/cha/article/36/1/013103/3376040 — waiting 4.0s
+22:34:16 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/cha/article/36/1/013103/3376040 — waiting 8.0s
+22:34:24 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/apl/article/98/15/153510/340240 — waiting 2.0s
+22:34:26 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/apl/article/98/15/153510/340240 — waiting 4.0s
+22:34:30 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/apl/article/98/15/153510/340240 — waiting 8.0s
+22:34:43 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0888327023007161 — waiting 2.0s
+22:34:45 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0888327023007161 — waiting 4.0s
+22:34:50 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0888327023007161 — waiting 8.0s
+22:34:58 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/pdf/10.2514/1.56361 — waiting 2.0s
+22:35:00 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/pdf/10.2514/1.56361 — waiting 4.0s
+22:35:04 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/pdf/10.2514/1.56361 — waiting 8.0s
+22:35:12 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/75/4/044801/1151023 — waiting 2.0s
+22:35:14 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/75/4/044801/1151023 — waiting 4.0s
+22:35:18 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/75/4/044801/1151023 — waiting 8.0s
+22:35:26 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0307904X11003155 — waiting 2.0s
+22:35:28 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0307904X11003155 — waiting 4.0s
+22:35:33 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0307904X11003155 — waiting 8.0s
+22:35:41 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0167663623001333 — waiting 2.0s
+22:35:43 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0167663623001333 — waiting 4.0s
+22:35:47 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0167663623001333 — waiting 8.0s
+22:35:55 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0376042105001235 — waiting 2.0s
+22:35:58 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0376042105001235 — waiting 4.0s
+22:36:02 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0376042105001235 — waiting 8.0s
+22:36:10 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/0005109895000968 — waiting 2.0s
+22:36:13 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/0005109895000968 — waiting 4.0s
+22:36:17 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/0005109895000968 — waiting 8.0s
+22:36:30 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/1996-1944/17/7/1499 — waiting 2.0s
+22:36:32 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/1996-1944/17/7/1499 — waiting 4.0s
+22:36:36 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/1996-1944/17/7/1499 — waiting 8.0s
+22:36:54 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S089812211300429X — waiting 2.0s
+22:36:56 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S089812211300429X — waiting 4.0s
+22:37:00 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S089812211300429X — waiting 8.0s
+22:37:08 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0020768315003820 — waiting 2.0s
+22:37:11 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0020768315003820 — waiting 4.0s
+22:37:15 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0020768315003820 — waiting 8.0s
+22:37:24 [WARNING] scraper: HTTP 404 from https://bibliotekanauki.pl/articles/64157067.pdf
+22:37:33 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/84/3/031008/422436 — waiting 2.0s
+22:37:35 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/84/3/031008/422436 — waiting 4.0s
+22:37:39 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/84/3/031008/422436 — waiting 8.0s
+22:37:47 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/10775463231196272 — waiting 2.0s
+22:37:49 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/10775463231196272 — waiting 4.0s
+22:37:53 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/10775463231196272 — waiting 8.0s
+22:38:02 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/asjc.1187 — waiting 2.0s
+22:38:04 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/asjc.1187 — waiting 4.0s
+22:38:08 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/asjc.1187 — waiting 8.0s
+22:38:21 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/abs/10.2514/1.J052758 — waiting 2.0s
+22:38:23 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/abs/10.2514/1.J052758 — waiting 4.0s
+22:38:27 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/abs/10.2514/1.J052758 — waiting 8.0s
+22:38:40 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/1077546308091217 — waiting 2.0s
+22:38:42 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/1077546308091217 — waiting 4.0s
+22:38:46 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/1077546308091217 — waiting 8.0s
+22:38:55 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0020746221000809 — waiting 2.0s
+22:38:57 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0020746221000809 — waiting 4.0s
+22:39:01 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0020746221000809 — waiting 8.0s
+22:39:19 [WARNING] scraper: HTTP 403 from https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.214103 — waiting 2.0s
+22:39:21 [WARNING] scraper: HTTP 403 from https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.214103 — waiting 4.0s
+22:39:25 [WARNING] scraper: HTTP 403 from https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.214103 — waiting 8.0s
+22:39:33 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/abs/10.2514/6.2025-2052 — waiting 2.0s
+22:39:35 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/abs/10.2514/6.2025-2052 — waiting 4.0s
+22:39:39 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/abs/10.2514/6.2025-2052 — waiting 8.0s
+22:39:47 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/pdf/10.2514/2.1404 — waiting 2.0s
+22:39:49 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/pdf/10.2514/2.1404 — waiting 4.0s
+22:39:53 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/pdf/10.2514/2.1404 — waiting 8.0s
+22:40:12 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0888327017306283 — waiting 2.0s
+22:40:14 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0888327017306283 — waiting 4.0s
+22:40:18 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0888327017306283 — waiting 8.0s
+22:40:31 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0016003200000752 — waiting 2.0s
+22:40:33 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0016003200000752 — waiting 4.0s
+22:40:37 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0016003200000752 — waiting 8.0s
+22:40:45 [INFO] scraper: [scholar] Query done — raw: 50, unique: 43
+22:40:45 [INFO] scraper: [Google Scholar] Running query: incipient actuator fault bifurcation
+22:41:20 [WARNING] scraper: HTTP 403 from https://www.worldscientific.com/doi/abs/10.1142/S0218348X21501553 — waiting 2.0s
+22:41:23 [WARNING] scraper: HTTP 403 from https://www.worldscientific.com/doi/abs/10.1142/S0218348X21501553 — waiting 4.0s
+22:41:27 [WARNING] scraper: HTTP 403 from https://www.worldscientific.com/doi/abs/10.1142/S0218348X21501553 — waiting 8.0s
+22:41:50 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2073-8994/18/8/1390 — waiting 2.0s
+22:41:52 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2073-8994/18/8/1390 — waiting 4.0s
+22:41:56 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2073-8994/18/8/1390 — waiting 8.0s
+22:42:04 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.1799 — waiting 2.0s
+22:42:06 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.1799 — waiting 4.0s
+22:42:10 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.1799 — waiting 8.0s
+22:42:23 [WARNING] scraper: HTTP 403 from https://www.tandfonline.com/doi/abs/10.1080/00207721.2022.2104952 — waiting 2.0s
+22:42:25 [WARNING] scraper: HTTP 403 from https://www.tandfonline.com/doi/abs/10.1080/00207721.2022.2104952 — waiting 4.0s
+22:42:29 [WARNING] scraper: HTTP 403 from https://www.tandfonline.com/doi/abs/10.1080/00207721.2022.2104952 — waiting 8.0s
+22:42:37 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2079-9292/10/12/1501 — waiting 2.0s
+22:42:39 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2079-9292/10/12/1501 — waiting 4.0s
+22:42:44 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2079-9292/10/12/1501 — waiting 8.0s
+22:43:14 [WARNING] scraper: HTTP 403 from https://www.academia.edu/download/79967861/89-729.pdf — waiting 2.0s
+22:43:16 [WARNING] scraper: HTTP 403 from https://www.academia.edu/download/79967861/89-729.pdf — waiting 4.0s
+22:43:20 [WARNING] scraper: HTTP 403 from https://www.academia.edu/download/79967861/89-729.pdf — waiting 8.0s
+22:43:28 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1243/09544100jaero456 — waiting 2.0s
+22:43:31 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1243/09544100jaero456 — waiting 4.0s
+22:43:35 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1243/09544100jaero456 — waiting 8.0s
+22:43:48 [WARNING] scraper: HTTP 403 from https://www.annualreviews.org/content/journals/10.1146/annurev-linguistics-031120-101336 — waiting 2.0s
+22:43:50 [WARNING] scraper: HTTP 403 from https://www.annualreviews.org/content/journals/10.1146/annurev-linguistics-031120-101336 — waiting 4.0s
+22:43:54 [WARNING] scraper: HTTP 403 from https://www.annualreviews.org/content/journals/10.1146/annurev-linguistics-031120-101336 — waiting 8.0s
+22:44:02 [WARNING] scraper: HTTP 403 from https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.013102 — waiting 2.0s
+22:44:04 [WARNING] scraper: HTTP 403 from https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.013102 — waiting 4.0s
+22:44:08 [WARNING] scraper: HTTP 403 from https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.013102 — waiting 8.0s
+22:44:16 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/James-Kirby-9/publication/272264062_Incipient_tonogenesis_in_Phnom_Penh_Khmer_Computational_studies/links/55cf0cf008aee19936fc63fc/Incipient-tonogenesis-in-Phnom-Penh-Khmer-Computational-studies.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail&_rtd=e30%3D — waiting 2.0s
+22:44:18 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/James-Kirby-9/publication/272264062_Incipient_tonogenesis_in_Phnom_Penh_Khmer_Computational_studies/links/55cf0cf008aee19936fc63fc/Incipient-tonogenesis-in-Phnom-Penh-Khmer-Computational-studies.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail&_rtd=e30%3D — waiting 4.0s
+22:44:22 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/James-Kirby-9/publication/272264062_Incipient_tonogenesis_in_Phnom_Penh_Khmer_Computational_studies/links/55cf0cf008aee19936fc63fc/Incipient-tonogenesis-in-Phnom-Penh-Khmer-Computational-studies.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail&_rtd=e30%3D — waiting 8.0s
+22:44:31 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2227-7390/11/10/2276 — waiting 2.0s
+22:44:33 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2227-7390/11/10/2276 — waiting 4.0s
+22:44:37 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2227-7390/11/10/2276 — waiting 8.0s
+22:44:45 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/abs/10.2514/1.I011136 — waiting 2.0s
+22:44:47 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/abs/10.2514/1.I011136 — waiting 4.0s
+22:44:51 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/abs/10.2514/1.I011136 — waiting 8.0s
+22:44:59 [WARNING] scraper: HTTP 403 from https://www.worldscientific.com/doi/abs/10.1142/S0218127412500319 — waiting 2.0s
+22:45:01 [WARNING] scraper: HTTP 403 from https://www.worldscientific.com/doi/abs/10.1142/S0218127412500319 — waiting 4.0s
+22:45:06 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/10775463251364313 — waiting 2.0s
+22:45:08 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/10775463251364313 — waiting 4.0s
+22:45:12 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/10775463251364313 — waiting 8.0s
+22:45:20 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/79/3/031019/456039 — waiting 2.0s
+22:45:23 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/79/3/031019/456039 — waiting 4.0s
+22:45:27 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/79/3/031019/456039 — waiting 8.0s
+22:45:35 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/pdf/10.2514/1.25847 — waiting 2.0s
+22:45:37 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/pdf/10.2514/1.25847 — waiting 4.0s
+22:45:41 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/pdf/10.2514/1.25847 — waiting 8.0s
+22:45:54 [WARNING] scraper: HTTP 403 from https://www.cell.com/heliyon/fulltext/S2405-8440(24)15932-4 — waiting 2.0s
+22:45:56 [WARNING] scraper: HTTP 403 from https://www.cell.com/heliyon/fulltext/S2405-8440(24)15932-4 — waiting 4.0s
+22:46:00 [WARNING] scraper: HTTP 403 from https://www.cell.com/heliyon/fulltext/S2405-8440(24)15932-4 — waiting 8.0s
+22:46:13 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0264127519308986 — waiting 2.0s
+22:46:15 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0264127519308986 — waiting 4.0s
+22:46:20 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0264127519308986 — waiting 8.0s
+22:46:28 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0020740304000372 — waiting 2.0s
+22:46:30 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0020740304000372 — waiting 4.0s
+22:46:34 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0020740304000372 — waiting 8.0s
+22:46:42 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/abs/10.2514/6.2013-2474 — waiting 2.0s
+22:46:44 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/abs/10.2514/6.2013-2474 — waiting 4.0s
+22:46:48 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/abs/10.2514/6.2013-2474 — waiting 8.0s
+22:47:01 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/1475921718794202 — waiting 2.0s
+22:47:03 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/1475921718794202 — waiting 4.0s
+22:47:07 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/1475921718794202 — waiting 8.0s
+22:47:16 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Rowena-Ball/publication/228812334_Control_stability_and_bifurcations_of_complex_dynamical_systems/links/0fcfd50d12e2c3ca2a000000/Control-stability-and-bifurcations-of-complex-dynamical-systems.pdf — waiting 2.0s
+22:47:18 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Rowena-Ball/publication/228812334_Control_stability_and_bifurcations_of_complex_dynamical_systems/links/0fcfd50d12e2c3ca2a000000/Control-stability-and-bifurcations-of-complex-dynamical-systems.pdf — waiting 4.0s
+22:47:22 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Rowena-Ball/publication/228812334_Control_stability_and_bifurcations_of_complex_dynamical_systems/links/0fcfd50d12e2c3ca2a000000/Control-stability-and-bifurcations-of-complex-dynamical-systems.pdf — waiting 8.0s
+22:47:50 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0098135403001613 — waiting 2.0s
+22:47:52 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0098135403001613 — waiting 4.0s
+22:47:56 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0098135403001613 — waiting 8.0s
+22:48:04 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0960077926012373 — waiting 2.0s
+22:48:06 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0960077926012373 — waiting 4.0s
+22:48:10 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0960077926012373 — waiting 8.0s
+22:48:18 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0167278902007388 — waiting 2.0s
+22:48:21 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0167278902007388 — waiting 4.0s
+22:48:25 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0167278902007388 — waiting 8.0s
+22:48:43 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/pdf/10.2514/1.35028 — waiting 2.0s
+22:48:45 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/pdf/10.2514/1.35028 — waiting 4.0s
+22:48:49 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/pdf/10.2514/1.35028 — waiting 8.0s
+22:48:57 [WARNING] scraper: HTTP 403 from https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6447062 — waiting 2.0s
+22:48:59 [WARNING] scraper: HTTP 403 from https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6447062 — waiting 4.0s
+22:49:03 [WARNING] scraper: HTTP 403 from https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6447062 — waiting 8.0s
+22:49:12 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S1365160906001079 — waiting 2.0s
+22:49:14 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S1365160906001079 — waiting 4.0s
+22:49:18 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S1365160906001079 — waiting 8.0s
+22:49:26 [INFO] scraper: [scholar] Query done — raw: 50, unique: 48
+22:49:26 [INFO] scraper: [Google Scholar] Running query: latent dynamics fault tolerant control
+22:50:16 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0098135412001937 — waiting 2.0s
+22:50:18 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0098135412001937 — waiting 4.0s
+22:50:22 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0098135412001937 — waiting 8.0s
+22:50:30 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0020025526009321 — waiting 2.0s
+22:50:32 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0020025526009321 — waiting 4.0s
+22:50:37 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0020025526009321 — waiting 8.0s
+22:51:45 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2079-9292/9/9/1513 — waiting 2.0s
+22:51:47 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2079-9292/9/9/1513 — waiting 4.0s
+22:51:51 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2079-9292/9/9/1513 — waiting 8.0s
+22:51:59 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/1424-8220/25/11/3534 — waiting 2.0s
+22:52:01 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/1424-8220/25/11/3534 — waiting 4.0s
+22:52:05 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/1424-8220/25/11/3534 — waiting 8.0s
+22:52:53 [WARNING] scraper: Request error (HTTPSConnectionPool(host='dspace.univ-tebessa.dz', port=443): Read timed out. (read timeout=20)) — retrying in 2.0s
+22:53:16 [WARNING] scraper: Request error (HTTPSConnectionPool(host='dspace.univ-tebessa.dz', port=443): Read timed out. (read timeout=20)) — retrying in 4.0s
+22:53:34 [WARNING] scraper: HTTP 500 from https://dspace.univ-tebessa.dz/items/69129e97-1305-42a3-861b-41555a26d67f
+22:53:44 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.70584 — waiting 2.0s
+22:53:46 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.70584 — waiting 4.0s
+22:53:50 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.70584 — waiting 8.0s
+22:53:58 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/cjce.70356 — waiting 2.0s
+22:54:00 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/cjce.70356 — waiting 4.0s
+22:54:04 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/cjce.70356 — waiting 8.0s
+22:54:18 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0959152409000237 — waiting 2.0s
+22:54:20 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0959152409000237 — waiting 4.0s
+22:54:24 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0959152409000237 — waiting 8.0s
+22:54:52 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0263224126024814 — waiting 2.0s
+22:54:54 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0263224126024814 — waiting 4.0s
+22:54:58 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0263224126024814 — waiting 8.0s
+22:55:06 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/00202940221115233 — waiting 2.0s
+22:55:08 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/00202940221115233 — waiting 4.0s
+22:55:12 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/00202940221115233 — waiting 8.0s
+22:55:20 [WARNING] scraper: HTTP 403 from https://www.tandfonline.com/doi/abs/10.1080/10789669.2010.10390902 — waiting 2.0s
+22:55:23 [WARNING] scraper: HTTP 403 from https://www.tandfonline.com/doi/abs/10.1080/10789669.2010.10390902 — waiting 4.0s
+22:55:27 [WARNING] scraper: HTTP 403 from https://www.tandfonline.com/doi/abs/10.1080/10789669.2010.10390902 — waiting 8.0s
+22:55:35 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/cjce.70302 — waiting 2.0s
+22:55:37 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/cjce.70302 — waiting 4.0s
+22:55:41 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/cjce.70302 — waiting 8.0s
+22:55:54 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/pdf/10.2514/6.1984-2650 — waiting 2.0s
+22:55:56 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/pdf/10.2514/6.1984-2650 — waiting 4.0s
+22:56:00 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/pdf/10.2514/6.1984-2650 — waiting 8.0s
+22:56:08 [WARNING] scraper: HTTP 403 from https://pubs.acs.org/doi/abs/10.1021/ie010030q — waiting 2.0s
+22:56:10 [WARNING] scraper: HTTP 403 from https://pubs.acs.org/doi/abs/10.1021/ie010030q — waiting 4.0s
+22:56:14 [WARNING] scraper: HTTP 403 from https://pubs.acs.org/doi/abs/10.1021/ie010030q — waiting 8.0s
+22:56:23 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2073-8994/17/11/1915 — waiting 2.0s
+22:56:25 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2073-8994/17/11/1915 — waiting 4.0s
+22:56:29 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2073-8994/17/11/1915 — waiting 8.0s
+22:56:37 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2227-7390/14/9/1409 — waiting 2.0s
+22:56:39 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2227-7390/14/9/1409 — waiting 4.0s
+22:56:43 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2227-7390/14/9/1409 — waiting 8.0s
+22:57:06 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/0959651818779849 — waiting 2.0s
+22:57:08 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/0959651818779849 — waiting 4.0s
+22:57:12 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/0959651818779849 — waiting 8.0s
+22:57:26 [INFO] scraper: [scholar] Query done — raw: 50, unique: 49
+22:57:26 [INFO] scraper: [Google Scholar] Running query: latent representation bifurcation nonlinear dynamics
+22:57:55 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/computationalnonlinear/article-abstract/20/2/021006/1210039 — waiting 2.0s
+22:57:58 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/computationalnonlinear/article-abstract/20/2/021006/1210039 — waiting 4.0s
+22:58:02 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/computationalnonlinear/article-abstract/20/2/021006/1210039 — waiting 8.0s
+22:58:10 [WARNING] scraper: HTTP 403 from https://link.aps.org/doi/10.1103/jc9p-m3rn — waiting 2.0s
+22:58:12 [WARNING] scraper: HTTP 403 from https://link.aps.org/doi/10.1103/jc9p-m3rn — waiting 4.0s
+22:58:16 [WARNING] scraper: HTTP 403 from https://link.aps.org/doi/10.1103/jc9p-m3rn — waiting 8.0s
+22:59:00 [WARNING] scraper: Request error (HTTPSConnectionPool(host='proceedings.iclr.cc', port=443): Read timed out. (read timeout=20)) — retrying in 2.0s
+22:59:03 [ERROR] scraper: [scholar] Query failed: latent representation bifurcation nonlinear dynamics — expected string or bytes-like object, got 'NoneType'
+22:59:03 [INFO] scraper: [scholar] Query done — raw: 0, unique: 0
+22:59:03 [INFO] scraper: [Google Scholar] Running query: bifurcation early warning actuator degradation
+22:59:28 [WARNING] scraper: HTTP 403 from https://www.pnas.org/doi/abs/10.1073/pnas.2608847123 — waiting 2.0s
+22:59:30 [WARNING] scraper: HTTP 403 from https://www.pnas.org/doi/abs/10.1073/pnas.2608847123 — waiting 4.0s
+22:59:34 [WARNING] scraper: HTTP 403 from https://www.pnas.org/doi/abs/10.1073/pnas.2608847123 — waiting 8.0s
+22:59:52 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1155/2021/5589429 — waiting 2.0s
+22:59:55 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1155/2021/5589429 — waiting 4.0s
+22:59:59 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1155/2021/5589429 — waiting 8.0s
+23:00:09 [WARNING] scraper: HTTP 404 from https://repository.tudelft.nl/file/File_0fbc9e6d-0c1b-45b4-97f4-5bea69beb908?preview=1
+23:00:17 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0920379614003457 — waiting 2.0s
+23:00:19 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0920379614003457 — waiting 4.0s
+23:00:23 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0920379614003457 — waiting 8.0s
+23:00:31 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0960077905009963 — waiting 2.0s
+23:00:34 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0960077905009963 — waiting 4.0s
+23:00:38 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0960077905009963 — waiting 8.0s
+23:00:46 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/full/10.2514/1.G005840 — waiting 2.0s
+23:00:48 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/full/10.2514/1.G005840 — waiting 4.0s
+23:00:52 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/full/10.2514/1.G005840 — waiting 8.0s
+23:01:00 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Jide-Adebowale/publication/400589771_TORUS_DYNAMICS_IN_NONLINEAR_SYSTEMS_MODELING_CHAOTIC_TRANSITIONS_AND_DIVERGENCE/links/6989ce6664ca8a38208ae8ad/TORUS-DYNAMICS-IN-NONLINEAR-SYSTEMS-MODELING-CHAOTIC-TRANSITIONS-AND-DIVERGENCE.pdf — waiting 2.0s
+23:01:02 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Jide-Adebowale/publication/400589771_TORUS_DYNAMICS_IN_NONLINEAR_SYSTEMS_MODELING_CHAOTIC_TRANSITIONS_AND_DIVERGENCE/links/6989ce6664ca8a38208ae8ad/TORUS-DYNAMICS-IN-NONLINEAR-SYSTEMS-MODELING-CHAOTIC-TRANSITIONS-AND-DIVERGENCE.pdf — waiting 4.0s
+23:01:06 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Jide-Adebowale/publication/400589771_TORUS_DYNAMICS_IN_NONLINEAR_SYSTEMS_MODELING_CHAOTIC_TRANSITIONS_AND_DIVERGENCE/links/6989ce6664ca8a38208ae8ad/TORUS-DYNAMICS-IN-NONLINEAR-SYSTEMS-MODELING-CHAOTIC-TRANSITIONS-AND-DIVERGENCE.pdf — waiting 8.0s
+23:01:14 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/1422-0067/27/1/122 — waiting 2.0s
+23:01:17 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/1422-0067/27/1/122 — waiting 4.0s
+23:01:21 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/1422-0067/27/1/122 — waiting 8.0s
+23:01:34 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/1996-1944/17/7/1499 — waiting 2.0s
+23:01:36 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/1996-1944/17/7/1499 — waiting 4.0s
+23:01:40 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/1996-1944/17/7/1499 — waiting 8.0s
+23:01:53 [WARNING] scraper: HTTP 403 from https://www.academia.edu/download/104103288/AIAA-2009-3709.pdf — waiting 2.0s
+23:01:58 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/pof/article/30/5/055107/910267 — waiting 2.0s
+23:02:00 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/pof/article/30/5/055107/910267 — waiting 4.0s
+23:02:04 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/pof/article/30/5/055107/910267 — waiting 8.0s
+23:02:13 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S1385894722011834 — waiting 2.0s
+23:02:15 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S1385894722011834 — waiting 4.0s
+23:02:19 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S1385894722011834 — waiting 8.0s
+23:02:27 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/pof/article/20/3/034103/864808 — waiting 2.0s
+23:02:29 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/pof/article/20/3/034103/864808 — waiting 4.0s
+23:02:33 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/pof/article/20/3/034103/864808 — waiting 8.0s
+23:02:41 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/pof/article/36/11/116122/3319492 — waiting 2.0s
+23:02:44 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/pof/article/36/11/116122/3319492 — waiting 4.0s
+23:02:48 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/pof/article/36/11/116122/3319492 — waiting 8.0s
+23:02:56 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/84/12/121011/422025 — waiting 2.0s
+23:02:58 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/84/12/121011/422025 — waiting 4.0s
+23:03:02 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/84/12/121011/422025 — waiting 8.0s
+23:03:10 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2504-3110/9/11/682 — waiting 2.0s
+23:03:12 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2504-3110/9/11/682 — waiting 4.0s
+23:03:16 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2504-3110/9/11/682 — waiting 8.0s
+23:03:24 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0048969716322513 — waiting 2.0s
+23:03:27 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0048969716322513 — waiting 4.0s
+23:03:31 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0048969716322513 — waiting 8.0s
+23:03:54 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/jap/article/131/18/184101/2836863 — waiting 2.0s
+23:03:56 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/jap/article/131/18/184101/2836863 — waiting 4.0s
+23:04:00 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/jap/article/131/18/184101/2836863 — waiting 8.0s
+23:04:08 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/1045389X08088666 — waiting 2.0s
+23:04:10 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/1045389X08088666 — waiting 4.0s
+23:04:14 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/1045389X08088666 — waiting 8.0s
+23:04:22 [WARNING] scraper: HTTP 403 from https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7468561 — waiting 2.0s
+23:04:25 [WARNING] scraper: HTTP 403 from https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7468561 — waiting 4.0s
+23:04:29 [WARNING] scraper: HTTP 403 from https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7468561 — waiting 8.0s
+23:04:37 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/adv/article/9/3/035331/1077273 — waiting 2.0s
+23:04:39 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/adv/article/9/3/035331/1077273 — waiting 4.0s
+23:04:43 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/adv/article/9/3/035331/1077273 — waiting 8.0s
+23:04:51 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/cha/article/32/6/062101/2835726 — waiting 2.0s
+23:04:53 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/cha/article/32/6/062101/2835726 — waiting 4.0s
+23:04:57 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/cha/article/32/6/062101/2835726 — waiting 8.0s
+23:05:05 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/85/3/031006/474246 — waiting 2.0s
+23:05:08 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/85/3/031006/474246 — waiting 4.0s
+23:05:12 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/85/3/031006/474246 — waiting 8.0s
+23:05:20 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/10812865221084309 — waiting 2.0s
+23:05:22 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/10812865221084309 — waiting 4.0s
+23:05:26 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/10812865221084309 — waiting 8.0s
+23:05:39 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/apl/article/95/18/183104/131776 — waiting 2.0s
+23:05:41 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/apl/article/95/18/183104/131776 — waiting 4.0s
+23:05:45 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/apl/article/95/18/183104/131776 — waiting 8.0s
+23:05:53 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/pof/article/19/6/061703/256254 — waiting 2.0s
+23:05:56 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/pof/article/19/6/061703/256254 — waiting 4.0s
+23:06:00 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/pof/article/19/6/061703/256254 — waiting 8.0s
+23:06:08 [WARNING] scraper: HTTP 403 from https://www.tandfonline.com/doi/abs/10.1080/00423114.2019.1610182 — waiting 2.0s
+23:06:10 [WARNING] scraper: HTTP 403 from https://www.tandfonline.com/doi/abs/10.1080/00423114.2019.1610182 — waiting 4.0s
+23:06:14 [WARNING] scraper: HTTP 403 from https://www.tandfonline.com/doi/abs/10.1080/00423114.2019.1610182 — waiting 8.0s
+23:06:22 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/10775463251364313 — waiting 2.0s
+23:06:24 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/10775463251364313 — waiting 4.0s
+23:06:28 [WARNING] scraper: HTTP 403 from https://journals.sagepub.com/doi/abs/10.1177/10775463251364313 — waiting 8.0s
+23:06:37 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S1385894724082354 — waiting 2.0s
+23:06:39 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S1385894724082354 — waiting 4.0s
+23:06:43 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S1385894724082354 — waiting 8.0s
+23:06:57 [WARNING] scraper: HTTP 403 from https://www.science.org/doi/abs/10.1126/sciadv.aec3342 — waiting 2.0s
+23:06:59 [WARNING] scraper: HTTP 403 from https://www.science.org/doi/abs/10.1126/sciadv.aec3342 — waiting 4.0s
+23:07:03 [WARNING] scraper: HTTP 403 from https://www.science.org/doi/abs/10.1126/sciadv.aec3342 — waiting 8.0s
+23:07:11 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/1996-1073/17/4/865 — waiting 2.0s
+23:07:13 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/1996-1073/17/4/865 — waiting 4.0s
+23:07:17 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/1996-1073/17/4/865 — waiting 8.0s
+23:07:30 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S1350630724003649 — waiting 2.0s
+23:07:33 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S1350630724003649 — waiting 4.0s
+23:07:37 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S1350630724003649 — waiting 8.0s
+23:07:45 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/cha/article/34/10/100401/3317858 — waiting 2.0s
+23:07:47 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/cha/article/34/10/100401/3317858 — waiting 4.0s
+23:07:51 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/cha/article/34/10/100401/3317858 — waiting 8.0s
+23:07:59 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0925400513011210 — waiting 2.0s
+23:08:01 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0925400513011210 — waiting 4.0s
+23:08:06 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0925400513011210 — waiting 8.0s
+23:08:14 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Marcel-Krueger-7/publication/399791532_A_Deterministic_Phase-Memory_Operator_for_Hysteresis_and_Path-Dependent_Regime_Shifts_A_Validation_Protocol_and_Application_Roadmap/links/6968ad6dc906f117f2a551db/A-Deterministic-Phase-Memory-Operator-for-Hysteresis-and-Path-Dependent-Regime-Shifts-A-Validation-Protocol-and-Application-Roadmap.pdf — waiting 2.0s
+23:08:16 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Marcel-Krueger-7/publication/399791532_A_Deterministic_Phase-Memory_Operator_for_Hysteresis_and_Path-Dependent_Regime_Shifts_A_Validation_Protocol_and_Application_Roadmap/links/6968ad6dc906f117f2a551db/A-Deterministic-Phase-Memory-Operator-for-Hysteresis-and-Path-Dependent-Regime-Shifts-A-Validation-Protocol-and-Application-Roadmap.pdf — waiting 4.0s
+23:08:20 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Marcel-Krueger-7/publication/399791532_A_Deterministic_Phase-Memory_Operator_for_Hysteresis_and_Path-Dependent_Regime_Shifts_A_Validation_Protocol_and_Application_Roadmap/links/6968ad6dc906f117f2a551db/A-Deterministic-Phase-Memory-Operator-for-Hysteresis-and-Path-Dependent-Regime-Shifts-A-Validation-Protocol-and-Application-Roadmap.pdf — waiting 8.0s
+23:08:28 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-0825/14/5/203 — waiting 2.0s
+23:08:30 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-0825/14/5/203 — waiting 4.0s
+23:08:34 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-0825/14/5/203 — waiting 8.0s
+23:08:42 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2073-4360/10/7/697 — waiting 2.0s
+23:08:44 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2073-4360/10/7/697 — waiting 4.0s
+23:08:48 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2073-4360/10/7/697 — waiting 8.0s
+23:08:56 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-3417/12/10/5127 — waiting 2.0s
+23:08:58 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-3417/12/10/5127 — waiting 4.0s
+23:09:02 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-3417/12/10/5127 — waiting 8.0s
+23:09:11 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S009457652600514X — waiting 2.0s
+23:09:13 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S009457652600514X — waiting 4.0s
+23:09:17 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S009457652600514X — waiting 8.0s
+23:09:25 [INFO] scraper: [scholar] Query done — raw: 50, unique: 45
+23:09:25 [INFO] scraper: [Google Scholar] Running query: learned latent dynamics bifurcation control
+23:09:50 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-0825/15/3/166 — waiting 2.0s
+23:09:52 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-0825/15/3/166 — waiting 4.0s
+23:09:56 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-0825/15/3/166 — waiting 8.0s
+23:10:09 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/computationalnonlinear/article-abstract/20/2/021006/1210039 — waiting 2.0s
+23:10:11 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/computationalnonlinear/article-abstract/20/2/021006/1210039 — waiting 4.0s
+23:10:16 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/computationalnonlinear/article-abstract/20/2/021006/1210039 — waiting 8.0s
+23:10:50 [ERROR] scraper: [scholar] Query failed: learned latent dynamics bifurcation control — expected string or bytes-like object, got 'NoneType'
+23:10:50 [INFO] scraper: [scholar] Query done — raw: 0, unique: 0
+23:10:50 [INFO] scraper: Downloading PDF: https://link.springer.com/content/pdf/10.1007/s11071-021-06341-2.pdf
+23:10:50 [INFO] scraper: Downloading PDF: https://asmedigitalcollection.asme.org/computationalnonlinear/article-pdf/10/2/021002/6106878/cnd_010_02_021002.pdf
+23:10:50 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/computationalnonlinear/article-pdf/10/2/021002/6106878/cnd_010_02_021002.pdf — waiting 2.0s
+23:10:52 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/computationalnonlinear/article-pdf/10/2/021002/6106878/cnd_010_02_021002.pdf — waiting 4.0s
+23:10:56 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/computationalnonlinear/article-pdf/10/2/021002/6106878/cnd_010_02_021002.pdf — waiting 8.0s
+23:11:04 [INFO] scraper: Downloading PDF: https://www.academia.edu/download/47063715/Event_generation_and_simulation_of_excep20160706-30745-91n2u6.pdf
+23:11:04 [WARNING] scraper: HTTP 403 from https://www.academia.edu/download/47063715/Event_generation_and_simulation_of_excep20160706-30745-91n2u6.pdf — waiting 2.0s
+23:11:07 [WARNING] scraper: HTTP 403 from https://www.academia.edu/download/47063715/Event_generation_and_simulation_of_excep20160706-30745-91n2u6.pdf — waiting 4.0s
+23:11:11 [WARNING] scraper: HTTP 403 from https://www.academia.edu/download/47063715/Event_generation_and_simulation_of_excep20160706-30745-91n2u6.pdf — waiting 8.0s
+23:11:19 [INFO] scraper: Downloading PDF: https://link.springer.com/content/pdf/10.1007/s11071-025-11342-6.pdf
+23:11:19 [INFO] scraper: Downloading PDF: https://www.researchgate.net/profile/Hoon-Park-4/publication/253928098_Improvement_of_actuation_displacement_of_LIPCA_implementing_bifurcation_phenomena/links/570c501308ae8883a1ffeabd/Improvement-of-actuation-displacement-of-LIPCA-implementing-bifurcation-phenomena.pdf
+23:11:19 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Hoon-Park-4/publication/253928098_Improvement_of_actuation_displacement_of_LIPCA_implementing_bifurcation_phenomena/links/570c501308ae8883a1ffeabd/Improvement-of-actuation-displacement-of-LIPCA-implementing-bifurcation-phenomena.pdf — waiting 2.0s
+23:11:21 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Hoon-Park-4/publication/253928098_Improvement_of_actuation_displacement_of_LIPCA_implementing_bifurcation_phenomena/links/570c501308ae8883a1ffeabd/Improvement-of-actuation-displacement-of-LIPCA-implementing-bifurcation-phenomena.pdf — waiting 4.0s
+23:11:25 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Hoon-Park-4/publication/253928098_Improvement_of_actuation_displacement_of_LIPCA_implementing_bifurcation_phenomena/links/570c501308ae8883a1ffeabd/Improvement-of-actuation-displacement-of-LIPCA-implementing-bifurcation-phenomena.pdf — waiting 8.0s
+23:11:33 [INFO] scraper: Downloading PDF: https://www.jstor.org/stable/pdf/55029.pdf
+23:11:34 [INFO] scraper: Downloading PDF: https://research-information.bris.ac.uk/files/264460038/JGCD_3_PURE.pdf
+23:11:34 [WARNING] scraper: HTTP 403 from https://research-information.bris.ac.uk/files/264460038/JGCD_3_PURE.pdf — waiting 2.0s
+23:11:37 [WARNING] scraper: HTTP 403 from https://research-information.bris.ac.uk/files/264460038/JGCD_3_PURE.pdf — waiting 4.0s
+23:11:41 [WARNING] scraper: HTTP 403 from https://research-information.bris.ac.uk/files/264460038/JGCD_3_PURE.pdf — waiting 8.0s
+23:11:49 [INFO] scraper: Downloading PDF: https://www.researchgate.net/profile/Shengquan-Li/publication/260665677_Composite_multi-modal_vibration_control_for_a_stiffened_plate_using_non-collocated_acceleration_sensor_and_piezoelectric_actuator/links/547cecb90cf285ad5b08883d/Composite-multi-modal-vibration-control-for-a-stiffened-plate-using-non-collocated-acceleration-sensor-and-piezoelectric-actuator.pdf
+23:11:49 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Shengquan-Li/publication/260665677_Composite_multi-modal_vibration_control_for_a_stiffened_plate_using_non-collocated_acceleration_sensor_and_piezoelectric_actuator/links/547cecb90cf285ad5b08883d/Composite-multi-modal-vibration-control-for-a-stiffened-plate-using-non-collocated-acceleration-sensor-and-piezoelectric-actuator.pdf — waiting 2.0s
+23:11:51 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Shengquan-Li/publication/260665677_Composite_multi-modal_vibration_control_for_a_stiffened_plate_using_non-collocated_acceleration_sensor_and_piezoelectric_actuator/links/547cecb90cf285ad5b08883d/Composite-multi-modal-vibration-control-for-a-stiffened-plate-using-non-collocated-acceleration-sensor-and-piezoelectric-actuator.pdf — waiting 4.0s
+23:11:55 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Shengquan-Li/publication/260665677_Composite_multi-modal_vibration_control_for_a_stiffened_plate_using_non-collocated_acceleration_sensor_and_piezoelectric_actuator/links/547cecb90cf285ad5b08883d/Composite-multi-modal-vibration-control-for-a-stiffened-plate-using-non-collocated-acceleration-sensor-and-piezoelectric-actuator.pdf — waiting 8.0s
+23:12:03 [INFO] scraper: Downloading PDF: https://link.springer.com/content/pdf/10.1007/s11071-026-12449-0.pdf
+23:12:15 [INFO] scraper: DOI enriched via Crossref: 10.1016/j.fusengdes.2014.04.068
+23:12:19 [INFO] scraper: DOI enriched via Crossref: 10.3390/ma17071499
+23:12:19 [INFO] scraper: Abstract enriched via Crossref
+23:12:30 [INFO] scraper: DOI enriched via Crossref: 10.1109/cdc.2008.4738762
+23:12:35 [INFO] scraper: DOI enriched via Crossref: 10.21203/rs.3.rs-7632329/v1
+23:12:35 [INFO] scraper: Abstract enriched via Crossref
+23:12:39 [INFO] scraper: DOI enriched via Crossref: 10.1038/s41598-026-52944-3
+23:12:43 [INFO] scraper: DOI enriched via Crossref: 10.1016/j.ymssp.2025.112799
+23:12:46 [INFO] scraper: DOI enriched via Crossref: 10.3390/sym18081390
+23:12:46 [INFO] scraper: Abstract enriched via Crossref
+23:12:53 [INFO] scraper: DOI enriched via Crossref: 10.1101/120253
+23:12:56 [INFO] scraper: DOI enriched via Crossref: 10.1109/holm.2012.6336598
+23:12:58 [INFO] scraper: DOI enriched via Crossref: 10.1016/s0263-8223(00)00097-0
+23:13:01 [INFO] scraper: DOI enriched via Crossref: 10.3390/act14050203
+23:13:01 [INFO] scraper: Abstract enriched via Crossref
+23:13:03 [INFO] scraper: DOI enriched via Crossref: 10.3390/mi17091048
+23:13:03 [INFO] scraper: Abstract enriched via Crossref
+23:13:12 [INFO] scraper: Checkpoint saved → smns_r2_scholar_checkpoint.json (50 papers)
+23:13:12 [INFO] scraper: ════════════════════════════════════════════════════════════
+23:13:12 [INFO] scraper: Site: IEEE Xplore
+23:13:12 [INFO] scraper: [IEEE Xplore] Running query: "actuator degradation" AND bifurcation
+23:13:14 [WARNING] scraper: HTTP 403 from https://ieeexploreapi.ieee.org/api/v1/search/articles — waiting 2.0s
+23:13:16 [WARNING] scraper: HTTP 403 from https://ieeexploreapi.ieee.org/api/v1/search/articles — waiting 4.0s
+23:13:21 [WARNING] scraper: HTTP 403 from https://ieeexploreapi.ieee.org/api/v1/search/articles — waiting 8.0s
+23:13:29 [INFO] scraper: [ieee] Query done — raw: 0, unique: 0
+23:13:29 [INFO] scraper: [IEEE Xplore] Running query: "actuator fault" AND bifurcation AND control
+23:13:29 [WARNING] scraper: HTTP 403 from https://ieeexploreapi.ieee.org/api/v1/search/articles — waiting 2.0s
+23:13:31 [WARNING] scraper: HTTP 403 from https://ieeexploreapi.ieee.org/api/v1/search/articles — waiting 4.0s
+23:13:36 [WARNING] scraper: HTTP 403 from https://ieeexploreapi.ieee.org/api/v1/search/articles — waiting 8.0s
+23:13:44 [INFO] scraper: [ieee] Query done — raw: 0, unique: 0
+23:13:44 [INFO] scraper: [IEEE Xplore] Running query: "fault-induced bifurcation" AND nonlinear control
+23:13:44 [WARNING] scraper: HTTP 403 from https://ieeexploreapi.ieee.org/api/v1/search/articles — waiting 2.0s
+23:13:46 [WARNING] scraper: HTTP 403 from https://ieeexploreapi.ieee.org/api/v1/search/articles — waiting 4.0s
+23:13:51 [WARNING] scraper: HTTP 403 from https://ieeexploreapi.ieee.org/api/v1/search/articles — waiting 8.0s
+23:13:59 [INFO] scraper: [ieee] Query done — raw: 0, unique: 0
+23:13:59 [INFO] scraper: [IEEE Xplore] Running query: "actuator effectiveness" AND bifurcation
+23:13:59 [WARNING] scraper: HTTP 403 from https://ieeexploreapi.ieee.org/api/v1/search/articles — waiting 2.0s
+23:14:01 [WARNING] scraper: HTTP 403 from https://ieeexploreapi.ieee.org/api/v1/search/articles — waiting 4.0s
+23:14:05 [WARNING] scraper: HTTP 403 from https://ieeexploreapi.ieee.org/api/v1/search/articles — waiting 8.0s
+23:14:13 [INFO] scraper: [ieee] Query done — raw: 0, unique: 0
+23:14:13 [INFO] scraper: [IEEE Xplore] Running query: "incipient actuator fault" AND bifurcation
+23:14:14 [WARNING] scraper: HTTP 403 from https://ieeexploreapi.ieee.org/api/v1/search/articles — waiting 2.0s
+23:14:16 [WARNING] scraper: HTTP 403 from https://ieeexploreapi.ieee.org/api/v1/search/articles — waiting 4.0s
+23:14:20 [WARNING] scraper: HTTP 403 from https://ieeexploreapi.ieee.org/api/v1/search/articles — waiting 8.0s
+23:14:28 [INFO] scraper: [ieee] Query done — raw: 0, unique: 0
+23:14:28 [INFO] scraper: [IEEE Xplore] Running query: "latent dynamics" AND actuator fault AND control
+23:14:29 [WARNING] scraper: HTTP 403 from https://ieeexploreapi.ieee.org/api/v1/search/articles — waiting 2.0s
+23:14:31 [WARNING] scraper: HTTP 403 from https://ieeexploreapi.ieee.org/api/v1/search/articles — waiting 4.0s
+23:14:35 [WARNING] scraper: HTTP 403 from https://ieeexploreapi.ieee.org/api/v1/search/articles — waiting 8.0s
+23:14:43 [INFO] scraper: [ieee] Query done — raw: 0, unique: 0
+23:14:43 [INFO] scraper: Checkpoint saved → smns_r2_ieee_checkpoint.json (0 papers)
+23:14:43 [INFO] scraper: ════════════════════════════════════════════════════════════
+23:14:43 [INFO] scraper: Site: ScienceDirect
+23:14:43 [INFO] scraper: [ScienceDirect] Running query: actuator degradation bifurcation control
+23:15:10 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.matdes.2026.117069
+23:16:26 [INFO] scraper: [sciencedirect] Query done — raw: 50, unique: 50
+23:16:26 [INFO] scraper: [ScienceDirect] Running query: fault induced bifurcation nonlinear control
+23:18:10 [INFO] scraper: [sciencedirect] Query done — raw: 50, unique: 49
+23:18:10 [INFO] scraper: [ScienceDirect] Running query: actuator effectiveness bifurcation
+23:19:10 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.cja.2026.104201
+23:19:54 [INFO] scraper: [sciencedirect] Query done — raw: 50, unique: 26
+23:19:54 [INFO] scraper: [ScienceDirect] Running query: incipient actuator fault bifurcation
+23:20:55 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/s1474-6670%2817%2936073-1
+23:21:03 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/b978-0-08-102472-0.00004-6
+23:21:13 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/b978-1-4832-3051-1.50016-1
+23:21:27 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.fueleneab.2026.06.002
+23:21:29 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.3182/20050703-6-cz-1902.00001
+23:21:35 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/s1474-6670%2817%2952125-4
+23:21:37 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/s1474-6670%2816%2930147-1
+23:21:39 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.3182/20090706-3-fr-2004.90003
+23:21:41 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.3182/20080706-5-kr-1001.90003
+23:21:41 [INFO] scraper: [sciencedirect] Query done — raw: 50, unique: 48
+23:21:41 [INFO] scraper: [ScienceDirect] Running query: latent dynamics fault tolerant control
+23:21:49 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.jprocont.2026.103855
+23:22:59 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.jnca.2026.104588
+23:23:11 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.cja.2026.104245
+23:23:26 [INFO] scraper: [sciencedirect] Query done — raw: 50, unique: 49
+23:23:26 [INFO] scraper: [ScienceDirect] Running query: latent representation bifurcation nonlinear dynamics
+23:23:51 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.nls.2026.100169
+23:23:59 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.aej.2026.04.017
+23:24:09 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.chaos.2026.119082
+23:24:27 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.nls.2025.100097
+23:24:59 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.chaos.2026.119185
+23:25:11 [INFO] scraper: [sciencedirect] Query done — raw: 50, unique: 50
+23:25:13 [INFO] scraper: Checkpoint saved → smns_r2_sciencedirect_checkpoint.json (50 papers)
+23:25:13 [INFO] scraper: ════════════════════════════════════════════════════════════
+23:25:13 [INFO] scraper: Site: Springer Nature Link
+23:25:13 [INFO] scraper: [Springer Nature Link] Running query: actuator degradation bifurcation control
+23:25:18 [INFO] scraper: [springer] Query done — raw: 50, unique: 50
+23:25:18 [INFO] scraper: [Springer Nature Link] Running query: fault induced bifurcation nonlinear control
+23:25:23 [INFO] scraper: [springer] Query done — raw: 50, unique: 45
+23:25:23 [INFO] scraper: [Springer Nature Link] Running query: actuator effectiveness bifurcation
+23:25:27 [INFO] scraper: [springer] Query done — raw: 50, unique: 32
+23:25:27 [INFO] scraper: [Springer Nature Link] Running query: incipient actuator fault bifurcation
+23:25:31 [INFO] scraper: [springer] Query done — raw: 46, unique: 42
+23:25:31 [INFO] scraper: [Springer Nature Link] Running query: latent dynamics fault tolerant control
+23:25:35 [INFO] scraper: [springer] Query done — raw: 50, unique: 48
+23:25:35 [INFO] scraper: [Springer Nature Link] Running query: latent representation bifurcation nonlinear dynamics
+23:25:57 [WARNING] scraper: Request error (HTTPSConnectionPool(host='api.springernature.com', port=443): Read timed out.) — retrying in 2.0s
+23:26:02 [INFO] scraper: [springer] Query done — raw: 50, unique: 40
+23:26:02 [INFO] scraper: Checkpoint saved → smns_r2_springer_checkpoint.json (50 papers)
+23:26:02 [INFO] scraper: ════════════════════════════════════════════════════════════
+23:26:02 [INFO] scraper: Site: ACM Digital Library
+23:26:02 [INFO] scraper: [ACM Digital Library] Running query: actuator degradation bifurcation control
+23:26:02 [WARNING] scraper: HTTP 403 from https://dl.acm.org/action/doSearch — waiting 2.0s
+23:26:04 [WARNING] scraper: HTTP 403 from https://dl.acm.org/action/doSearch — waiting 4.0s
+23:26:09 [WARNING] scraper: HTTP 403 from https://dl.acm.org/action/doSearch — waiting 8.0s
+23:26:17 [INFO] scraper: [acm] Query done — raw: 0, unique: 0
+23:26:17 [INFO] scraper: [ACM Digital Library] Running query: fault induced bifurcation nonlinear control
+23:26:17 [WARNING] scraper: HTTP 403 from https://dl.acm.org/action/doSearch — waiting 2.0s
+23:26:19 [WARNING] scraper: HTTP 403 from https://dl.acm.org/action/doSearch — waiting 4.0s
+23:26:23 [WARNING] scraper: HTTP 403 from https://dl.acm.org/action/doSearch — waiting 8.0s
+23:26:31 [INFO] scraper: [acm] Query done — raw: 0, unique: 0
+23:26:31 [INFO] scraper: [ACM Digital Library] Running query: latent dynamics fault tolerant control
+23:26:31 [WARNING] scraper: HTTP 403 from https://dl.acm.org/action/doSearch — waiting 2.0s
+23:26:33 [WARNING] scraper: HTTP 403 from https://dl.acm.org/action/doSearch — waiting 4.0s
+23:26:37 [WARNING] scraper: HTTP 403 from https://dl.acm.org/action/doSearch — waiting 8.0s
+23:26:45 [INFO] scraper: [acm] Query done — raw: 0, unique: 0
+23:26:45 [INFO] scraper: Checkpoint saved → smns_r2_acm_checkpoint.json (0 papers)
+23:26:45 [INFO] scraper: ════════════════════════════════════════════════════════════
+23:26:45 [INFO] scraper: Site: AIAA Aerospace Research Central
+23:26:45 [INFO] scraper: [AIAA Aerospace Research Central] Running query: "actuator degradation" AND bifurcation AND aircraft
+23:26:46 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 2.0s
+23:26:48 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 4.0s
+23:26:52 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 8.0s
+23:27:00 [INFO] scraper: [aiaa] Query done — raw: 0, unique: 0
+23:27:00 [INFO] scraper: [AIAA Aerospace Research Central] Running query: "actuator fault" AND bifurcation AND flight control
+23:27:00 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 2.0s
+23:27:02 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 4.0s
+23:27:06 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 8.0s
+23:27:14 [INFO] scraper: [aiaa] Query done — raw: 0, unique: 0
+23:27:14 [INFO] scraper: [AIAA Aerospace Research Central] Running query: "fault-induced bifurcation" AND aircraft
+23:27:14 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 2.0s
+23:27:16 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 4.0s
+23:27:20 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 8.0s
+23:27:28 [INFO] scraper: [aiaa] Query done — raw: 0, unique: 0
+23:27:28 [INFO] scraper: [AIAA Aerospace Research Central] Running query: "incipient actuator fault" AND bifurcation
+23:27:28 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 2.0s
+23:27:30 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 4.0s
+23:27:34 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 8.0s
+23:27:42 [INFO] scraper: [aiaa] Query done — raw: 0, unique: 0
+23:27:42 [INFO] scraper: [AIAA Aerospace Research Central] Running query: "actuator effectiveness" AND bifurcation AND flight dynamics
+23:27:42 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 2.0s
+23:27:44 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 4.0s
+23:27:48 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 8.0s
+23:27:56 [INFO] scraper: [aiaa] Query done — raw: 0, unique: 0
+23:27:56 [INFO] scraper: [AIAA Aerospace Research Central] Running query: "latent dynamics" AND actuator fault AND aircraft
+23:27:56 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 2.0s
+23:27:59 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 4.0s
+23:28:03 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 8.0s
+23:28:11 [INFO] scraper: [aiaa] Query done — raw: 0, unique: 0
+23:28:11 [INFO] scraper: Checkpoint saved → smns_r2_aiaa_checkpoint.json (0 papers)
+23:28:11 [INFO] scraper: ════════════════════════════════════════════════════════════
+23:28:11 [INFO] scraper: Site: IFAC-PapersOnLine
+23:28:11 [INFO] scraper: [IFAC-PapersOnLine] Running query: actuator degradation bifurcation control
+23:28:14 [INFO] scraper: [ifac] Query done — raw: 50, unique: 50
+23:28:14 [INFO] scraper: [IFAC-PapersOnLine] Running query: fault induced bifurcation nonlinear control
+23:28:20 [INFO] scraper: [ifac] Query done — raw: 50, unique: 49
+23:28:20 [INFO] scraper: [IFAC-PapersOnLine] Running query: actuator effectiveness bifurcation
+23:28:26 [INFO] scraper: [ifac] Query done — raw: 50, unique: 26
+23:28:26 [INFO] scraper: [IFAC-PapersOnLine] Running query: incipient actuator fault bifurcation
+23:28:32 [INFO] scraper: [ifac] Query done — raw: 50, unique: 48
+23:28:32 [INFO] scraper: [IFAC-PapersOnLine] Running query: latent dynamics fault tolerant control
+23:28:38 [INFO] scraper: [ifac] Query done — raw: 50, unique: 50
+23:28:38 [INFO] scraper: [IFAC-PapersOnLine] Running query: latent representation bifurcation nonlinear dynamics
+23:28:44 [INFO] scraper: [ifac] Query done — raw: 50, unique: 50
+23:29:48 [INFO] scraper: Checkpoint saved → smns_r2_ifac_checkpoint.json (50 papers)
+23:29:48 [INFO] scraper: ════════════════════════════════════════════════════════════
+23:29:48 [INFO] scraper: Running cross-site deduplication …
+23:29:48 [INFO] scraper: Wrote 150 papers to smns_r2.json
+23:29:48 [INFO] scraper: Wrote 1196 raw results to smns_r2_raw.json
+23:29:48 [INFO] scraper: Wrote Markdown to smns_r2.md
+
+════════════════════════════════════════════════════════════
+RETRIEVAL SUMMARY
+════════════════════════════════════════════════════════════
+
+Google Scholar
+  Query: 'actuator degradation bifurcation control'
+    raw: 50  unique: 49
+  Query: 'fault induced bifurcation nonlinear control'
+    raw: 50  unique: 50
+  Query: 'actuator effectiveness bifurcation'
+    raw: 50  unique: 43
+  Query: 'incipient actuator fault bifurcation'
+    raw: 50  unique: 48
+  Query: 'latent dynamics fault tolerant control'
+    raw: 50  unique: 49
+  Query: 'latent representation bifurcation nonlinear dynamics'
+    raw: 0  unique: 0
+  Query: 'bifurcation early warning actuator degradation'
+    raw: 50  unique: 45
+  Query: 'learned latent dynamics bifurcation control'
+    raw: 0  unique: 0
+  TOTAL raw: 300  unique: 50  with abstract: 23
+  ⚠  Query 'latent representation bifurcation nonlinear dynamics' failed: expected string or bytes-like object, got 'NoneType'
+  ⚠  Query 'learned latent dynamics bifurcation control' failed: expected string or bytes-like object, got 'NoneType'
+
+IEEE Xplore
+  Query: '"actuator degradation" AND bifurcation'
+    raw: 0  unique: 0
+  Query: '"actuator fault" AND bifurcation AND control'
+    raw: 0  unique: 0
+  Query: '"fault-induced bifurcation" AND nonlinear control'
+    raw: 0  unique: 0
+  Query: '"actuator effectiveness" AND bifurcation'
+    raw: 0  unique: 0
+  Query: '"incipient actuator fault" AND bifurcation'
+    raw: 0  unique: 0
+  Query: '"latent dynamics" AND actuator fault AND control'
+    raw: 0  unique: 0
+  TOTAL raw: 0  unique: 0  with abstract: 0
+  ⚠  IEEE API request failed
+  ⚠  IEEE API request failed
+  ⚠  IEEE API request failed
+  ⚠  IEEE API request failed
+  ⚠  IEEE API request failed
+  ⚠  IEEE API request failed
+
+ScienceDirect
+  Query: 'actuator degradation bifurcation control'
+    raw: 50  unique: 50
+  Query: 'fault induced bifurcation nonlinear control'
+    raw: 50  unique: 49
+  Query: 'actuator effectiveness bifurcation'
+    raw: 50  unique: 26
+  Query: 'incipient actuator fault bifurcation'
+    raw: 50  unique: 48
+  Query: 'latent dynamics fault tolerant control'
+    raw: 50  unique: 49
+  Query: 'latent representation bifurcation nonlinear dynamics'
+    raw: 50  unique: 50
+  TOTAL raw: 300  unique: 50  with abstract: 49
+
+Springer Nature Link
+  Query: 'actuator degradation bifurcation control'
+    raw: 50  unique: 50
+  Query: 'fault induced bifurcation nonlinear control'
+    raw: 50  unique: 45
+  Query: 'actuator effectiveness bifurcation'
+    raw: 50  unique: 32
+  Query: 'incipient actuator fault bifurcation'
+    raw: 46  unique: 42
+  Query: 'latent dynamics fault tolerant control'
+    raw: 50  unique: 48
+  Query: 'latent representation bifurcation nonlinear dynamics'
+    raw: 50  unique: 40
+  TOTAL raw: 296  unique: 50  with abstract: 50
+
+ACM Digital Library
+  Query: 'actuator degradation bifurcation control'
+    raw: 0  unique: 0
+  Query: 'fault induced bifurcation nonlinear control'
+    raw: 0  unique: 0
+  Query: 'latent dynamics fault tolerant control'
+    raw: 0  unique: 0
+  TOTAL raw: 0  unique: 0  with abstract: 0
+  ⚠  ACM search failed: actuator degradation bifurcation control
+  ⚠  ACM search failed: fault induced bifurcation nonlinear control
+  ⚠  ACM search failed: latent dynamics fault tolerant control
+
+AIAA Aerospace Research Central
+  Query: '"actuator degradation" AND bifurcation AND aircraft'
+    raw: 0  unique: 0
+  Query: '"actuator fault" AND bifurcation AND flight control'
+    raw: 0  unique: 0
+  Query: '"fault-induced bifurcation" AND aircraft'
+    raw: 0  unique: 0
+  Query: '"incipient actuator fault" AND bifurcation'
+    raw: 0  unique: 0
+  Query: '"actuator effectiveness" AND bifurcation AND flight dynamics'
+    raw: 0  unique: 0
+  Query: '"latent dynamics" AND actuator fault AND aircraft'
+    raw: 0  unique: 0
+  TOTAL raw: 0  unique: 0  with abstract: 0
+  ⚠  AIAA search failed: "actuator degradation" AND bifurcation AND aircraft
+  ⚠  AIAA search failed: "actuator fault" AND bifurcation AND flight control
+  ⚠  AIAA search failed: "fault-induced bifurcation" AND aircraft
+  ⚠  AIAA search failed: "incipient actuator fault" AND bifurcation
+  ⚠  AIAA search failed: "actuator effectiveness" AND bifurcation AND flight dynamics
+  ⚠  AIAA search failed: "latent dynamics" AND actuator fault AND aircraft
+
+IFAC-PapersOnLine
+  Query: 'actuator degradation bifurcation control'
+    raw: 50  unique: 50
+  Query: 'fault induced bifurcation nonlinear control'
+    raw: 50  unique: 49
+  Query: 'actuator effectiveness bifurcation'
+    raw: 50  unique: 26
+  Query: 'incipient actuator fault bifurcation'
+    raw: 50  unique: 48
+  Query: 'latent dynamics fault tolerant control'
+    raw: 50  unique: 50
+  Query: 'latent representation bifurcation nonlinear dynamics'
+    raw: 50  unique: 50
+  TOTAL raw: 300  unique: 50  with abstract: 0
+
+────────────────────────────────────────────────────────────
+Cross-site unique papers : 150
+Papers with abstracts    : 122
+Papers without abstracts : 28
+
+Outputs:
+  smns_r2.json
+  smns_r2.md
+  smns_r2_raw.json
+════════════════════════════════════════════════════════════

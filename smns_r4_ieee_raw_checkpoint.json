@@ -1,0 +1,3505 @@
+[
+  {
+    "title": "An Improved Probabilistic Variational Auto-Encoder with Dual Anomaly Score for UAV Flight Data Anomaly Detection",
+    "authors": [
+      "J Yang",
+      "Y Zhang",
+      "Q Miao"
+    ],
+    "year": "2026",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "The reliable operation of unmanned aerial vehicles (UAVs) as mobile Internet of Things (IoT) assets is critically dependent on robust, real-time anomaly detection within their high-dimensional flight data. Conventional methods based on reconstruction error often fail to capture the strong spatial–temporal dependencies and nonlinear dynamics inherent in time-series flight data. To address these limitations, this article proposes the nonlinear latent dynamic consistency probabilistic variational auto-encoder (NLDC-VAE), a novel framework that synergistically integrates a hybrid convolutional-recurrent encoder for spatiotemporal feature extraction with a nonlinear, GRU-based transition network that enforces latent dynamic consistency. Furthermore, a probabilistic decoder enables robust uncertainty quantification by reconstructing a full distribution with mean and variance. A dual anomaly score (DAS) mechanism is introduced, which decouples the assessment of anomalies into two distinct components: the observation anomaly score measures the negative log-likelihood (NLL) of reconstruction, and the dynamic anomaly score quantifies latent inconsistency via Kullback–Leibler (KL) divergence. The experimental results on both simulation and real-world UAV flight data demonstrate that NLDC-VAE achieves superior anomaly detection performance and robustness, confirming its effectiveness for safety-critical UAV monitoring applications.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… and the dynamic anomaly score quantifies latent inconsistency … safety, is generally bifurcated into two main paradigms: model-… for attitude and actuator fault diagnosis in hexarotor UAVs, …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11558292/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel8/6488907/6702522/11558292.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/11558292/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "latent bifurcation dynamics actuator fault",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Prediction of aircraft lost of control in flight by continuation,bifurcation, and catastrophe theory methods",
+    "authors": [
+      "M Lasek",
+      "K Sibilski"
+    ],
+    "year": null,
+    "venue": "researchgate.net",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… the mapping of Reason’s latent failure model, providing a … how environmental conditions or actuator failures or structural … , icing, faults or damage, will alter aircraft dynamics and may …",
+    "paper_url": "https://www.researchgate.net/profile/Jan-Awrejcewicz/publication/299746683_DYNAMICAL_SYSTEMS_-_Control_and_Stability/links/5704d52208ae74a08e246dc4/DYNAMICAL-SYSTEMS-Control-and-Stability.pdf#page=374",
+    "pdf_url": "https://www.researchgate.net/profile/Jan-Awrejcewicz/publication/299746683_DYNAMICAL_SYSTEMS_-_Control_and_Stability/links/5704d52208ae74a08e246dc4/DYNAMICAL-SYSTEMS-Control-and-Stability.pdf#page=374",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://www.researchgate.net/profile/Jan-Awrejcewicz/publication/299746683_DYNAMICAL_SYSTEMS_-_Control_and_Stability/links/5704d52208ae74a08e246dc4/DYNAMICAL-SYSTEMS-Control-and-Stability.pdf#page=374"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "latent bifurcation dynamics actuator fault",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Prediction of aircraft lost of control in the flight by continuation,bifurcation, and catastrophe theory methods",
+    "authors": [
+      "K Sibilski",
+      "M Kowalski"
+    ],
+    "year": "2016",
+    "venue": "yadda.icm.edu.pl",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… the mapping of Reason’s latent failure model, providing a … how environmental conditions or actuator failures or structural … eg, icing, faults or damage, will alter aircraft dynamics and may …",
+    "paper_url": "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-0cdbd61d-5ddf-484b-8c2c-7d67e4d467b0",
+    "pdf_url": "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-0cdbd61d-5ddf-484b-8c2c-7d67e4d467b0/c/sibilski_Prediction_of_Aircraft_Lost.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-0cdbd61d-5ddf-484b-8c2c-7d67e4d467b0"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "latent bifurcation dynamics actuator fault",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "The balance between compactness and forecast accuracy of data-drivenlatent-space reduced-order models in controlled wake flows",
+    "authors": [
+      "A Solera"
+    ],
+    "year": "2026",
+    "venue": "arxiv.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Abstract page for arXiv paper 2607.24569: The balance between compactness and forecast accuracy of data-driven latent-space reduced-order models in controlled wake flows",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… that predicts the latent evolution under actuation (the prediction … faster error growth as the errors accumulate in the latent -… controlinduced bifurcations , a single global latent space may …",
+    "paper_url": "https://arxiv.org/abs/2607.24569",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://arxiv.org/abs/2607.24569"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "latent bifurcation dynamics actuator fault",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Aviation accidents aetiology from catastrophe theory point of view",
+    "authors": [
+      "M Lasek",
+      "K Sibilski",
+      "J Żurek"
+    ],
+    "year": "2010",
+    "venue": "icas.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… Reason's latent failure model, we try to describe this dynamics … Bifurcation analysis is used to study aircraft control … to know how environmental conditions or actuator failures or structural …",
+    "paper_url": "https://icas.org/icas_archive/ICAS2010/PAPERS/707.PDF",
+    "pdf_url": "https://icas.org/icas_archive/ICAS2010/PAPERS/707.PDF",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://icas.org/icas_archive/ICAS2010/PAPERS/707.PDF"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "latent bifurcation dynamics actuator fault",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Predictingbifurcationof mechanical systems using reservoir computing: Case studies on legged locomotion and pneumatic softactuator",
+    "authors": [
+      "J Shen",
+      "R Al Ajroudi",
+      "N Akashi",
+      "T Jo…"
+    ],
+    "year": "2026",
+    "venue": "pubs.aip.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… dynamics of the pneumatic soft actuator shown in (c). Our results show that the ESN can reliably predict bifurcation structures in robot bodies’ mechanical dynamics … prediction error , …",
+    "paper_url": "https://pubs.aip.org/aip/cha/article/36/1/013103/3376040",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://pubs.aip.org/aip/cha/article/36/1/013103/3376040"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "latent bifurcation dynamics actuator fault",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Basics of animation",
+    "authors": [
+      "J Tkemaladze"
+    ],
+    "year": "2026",
+    "venue": "researchgate.net",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… latent structure, such as a nascent geochemical pathway or a precariously stable seismic fault zone, exists in a state of dynamical … the probe has triggered a latent bifurcation , exposing a …",
+    "paper_url": "https://www.researchgate.net/profile/Gabro-Gakely/publication/399918038_Basics_of_Animation/links/696febababecff2489ed742f/Basics-of-Animation.pdf",
+    "pdf_url": "https://www.researchgate.net/profile/Gabro-Gakely/publication/399918038_Basics_of_Animation/links/696febababecff2489ed742f/Basics-of-Animation.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://www.researchgate.net/profile/Gabro-Gakely/publication/399918038_Basics_of_Animation/links/696febababecff2489ed742f/Basics-of-Animation.pdf"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "latent bifurcation dynamics actuator fault",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Effect ofactuatorsaturation on pilot-induced oscillation: a nonlinearbifurcationanalysis",
+    "authors": [
+      "DH Nguyen",
+      "MH Lowenberg",
+      "SA Neild"
+    ],
+    "year": "2021",
+    "venue": "arc.aiaa.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… The problem stretches back to the early days of fly-by-wire technology … , bifurcation analysis and numerical continuation have proven to be a powerful tool for nonlinear flight dynamics …",
+    "paper_url": "https://arc.aiaa.org/doi/full/10.2514/1.G005840",
+    "pdf_url": "https://research-information.bris.ac.uk/files/264460038/JGCD_3_PURE.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://arc.aiaa.org/doi/full/10.2514/1.G005840"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "latent bifurcation dynamics actuator fault",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Dual nonlinear saturation control of electromagnetic suspension (EMS) system in maglev trains",
+    "authors": [
+      "HSB Abdelmonem"
+    ],
+    "year": "2025",
+    "venue": "mdpi.com",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… feedback leads to intricate bifurcation dynamics . In the time … or for preventing actuator overdrive during nonlinear dynamic … —can induce complex bifurcation patterns and chaotic motion …",
+    "paper_url": "https://www.mdpi.com/2227-7390/14/1/62",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://www.mdpi.com/2227-7390/14/1/62"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "latent bifurcation dynamics actuator fault",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Controllability of nonlinear epileptic-seizure spreadingdynamicsin large-scale subject-specific brain networks",
+    "authors": [
+      "SA Moosavi",
+      "JS Feldman",
+      "W Truccolo"
+    ],
+    "year": "2025",
+    "venue": "nature.com",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Closed-loop electrical stimulation has become an important alternative to resective surgery for control of pharmacologically-resistant focal epileptic seizures. Seizure spread across large-scale brain networks, rather than its focal onset, is what commonly leads to major disruptions in sensorimotor and cognitive processing, as well as loss-of-consciousness, one of the main impairing aspects of the disorder. Electrical stimulation, triggered by early detection of seizure onset in epileptogenic zones (EZs), has been applied to prevent spread and its subsequent effects. Here, we show how linear feedback seizure-spread controllability in subject-specific (white-matter tractography) Epileptor network models is affected by variations in brain excitability, network coupling strength, control latency and gain, and actuation targets. Feedback control can qualitatively change the nonlinear seizure dynamics, and the paths to seizure termination and spread prevention. Notably, control onset latency is a critical parameter leading to a phase transition in spread controllability. Consequently, the efficacy of EZ-only actuation is limited depending on network excitability, coupling strength, and practical latencies for detection and actuation. Additional feedback-stabilization control of theoretically-derived optimal node subsets in the network are necessary for spread prevention. Finally, we contrast our linear-feedback controllability assessment with other measures based on minimum-energy (Gramian) controllability and nonlinear pulse-perturbation approaches.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… strength, control latency and gain, and actuation targets. Feedback … Finally, we emphasize that the controllability problem … In the next subsections, we show that this SN bifurcation can …",
+    "paper_url": "https://www.nature.com/articles/s41598-025-90632-w",
+    "pdf_url": "https://www.nature.com/articles/s41598-025-90632-w.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://www.nature.com/articles/s41598-025-90632-w"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "latent bifurcation dynamics actuator fault",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "A type-3 fuzzy synchronization system subjected to hysteresis quantizer inputs and unknowndynamics: Applicable to financial and physical chaotic systems",
+    "authors": [
+      "M Tian",
+      "A Mohammadzadeh",
+      "H Taghavifar",
+      "R Sakthivel …"
+    ],
+    "year": "2025",
+    "venue": "Elsevier",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… , the bifurcations and chaos control of complex dynamics are … strategies for complex dynamical problems , paving the way … by the network such as latency , jitter, and communication noise…",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0019057825006998",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://www.sciencedirect.com/science/article/pii/S0019057825006998"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "latent bifurcation dynamics actuator fault",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "A review of integrated control technologies for four in-wheel motor drive electric vehicle chassis",
+    "authors": [
+      "X Fan",
+      "M Chen",
+      "Z Huang",
+      "X Yu"
+    ],
+    "year": "2025",
+    "venue": "Springer",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… -dimensional dynamics and three-dimensional dynamics . Then… as the control parameter for bifurcation analysis, establishes a … The faults that are more likely to occur are actuator faults , …",
+    "paper_url": "https://link.springer.com/article/10.1007/s40430-025-05411-5",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s40430-025-05411-5.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://link.springer.com/article/10.1007/s40430-025-05411-5"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "latent bifurcation dynamics actuator fault",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Learning Nonlinear Motor Control: How Integrating Machine Learning and NonlinearDynamicsReveals Structure, Adaptation, and Control in Human …",
+    "authors": [
+      "A Hakkak Moghadam Torbati",
+      "Y Shiravand",
+      "A Mazinani"
+    ],
+    "year": "2026",
+    "venue": "mdpi.com",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… the following: What latent dynamical objects can stably store … problem addressed in this study concerns the stabilization of chaotic and bifurcation -driven dynamics in passive dynamic …",
+    "paper_url": "https://www.mdpi.com/2076-0825/15/3/166",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://www.mdpi.com/2076-0825/15/3/166"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "latent bifurcation dynamics actuator fault",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "… of a dual-branch recursive-time series joint model based on a multi-scale Transformer and multi-modal fusion tofaultdiagnosis of fixed-wing UAVactuators",
+    "authors": [
+      "W Zhang",
+      "Z Liu",
+      "Z Jia",
+      "S Wang…"
+    ],
+    "year": "2025",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Fixed-wing UAV actuators are prone to compound failures under complex multimodal dynamic environments, posing challenges to fault diagnosis accuracy and robustness. To address this, a dual-branch recursive-time-series joint model based on a multiscale transformer and multimodal fusion is proposed. The model employs a gated recurrent unit (GRU) branch to capture temporal dependencies, and a convolutional branch to extract spatial features from recursive graphs derived from time-series signals. A transformer-based fusion module adaptively integrates six sensor modalities, including rudder angle, thrust, and gyroscope, enabling accurate modeling of nonlinear patterns and dynamic interactions. Data augmentation techniques, such as Gaussian noise, translation, and scaling, are introduced to improve generalization. Experimental validation on 5000 samples across one normal and ten fault modes shows that the proposed model achieves 95% <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">F</i>1-score and 98% area under curve (AUC) on a balanced dataset, and 91% <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">F</i>1 and 95% AUC on unbalanced data. Compared with a range of classical and recent deep-learning baselines, including RF (81% ), SVM (83% ), RNN (85% ), LSTM/GRU (88% ), transformer (91% ), transformer-XL (92% ), and convolutional neural network–BiLSTM (89% ), the proposed method exhibits superior classification performance, especially for rare and compound faults. Ablation studies confirm the critical role of each module. The results demonstrate the model’s strong potential for real-time, reliable fault diagnosis in UAV actuator systems, offering theoretical and engineering value for autonomous flight safety and maintenance planning.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… dynamic environments, posing challenges to fault diagnosis … of nonlinear patterns and dynamic interactions. Data … interface, ensuring minimal latency and stable operation. This …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11180823/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel8/7/7778228/11180823.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/11180823/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "latent bifurcation dynamics actuator fault",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Actuator faultisolation and reconfiguration in transport‐reaction processes",
+    "authors": [
+      "NH El‐Farra",
+      "S Ghantasala"
+    ],
+    "year": "2007",
+    "venue": "Wiley Online Library",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… configuration is to be active for control, while the rest are kept dormant . We assume that … tion of the plant dynamics from the nominal dynamics in the absence of faults , or by redesigning …",
+    "paper_url": "https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.11177",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.11177"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "latent bifurcation dynamics actuator fault",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Closed-loop turbulence control: Progress and challenges",
+    "authors": [
+      "SL Brunton",
+      "BR Noack"
+    ],
+    "year": "2015",
+    "venue": "asmedigitalcollection.asme.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… This review focuses on modeling and control methods for nonlinear dynamics … in actuation power. Note that any well-defined control problem requires a penalization of the actuation …",
+    "paper_url": "https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/67/5/050801/369906",
+    "pdf_url": "https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-pdf/67/5/050801/6074501/amr_067_05_050801.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/67/5/050801/369906"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "latent bifurcation dynamics actuator fault",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Time-dependent SOLPS-ITER simulations of the tokamak plasma boundary for model predictive control using SINDy",
+    "authors": [
+      "JD Lore",
+      "S De Pascuale",
+      "P Laiu",
+      "B Russo…"
+    ],
+    "year": "2023",
+    "venue": "iopscience.iop.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… actuators , suggests an opportunity for reducing the problem … Dynamic actuation near this value is useful for identifying … system without latency in the actuator or measurement. Fig. 10 …",
+    "paper_url": "https://iopscience.iop.org/article/10.1088/1741-4326/acbe0e/meta",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://iopscience.iop.org/article/10.1088/1741-4326/acbe0e/meta"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "latent bifurcation dynamics actuator fault",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Data-driven sparse sensor placement for reconstruction: Demonstrating the benefits of exploiting known patterns",
+    "authors": [
+      "K Manohar",
+      "BW Brunton",
+      "JN Kutz …"
+    ],
+    "year": "2018",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Optimal sensor and actuator placement is an important unsolved problem in control theory. Nearly every downstream control decision is affected by these sensor and actuator locations, but determining optimal locations amounts to an intractable brute-force search among the combinatorial possibilities. Indeed, there are (np) = n!/((n-p)!p!) possible choices of p point sensors out of an n-dimensional state x. Determining optimal sensor and actuator placement in general, even for linear feedback control, is an open challenge. Instead, sensor and actuator locations are routinely chosen according to heuristics and intuition. For moderate-sized search spaces, the sensor placement problem has well-known model-based solutions using optimal experiment design [1], [2], and information theoretic and Bayesian criteria [3]-[7]. As discussed in \"Summary,\" this article explores how to design optimal sensor locations for signal reconstruction in a framework that scales to arbitrarily large problems, leveraging modern techniques in machine learning and sparse sampling. Reducing the number of sensors through principled selection may be critically enabling when sensors are costly, and it may also enable faster state estimation for low-latency, high-bandwidth control.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… sensor and actuator placement is a grand challenge problem , … is the latency in making a control decision, with large latency … Thus, for systems with fast dynamics and complex coherent …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/8361090/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/5488303/8361089/08361090.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/8361090/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "latent bifurcation dynamics actuator fault",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Majority-rule opiniondynamicswith differentiallatency: a mechanism for self-organized collective decision-making",
+    "authors": [
+      "MA Montes de Oca",
+      "E Ferrante",
+      "A Scheidler …"
+    ],
+    "year": "2011",
+    "venue": "Springer",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… Two LEDs are placed at the bifurcations to let robot teams know when and in which direction they … with task allocation methods in order to tackle problems for which consensus is a …",
+    "paper_url": "https://link.springer.com/article/10.1007/s11721-011-0062-z",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11721-011-0062-z.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://link.springer.com/article/10.1007/s11721-011-0062-z"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "latent bifurcation dynamics actuator fault",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Planetary Ze-Formation: Co-Evolutionary Provocation ofLatentPotential",
+    "authors": [
+      "J Tkemaladze"
+    ],
+    "year": "2026",
+    "venue": "preprints.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… Probing them requires synchronized networks of actuators delivering coordinated … Success is measured not by predictive accuracy, but by the quality of the diagnostic failure our …",
+    "paper_url": "https://www.preprints.org/manuscript/202601.1491",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://www.preprints.org/manuscript/202601.1491"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "latent bifurcation dynamics actuator fault",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "The balance between compactness and forecast accuracy of data-drivenlatent-spacereduced-order models in controlled wake flows",
+    "authors": [
+      "A Solera"
+    ],
+    "year": "2026",
+    "venue": "arxiv.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Abstract page for arXiv paper 2607.24569: The balance between compactness and forecast accuracy of data-driven latent-space reduced-order models in controlled wake flows",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… that predicts the latent evolution under actuation (the prediction … amplitude decomposition , we further characterise the latent … controlinduced bifurcations , a single global latent space may …",
+    "paper_url": "https://arxiv.org/abs/2607.24569",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://arxiv.org/abs/2607.24569"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "actuator degradation latent space bifurcation",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Discovering Interpretable Dynamic Stall Models from Surface Pressure Data",
+    "authors": [
+      "EM Curran",
+      "AL Bertolin",
+      "TS Haines",
+      "S Bull"
+    ],
+    "year": "2026",
+    "venue": "arc.aiaa.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… presented that highlighted the bifurcation of the system dynamics … to the training, which maps the latent space directly to the lift … As we consider 𝛼 as the actuation input to the dynamics, a …",
+    "paper_url": "https://arc.aiaa.org/doi/abs/10.2514/6.2026-0293",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://arc.aiaa.org/doi/abs/10.2514/6.2026-0293"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "actuator degradation latent space bifurcation",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Reduced Order Modeling and Analysis of Airfoil Flutter Using Dynamics-Based Autoencoders",
+    "authors": [
+      "N Mogharabin",
+      "BI Epureanu",
+      "A Ghadami"
+    ],
+    "year": "2025",
+    "venue": "arc.aiaa.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… Figure 3 shows the bifurcation analysis conducted using the identified reduced coordinates in the latent space . Importantly, the trained decoder provides transformation from low-…",
+    "paper_url": "https://arc.aiaa.org/doi/abs/10.2514/1.J064881",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://arc.aiaa.org/doi/abs/10.2514/1.J064881"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "actuator degradation latent space bifurcation",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Sparse autoencoders as a steering basis for phase synchronization in graph-based CFD surrogates",
+    "authors": [
+      "Y Hu",
+      "R Glatt",
+      "S Liu"
+    ],
+    "year": "2026",
+    "venue": "iopscience.iop.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… post hoc by manipulating the latent space of a frozen surrogate. … a low-rank spatial mode decomposition to compress high-… that actuation can be planned directly in the reduced space . …",
+    "paper_url": "https://iopscience.iop.org/article/10.1088/2632-2153/ae9fb6/meta",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://iopscience.iop.org/article/10.1088/2632-2153/ae9fb6/meta"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "actuator degradation latent space bifurcation",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "An Improved Probabilistic Variational Auto-Encoder with Dual Anomaly Score for UAV Flight Data Anomaly Detection",
+    "authors": [
+      "J Yang",
+      "Y Zhang",
+      "Q Miao"
+    ],
+    "year": "2026",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "The reliable operation of unmanned aerial vehicles (UAVs) as mobile Internet of Things (IoT) assets is critically dependent on robust, real-time anomaly detection within their high-dimensional flight data. Conventional methods based on reconstruction error often fail to capture the strong spatial–temporal dependencies and nonlinear dynamics inherent in time-series flight data. To address these limitations, this article proposes the nonlinear latent dynamic consistency probabilistic variational auto-encoder (NLDC-VAE), a novel framework that synergistically integrates a hybrid convolutional-recurrent encoder for spatiotemporal feature extraction with a nonlinear, GRU-based transition network that enforces latent dynamic consistency. Furthermore, a probabilistic decoder enables robust uncertainty quantification by reconstructing a full distribution with mean and variance. A dual anomaly score (DAS) mechanism is introduced, which decouples the assessment of anomalies into two distinct components: the observation anomaly score measures the negative log-likelihood (NLL) of reconstruction, and the dynamic anomaly score quantifies latent inconsistency via Kullback–Leibler (KL) divergence. The experimental results on both simulation and real-world UAV flight data demonstrate that NLDC-VAE achieves superior anomaly detection performance and robustness, confirming its effectiveness for safety-critical UAV monitoring applications.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… vulnerable to progressive faults like actuator degradation . … in generative modeling and latent space learning. However, standard … tracking into a probabilistic latent space . This synergistic …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11558292/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel8/6488907/6702522/11558292.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/11558292/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "actuator degradation latent space bifurcation",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Generative AI-Enhanced Surrogate Modeling for Fast Dynamic Analysis of Smart Laminated Structures with Viscoelastic Damping",
+    "authors": [
+      "PA Banerjee",
+      "SA Peters"
+    ],
+    "year": "2026",
+    "venue": "jaair.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "The increasing complexity of modern engineered systems demands rapid, high-fidelity structural analysis, particularly for smart laminated composites that incorporate viscoelastic damping materials and distributed sensing-actuation networks. Conventional full-order dynamic simulations, though accurate, are computationally prohibitive for real-time health monitoring, iterative design, and adaptive control. This paper presents a system-level investigation into generative artificial intelligence-enhanced surrogate modeling as a transformative approach to accelerate dynamic analysis of such multi-physics structures. Moving beyond purely computational mechanics, the work examines architectural trade-offs between data-driven generative models—generative adversarial networks and variational autoencoders—and physics-informed training strategies, emphasizing the joint role of accuracy, latency, and generalization. A comprehensive discussion is provided on integrating these surrogates within larger socio-technical infrastructures, including cloud-based digital twins, edge computing platforms, and automated decision pipelines. Governance challenges are examined through the lenses of data provenance, model drift, robustness against adversarial perturbations, and the ethical imperative of equitable access to advanced structural intelligence. Additionally, the paper addresses sustainability outcomes, regulatory policy considerations, and the certification hurdles that arise when AI-generated predictions inform safety-critical decisions. By synthesizing insights from smart materials, machine learning, systems engineering, and science and technology policy, this contribution delineates a pathway toward resilient, scalable, and responsible deployment of generative surrogate models for next-generation laminated structures.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… and distributed sensing- actuation networks. Conventional full-… overfitting; a low-dimensional latent space promotes smooth … , humidity, and material degradation can be tracked through …",
+    "paper_url": "https://www.jaair.org/index.php/home/article/view/144",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://www.jaair.org/index.php/home/article/view/144"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "actuator degradation latent space bifurcation",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Data assimilation and discrepancy modeling with shallow recurrent decoders",
+    "authors": [
+      "Y Bao",
+      "JN Kutz"
+    ],
+    "year": "2025",
+    "venue": "arxiv.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Abstract page for arXiv paper 2512.01170: Data assimilation and discrepancy modeling with shallow recurrent decoders",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… , we leverage the latent space learned from a reduced … , boundary interactions, unmeasured actuation , or nonlocal … - the assimilation accuracy may degrade , which in turn complicates …",
+    "paper_url": "https://arxiv.org/abs/2512.01170",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://arxiv.org/abs/2512.01170"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "actuator degradation latent space bifurcation",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "BIFROST: Bridging Invariant Feature Representation for Observation-spaceSim2Real Transfer",
+    "authors": [
+      "Y Deng",
+      "JP Hanna"
+    ],
+    "year": "2026",
+    "venue": "arxiv.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Abstract page for arXiv paper 2607.01410: BIFROST: Bridging Invariant Feature Representation for Observation-space Sim2Real Transfer",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… carried out in a learned latent space from observation histories, … to model complex dynamics and actuator behavior. Truong et … The w/o LDP variant degrades more gracefully: the reward …",
+    "paper_url": "https://arxiv.org/abs/2607.01410",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://arxiv.org/abs/2607.01410"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "actuator degradation latent space bifurcation",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Predictingbifurcationof mechanical systems using reservoir computing: Case studies on legged locomotion and pneumatic softactuator",
+    "authors": [
+      "J Shen",
+      "R Al Ajroudi",
+      "N Akashi",
+      "T Jo…"
+    ],
+    "year": "2026",
+    "venue": "pubs.aip.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… scenario in which the physics knowledge is entirely unavailable for the soft actuator . … soft actuator shown in (c). Our results show that the ESN can reliably predict bifurcation structures in …",
+    "paper_url": "https://pubs.aip.org/aip/cha/article/36/1/013103/3376040",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://pubs.aip.org/aip/cha/article/36/1/013103/3376040"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "actuator degradation latent space bifurcation",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Data-driven model for divertor plasma detachment prediction",
+    "authors": [
+      "B Zhu",
+      "M Zhao",
+      "H Bhatia",
+      "X Xu",
+      "PT Bremer …"
+    ],
+    "year": "2022",
+    "venue": "cambridge.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "We present a fast and accurate data-driven surrogate model for divertor plasma detachment prediction leveraging the latent feature space concept in machine learning research. Our approach involves constructing and training two neural networks: an autoencoder that finds a proper latent space representation (LSR) of plasma state by compressing the multi-modal diagnostic measurements and a forward model using multi-layer perception (MLP) that projects a set of plasma control parameters to its corresponding LSR. By combining the forward model and the decoder network from autoencoder, this new data-driven surrogate model is able to predict a consistent set of diagnostic measurements based on a few plasma control parameters. In order to ensure that the crucial detachment physics is correctly captured, highly efficient 1D UEDGE model is used to generate training and validation data in this study. The benchmark between the data-driven surrogate model and UEDGE simulations shows that our surrogate model is capable of providing accurate detachment prediction (usually within a few per cent relative error margin) but with at least four orders of magnitude speed-up, indicating that performance-wise, it has the potential to facilitate integrated tokamak design and plasma control. Comparing with the widely used two-point model and/or two-point model formatting, the new data-driven model features additional detachment front prediction and can be easily extended to incorporate richer physics. This study demonstrates that the complicated divertor and scrape-off-layer plasma state has a low-dimensional representation in latent space. Understanding plasma dynamics in latent space and utilising this knowledge could open a new path for plasma control in magnetic fusion energy research.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… a latent space , termed as latent space representation (LSR). … , with a slight performance degradation at high values of the … is required in order to activate actuators in time. On the other …",
+    "paper_url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/datadriven-model-for-divertor-plasma-detachment-prediction/BC221B0DF5A8857B08AE74475C413243",
+    "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BC221B0DF5A8857B08AE74475C413243/S002237782200085Xa.pdf/data-driven-model-for-divertor-plasma-detachment-prediction.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/datadriven-model-for-divertor-plasma-detachment-prediction/BC221B0DF5A8857B08AE74475C413243"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "actuator degradation latent space bifurcation",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Data-driven transient lift attenuation for extreme vortex gust–airfoil interactions",
+    "authors": [
+      "K Fukami",
+      "H Nakao",
+      "K Taira"
+    ],
+    "year": "2024",
+    "venue": "cambridge.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Data-driven transient lift attenuation for extreme vortex gust–airfoil interactions - Volume 992",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… Hence, the objective of the present controller is to quickly attenuate the transient dynamics in the low-dimensional latent space ξ with phase locking. We obtain the actuation pattern to …",
+    "paper_url": "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/datadriven-transient-lift-attenuation-for-extreme-vortex-gustairfoil-interactions/9A03B358A25D38B99980EAFF2BC734D7",
+    "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9A03B358A25D38B99980EAFF2BC734D7/S0022112024005925a.pdf/data-driven-transient-lift-attenuation-for-extreme-vortex-gust-airfoil-interactions.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/datadriven-transient-lift-attenuation-for-extreme-vortex-gustairfoil-interactions/9A03B358A25D38B99980EAFF2BC734D7"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "actuator degradation latent space bifurcation",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Latent spacemapping: Revolutionizing predictive models for divertor plasma detachment control",
+    "authors": [
+      "B Zhu",
+      "M Zhao",
+      "XQ Xu",
+      "A Gupta",
+      "KB Kwon",
+      "X Ma …"
+    ],
+    "year": "2025",
+    "venue": "pubs.aip.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… However, seeding impurities and puffing neutral gas in the divertor region often degrade … In addition, the prolonged latency of actuators in future reactors presents further challenges in …",
+    "paper_url": "https://pubs.aip.org/aip/pop/article/32/6/062508/3350590",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://pubs.aip.org/aip/pop/article/32/6/062508/3350590"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "actuator degradation latent space bifurcation",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Data-driven modelling and predictive control of fluid flows",
+    "authors": [
+      "L Marra"
+    ],
+    "year": "2026",
+    "venue": "archivo.uc3m.es",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Fluid flows play a central role in many industrial processes, including transportation to energy production, thermal management, and chemical processing. The ability to actively manipulate these flows has long been recognised as a powerful means to optimise system performance. Examples of such applications include reducing aerodynamic drag in ground, airborne, and marine vehicles or friction in pipelines, improving efficiency in wind and hydrokinetic energy harvesting, and optimising heat transfer, combustion, and mixing processes, to name a few. A fundamental prerequisite for effective flow control is the ability to predict their evolution over time, particularly under the influence of external inputs. However, this task is challenged by the inherent complexity of fluid flows, which feature high-dimensional state spaces, strong nonlinear interactions, intrinsic time delays, and multiscale behaviour across both spatial and temporal scales. These features make the identification of accurate and computationally tractable models a central difficulty in flow-control applications. At the same time, the current data-rich era has created unprecedented opportunities. Advances in measurement technology, high-fidelity numerical simulations, and modern computing hardware have dramatically increased the availability of high-quality flow data. Parallel progress in machine learning and hardware has made it increasingly feasible to distil predictive dynamical models directly from such data. These developments have renewed interest in data-driven control and estimation strategies, particularly those requiring an explicit model of the system dynamics. Among model-based approaches, Model Predictive Control (MPC) stands out as a particularly promising technique for flow control. MPC explicitly leverages a dynamical model to predict the future evolution of the system over a finite horizon and computes the optimal control action by repeatedly solving a constrained optimisation problem. Its ability to handle multivariable systems, incorporate state and input constraints, and exploit anticipatory behaviour makes it an attractive candidate for complex flow-control tasks. Within this context, the present dissertation contributes to the development of control and data-driven model reduction for fluid flows. The first two contributions focus on flow control using MPC, while the third addresses the identification of low-dimensional coordinates suitable for estimation and control. The first contribution proposes applying MPC to the control of aerodynamic forces in wake flows. Instead of modelling the full high-dimensional flow field, the approach identifies a low-dimensional model of the global aerodynamic forces acting on the body. This compact model is derived directly from data using the Sparse Identification of Nonlinear Dynamics framework, leveraging an assumption of compactness of the underlying governing laws. A key aspect of this work is the tuning of MPC hyperparameters, such as the prediction horizon and cost-function weights, which can be challenging in multi-objective optimisation. To address this, an automatic tuning strategy based on Bayesian Optimisation is introduced, reducing user intervention while improving the controller performance. The robustness to disturbances and sensor noise is further enhanced through Local Polynomial Regression, providing more reliable state estimates for the MPC loop. The approach is evaluated on the fluidic pinball configuration, a system consisting of three cylinders arranged in an equilateral triangle and capable of independent rotation for actuation, at a Reynolds number equal to 150. The second study investigates the applicability of MPC when the objective is not force control but rather direct manipulation of the flow field. The primary challenge in such settings is the intractable computational cost associated with formulating and solving an optimisation problem in a high-dimensional physical space. To overcome this difficulty, the proposed framework performs MPC in a low-dimensional latent space obtained through Proper Orthogonal Decomposition (POD). The POD identifies spatial modes capturing dominant variance patterns in the data, allowing the dynamics to be represented through a small number of modal coefficients. The system dynamics is then directly learned in this reduced order space using the data-driven non-intrusive Operator Inference technique. Another challenge addressed in this work is obtaining accurate state estimates from limited and noisy measurements. For this purpose, the proposed method integrates an Unscented Kalman Filter to reconstruct the latent-state representation, enabling the controller to reliably perform predictions and optimisations. The full closed-loop framework is demonstrated on one- and two-dimensional versions of the Kuramoto–Sivashinsky equation, a canonical example of complex, nonlinear, spatially extended dynamics. Finally, the last contribution addresses the challenge of constructing reduced-order models that identify coordinates relevant for controlling complex fluid flows. Building on the manifold hypothesis, which states that high-dimensional flow data often lie on a low-dimensional manifold, the work applies the Isometric Mapping (ISOMAP) algorithm to uncover intrinsic coordinates of the post-transient wake dynamics of the fluidic pinball at Reynolds number equal to 30 under actuation. ISOMAP identifies a compact five-dimensional representation: two coordinates capture downstream vortex-shedding oscillations, while three describe the near-field actuation response. This representation reduces dimensionality while providing a physically meaningful decomposition of the flow dynamics. The method is further extended with a deterministic decoding strategy, using k-Nearest Neighbours and neural networks, to reconstruct flow snapshots from sparse sensors and actuation data with low error. Even though a predictive model is not directly identified, this approach sets a fundamental step towards manifold-based reduced-order models suitable for real-time control. The investigations presented in this dissertation contribute to the development of MPC for complex fluid flows and demonstrate the potential of data-driven modelling techniques to make such applications computationally feasible. The results highlight the promise of combining MPC with modern data-driven identification strategies, paving the way toward efficient and scalable control frameworks for high-dimensional, nonlinear flows.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… in a low-dimensional latent space obtained through Proper Orthogonal Decomposition (POD). The … , while three describe the near-field actuation response. This representation reduces …",
+    "paper_url": "https://e-archivo.uc3m.es/entities/publication/7a818917-31ce-47e0-b679-26ac0e20fb90",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://e-archivo.uc3m.es/entities/publication/7a818917-31ce-47e0-b679-26ac0e20fb90"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "actuator degradation latent space bifurcation",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Nonlinear effects ofactuatorrate and acceleration limits on closed-loop systems: a describing function approach",
+    "authors": [
+      "L Marino",
+      "J Sodja"
+    ],
+    "year": "2026",
+    "venue": "Springer",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… Actuator nonlinearities can significantly affect control systems, leading to performance degradation … Jump resonance is a wellknown phenomenon associated with fold bifurcations and …",
+    "paper_url": "https://link.springer.com/article/10.1007/s11071-026-12449-0",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11071-026-12449-0.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://link.springer.com/article/10.1007/s11071-026-12449-0"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "actuator degradation latent space bifurcation",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "AeroJEPA: Learning SemanticLatentRepresentations for Scalable 3D Aerodynamic Field Modeling",
+    "authors": [
+      "F Giral",
+      "A Vishwasrao",
+      "AA Ramo",
+      "M Golestanian …"
+    ],
+    "year": "2026",
+    "venue": "arxiv.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Abstract page for arXiv paper 2605.05586: AeroJEPA: Learning Semantic Latent Representations for Scalable 3D Aerodynamic Field Modeling",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… We further show that the resulting latent space supports … This degrades both accuracy and efficiency. AeroJEPA avoids … flap and slat actuation occupy orthogonal latent subspaces, while …",
+    "paper_url": "https://arxiv.org/abs/2605.05586",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://arxiv.org/abs/2605.05586"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "actuator degradation latent space bifurcation",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Qualia as control-theoretic constructs for autonomous agents: event phasespaceas an action-oriented semantic safety layer",
+    "authors": [
+      "V Suvorov"
+    ],
+    "year": "2026",
+    "venue": "frontiersin.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Autonomous systems face a fundamental complexity barrier in open-world environments: decomposing scenes into discrete entities and searching over combinatori...",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… , but on the basis of functional decomposition of the problem. If the … sensors, computation, and actuators . The event phase … dynamical-topological structure on the latent space itself. …",
+    "paper_url": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2026.1811996/full",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2026.1811996/full"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "actuator degradation latent space bifurcation",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Embodied foundation models at the edge: A survey of deployment constraints and mitigation strategies",
+    "authors": [
+      "U Grover",
+      "R Ranjan",
+      "M Mao",
+      "TT Dong …"
+    ],
+    "year": "2026",
+    "venue": "arxiv.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Abstract page for arXiv paper 2603.16952: Embodied Foundation Models at the Edge: A Survey of Deployment Constraints and Mitigation Strategies",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… In robotic systems operating at 50–100 Hz, these delays appear as actuator jitter, delayed servo response, and degraded sensor fusion [170]. Sustained DRAM traffic also raises power …",
+    "paper_url": "https://arxiv.org/abs/2603.16952",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://arxiv.org/abs/2603.16952"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "actuator degradation latent space bifurcation",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Flow control-oriented coherent mode prediction via Grassmann-kNN manifold learning",
+    "authors": [
+      "H Zhang",
+      "H Tang",
+      "BR Noack"
+    ],
+    "year": "2024",
+    "venue": "arxiv.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Abstract page for arXiv paper 2410.07683: Flow control-oriented coherent mode prediction via Grassmann-kNN manifold learning",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… actuation manifold for flow-controlled fluid flows. The snapshot flow field are twice compressed using Proper Orthogonal Decomposition … link the input space to the latent space . Second, …",
+    "paper_url": "https://arxiv.org/abs/2410.07683",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://arxiv.org/abs/2410.07683"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "actuator degradation latent space bifurcation",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Machine-learned control-oriented flow estimation for multi-actuatormulti-sensor systems exemplified for the fluidic pinball",
+    "authors": [
+      "S Li",
+      "W Li",
+      "BR Noack"
+    ],
+    "year": "2022",
+    "venue": "cambridge.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Machine-learned control-oriented flow estimation for multi-actuator multi-sensor systems exemplified for the fluidic pinball - Volume 952",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… estimation in this study, Koopman-style decomposition techniques (Chen, Tu & Rowley 2012) … control commands in B, a velocity decomposition is first performed that splits the velocity …",
+    "paper_url": "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/machinelearned-controloriented-flow-estimation-for-multiactuator-multisensor-systems-exemplified-for-the-fluidic-pinball/D182CB0CE62DC75C04252253914DEF67",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/machinelearned-controloriented-flow-estimation-for-multiactuator-multisensor-systems-exemplified-for-the-fluidic-pinball/D182CB0CE62DC75C04252253914DEF67"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "actuator degradation latent space bifurcation",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Recent Advances in MEMSActuatorsfor Microfluidic Applications: Emerging Designs, Multiphysics Modeling, and Performance Optimization",
+    "authors": [
+      "O Rahman",
+      "MM Rahman",
+      "O Akter",
+      "MN Uddin …"
+    ],
+    "year": "2026",
+    "venue": "mdpi.com",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… of the dielectric, dielectric breakdown , or the charging limits of the dielectric, as well as the stiction effect of the dielectrics or wear of contacts per repeated actuation cycle. These effects …",
+    "paper_url": "https://www.mdpi.com/2072-666X/17/3/347",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://www.mdpi.com/2072-666X/17/3/347"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "actuator degradation latent space bifurcation",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "A Quadratic Boundedness Approach to Event‐Triggered Nonfragile Model PredictiveFault‐Tolerant Controlfor IT2 T‐S FuzzySystems",
+    "authors": [
+      "M Yuan",
+      "RM Palhares",
+      "S Liu",
+      "D Zhao …"
+    ],
+    "year": "2026",
+    "venue": "Wiley Online Library",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… [1-3], where latent faults of various types can cause system outages or … of fault - tolerant stabilization for nonlinear dynamics subject to finite communication bandwidth and actuator faults …",
+    "paper_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.70584",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "fault tolerant control latent nonlinear dynamics"
+    ],
+    "source_urls": [
+      "https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.70584"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "fault tolerant control latent nonlinear dynamics",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Prescribed Performance AdaptiveFault-Tolerant ControlforNonlinearSystem with ActuatorFaultsand Dead Zones",
+    "authors": [
+      "Z Wang",
+      "S Hashimoto",
+      "N Kurita",
+      "P Nie",
+      "S Xu…"
+    ],
+    "year": "2025",
+    "venue": "mdpi.com",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… FTC schemes that can handle actuator faults in conjunction with other nonlinear dynamics . … remarkably latent capacity of FC in addressing complex nonlinearities in control systems [31]…",
+    "paper_url": "https://www.mdpi.com/2073-8994/17/11/1915",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "fault tolerant control latent nonlinear dynamics"
+    ],
+    "source_urls": [
+      "https://www.mdpi.com/2073-8994/17/11/1915"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "fault tolerant control latent nonlinear dynamics",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Activefault-tolerant controlfor electro-hydraulicsystemswith an independent metering valve against valvefaults",
+    "authors": [
+      "R Ding",
+      "M Cheng",
+      "L Jiang",
+      "G Hu"
+    ],
+    "year": "2020",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Aiming at the tough requirements for safety and maintainability in mobile hydraulic systems, in this article, an active fault-tolerant control (FTC) system is proposed against the valve faults of an independent metering valve. Not only moderate faults of activated valves, but also significant faults and unactivated valve faults are considered. Without additional hardware redundancy, analytical redundancy is derived by the coordinate control of other fault-free valves. Accordingly, an FTC system in parallel with a normal controller is designed based on the pressure feedback. It consists of a set of reconfigurable controllers and a decision mechanism. The control signals, control loops, and operating modes can all be precisely reconfigured to adaptively match unmodeled fault dynamics. A bumpless transfer controller based on a latent tracking loop is designed to smooth the switching between the normal controller and FTC. Consequently, random valve faults can be tolerated with minor degradations in motion tracking and energy-saving performance. The feasibility of the FTC system is evaluated by a 2-ton excavator.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… In this article, a bumpless transfer controller based on latent tracking is designed to avoid the … Wen, “Robust adaptive fault - tolerant PID control of MIMO nonlinear systems with unknown …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/9119805/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/41/9420632/09119805.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "fault tolerant control latent nonlinear dynamics"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/9119805/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "fault tolerant control latent nonlinear dynamics",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Adaptivefault-toleranttrackingcontrolfor affinenonlinear systemswith unknowndynamicsvia reinforcement learning",
+    "authors": [
+      "S Roshanravan",
+      "S Shamaghdari"
+    ],
+    "year": "2022",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "This paper investigates the optimal fault-tolerant tracking control (FTTC) problem for unknown affine nonlinear continuous-time systems with process and actuator faults in the framework of reinforcement learning (RL). The proposed novel active FTTC scheme is based on adaptive optimal control theory. In this way, the FTTC problem is formulated as an optimal regulation problem for the augmented system, which consists of the controlled system and the reference trajectory. To solve the Hamilton-Jacobi-Bellman (HJB) equation of the augmented system, an identifier-critic-based online RL strategy is employed with a dual neural network (NN) approximation structure. Initially, in order to remove the requirement of prior knowledge of the system dynamics, an adaptive NN identifier is designed. The forgetting factor in the proposed identifier update law is variable and a function of the filtered state estimation error and filtered state error. Choosing this variable forgetting factor increases the convergence speed and decreases the estimation error of identifier NN weights compared to the constant one while maintaining its robustness. When a fault occurs, the system continues to operate under the former FTTC until the fault is detected. Meanwhile, the optimal FTTC design in the RL framework requires the initial admissible control condition. In order to make it possible to initiate the FTTC learning process from the former FTTC, we employed a stabilizing term in the critical update rule. The Uniformly Ultimately Boundedness (UUB) of identifier and critic NN weight errors and, as a result, the convergence of the control input to the neighborhood of the optimal solution are all proved by Lyapunov theory. In the proposed method, changes in the values of faults are detected by comparing the HJB error to a predefined threshold. Finally, the simulation results are given to validate the effectiveness of the developed method. Note to Practitioners—Long-time operations and the influence of external perturbations often make the faults inevitable for many practical engineering systems which can lead to unpredictable behaviors and catastrophic impacts. In general, the faults are naturally uncertain in time, value, and pattern, that is, it is unknown when, how much, and which system components fail. Therefore, the control system must be able to tolerate an extensive set of component faults. The design of optimal model-free FTTC strategies in an adaptive manner is challenging in nonlinear systems. The proposed method is suitable for a large class of nonlinear systems with input-affine form, and guarantees the system stability in the presence of process and actuator faults.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… solve the tolerant control problem based on the optimal control theory, which motivates the current work of this paper. The reinforcement learning (RL) algorithm is a powerful tool to …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/9994664/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/8856/4358066/09994664.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "fault tolerant control latent nonlinear dynamics"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/9994664/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "fault tolerant control latent nonlinear dynamics",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Neural network-based model-free adaptivefault-tolerant controlfor discrete-timenonlinear systemswith sensorfault",
+    "authors": [
+      "Z Wang",
+      "L Liu",
+      "H Zhang"
+    ],
+    "year": "2017",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "In this paper, the main focus is to cope with the fault detection and estimation (FDE) and fault-tolerant control (FTC) issues of nonlinear single input single output model-free system (MFS), while only the input/output data are utilized. First, in accordance with the pseudo-partial-derivative approach, the original system is transformed into a compact form dynamic linearization data model, in which only one parameter is employed. Second, an estimator is developed to detect the fault. A key highlight is the design of a time varying residual threshold. Moreover, an online neural network (NN) approximator is utilized to learn the unknown fault dynamics and an FTC strategy is reconstructed based on the optimality criterion. In contrast to the previous methods, the main features of the proposed method are as follows: 1) the fault related problem is solved for MFS; 2) the number of system parameters is largely reduced; and 3) NNs are utilized to establish a novel fault estimation scheme. Finally, a numerical simulation is provided to show the effectiveness of the proposed FDE and FTC strategy.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… In this section, a reconfiguration fault - tolerant controller is presented after the sensor fault is detected (ie, k ≥ kf ). Before the reconfiguration FTC is established, a methodology for …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/7872513/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/6221021/7982810/07872513.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "fault tolerant control latent nonlinear dynamics"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/7872513/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "fault tolerant control latent nonlinear dynamics",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Adaptivefaultestimation andfault-tolerant controlfornonlinearsystem with unknownnonlinear dynamic",
+    "authors": [
+      "X Liu",
+      "J Han",
+      "H Zhang",
+      "S Sun",
+      "X Hu"
+    ],
+    "year": "2019",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "This paper investigates the problems of fault estimation and fault-tolerant control for nonlinear system. The nonlinear part of the system is assumed to be unknown. Based on the adaptive approximation technique, which can be performed by fuzzy logic systems or neural networks, an adaptive fault estimation observer is designed, and the fault and the system state can be estimated simultaneously. Based on the estimation information, the observer-based fault-tolerant controller is designed. In this paper, the parameter matrices of the adaptive law and the observer and the controller can be calculated by slowing LMIs. To verify the proposed scheme, a simulation example is provided at the end of this paper.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… lead that we cannot know all system dynamic information accurately [41], [42]. … problems of fault estimation and fault - tolerant control for a class of system with unknown nonlinear dynamic …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/8844681/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/6287639/8600701/08844681.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "fault tolerant control latent nonlinear dynamics"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/8844681/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "fault tolerant control latent nonlinear dynamics",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Controltheoretically explainable application of autoencoder methods tofaultdetection innonlinear dynamic systems",
+    "authors": [
+      "L Li",
+      "SX Ding",
+      "K Liang",
+      "Z Chen",
+      "T Xue"
+    ],
+    "year": "2022",
+    "venue": "arxiv.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Abstract page for arXiv paper 2208.01291: Control theoretically explainable application of autoencoder methods to fault detection in nonlinear dynamic systems",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… nonlinear dynamic systems and learning of the latent variable. In particular, the existence conditions for such a latent … Based on image representation and subspace of nonlinear systems …",
+    "paper_url": "https://arxiv.org/abs/2208.01291",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "fault tolerant control latent nonlinear dynamics"
+    ],
+    "source_urls": [
+      "https://arxiv.org/abs/2208.01291"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "fault tolerant control latent nonlinear dynamics",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Monitoring,faultdiagnosis,fault-tolerant controland optimization: Data driven methods",
+    "authors": [
+      "J MacGregor",
+      "A Cinar"
+    ],
+    "year": "2012",
+    "venue": "Elsevier",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… Multivariate latent variable monitoring and fault diagnosis methods are reviewed and … its use for fault - tolerant control is compared with alternative fault - tolerant control frameworks. The …",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0098135412001937",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "fault tolerant control latent nonlinear dynamics"
+    ],
+    "source_urls": [
+      "https://www.sciencedirect.com/science/article/pii/S0098135412001937"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "fault tolerant control latent nonlinear dynamics",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Adaptivefault-tolerant controlfornonlinearsystem with unknowncontroldirections based on fuzzy approximation",
+    "authors": [
+      "S Yin",
+      "H Gao",
+      "J Qiu",
+      "O Kaynak"
+    ],
+    "year": "2016",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "This paper focuses mainly on the approximation-based fuzzy adaptive fault-tolerant control problem for nonlinear systems with unmodeled dynamics and unknown control directions. With the Nussbaum gain technique and a dynamic signal introduced, the difficulties from the unknown control directions and unmodeled dynamics are successfully overcome. Then, by taking advantage of the adaptive fuzzy control method and backstepping technology, we develop a fuzzy adaptive failure compensation control strategy and guarantee the semi-global boundedness for all signals. A simulation example is carried out to demonstrate the validity of the theoretical findings.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… fault - tolerant control problem for nonlinear systems with unmodeled dynamics and unknown control … With the Nussbaum gain technique and a dynamic signal introduced, the difficulties …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/7475866/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/6221021/7982810/07475866.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "fault tolerant control latent nonlinear dynamics"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/7475866/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "fault tolerant control latent nonlinear dynamics",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Finite-time adaptivefault-tolerant controlfornonlinear systemswith multiplefaults",
+    "authors": [
+      "H Wang",
+      "W Bai",
+      "PX Liu"
+    ],
+    "year": "2019",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "This paper focuses on the problem of adaptive finite-time fault-tolerant control for a class of non-lower-triangular nonlinear systems. The faults encountered in the control system include the actuator faults and the abrupt system fault. By applying backstepping design and neural networks approximation, an adaptive finite-time fault-tolerant control scheme is developed. It is shown that the proposed controller ensures that all signals in the closed-loop system are semiglobally practically finite-time stable and the tracking error converges to a small neighborhood around the origin within finite time. The simulation is carried out to explain the validity of the developed strategy.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… the problem of adaptive fault - tolerant control is considered for a class of non-lower-triangular nonlinear systems … , a finite-time fault - tolerant tracking control technique is designed with the …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/8894752/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/6570654/8894739/08894752.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "fault tolerant control latent nonlinear dynamics"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/8894752/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "fault tolerant control latent nonlinear dynamics",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Diagnosis andFault-Tolerant ControlofNonlinear Systems",
+    "authors": [
+      "N Benayed"
+    ],
+    "year": "2026",
+    "venue": "tebessa.dz",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "The demand for reliable, autonomous operation in complex, safety-critical non-\nlinear systems such as Unmanned Aerial Vehicles (UAVs) necessitates advanced\nFault-Tolerant Control (FTC) capabilities. Conventional FTC methods struggle\nwith system non-linearity and lack the adaptive performance required for robust\noperation. Conversely, purely AI-based approaches, while highly adaptive, suffer\nfrom a lack of formal safety guarantees and increased computational complexity.\nThis dissertation bridges this critical gap by proposing and validating a novel\nHybrid Fault-Tolerant Control (HFTC) strategy that strategically integrates the\nverifiable rigor of conventional control with the optimizing power of metaheuristic\ntechniques. The core of this framework is a robust Sliding Mode Control (SMC)\narchitecture enhanced by a proposed Enhanced Triple Power Reaching Law (ET-\nPRL), which provides superior chattering attenuation and accelerated finite-time\n\nconvergence. The HFTC architecture employs a unique hybrid compensation strat-\negy that includes an Online Diagnosis component, where a conventional extended\nkalman filter (EKF-based) fault detection and identification (FDI) unit provides\nreal-time fault estimates, and an Offline Optimization component, where the par-\nticle swarm optimization (PSO) algorithm is utilized to pre-compute and store a\n\"Bank of Parameters\" for numerous actuator fault scenarios. The efficacy of this\nframework is rigorously validated through a comprehensive case study on a UAV\nquadrotor subjected to severe Loss of Effectiveness (LOE) actuator faults. MAT-\nLAB/Simulink simulations, including challenging helical and square trajectory\nmaneuvers, quantitatively demonstrate the superior performance of the HFTC-\nETPRL system, confirming its ability to maintain stability and achieve minimal\ntracking error (e.g., up to a 50% reduction in Peak Deviation compared to bench-\nmark controllers), underscoring the benefits of non-iterative, pre-optimized recon-\nfiguration. In synthesis, this research advances the state-of-the-art by validating\nan efficient and high-performance hybrid solution that addresses the fundamental\ntrade-off between robustness and adaptability.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… In response to the identified problem , the primary goal of this … hybrid fault - tolerant control framework for nonlinear systems . … ( Latency ): Diagnosis Time, also known as diagnostic latency , …",
+    "paper_url": "https://dspace.univ-tebessa.dz/items/69129e97-1305-42a3-861b-41555a26d67f",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "fault tolerant control latent nonlinear dynamics"
+    ],
+    "source_urls": [
+      "https://dspace.univ-tebessa.dz/items/69129e97-1305-42a3-861b-41555a26d67f"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "fault tolerant control latent nonlinear dynamics",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Velocity-freefault-tolerantand uncertainty attenuationcontrolfor a class ofnonlinear systems",
+    "authors": [
+      "B Xiao",
+      "S Yin"
+    ],
+    "year": "2016",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "This paper addresses a difficult problem of velocity-free uncertain attenuation control for a class of nonlinear systems with external disturbance and multiple actuator faults. With only the output measurement available for feedback, a sliding-mode observer (SMO) is proposed to reconstruct the full states. The reconstructed signal can approximate the true value to any accuracy. An adaptive version of the observer is further presented to handle a class of structured uncertainties in the system. Together with the system output feedback, the reconstructed state is used to synthesize a velocity-free controller. All states in the closed-loop system are guaranteed to be uniformly ultimately bounded (UUB). System uncertainty and external disturbances are attenuated. Actuator fault is accommodated. An example with application the approach to satellite attitude stabilization maneuver is presented to verify the effectiveness of the proposed scheme.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… development of advanced schemes to control systems that maintain desirable reliability and … the presence of faults [24]–[26]. A fault - tolerant control (FTC) or reliable control system has …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/7414486/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/41/7488296/07414486.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "fault tolerant control latent nonlinear dynamics"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/7414486/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "fault tolerant control latent nonlinear dynamics",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Kernellatentstate-space modeling fornonlinear dynamicprocess monitoring",
+    "authors": [
+      "J Yu",
+      "Y Dong",
+      "SJ Qin"
+    ],
+    "year": "2025",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Monitoring nonlinear dynamic processes is challenging due to the inherent complexity and uncertainty in industrial systems. Fault detection and fault identification are critical components of process monitoring, yet existing methods often struggle to capture predictable dynamics with compact model parameters. This could compromise the fault detection performance and further impede the fault identification accuracy. This article proposes a unified modeling framework to strategically address these challenges through nonlinearity handling, most predictable dynamics extraction, and parsimonious system parameterization. Building on this enhanced capability, the proposed model integrates fault detection and identification with mutual information, thereby improving the identification accuracy. Validations on the revamped Tennessee Eastman Process and a real-world multiphase flow facility demonstrate superior fault detection metrics and fault identification capabilities compared to alternative approaches.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… for nonlinear dynamical systems , we present a comprehensive process monitoring scheme that incorporates unified fault detection and fault identification/location procedures as follows. …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11040050/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel8/9424/4389054/11040050.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "fault tolerant control latent nonlinear dynamics"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/11040050/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "fault tolerant control latent nonlinear dynamics",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "A survey on activefault-tolerant control systems",
+    "authors": [
+      "A Abbaspour",
+      "S Mokhtari",
+      "A Sargolzaei",
+      "KK Yen"
+    ],
+    "year": "2020",
+    "venue": "mdpi.com",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… some highly nonlinear systems and converges … latent variables in following a Gaussian distribution. In [146], a kernel-ICA-based FDI was introduced for non-Gaussian nonlinear systems …",
+    "paper_url": "https://www.mdpi.com/2079-9292/9/9/1513",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "fault tolerant control latent nonlinear dynamics"
+    ],
+    "source_urls": [
+      "https://www.mdpi.com/2079-9292/9/9/1513"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "fault tolerant control latent nonlinear dynamics",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Sensorfault tolerant controlofnonlinearTakagi–Sugenosystems. Application to vehicle lateraldynamics",
+    "authors": [
+      "D Ichalal",
+      "B Marx",
+      "J Ragot",
+      "S Mammar …"
+    ],
+    "year": "2016",
+    "venue": "Wiley Online Library",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… This paper presents a new scheme for sensor fault tolerant control for nonlinear systems based on the Takagi–Sugeno modeling. First, a structured residual generator aimed at …",
+    "paper_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.3355",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "fault tolerant control latent nonlinear dynamics"
+    ],
+    "source_urls": [
+      "https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.3355"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "fault tolerant control latent nonlinear dynamics",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Faultdetection andfault-tolerant controlfornonlinear systems",
+    "authors": [
+      "L Li"
+    ],
+    "year": "2016",
+    "venue": "Springer",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… This thesis deals with observer-based fault detection (FD) and fault tolerant control (FTC) issues for nonlinear systems . The motivation of working on this topic will be explained …",
+    "paper_url": "https://link.springer.com/content/pdf/10.1007/978-3-658-13020-6.pdf",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "fault tolerant control latent nonlinear dynamics"
+    ],
+    "source_urls": [
+      "https://link.springer.com/content/pdf/10.1007/978-3-658-13020-6.pdf"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "fault tolerant control latent nonlinear dynamics",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Faultdetection fornonlinear dynamic systemswith consideration of modeling errors: A data-driven approach",
+    "authors": [
+      "H Chen",
+      "L Li",
+      "C Shang",
+      "B Huang"
+    ],
+    "year": "2022",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "This article is concerned with data-driven realization of fault detection (FD) for nonlinear dynamic systems. In order to identify and parameterize nonlinear Hammerstein models using dynamic input and output data, a stacked neural network-aided canonical variate analysis (SNNCVA) method is proposed, based on which a data-driven residual generator is formed. Then, the threshold used for FD purposes is obtained via quantiles-based learning, where both estimation errors and approximation errors are considered. Compared with the existing work, the main novelties of this study include: 1) SNNCVA provides a new parameterization strategy for nonlinear Hammerstein systems by utilizing input and output data only; 2) the associated residual generator can ensure FD performance where both the system model and its nonlinearity are unknown; and 3) with consideration of modeling-induced errors, the quantiles are invoked and used to provide a reliable FD threshold in situations where only limited samples are available. Studies on a nonlinear hot rolling mill process demonstrate the effectiveness of the proposed method.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… finds a set of dynamic latent representations that can achieve … networks-based fault tolerant control scheme with fault alarm,… include fault diagnosis and fault - tolerant control , fuzzy control …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/9756636/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/6221036/10153804/09756636.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "fault tolerant control latent nonlinear dynamics"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/9756636/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "fault tolerant control latent nonlinear dynamics",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Fault-tolerant controlfor stochastic switched IT2 fuzzy uncertain time-delayednonlinear systems",
+    "authors": [
+      "J Sun",
+      "H Zhang",
+      "Y Wang",
+      "S Sun"
+    ],
+    "year": "2020",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "This article devotes to solve the fault-tolerant control problem based on interval type-2 (IT2) Takagi–Sugeno (T–S) fuzzy stochastic switched uncertain time-delayed systems with signal quantization. Stochastic switched systems can model a dynamic structure susceptible to abrupt faults, making it more practically significant in power systems or economic systems. The core design is an observer-based fault-tolerant control scheme that can estimate incomplete measurable variables and eliminate the influence of fault dynamically well and enhancing the robust stability of the systems subject to quantization effects. A novel method in seeking the upper bound solution of time-varying delay efficiently decreases conservativeness, especially for the proposed time-delayed system. The simulated analysis is specified to verify the availability and validity of the obtained design method.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… systems in [28]. But there are few references on an observer-based fault - tolerant control for … As big data are extensively applied, congestion causes more queue latency and packet loss …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/9119152/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/6221036/9714899/09119152.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "fault tolerant control latent nonlinear dynamics"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/9119152/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "fault tolerant control latent nonlinear dynamics",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Observer basedfaultdiagnosis andfault tolerant controlofnonlinear systems",
+    "authors": [
+      "X Han"
+    ],
+    "year": "2021",
+    "venue": "theses.hal.science",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… methods for fault detection and diagnosis (FDD) and fault tolerant control (FTC) in nonlinear systems . Fundamental concepts, such as fault , failure, fault detection, and fault isolation are …",
+    "paper_url": "https://theses.hal.science/tel-03738143/",
+    "pdf_url": "https://theses.hal.science/tel-03738143/file/2021XuHAN.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "fault tolerant control latent nonlinear dynamics"
+    ],
+    "source_urls": [
+      "https://theses.hal.science/tel-03738143/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "fault tolerant control latent nonlinear dynamics",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Activefault-tolerant control systems",
+    "authors": [
+      "T Jain",
+      "JJ Yamé",
+      "D Sauter"
+    ],
+    "year": "2018",
+    "venue": "Springer",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… the fault - tolerant control (FTC) problem , ie addressing the issues when the controlled system … modeling and the control of non - linear systems [121]. However, these approaches usually …",
+    "paper_url": "https://link.springer.com/content/pdf/10.1007/978-3-319-68829-9.pdf",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "fault tolerant control latent nonlinear dynamics"
+    ],
+    "source_urls": [
+      "https://link.springer.com/content/pdf/10.1007/978-3-319-68829-9.pdf"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "fault tolerant control latent nonlinear dynamics",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "RobustFault-TolerantControlof an Aerial Manipulator System with VaryingCenterof Mass",
+    "authors": [
+      "L Zhang",
+      "L Wang",
+      "L Gong…"
+    ],
+    "year": "2026",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Most of the existing control methods for aerial manipulator systems (AMSs) are developed under the assumption that the system's center of mass (CoM) is known and fixed. In this study, a dynamic model of the AMS that accounts for the time-varying CoM is developed, and based on this model, a robust fault-tolerant control strategy is designed. First, by using the Lagrangian modeling method, the centroid theorem and the parallel-axis theorem are applied to construct a dynamic model of the system that considers the time-varying CoM. Second, a single-neuron linear active disturbance rejection controller is proposed, where the fixed parameters of the traditional linear state error feedback are replaced by online-adjustable gains, thereby enhancing the controller's adaptability to load variations and external disturbances. Furthermore, a fault-tolerant controller based on adaptive nonsingular fast integral terminal sliding-mode control is proposed, which can adaptively estimate faults and suppress steady-state errors simultaneously. Finally, MATLAB simulations validate the accuracy of the proposed modeling approach and demonstrate the effectiveness of the designed control strategy in terms of response speed, robustness, and fault-tolerant capability.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… Beyond improving control accuracy and robustness, AMS … : maintaining stable control under actuator faults . Due to … learning process and enhance the robustness of the control sys…",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11433584/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel8/7/7778228/11433584.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "learned center manifold actuator fault control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/11433584/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "learned center manifold actuator fault control",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Adaptive reinforcementlearningforfault-tolerant optimal consensuscontrolof nonlinear canonical multiagent systems withactuatorloss of effectiveness",
+    "authors": [
+      "B Zhu",
+      "L Zhang",
+      "B Niu",
+      "N Zhao"
+    ],
+    "year": "2024",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "This article addresses the adaptive optimized consensus tracking control problem of nonlinear multiagent systems (MASs) via a reinforcement learning (RL) algorithm. Specifically, the nonlinear high-order MASs are formulated in a canonical form, with considerations for both actuator effectiveness loss and time-varying bias faults. First, neural networks (NNs) are utilized to approximate unknown nonlinear dynamics, and a state identifier and a fault estimator based on NNs are established, both of which are essential for evaluating state information and bias faults, respectively. Second, to achieve a high-order canonical dynamic consensus and enhance the efficiency of the consensus control strategy, a sliding-mode mechanism is employed to regulate tracking errors. Moreover, we develop an adaptive NN-based fault-tolerant optimal control method by integrating the sliding-mode mechanism with an actor–critic structured RL algorithm. It is proved that the outputs of the MASs precisely align with the desired reference signals, while ensuring the boundedness of all closed-loop signals. Finally, the proposed control methodology's effectiveness is validated through a simulation example.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… and bias faults , re… control strategy, a sliding-mode mechanism is employed to regulate tracking errors. Moreover, we develop an adaptive NN-based fault -tolerant optimal control method …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10634586/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel8/4267003/4357939/10634586.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "learned center manifold actuator fault control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/10634586/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "learned center manifold actuator fault control",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Reinforcement-learning-based finite timefaulttolerantcontrolfor a manipulator withactuator faults",
+    "authors": [
+      "P Yang",
+      "S Zhang",
+      "X Yu",
+      "W He"
+    ],
+    "year": "2025",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "This study introduces a novel finite time fault tolerant controller integrating nonsingular terminal sliding mode (NTSM) and reinforcement learning (RL) strategies for manipulator systems with actuator faults. Leveraging an actor-critic network architecture, the RL algorithm facilitates the computation of the cost function and the approximation of unknown nonlinear dynamics. The inherent properties of NTSM mitigate the effects of parameter uncertainties, thereby enhancing system robustness. Furthermore, an adaptive law is crafted to counteract the deleterious effects of actuator faults. Through the direct Lyapunov function approach, it is demonstrated that the closed-loop system achieves semi-global practical finite-time stability. This control strategy diminishes the dependence on precise model accuracy and augments the system’s fault tolerance. The viability of the proposed algorithm is corroborated by simulation results, and its efficacy is further validated through experiments conducted on the 6-DOF Kinova Jaco 2 platform.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… ; however, this combination has rarely been applied in fault tolerant control fields. How to use these two technologies to handle actuator faults is the motivation and focus of this study. …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10976349/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel8/6221036/11006324/10976349.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "learned center manifold actuator fault control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/10976349/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "learned center manifold actuator fault control",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Fixed-Time StableFault-TolerantControlof Underactuated Hovercraft via Physics-Informed Neural Adaptation",
+    "authors": [
+      "S Ali",
+      "A Mehmood",
+      "F Iftikhar",
+      "J Alotaibi …"
+    ],
+    "year": "2026",
+    "venue": "mdpi.com",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… Under compound actuator faults , the force and torque … learning (RL) frameworks, such as DDPG and TD3, to learn … shown real promise in learning adaptive policies for nonlinear …",
+    "paper_url": "https://www.mdpi.com/2077-1312/14/16/1476",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "learned center manifold actuator fault control"
+    ],
+    "source_urls": [
+      "https://www.mdpi.com/2077-1312/14/16/1476"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "learned center manifold actuator fault control",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Activefault-tolerantcontrolintegrated with reinforcementlearningapplication to robotic manipulator",
+    "authors": [
+      "Z Yan",
+      "J Tan",
+      "B Liang",
+      "H Liu…"
+    ],
+    "year": "2022",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "In this paper, we propose an active fault-tolerant control framework for robotic manipulators subjected to joint actuator faults. The proposed active fault-tolerant control scheme includes a neural network-based fault diagnosis module and a reinforcement learning-based fault-tolerant control module. Once the actuator fault is detected and diagnosed, an additive reinforcement learning controller will produce compensation torques to guarantee the system safety and maintain the control performance. Compared to traditional methods, our strategy avoids overly relying on the exact system models, which has potential for wider applications. The scheme is evaluated on a 7-DOF Panda manipulator for tracking control tasks in the MuJoCo simulator. Simulation results demonstrate the effectiveness of the proposed framework in dealing with single and multiple actuator faults.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… active fault -tolerant control framework for robotic manipulators subjected to joint actuator faults . … , only two types of actuator faults are considered in this work: multiplicative fault and bias …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/9867641/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/9866948/9867142/09867641.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "learned center manifold actuator fault control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/9867641/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "learned center manifold actuator fault control",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Fault-tolerant aircraftcontrolbased on self-constructing fuzzy neural networks and multivariable SMC underactuator faults",
+    "authors": [
+      "X Yu",
+      "Y Fu",
+      "P Li",
+      "Y Zhang"
+    ],
+    "year": "2017",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "This paper presents a fault-tolerant aircraft control (FTAC) scheme against actuator faults. First, the upper bounds of the norms of the unknown functions are introduced, which contain actuator faults and model uncertainties. Subsequently, self-constructing fuzzy neural networks (SCFNNs) with adaptive laws are capable of obtaining the bounds. The bound estimation can reduce the computational burden with a lower amount of rules and weights, rather than the dynamic matrix approximation. Moreover, with the aid of SCFNNs, a multivariable sliding mode control (SMC) is developed to guarantee the finite-time stability of the handicapped aircraft. As compared to the existing intelligent FTAC techniques, the proposed method has twofold merits: fault accommodation can be promptly accomplished and decoupled difficulties can be overcome. Finally, simulation results from the nonlinear longitudinal Boeing 747 aircraft model illustrate the capability of the presented FTAC scheme.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… fault detection and diagnosis (FDD) and switching time of reconfigured control have a predominant impact on fault … In [21], a fuzzy model reference learning control technique is deployed …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/8106805/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/91/8424402/08106805.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "learned center manifold actuator fault control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/8106805/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "learned center manifold actuator fault control",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Safe reinforcementlearningon the constraintmanifold: Theory and applications",
+    "authors": [
+      "P Liu",
+      "H Bou"
+    ],
+    "year": "2025",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Integrating learning-based techniques, especially reinforcement learning, into robotics is promising for solving complex problems in unstructured environments. Most of the existing approaches rely on training in carefully calibrated simulators before being deployed on real robots, often without real-world fine-tuning. While effective in controlled settings, this framework falls short in applications where precise simulation is unavailable or the environment is too complex to model. Instead, on-robot learning, which learns by interacting directly with the real world, offers a promising alternative. One major problem for on-robot reinforcement learning is ensuring safety, as uncontrolled exploration can cause catastrophic damage to the robot or the environment. Indeed, safety specifications, often represented as constraints, can be complex and nonlinear, making safety challenging to guarantee in learning systems. In this article, we show how we can impose complex safety constraints on learning-based robotics systems in a principled manner, both from theoretical and practical points of view. Our approach is based on the concept of the constraint manifold, representing the set of safe robot configurations. Exploiting differential geometry techniques, i.e., the tangent space, we can construct a safe action space, allowing learning agents to sample arbitrary actions while ensuring safety. We demonstrate the method's effectiveness in a real-world robot air hockey task, showing that our method can handle high-dimensional tasks with complex constraints.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… control policy to change and improve during its deployment is essential to deal with dynamic environments, actuator … In this paper, we approach the safety problem in RL from the point of …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10989544/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel8/8860/4359257/10989544.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "learned center manifold actuator fault control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/10989544/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "learned center manifold actuator fault control",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Fixed-timecontrolfor a flexible smart structure withactuator failure: A broadlearningsystem approach",
+    "authors": [
+      "D Zhang",
+      "L Kong",
+      "W He",
+      "X Yu"
+    ],
+    "year": "2023",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "This article proposes an adaptive fault-tolerant control (AFTC) approach based on a fixed-time sliding mode for suppressing vibrations of an uncertain, stand-alone tall building-like structure (STABLS). The method incorporates adaptive improved radial basis function neural networks (RBFNNs) within the broad learning system (BLS) to estimate model uncertainty and uses an adaptive fixed-time sliding mode approach to mitigate the impact of actuator effectiveness failures. The key contribution of this article is its demonstration of theoretically and practically guaranteed fixed-time performance of the flexible structure against uncertainty and actuator effectiveness failures. Additionally, the method estimates the lower bound of actuator health when it is unknown. Simulation and experimental results confirm the efficacy of the proposed vibration suppression method.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… error of the unknown actuator failure as follows: … We can find that even if the health of the actuator failure gets … due to the strong robustness of the proposed AFTC controller . …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10125002/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/6221036/10595515/10125002.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "learned center manifold actuator fault control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/10125002/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "learned center manifold actuator fault control",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Activefault-tolerant strategy for flight vehicles: Transferlearning-basedfaultdiagnosis and fixed-timefault-tolerantcontrol",
+    "authors": [
+      "J Zhao",
+      "P Lu",
+      "C Du",
+      "F Cao"
+    ],
+    "year": "2023",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "In this article, we focus on the issue of active fault-tolerant strategy in the context of hypersonic vehicles. The proposed approach involves addressing the challenges of transfer learning-based fault diagnosis and implementing fixed-time fault-tolerant control. Based on a serial coupling of the 1-D residual convolution neural networks with attention mechanism (ResCNN-ATT) and the long short-term memory networks with attention mechanism (LSTM-ATT), a fault diagnosis deep residual convolution LSTM attention (ResCNN-LSTM-ATT) network is proposed. To deal with the insufficient data fault diagnosis problem, transfer learning technique is utilized based on the constructed ResCNN-LSTM-ATT network. Based on fault diagnosis information, a fixed-time nonsingular terminal sliding mode controller is designed to guarantee system tracking performance in the presence of actuator damage. Simulation results are performed to show the effectiveness of the proposed method based on the hypersonic vehicle model of NASA Langley Research Center.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… in the deep learning -based fault diagnosis for hypersonic vehicles. For the control task during … We investigated the diagnosis of actuator faults in the hypersonic flight reentry section by …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10321654/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/7/7778228/10321654.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "learned center manifold actuator fault control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/10321654/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "learned center manifold actuator fault control",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Multiple environment integral reinforcementlearning-basedfault-tolerantcontrolfor affine nonlinear systems",
+    "authors": [
+      "HJ Ma",
+      "LX Xu",
+      "GH Yang"
+    ],
+    "year": "2019",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "This paper studies the fault-tolerant control (FTC) problem for unknown affine nonlinear systems with actuators faults. The considered types of faults are stuck (lock-in-place), loss-in-effectiveness (LIE), and bias, under which a part of the actuators is disabled. The objective is to find the remaining (not fully LIE) actuators, and manipulate them to obtain the best achievable performance in real time. First, considering that the best achievable performance is determined by the remaining actuators, a set of basic policies is predesigned with multiple levels of performances for different groups of activated actuators. Second, an identifier is designed based on history data to find the remaining actuators and, thus, the suitable predesigned basic policy. Third, to further accommodate the partial LIEs and biases, a compensator works together with the selected basic policy, to build the predesigned performance. In addressing the FTC problem, several techniques are developed: adjustable mechanisms are novelly integrated to deal with the state-dependent nonlinearities in neural network (NN) approximation, disturbances, and mismatch errors; history data are newly applied to estimate the faulty parameters; and a compensator is specially designed to deal with LIEs and biases in different input channels. Also in theory, the convergences of algorithms and the stability of closed-loop systems are proved, by formally giving the invariant sets of the initial state and the NN weights. Unlike the existing FTC methods dealing with LIE and bias based on model information to optimize the tracking error, this result can handle stuck faults without knowing system dynamics and satisfy different levels of performances described by Hamilton-Jacobi-Bellman equations. Finally, a simulation example of quadrotor unmanned aerial vehicle is given to verify the effectiveness of the proposed FTC scheme.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… control system is essentially working under various operating conditions when actuator faults … in the area of actuator fault accommodation control , such as multiple-model designs [4]–[6]; …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/8616791/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/6221036/9380091/08616791.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "learned center manifold actuator fault control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/8616791/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "learned center manifold actuator fault control",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Explainablefaultdiagnosis using invertible neural networks—A leftmanifold-based solution",
+    "authors": [
+      "H Chen",
+      "W Sun",
+      "W Zhang",
+      "B Jiang …"
+    ],
+    "year": "2024",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "The series includes two parts, articulating the two novel avenues of research on intelligent fault diagnosis (FD) for nonlinear feedback control systems. In Part I of the series, we design a novel FD paradigm by elaborating an invertible neural network (INN) for feedback control systems. With the aid of a left manifold, the core idea behind the INN-based FD scheme is as follows: 1) formulation of residual generator used for FD as a projection of system data onto the null space that has the same dimension as system outputs; 2) in a topological space, elaboration of a homeomorphism that delivers an invertible relationship between system outputs and residual signals when the system input is given; and 3) skillful introduction of both the master and slave objective functions to achieve system/parameter identification with information loseless property. Comparing with the existing FD approaches, the three superior strengths of the proposed FD scheme deserving mentation are as follows: 1) it specializes in nonlinear feedback control systems; 2) it can effectively avoid the overfitting problem when approximating or learning nonlinear system dynamics; and 3) control theory guides the whole design, ensuring the interpretability of the learning process. Finally, two studies on nonlinear systems demonstrate the feasibility of the invertible left manifold (ILM)-based FD strategy. Part I would contribute to the future development of machine learning (ML)-based system identification and explainable FD approaches, and also benefits the right manifold-based FD designs in Part II.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… In order to have an intuitive observation of the learning ability, we present the estimation error of yd in Figs. 6 and 7 through the contour plots of PDFs. Owing to the effect caused by L1, …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10666855/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel8/5962385/6104215/10666855.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "learned center manifold actuator fault control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/10666855/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "learned center manifold actuator fault control",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Transformer-Driven Multi-Center ManifoldModeling Deep SVDD for Anomaly Detection in IIoT Networks",
+    "authors": [
+      "W Zhong",
+      "D Li",
+      "Y Zou",
+      "T Guan…"
+    ],
+    "year": "2026",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Anomaly detection in industrial Internet of Things (IIoT) systems is crucial for ensuring operational safety and product quality. However, challenges, such as heterogeneous sensor data, dynamic network structures, and complex spatiotemporal dependencies, hinder existing methods. To address these issues, we propose a novel Transformer-based anomaly detection framework designed for dynamic IIoT networks. Our framework integrates self-supervised graph contrastive learning with multicenter support vector data description (SVDD) for the first time. Specifically, we construct temporal graph snapshots from normal time windows. Graph attention networks (GATs) are used to extract structural features, while a lightweight Transformer with temporal window attention captures long-range dependencies among sensor sequences, producing robust spatiotemporal node representations. To improve the model’s generalization without requiring labeled anomalies, a self-supervised contrastive loss is introduced. The resulting node embeddings are clustered via k-Medoids, and an SVDD submodel is trained per cluster to define multiple hyperspheres representing normal behavior. During inference, the proximity of test representations to these hyperspheres enables accurate and interpretable anomaly detection. Extensive experiments on real-world IIoT datasets, including secure water treatment (SWaT) and water distribution (WADI), show our method outperforms state-of-the-art baselines in AUC and <inline-formula xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"> <tex-math notation=\"LaTeX\">$F1$ </tex-math></inline-formula>-score, demonstrating its effectiveness and practical value for IIoT security applications.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… graph contrastive learning with multi center Support Vector Data … the SVDD paradigm remains an open problem . 3) Multimodality and … to their real-world recording of sensor and actuator …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11417852/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel8/6488907/6702522/11417852.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "learned center manifold actuator fault control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/11417852/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "learned center manifold actuator fault control",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Acenter manifoldtheory-based approach to the stability analysis of state feedback Takagi-Sugeno-Kang fuzzycontrolsystems",
+    "authors": [
+      "RE Precup"
+    ],
+    "year": "2020",
+    "venue": "academia.edu",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… to input delay and actuator faults , IET Control Theory & Applications, 14(1), pp. 134-144. 9. … , On the stable design of stable fuzzy control systems with iterative learning control , Proc. 9th …",
+    "paper_url": "https://www.academia.edu/download/84301583/3647.pdf",
+    "pdf_url": "https://www.academia.edu/download/84301583/3647.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "learned center manifold actuator fault control"
+    ],
+    "source_urls": [
+      "https://www.academia.edu/download/84301583/3647.pdf"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "learned center manifold actuator fault control",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "The swing upcontrol problemfor the acrobot",
+    "authors": [
+      "MW Spong"
+    ],
+    "year": "1995",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Underactuated mechanical systems are those possessing fewer actuators than degrees of freedom. Examples of such systems abound, including flexible joint and flexible link robots, space robots, mobile robots, and robot models that include actuator dynamics and rigid body dynamics together. Complex internal dynamics, nonholonomic behavior, and lack of feedback linearizability are often exhibited by such systems, making the class a rich one from a control standpoint. In this article the author studies a particular underactuated system known as the Acrobot: a two-degree-of-freedom planar robot with a single actuator. The author considers the so-called swing up control problem using the method of partial feedback linearization. The author gives conditions under which the response of either degree of freedom may be globally decoupled from the response of the other and linearized. This result can be used as a starting point to design swing up control algorithms. Analysis of the resulting zero dynamics as well as analysis of the energy of the system provides an understanding of the swing up algorithms. Simulation results are presented showing the swing up motion resulting from partial feedback linearization designs.<<ETX xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">&gt;</ETX>",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… robot with a single actuator . We consider the so-called swing up … The proof of this fact relies on the Center Manifold Theorem [… learning methods to this problem . Another interesting …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/341864/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel1/37/7997/00341864.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "learned center manifold actuator fault control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/341864/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "learned center manifold actuator fault control",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Faultdetection & diagnosis for small UAVs via machinelearning",
+    "authors": [
+      "E Baskaya",
+      "M Bronz",
+      "D Delahaye"
+    ],
+    "year": "2017",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "The new era of small UAVs necessitates intelligent approaches towards the issue of fault diagnosis to ensure a safe flight. A recent attempt to accommodate quite a number of UAVs in the airspace requires to assure a safety level. The hardware limitations for these small vehicles point the utilization of analytical redundancy rather than the usual practice of hardware redundancy in the conventional flights. In the course of this study, fault detection and diagnosis for aircraft is reviewed. An approach of implementing machine learning practices to diagnose faults on a small fixed-wing is selected. The selection criteria behind is that, data-driven fault diagnosis enables avoiding the burden of accurate modeling needed in model-based fault diagnosis. In this study, first, a model of an aircraft is simulated. This model is not used for the design of Fault Detection and Diagnosis (FDD) algorithms, but instead utilized to generate data and test the designed algorithms. The measurements are simulated using the statistics of the hardware in the house. Simulated data is opted instead of flight data to isolate the probable effects of the controller on the diagnosis, which will complicate this preliminary study on FDD for drones. A supervised classification method, SVM (Support Vector Machines) is used to classify the faulty and nominal flight conditions. The features selected are the gyro and accelerometer measurements. The fault considered is loss of effectiveness in the control surfaces of the drone. Principle component analysis is used to investigate the data by reducing the feature space dimension. The training is held offline due to the need of labeled data. The results show that for simulated measurements, SVM gives very accurate results on the classification of loss of effectiveness fault on the control surfaces.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… in a novel way with an application to detect aileron actuator fault (8). (9) utilize … fault detection to guarantee staying in sliding manifold in the presence of unknown disturbances and faults …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/8102037/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/8093739/8101896/08102037.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "learned center manifold actuator fault control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/8102037/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "learned center manifold actuator fault control",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Controlof nonhyperbolic dynamical systems throughcenter manifold control",
+    "authors": [
+      "FE Udwadia"
+    ],
+    "year": "2022",
+    "venue": "Springer",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… The aim is to bring about asymptotically stable behavior of the controlled system in the … A new way to control such systems is proposed here through control of their local center manifolds …",
+    "paper_url": "https://link.springer.com/chapter/10.1007/978-3-030-82719-9_3",
+    "pdf_url": "https://ruk.usc.edu:80/bio/udwadia/papers/Control%20of%20Nonhyperbolic%20Dynamical%20Systems%20through%20Center%20Manifold%20Control,%20Book%20Chapter.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "learned center manifold actuator fault control"
+    ],
+    "source_urls": [
+      "https://link.springer.com/chapter/10.1007/978-3-030-82719-9_3"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "learned center manifold actuator fault control",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Faultdetection in industrial wastewater treatment processes usingmanifold learningand support vector data description",
+    "authors": [
+      "T Chang",
+      "T Liu",
+      "X Ma",
+      "Q Wu",
+      "X Wang…"
+    ],
+    "year": "2024",
+    "venue": "ACS Publications",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… -time monitoring for prompt fault detection, adjustments, and … a novel fault detection approach employing uniform manifold … actuator output failure ; (5) the dissolved oxygen controller …",
+    "paper_url": "https://pubs.acs.org/doi/abs/10.1021/acs.iecr.4c00424",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "learned center manifold actuator fault control"
+    ],
+    "source_urls": [
+      "https://pubs.acs.org/doi/abs/10.1021/acs.iecr.4c00424"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "learned center manifold actuator fault control",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Learning-based position and stiffness feedforwardcontrolof antagonistic soft pneumaticactuatorsusing gaussian processes",
+    "authors": [
+      "TL Habich",
+      "S Kleinjohann…"
+    ],
+    "year": "2023",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Variable stiffness actuator (VSA) designs are manifold. Conventional model-based control of these nonlinear systems is associated with high effort and design-dependent assumptions. In contrast, machine learning offers a promising alternative as models are trained on real measured data and nonlinearities are inherently taken into account. Our work presents a universal, learning-based approach for position and stiffness control of soft actuators. After introducing a soft pneumatic VSA, the model is learned with input-output data. For this purpose, a test bench was set up which enables automated measurement of the variable joint stiffness. During control, Gaussian processes are used to predict pressures for achieving desired position and stiffness. The feedforward error is on average 11.5% of the total pressure range and is compensated by feedback control. Experiments with the soft actuator show that the learning-based approach allows continuous adjustment of position and stiffness without model knowledge.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… a universal, learning -based approach for position and stiffness control of soft actuators . After … Using Gaussian processes, a model of the actuator is trained which has an error of 11.5% of …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10122057/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/10121903/10121916/10122057.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "learned center manifold actuator fault control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/10122057/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "learned center manifold actuator fault control",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Applyingcentral manifoldtheory in the definition of active gas foil bearing configurations for high-speed stability of rotors",
+    "authors": [
+      "I Gavalas",
+      "E Dimou",
+      "A Chasalevris"
+    ],
+    "year": "2023",
+    "venue": "Springer",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… of the actuators is implemented through closed loop control . The actuators perform the respective elongation after the control … The optimization problem renders the respective actuator …",
+    "paper_url": "https://link.springer.com/chapter/10.1007/978-3-031-40459-7_21",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "learned center manifold actuator fault control"
+    ],
+    "source_urls": [
+      "https://link.springer.com/chapter/10.1007/978-3-031-40459-7_21"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "learned center manifold actuator fault control",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "LearningNonlinear MotorControl: How Integrating MachineLearningand Nonlinear Dynamics Reveals Structure, Adaptation, andControlin Human …",
+    "authors": [
+      "A Hakkak Moghadam Torbati",
+      "Y Shiravand",
+      "A Mazinani"
+    ],
+    "year": "2026",
+    "venue": "mdpi.com",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… Rather than presenting studies sequentially, the examples reviewed in this section are organized according to the type of nonlinear motor control problem they address. Specifically, we …",
+    "paper_url": "https://www.mdpi.com/2076-0825/15/3/166",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "learned center manifold actuator fault control"
+    ],
+    "source_urls": [
+      "https://www.mdpi.com/2076-0825/15/3/166"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "learned center manifold actuator fault control",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Early warningsignals for loss of control in complex systems",
+    "authors": [
+      "JJ van Beers",
+      "M Scheffer",
+      "P Solanki …"
+    ],
+    "year": "2026",
+    "venue": "pnas.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… Similarly, we monitor the step-wise deterioration in resilience of a quadrotor (a four propeller … CSD is used as an early warning of critical transitions across a family of bifurcations (28, 40)…",
+    "paper_url": "https://www.pnas.org/doi/abs/10.1073/pnas.2608847123",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://www.pnas.org/doi/abs/10.1073/pnas.2608847123"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "bifurcation early warning actuator degradation latent",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Early warningsignals for loss of control",
+    "authors": [
+      "JJ van Beers",
+      "M Scheffer",
+      "P Solanki …"
+    ],
+    "year": "2025",
+    "venue": "arxiv.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Abstract page for arXiv paper 2512.20868: Early warning signals for loss of control",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… Similarly, we monitor the step-wise deterioration in resilience … In this example, we consider the presence of first order actuator … linear systems do not experience bifurcations (in the sense …",
+    "paper_url": "https://arxiv.org/abs/2512.20868",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://arxiv.org/abs/2512.20868"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "bifurcation early warning actuator degradation latent",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Catching Critical Transition in Engineered Systems",
+    "authors": [
+      "J Huang",
+      "T Meng",
+      "Y Deng …"
+    ],
+    "year": "2021",
+    "venue": "Wiley Online Library",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… c(1), an unspecified signal in the turbofan engine degradation simulation collected by NASA … catastrophic bifurcation , which can be triggered by a small perturbation of a latent parameter…",
+    "paper_url": "https://onlinelibrary.wiley.com/doi/abs/10.1155/2021/5589429",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://onlinelibrary.wiley.com/doi/abs/10.1155/2021/5589429"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "bifurcation early warning actuator degradation latent",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Designing neural dynamics: from digital twin modeling to regeneration",
+    "authors": [
+      "CP Tataru",
+      "AV Dumitru",
+      "N Dobrin",
+      "MP Rădoi…"
+    ],
+    "year": "2025",
+    "venue": "mdpi.com",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… Cognitive deterioration and the transition to … By monitoring the individual’s current latent state, the twin … reactions to proactively intervening at early bifurcation signatures [163]. Potential …",
+    "paper_url": "https://www.mdpi.com/1422-0067/27/1/122",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://www.mdpi.com/1422-0067/27/1/122"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "bifurcation early warning actuator degradation latent",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "An Improved Probabilistic Variational Auto-Encoder with Dual Anomaly Score for UAV Flight Data Anomaly Detection",
+    "authors": [
+      "J Yang",
+      "Y Zhang",
+      "Q Miao"
+    ],
+    "year": "2026",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "The reliable operation of unmanned aerial vehicles (UAVs) as mobile Internet of Things (IoT) assets is critically dependent on robust, real-time anomaly detection within their high-dimensional flight data. Conventional methods based on reconstruction error often fail to capture the strong spatial–temporal dependencies and nonlinear dynamics inherent in time-series flight data. To address these limitations, this article proposes the nonlinear latent dynamic consistency probabilistic variational auto-encoder (NLDC-VAE), a novel framework that synergistically integrates a hybrid convolutional-recurrent encoder for spatiotemporal feature extraction with a nonlinear, GRU-based transition network that enforces latent dynamic consistency. Furthermore, a probabilistic decoder enables robust uncertainty quantification by reconstructing a full distribution with mean and variance. A dual anomaly score (DAS) mechanism is introduced, which decouples the assessment of anomalies into two distinct components: the observation anomaly score measures the negative log-likelihood (NLL) of reconstruction, and the dynamic anomaly score quantifies latent inconsistency via Kullback–Leibler (KL) divergence. The experimental results on both simulation and real-world UAV flight data demonstrate that NLDC-VAE achieves superior anomaly detection performance and robustness, confirming its effectiveness for safety-critical UAV monitoring applications.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… of ensuring operational safety, is generally bifurcated into two main paradigms: model-… latent temporal evolution, leaving them vulnerable to progressive faults like actuator degradation …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11558292/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel8/6488907/6702522/11558292.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/11558292/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "bifurcation early warning actuator degradation latent",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Delay-induced spike-and-wave discharges andbifurcation-guided closed-loop control in a thalamocortical neural mass model: S. Cao et al.",
+    "authors": [
+      "S Cao",
+      "W Zheng",
+      "Y Jiang",
+      "P Feng"
+    ],
+    "year": "2026",
+    "venue": "Springer",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… Because target efficacy in a closed-loop setting also depends on sensing and actuation latency , … 8a, both thalamic targets degrade as detection delay increases, although the TC curve …",
+    "paper_url": "https://link.springer.com/article/10.1007/s11071-026-12792-2",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11071-026-12792-2.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://link.springer.com/article/10.1007/s11071-026-12792-2"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "bifurcation early warning actuator degradation latent",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Research on prediction and discrimination method of compressor internal stall level based on time series feature extraction",
+    "authors": [
+      "W Zhao",
+      "J Yu",
+      "T Liu"
+    ],
+    "year": "2025",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "The accurate identification of internal stall onset in ultra-high load compressors is critical to ensuring the reliability and performance efficiency of next-generation aero-propulsion systems. Aligning with the thematic focus of Frontiers in Computer Science on intelligent modeling, predictive analytics, and complex systems computation, this work introduces a novel framework that leverages high-dimensional time-series feature extraction to address long-standing challenges in early stall detection. Traditional methods, primarily rooted in global stability analysis and empirical thresholds, often fall short in sensitivity and interpretability, particularly under transient or localized flow disturbances. They tend to overlook weakly amplified precursors due to insufficient resolution or overly generalized models, thereby compromising early warning capabilities. To overcome these limitations, we propose an integrated strategy consisting of the Selective Modal Growth Characterization Network (SMGCN) and the Incremental Margin Mapping Protocol (IMMP). SMGCN is a physics-informed neural architecture that decodes spatial and temporal growth patterns of unstable flow modes using sparse modal activation and orthogonal decomposition, ensuring both physical relevance and model compactness. IMMP then transforms these extracted features into actionable stall indicators through spatio-temporal risk localization, ferential phase tracking, and multi-resolution decomposition, culminating in accurate predictions of both stall initiation time and its spatial origin. Experimental validation demonstrates the framework’s superior capability to identify incipient instability with minimal data latency, offering robust, interpretable predictions compatible with real-time engine monitoring systems. By embedding domain-specific knowledge into deep learning pipelines, this method exemplifies a convergence of computational intelligence and aerothermal diagnostics, reinforcing the scope of the journal’s emphasis on cyber-physical systems, predictive modeling, and high-dimensional signal interpretation.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… incipient instability with minimal data latency , offering robust, … of nonlinear dynamics and bifurcation behaviors associated … introduce a modal decomposition of pressure perturbations …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11127045/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel8/6287639/6514899/11127045.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/11127045/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "bifurcation early warning actuator degradation latent",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Spectral Operator Theory for Predictive Stability, Failure Prevention, and Autonomous Recovery in Critical Cyber-Physical Infrastructure",
+    "authors": [
+      "S Pellis"
+    ],
+    "year": "2026",
+    "venue": "papers.ssrn.com",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… and generate cascading failures, irreversible degradation , or catastrophic transitions. This … Early warning theory has demonstrated that complex systems exhibit measurable signals …",
+    "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7468561",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7468561"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "bifurcation early warning actuator degradation latent",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "A Deterministic Phase–Memory Operator for Hysteresis and Path-Dependent Regime Shifts: A Validation Protocol and Application Roadmap",
+    "authors": [
+      "M Krüger",
+      "D Feeney"
+    ],
+    "year": "2026",
+    "venue": "researchgate.net",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… latent state—phase deviation, drift, and accumulated memory—from observed signals and yields an interpretable stability functional for early warning of … or material degradation ) to be …",
+    "paper_url": "https://www.researchgate.net/profile/Marcel-Krueger-7/publication/399791532_A_Deterministic_Phase-Memory_Operator_for_Hysteresis_and_Path-Dependent_Regime_Shifts_A_Validation_Protocol_and_Application_Roadmap/links/6968ad6dc906f117f2a551db/A-Deterministic-Phase-Memory-Operator-for-Hysteresis-and-Path-Dependent-Regime-Shifts-A-Validation-Protocol-and-Application-Roadmap.pdf",
+    "pdf_url": "https://www.researchgate.net/profile/Marcel-Krueger-7/publication/399791532_A_Deterministic_Phase-Memory_Operator_for_Hysteresis_and_Path-Dependent_Regime_Shifts_A_Validation_Protocol_and_Application_Roadmap/links/6968ad6dc906f117f2a551db/A-Deterministic-Phase-Memory-Operator-for-Hysteresis-and-Path-Dependent-Regime-Shifts-A-Validation-Protocol-and-Application-Roadmap.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://www.researchgate.net/profile/Marcel-Krueger-7/publication/399791532_A_Deterministic_Phase-Memory_Operator_for_Hysteresis_and_Path-Dependent_Regime_Shifts_A_Validation_Protocol_and_Application_Roadmap/links/6968ad6dc906f117f2a551db/A-Deterministic-Phase-Memory-Operator-for-Hysteresis-and-Path-Dependent-Regime-Shifts-A-Validation-Protocol-and-Application-Roadmap.pdf"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "bifurcation early warning actuator degradation latent",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Event generation and simulation of exception handling with the ITER PCSSP",
+    "authors": [
+      "G Raupp",
+      "ML Walker",
+      "G Ambrosino…"
+    ],
+    "year": "2014",
+    "venue": "Elsevier",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… actual nominal state), or degradation when off-normal failure … Bifurcation and degradation relevant to PCS may occur in the … actuator manager circuits could handle degraded or failed …",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0920379614003457",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://www.sciencedirect.com/science/article/pii/S0920379614003457"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "bifurcation early warning actuator degradation latent",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Trends in vehicle motion control for automated driving on public roads",
+    "authors": [
+      "M Klomp",
+      "M Jonasson",
+      "L Laine …"
+    ],
+    "year": "2019",
+    "venue": "Taylor & Francis",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… bifurcation analysis of system state transformations are … A single fault can be mitigated but a latent fault can lead to a … the problem with steering actuator degradation is to use differential …",
+    "paper_url": "https://www.tandfonline.com/doi/abs/10.1080/00423114.2019.1610182",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://www.tandfonline.com/doi/abs/10.1080/00423114.2019.1610182"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "bifurcation early warning actuator degradation latent",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Predictingbifurcationof mechanical systems using reservoir computing: Case studies on legged locomotion and pneumatic softactuator",
+    "authors": [
+      "J Shen",
+      "R Al Ajroudi",
+      "N Akashi",
+      "T Jo…"
+    ],
+    "year": "2026",
+    "venue": "pubs.aip.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… scenario in which the physics knowledge is entirely unavailable for the soft actuator . … soft actuator shown in (c). Our results show that the ESN can reliably predict bifurcation structures in …",
+    "paper_url": "https://pubs.aip.org/aip/cha/article/36/1/013103/3376040",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://pubs.aip.org/aip/cha/article/36/1/013103/3376040"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "bifurcation early warning actuator degradation latent",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Controllability of nonlinear epileptic-seizure spreading dynamics in large-scale subject-specific brain networks",
+    "authors": [
+      "SA Moosavi",
+      "JS Feldman",
+      "W Truccolo"
+    ],
+    "year": "2025",
+    "venue": "nature.com",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Closed-loop electrical stimulation has become an important alternative to resective surgery for control of pharmacologically-resistant focal epileptic seizures. Seizure spread across large-scale brain networks, rather than its focal onset, is what commonly leads to major disruptions in sensorimotor and cognitive processing, as well as loss-of-consciousness, one of the main impairing aspects of the disorder. Electrical stimulation, triggered by early detection of seizure onset in epileptogenic zones (EZs), has been applied to prevent spread and its subsequent effects. Here, we show how linear feedback seizure-spread controllability in subject-specific (white-matter tractography) Epileptor network models is affected by variations in brain excitability, network coupling strength, control latency and gain, and actuation targets. Feedback control can qualitatively change the nonlinear seizure dynamics, and the paths to seizure termination and spread prevention. Notably, control onset latency is a critical parameter leading to a phase transition in spread controllability. Consequently, the efficacy of EZ-only actuation is limited depending on network excitability, coupling strength, and practical latencies for detection and actuation. Additional feedback-stabilization control of theoretically-derived optimal node subsets in the network are necessary for spread prevention. Finally, we contrast our linear-feedback controllability assessment with other measures based on minimum-energy (Gramian) controllability and nonlinear pulse-perturbation approaches.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… strength, control latency and gain, and actuation targets. … plays the role of an intrinsic bifurcation parameter, leading the … We first explored a control latency onset of 1 s after seizure …",
+    "paper_url": "https://www.nature.com/articles/s41598-025-90632-w",
+    "pdf_url": "https://www.nature.com/articles/s41598-025-90632-w.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://www.nature.com/articles/s41598-025-90632-w"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "bifurcation early warning actuator degradation latent",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Event generation and simulation of exception handling with the ITER PCSSP",
+    "authors": [
+      "G De Tommasi"
+    ],
+    "year": null,
+    "venue": "academia.edu",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… Bifurcation and degradation relevant to PCS may occur in the … packet dropouts, or excessive latency . Operation condition … intelligent actuator manager circuits could handle degraded …",
+    "paper_url": "https://www.academia.edu/download/47063715/Event_generation_and_simulation_of_excep20160706-30745-91n2u6.pdf",
+    "pdf_url": "https://www.academia.edu/download/47063715/Event_generation_and_simulation_of_excep20160706-30745-91n2u6.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://www.academia.edu/download/47063715/Event_generation_and_simulation_of_excep20160706-30745-91n2u6.pdf"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "bifurcation early warning actuator degradation latent",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Wide-area damping state feedback and output feedback controller design strategy considering time delays andactuatorsaturation based on parametric …",
+    "authors": [
+      "T Lin",
+      "G Ding",
+      "R Chen",
+      "B Chen",
+      "X Xu"
+    ],
+    "year": "2019",
+    "venue": "pubs.aip.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… , the saturation of actuator leads to the deterioration of control … 16, the stability and bifurcation behaviors of a predator-prey … online assessment and early warning technologies research …",
+    "paper_url": "https://pubs.aip.org/aip/adv/article/9/3/035331/1077273",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://pubs.aip.org/aip/adv/article/9/3/035331/1077273"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "bifurcation early warning actuator degradation latent",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "… of a dual-branch recursive-time series joint model based on a multi-scale Transformer and multi-modal fusion to fault diagnosis of fixed-wing UAVactuators",
+    "authors": [
+      "W Zhang",
+      "Z Liu",
+      "Z Jia",
+      "S Wang…"
+    ],
+    "year": "2025",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Fixed-wing UAV actuators are prone to compound failures under complex multimodal dynamic environments, posing challenges to fault diagnosis accuracy and robustness. To address this, a dual-branch recursive-time-series joint model based on a multiscale transformer and multimodal fusion is proposed. The model employs a gated recurrent unit (GRU) branch to capture temporal dependencies, and a convolutional branch to extract spatial features from recursive graphs derived from time-series signals. A transformer-based fusion module adaptively integrates six sensor modalities, including rudder angle, thrust, and gyroscope, enabling accurate modeling of nonlinear patterns and dynamic interactions. Data augmentation techniques, such as Gaussian noise, translation, and scaling, are introduced to improve generalization. Experimental validation on 5000 samples across one normal and ten fault modes shows that the proposed model achieves 95% <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">F</i>1-score and 98% area under curve (AUC) on a balanced dataset, and 91% <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">F</i>1 and 95% AUC on unbalanced data. Compared with a range of classical and recent deep-learning baselines, including RF (81% ), SVM (83% ), RNN (85% ), LSTM/GRU (88% ), transformer (91% ), transformer-XL (92% ), and convolutional neural network–BiLSTM (89% ), the proposed method exhibits superior classification performance, especially for rare and compound faults. Ablation studies confirm the critical role of each module. The results demonstrate the model’s strong potential for real-time, reliable fault diagnosis in UAV actuator systems, offering theoretical and engineering value for autonomous flight safety and maintenance planning.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… Specifically, failures such as stuck rudders, servo degradation , … This is then used for further decision-making or early warning … The data stream is then bifurcated : the 1D branch extracts …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11180823/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel8/7/7778228/11180823.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/11180823/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "bifurcation early warning actuator degradation latent",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Hardware-in-the-loop experimental validation of a fault-tolerant control system for quadcopter UAV motor faults",
+    "authors": [
+      "M Abdullah",
+      "A Zulfiqar",
+      "M Zeeshan Babar …"
+    ],
+    "year": "2025",
+    "venue": "mdpi.com",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… ) is proposed to counteract the deterioration of the performance of … trajectory tracking under actuator faults were demonstrated … the proposed method’s low latency and real-time viability …",
+    "paper_url": "https://www.mdpi.com/2504-3110/9/11/682",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://www.mdpi.com/2504-3110/9/11/682"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "bifurcation early warning actuator degradation latent",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Optimal mainstream traffic flow control of large-scale motorway networks",
+    "authors": [
+      "RC Carlson",
+      "I Papamichail",
+      "M Papageorgiou …"
+    ],
+    "year": "2010",
+    "venue": "Elsevier",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… to extended breakdown areas and serious degradation of the … bottleneck and may activate a ( latent ) bottleneck that was not … o and the turning rates β n m at every bifurcation node n. …",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0968090X09000771",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://www.sciencedirect.com/science/article/pii/S0968090X09000771"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "bifurcation early warning actuator degradation latent",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "Advances in intelligent nano‐micro‐scale sensors andactuators: Moving toward self‐sustained edge AI microsystems",
+    "authors": [
+      "X Guo",
+      "Z Zhang",
+      "Z Ren",
+      "D Li",
+      "C Xu",
+      "L Wang…"
+    ],
+    "year": "2025",
+    "venue": "Wiley Online Library",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… edge-AI processing with low latency and power consumption. … systems has also bifurcated into two primary directions. The … without inducing interference or signal degradation . Second, …",
+    "paper_url": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202510417",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202510417"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "bifurcation early warning actuator degradation latent",
+    "_raw_site": "scholar"
+  },
+  {
+    "title": "State-of-the-art electronic systems and decision-making architectures for wildfire detection and suppression: a comprehensive review",
+    "authors": [
+      "O Acar",
+      "P Baydemir"
+    ],
+    "year": "2026",
+    "venue": "maxapress.com",
+    "publisher": null,
+    "doi": "10.48130/emst-0026-0009",
+    "doi_source": "site",
+    "abstract": "Wildfires represent an escalating global hazard intensified by climate change and land-use change, rendering traditional detection approaches such as satellite monitoring and manual ground patrols insufficient because of high latency and vulnerability to adverse weather. This review critically synthesizes the cited peer-reviewed and technical literature to evaluate the state of the art in electronic sensing systems, embedded artificial intelligence (AI), and autonomous platforms for wildfire management. The study organizes technologies into an engineering taxonomy covering wireless sensor networks, thermal infrared imaging systems, computer vision models, geospatial scaling methodologies, autonomous unmanned aerial vehicles (UAVs) and unmanned ground vehicles (UGVs), and multispectral/hyperspectral fuel condition sensing used for risk assessment before a fire occurs. Multispectral and hyperspectral sensing is therefore treated as a risk assessment and mission prioritization layer rather than as a primary modality for active fire detection. Beyond component-level performance metrics, the review evaluates the physical failure mechanisms and methodological limitations, including thermal crossover, nonfire hot surface confusion, smoke-induced optical degradation, radiative heat exposure, and the limited realism of laboratory or controlled burn validation protocols. It further distinguishes component connectivity from decision-level integration by emphasizing multirate temporal fusion, confidence arbitration, closed-loop suppression feedback, communication-denied edge autonomy, near-fire thermal constraints, and mission-level decision governance. The reviewed evidence suggests that thermal infrared imaging generally provides stronger smoke penetration capability than visible spectrum sensors under the reviewed conditions, whereas edge-optimized deep learning architectures can achieve the real-time detection performance essential for a rapid response. However, individual component maturity does not by itself imply operational readiness; reliable deployment requires standardized benchmarks, robust sensor fusion, degradation-aware autonomy, and validated end-to-end intervention pipelines under extreme environmental conditions. Beyond fully autonomous execution, the review frames wildfire robotics as supervised human&#8211;robot teaming in which operators retain mission intent, approval, override, and safety authority while autonomous platforms manage perception, local planning, and exception reporting. Compared with recent integrative surveys that already connect remote sensing, AI, UAV platforms, and wildfire management workflows, the distinctive contribution of this review is a deployment-oriented cross-layer analysis of how these components interact, fail, and must be governed as part of a safety-critical detection and suppression architecture.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… Invited paper: actuator trajectory planning for UAVs with overhead manipulator using … degrade simultaneously; therefore, edge computing should be interpreted not only as a latency …",
+    "paper_url": "https://maxapress.com/article/doi/10.48130/emst-0026-0009",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://maxapress.com/article/doi/10.48130/emst-0026-0009"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [],
+    "_raw_query": "bifurcation early warning actuator degradation latent",
+    "_raw_site": "scholar"
+  }
+]

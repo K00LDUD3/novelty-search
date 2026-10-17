@@ -1,0 +1,462 @@
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+05:12:27 [INFO] scraper: Search plan:
+05:12:27 [INFO] scraper:   Google Scholar: 7 queries
+05:12:27 [INFO] scraper:   IEEE Xplore: 5 queries
+05:12:27 [INFO] scraper:   ScienceDirect: 6 queries
+05:12:27 [INFO] scraper:   Springer Nature Link: 6 queries
+05:12:27 [INFO] scraper:   ACM Digital Library: 3 queries
+05:12:27 [INFO] scraper:   AIAA Aerospace Research Central: 5 queries
+05:12:27 [INFO] scraper:   IFAC-PapersOnLine: 6 queries
+05:12:27 [INFO] scraper: ════════════════════════════════════════════════════════════
+05:12:27 [INFO] scraper: Site: Google Scholar
+05:12:27 [INFO] scraper: [Google Scholar] Running query: latent bifurcation dynamics actuator fault
+05:12:42 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Jan-Awrejcewicz/publication/299746683_DYNAMICAL_SYSTEMS_-_Control_and_Stability/links/5704d52208ae74a08e246dc4/DYNAMICAL-SYSTEMS-Control-and-Stability.pdf#page=374 — waiting 2.0s
+05:12:44 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Jan-Awrejcewicz/publication/299746683_DYNAMICAL_SYSTEMS_-_Control_and_Stability/links/5704d52208ae74a08e246dc4/DYNAMICAL-SYSTEMS-Control-and-Stability.pdf#page=374 — waiting 4.0s
+05:12:48 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Jan-Awrejcewicz/publication/299746683_DYNAMICAL_SYSTEMS_-_Control_and_Stability/links/5704d52208ae74a08e246dc4/DYNAMICAL-SYSTEMS-Control-and-Stability.pdf#page=374 — waiting 8.0s
+05:12:58 [WARNING] scraper: HTTP 403 from https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-0cdbd61d-5ddf-484b-8c2c-7d67e4d467b0 — waiting 2.0s
+05:13:00 [WARNING] scraper: HTTP 403 from https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-0cdbd61d-5ddf-484b-8c2c-7d67e4d467b0 — waiting 4.0s
+05:13:04 [WARNING] scraper: HTTP 403 from https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-0cdbd61d-5ddf-484b-8c2c-7d67e4d467b0 — waiting 8.0s
+05:13:22 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/cha/article/36/1/013103/3376040 — waiting 2.0s
+05:13:24 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/cha/article/36/1/013103/3376040 — waiting 4.0s
+05:13:28 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/cha/article/36/1/013103/3376040 — waiting 8.0s
+05:13:37 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Gabro-Gakely/publication/399918038_Basics_of_Animation/links/696febababecff2489ed742f/Basics-of-Animation.pdf — waiting 2.0s
+05:13:39 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Gabro-Gakely/publication/399918038_Basics_of_Animation/links/696febababecff2489ed742f/Basics-of-Animation.pdf — waiting 4.0s
+05:13:43 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Gabro-Gakely/publication/399918038_Basics_of_Animation/links/696febababecff2489ed742f/Basics-of-Animation.pdf — waiting 8.0s
+05:13:51 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/full/10.2514/1.G005840 — waiting 2.0s
+05:13:53 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/full/10.2514/1.G005840 — waiting 4.0s
+05:13:57 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/full/10.2514/1.G005840 — waiting 8.0s
+05:14:05 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2227-7390/14/1/62 — waiting 2.0s
+05:14:07 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2227-7390/14/1/62 — waiting 4.0s
+05:14:11 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2227-7390/14/1/62 — waiting 8.0s
+05:14:24 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0019057825006998 — waiting 2.0s
+05:14:26 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0019057825006998 — waiting 4.0s
+05:14:31 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0019057825006998 — waiting 8.0s
+05:14:44 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-0825/15/3/166 — waiting 2.0s
+05:14:46 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-0825/15/3/166 — waiting 4.0s
+05:14:50 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-0825/15/3/166 — waiting 8.0s
+05:15:03 [WARNING] scraper: HTTP 403 from https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.11177 — waiting 2.0s
+05:15:05 [WARNING] scraper: HTTP 403 from https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.11177 — waiting 4.0s
+05:15:09 [WARNING] scraper: HTTP 403 from https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.11177 — waiting 8.0s
+05:15:17 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/67/5/050801/369906 — waiting 2.0s
+05:15:19 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/67/5/050801/369906 — waiting 4.0s
+05:15:23 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/67/5/050801/369906 — waiting 8.0s
+05:15:46 [WARNING] scraper: HTTP 403 from https://www.preprints.org/manuscript/202601.1491 — waiting 2.0s
+05:15:48 [WARNING] scraper: HTTP 403 from https://www.preprints.org/manuscript/202601.1491 — waiting 4.0s
+05:15:52 [WARNING] scraper: HTTP 403 from https://www.preprints.org/manuscript/202601.1491 — waiting 8.0s
+05:16:00 [INFO] scraper: [scholar] Query done — raw: 20, unique: 19
+05:16:00 [INFO] scraper: [Google Scholar] Running query: learned latent dynamics actuator degradation
+05:16:10 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-0825/14/12/583 — waiting 2.0s
+05:16:13 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-0825/14/12/583 — waiting 4.0s
+05:16:17 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-0825/14/12/583 — waiting 8.0s
+05:16:50 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S092188902600415X — waiting 2.0s
+05:16:52 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S092188902600415X — waiting 4.0s
+05:16:56 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S092188902600415X — waiting 8.0s
+05:17:04 [WARNING] scraper: HTTP 403 from https://www.science.org/doi/abs/10.1126/scirobotics.adt1497 — waiting 2.0s
+05:17:06 [WARNING] scraper: HTTP 403 from https://www.science.org/doi/abs/10.1126/scirobotics.adt1497 — waiting 4.0s
+05:17:10 [WARNING] scraper: HTTP 403 from https://www.science.org/doi/abs/10.1126/scirobotics.adt1497 — waiting 8.0s
+05:17:28 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0951832022005130 — waiting 2.0s
+05:17:30 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0951832022005130 — waiting 4.0s
+05:17:34 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0951832022005130 — waiting 8.0s
+05:17:49 [ERROR] scraper: [scholar] Query failed: learned latent dynamics actuator degradation — expected string or bytes-like object, got 'NoneType'
+05:17:49 [INFO] scraper: [scholar] Query done — raw: 0, unique: 0
+05:17:49 [INFO] scraper: [Google Scholar] Running query: bifurcation structured latent representation nonlinear control
+05:18:03 [WARNING] scraper: HTTP 403 from https://link.aps.org/doi/10.1103/2v76-dmg6 — waiting 2.0s
+05:18:05 [WARNING] scraper: HTTP 403 from https://link.aps.org/doi/10.1103/2v76-dmg6 — waiting 4.0s
+05:18:09 [WARNING] scraper: HTTP 403 from https://link.aps.org/doi/10.1103/2v76-dmg6 — waiting 8.0s
+05:18:22 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-0825/15/3/166 — waiting 2.0s
+05:18:24 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-0825/15/3/166 — waiting 4.0s
+05:18:28 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-0825/15/3/166 — waiting 8.0s
+05:18:36 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Amir-Noferesti/publication/405383638_Navigating_the_Bistable_Mind_A_Non-Linear_State-Space_Model_for_Stabilizing_Metacognitive_Sovereignty_in_the_Human-AI_Symbiosis/links/6a17fcdc8483c178d4a5f072/Navigating-the-Bistable-Mind-A-Non-Linear-State-Space-Model-for-Stabilizing-Metacognitive-Sovereignty-in-the-Human-AI-Symbiosis.pdf — waiting 2.0s
+05:18:38 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Amir-Noferesti/publication/405383638_Navigating_the_Bistable_Mind_A_Non-Linear_State-Space_Model_for_Stabilizing_Metacognitive_Sovereignty_in_the_Human-AI_Symbiosis/links/6a17fcdc8483c178d4a5f072/Navigating-the-Bistable-Mind-A-Non-Linear-State-Space-Model-for-Stabilizing-Metacognitive-Sovereignty-in-the-Human-AI-Symbiosis.pdf — waiting 4.0s
+05:18:42 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Amir-Noferesti/publication/405383638_Navigating_the_Bistable_Mind_A_Non-Linear_State-Space_Model_for_Stabilizing_Metacognitive_Sovereignty_in_the_Human-AI_Symbiosis/links/6a17fcdc8483c178d4a5f072/Navigating-the-Bistable-Mind-A-Non-Linear-State-Space-Model-for-Stabilizing-Metacognitive-Sovereignty-in-the-Human-AI-Symbiosis.pdf — waiting 8.0s
+05:19:00 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/computationalnonlinear/article-abstract/20/2/021006/1210039 — waiting 2.0s
+05:19:02 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/computationalnonlinear/article-abstract/20/2/021006/1210039 — waiting 4.0s
+05:19:06 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/computationalnonlinear/article-abstract/20/2/021006/1210039 — waiting 8.0s
+05:19:14 [WARNING] scraper: HTTP 403 from https://journals.aps.org/prx/abstract/10.1103/PhysRevX.5.011005 — waiting 2.0s
+05:19:16 [WARNING] scraper: HTTP 403 from https://journals.aps.org/prx/abstract/10.1103/PhysRevX.5.011005 — waiting 4.0s
+05:19:20 [WARNING] scraper: HTTP 403 from https://journals.aps.org/prx/abstract/10.1103/PhysRevX.5.011005 — waiting 8.0s
+05:20:09 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/0016003294900906 — waiting 2.0s
+05:20:11 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/0016003294900906 — waiting 4.0s
+05:20:15 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/0016003294900906 — waiting 8.0s
+05:20:23 [WARNING] scraper: HTTP 403 from https://epubs.siam.org/doi/abs/10.1137/050625060 — waiting 2.0s
+05:20:25 [WARNING] scraper: HTTP 403 from https://epubs.siam.org/doi/abs/10.1137/050625060 — waiting 4.0s
+05:20:29 [WARNING] scraper: HTTP 403 from https://epubs.siam.org/doi/abs/10.1137/050625060 — waiting 8.0s
+05:20:37 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0092824005802605 — waiting 2.0s
+05:20:39 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0092824005802605 — waiting 4.0s
+05:20:43 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0092824005802605 — waiting 8.0s
+05:20:52 [ERROR] scraper: [scholar] Query failed: bifurcation structured latent representation nonlinear control — expected string or bytes-like object, got 'NoneType'
+05:20:52 [INFO] scraper: [scholar] Query done — raw: 0, unique: 0
+05:20:52 [INFO] scraper: [Google Scholar] Running query: actuator degradation latent space bifurcation
+05:21:11 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/abs/10.2514/6.2026-0293 — waiting 2.0s
+05:21:13 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/abs/10.2514/6.2026-0293 — waiting 4.0s
+05:21:17 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/abs/10.2514/6.2026-0293 — waiting 8.0s
+05:21:25 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/abs/10.2514/1.J064881 — waiting 2.0s
+05:21:28 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/abs/10.2514/1.J064881 — waiting 4.0s
+05:21:32 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/doi/abs/10.2514/1.J064881 — waiting 8.0s
+05:22:05 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/cha/article/36/1/013103/3376040 — waiting 2.0s
+05:22:07 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/cha/article/36/1/013103/3376040 — waiting 4.0s
+05:22:11 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/cha/article/36/1/013103/3376040 — waiting 8.0s
+05:22:29 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/pop/article/32/6/062508/3350590 — waiting 2.0s
+05:22:31 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/pop/article/32/6/062508/3350590 — waiting 4.0s
+05:22:35 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/pop/article/32/6/062508/3350590 — waiting 8.0s
+05:23:18 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2072-666X/17/3/347 — waiting 2.0s
+05:23:20 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2072-666X/17/3/347 — waiting 4.0s
+05:23:24 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2072-666X/17/3/347 — waiting 8.0s
+05:23:32 [INFO] scraper: [scholar] Query done — raw: 20, unique: 17
+05:23:32 [INFO] scraper: [Google Scholar] Running query: fault tolerant control latent nonlinear dynamics
+05:23:42 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.70584 — waiting 2.0s
+05:23:44 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.70584 — waiting 4.0s
+05:23:49 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.70584 — waiting 8.0s
+05:23:57 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2073-8994/17/11/1915 — waiting 2.0s
+05:23:59 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2073-8994/17/11/1915 — waiting 4.0s
+05:24:03 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2073-8994/17/11/1915 — waiting 8.0s
+05:24:36 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0098135412001937 — waiting 2.0s
+05:24:38 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0098135412001937 — waiting 4.0s
+05:24:42 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0098135412001937 — waiting 8.0s
+05:25:15 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2079-9292/9/9/1513 — waiting 2.0s
+05:25:17 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2079-9292/9/9/1513 — waiting 4.0s
+05:25:21 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2079-9292/9/9/1513 — waiting 8.0s
+05:25:31 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.3355 — waiting 2.0s
+05:25:33 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.3355 — waiting 4.0s
+05:25:37 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.3355 — waiting 8.0s
+05:26:05 [INFO] scraper: [scholar] Query done — raw: 20, unique: 20
+05:26:05 [INFO] scraper: [Google Scholar] Running query: learned center manifold actuator fault control
+05:26:35 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2077-1312/14/16/1476 — waiting 2.0s
+05:26:37 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2077-1312/14/16/1476 — waiting 4.0s
+05:26:41 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2077-1312/14/16/1476 — waiting 8.0s
+05:27:33 [WARNING] scraper: HTTP 403 from https://www.academia.edu/download/84301583/3647.pdf — waiting 2.0s
+05:27:35 [WARNING] scraper: HTTP 403 from https://www.academia.edu/download/84301583/3647.pdf — waiting 4.0s
+05:27:39 [WARNING] scraper: HTTP 403 from https://www.academia.edu/download/84301583/3647.pdf — waiting 8.0s
+05:28:03 [WARNING] scraper: HTTP 403 from https://pubs.acs.org/doi/abs/10.1021/acs.iecr.4c00424 — waiting 2.0s
+05:28:05 [WARNING] scraper: HTTP 403 from https://pubs.acs.org/doi/abs/10.1021/acs.iecr.4c00424 — waiting 4.0s
+05:28:09 [WARNING] scraper: HTTP 403 from https://pubs.acs.org/doi/abs/10.1021/acs.iecr.4c00424 — waiting 8.0s
+05:28:27 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-0825/15/3/166 — waiting 2.0s
+05:28:29 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-0825/15/3/166 — waiting 4.0s
+05:28:33 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2076-0825/15/3/166 — waiting 8.0s
+05:28:41 [INFO] scraper: [scholar] Query done — raw: 20, unique: 20
+05:28:41 [INFO] scraper: [Google Scholar] Running query: bifurcation early warning actuator degradation latent
+05:28:51 [WARNING] scraper: HTTP 403 from https://www.pnas.org/doi/abs/10.1073/pnas.2608847123 — waiting 2.0s
+05:28:53 [WARNING] scraper: HTTP 403 from https://www.pnas.org/doi/abs/10.1073/pnas.2608847123 — waiting 4.0s
+05:28:57 [WARNING] scraper: HTTP 403 from https://www.pnas.org/doi/abs/10.1073/pnas.2608847123 — waiting 8.0s
+05:29:11 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1155/2021/5589429 — waiting 2.0s
+05:29:13 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1155/2021/5589429 — waiting 4.0s
+05:29:17 [WARNING] scraper: HTTP 403 from https://onlinelibrary.wiley.com/doi/abs/10.1155/2021/5589429 — waiting 8.0s
+05:29:25 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/1422-0067/27/1/122 — waiting 2.0s
+05:29:27 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/1422-0067/27/1/122 — waiting 4.0s
+05:29:31 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/1422-0067/27/1/122 — waiting 8.0s
+05:29:54 [WARNING] scraper: HTTP 403 from https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7468561 — waiting 2.0s
+05:29:56 [WARNING] scraper: HTTP 403 from https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7468561 — waiting 4.0s
+05:30:00 [WARNING] scraper: HTTP 403 from https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7468561 — waiting 8.0s
+05:30:08 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Marcel-Krueger-7/publication/399791532_A_Deterministic_Phase-Memory_Operator_for_Hysteresis_and_Path-Dependent_Regime_Shifts_A_Validation_Protocol_and_Application_Roadmap/links/6968ad6dc906f117f2a551db/A-Deterministic-Phase-Memory-Operator-for-Hysteresis-and-Path-Dependent-Regime-Shifts-A-Validation-Protocol-and-Application-Roadmap.pdf — waiting 2.0s
+05:30:10 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Marcel-Krueger-7/publication/399791532_A_Deterministic_Phase-Memory_Operator_for_Hysteresis_and_Path-Dependent_Regime_Shifts_A_Validation_Protocol_and_Application_Roadmap/links/6968ad6dc906f117f2a551db/A-Deterministic-Phase-Memory-Operator-for-Hysteresis-and-Path-Dependent-Regime-Shifts-A-Validation-Protocol-and-Application-Roadmap.pdf — waiting 4.0s
+05:30:15 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Marcel-Krueger-7/publication/399791532_A_Deterministic_Phase-Memory_Operator_for_Hysteresis_and_Path-Dependent_Regime_Shifts_A_Validation_Protocol_and_Application_Roadmap/links/6968ad6dc906f117f2a551db/A-Deterministic-Phase-Memory-Operator-for-Hysteresis-and-Path-Dependent-Regime-Shifts-A-Validation-Protocol-and-Application-Roadmap.pdf — waiting 8.0s
+05:30:23 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0920379614003457 — waiting 2.0s
+05:30:25 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0920379614003457 — waiting 4.0s
+05:30:29 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0920379614003457 — waiting 8.0s
+05:30:37 [WARNING] scraper: HTTP 403 from https://www.tandfonline.com/doi/abs/10.1080/00423114.2019.1610182 — waiting 2.0s
+05:30:39 [WARNING] scraper: HTTP 403 from https://www.tandfonline.com/doi/abs/10.1080/00423114.2019.1610182 — waiting 4.0s
+05:30:44 [WARNING] scraper: HTTP 403 from https://www.tandfonline.com/doi/abs/10.1080/00423114.2019.1610182 — waiting 8.0s
+05:30:52 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/cha/article/36/1/013103/3376040 — waiting 2.0s
+05:30:54 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/cha/article/36/1/013103/3376040 — waiting 4.0s
+05:30:58 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/cha/article/36/1/013103/3376040 — waiting 8.0s
+05:31:11 [WARNING] scraper: HTTP 403 from https://www.academia.edu/download/47063715/Event_generation_and_simulation_of_excep20160706-30745-91n2u6.pdf — waiting 2.0s
+05:31:13 [WARNING] scraper: HTTP 403 from https://www.academia.edu/download/47063715/Event_generation_and_simulation_of_excep20160706-30745-91n2u6.pdf — waiting 4.0s
+05:31:18 [WARNING] scraper: HTTP 403 from https://www.academia.edu/download/47063715/Event_generation_and_simulation_of_excep20160706-30745-91n2u6.pdf — waiting 8.0s
+05:31:26 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/adv/article/9/3/035331/1077273 — waiting 2.0s
+05:31:28 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/adv/article/9/3/035331/1077273 — waiting 4.0s
+05:31:32 [WARNING] scraper: HTTP 403 from https://pubs.aip.org/aip/adv/article/9/3/035331/1077273 — waiting 8.0s
+05:31:45 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2504-3110/9/11/682 — waiting 2.0s
+05:31:47 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2504-3110/9/11/682 — waiting 4.0s
+05:31:51 [WARNING] scraper: HTTP 403 from https://www.mdpi.com/2504-3110/9/11/682 — waiting 8.0s
+05:31:59 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0968090X09000771 — waiting 2.0s
+05:32:02 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0968090X09000771 — waiting 4.0s
+05:32:06 [WARNING] scraper: HTTP 403 from https://www.sciencedirect.com/science/article/pii/S0968090X09000771 — waiting 8.0s
+05:32:14 [WARNING] scraper: HTTP 403 from https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202510417 — waiting 2.0s
+05:32:16 [WARNING] scraper: HTTP 403 from https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202510417 — waiting 4.0s
+05:32:20 [WARNING] scraper: HTTP 403 from https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202510417 — waiting 8.0s
+05:32:31 [INFO] scraper: [scholar] Query done — raw: 20, unique: 17
+05:32:31 [INFO] scraper: Downloading PDF: https://www.researchgate.net/profile/Jan-Awrejcewicz/publication/299746683_DYNAMICAL_SYSTEMS_-_Control_and_Stability/links/5704d52208ae74a08e246dc4/DYNAMICAL-SYSTEMS-Control-and-Stability.pdf#page=374
+05:32:31 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Jan-Awrejcewicz/publication/299746683_DYNAMICAL_SYSTEMS_-_Control_and_Stability/links/5704d52208ae74a08e246dc4/DYNAMICAL-SYSTEMS-Control-and-Stability.pdf#page=374 — waiting 2.0s
+05:32:33 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Jan-Awrejcewicz/publication/299746683_DYNAMICAL_SYSTEMS_-_Control_and_Stability/links/5704d52208ae74a08e246dc4/DYNAMICAL-SYSTEMS-Control-and-Stability.pdf#page=374 — waiting 4.0s
+05:32:37 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Jan-Awrejcewicz/publication/299746683_DYNAMICAL_SYSTEMS_-_Control_and_Stability/links/5704d52208ae74a08e246dc4/DYNAMICAL-SYSTEMS-Control-and-Stability.pdf#page=374 — waiting 8.0s
+05:32:45 [INFO] scraper: Downloading PDF: https://icas.org/icas_archive/ICAS2010/PAPERS/707.PDF
+05:32:46 [INFO] scraper: Downloading PDF: https://www.researchgate.net/profile/Gabro-Gakely/publication/399918038_Basics_of_Animation/links/696febababecff2489ed742f/Basics-of-Animation.pdf
+05:32:47 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Gabro-Gakely/publication/399918038_Basics_of_Animation/links/696febababecff2489ed742f/Basics-of-Animation.pdf — waiting 2.0s
+05:32:49 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Gabro-Gakely/publication/399918038_Basics_of_Animation/links/696febababecff2489ed742f/Basics-of-Animation.pdf — waiting 4.0s
+05:32:53 [WARNING] scraper: HTTP 403 from https://www.researchgate.net/profile/Gabro-Gakely/publication/399918038_Basics_of_Animation/links/696febababecff2489ed742f/Basics-of-Animation.pdf — waiting 8.0s
+05:33:01 [INFO] scraper: Downloading PDF: https://research-information.bris.ac.uk/files/264460038/JGCD_3_PURE.pdf
+05:33:01 [WARNING] scraper: HTTP 403 from https://research-information.bris.ac.uk/files/264460038/JGCD_3_PURE.pdf — waiting 2.0s
+05:33:03 [WARNING] scraper: HTTP 403 from https://research-information.bris.ac.uk/files/264460038/JGCD_3_PURE.pdf — waiting 4.0s
+05:33:07 [WARNING] scraper: HTTP 403 from https://research-information.bris.ac.uk/files/264460038/JGCD_3_PURE.pdf — waiting 8.0s
+05:33:15 [INFO] scraper: Downloading PDF: https://link.springer.com/content/pdf/10.1007/s40430-025-05411-5.pdf
+05:33:15 [INFO] scraper: Downloading PDF: https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-pdf/67/5/050801/6074501/amr_067_05_050801.pdf
+05:33:15 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-pdf/67/5/050801/6074501/amr_067_05_050801.pdf — waiting 2.0s
+05:33:17 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-pdf/67/5/050801/6074501/amr_067_05_050801.pdf — waiting 4.0s
+05:33:21 [WARNING] scraper: HTTP 403 from https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-pdf/67/5/050801/6074501/amr_067_05_050801.pdf — waiting 8.0s
+05:33:29 [INFO] scraper: Downloading PDF: https://link.springer.com/content/pdf/10.1007/s11721-011-0062-z.pdf
+05:33:31 [INFO] scraper: DOI enriched via Crossref: 10.1109/jiot.2026.3702651
+05:33:33 [INFO] scraper: DOI enriched via Crossref: 10.5604/12314005.1217280
+05:33:38 [INFO] scraper: DOI enriched via Crossref: 10.3390/math14010062
+05:33:38 [INFO] scraper: Abstract enriched via Crossref
+05:33:40 [INFO] scraper: DOI enriched via Crossref: 10.1038/s41598-025-90632-w
+05:33:41 [INFO] scraper: DOI enriched via Crossref: 10.1016/j.isatra.2025.12.007
+05:33:44 [INFO] scraper: DOI enriched via Crossref: 10.1007/s40430-025-05411-5
+05:33:45 [INFO] scraper: DOI enriched via Crossref: 10.3390/act15030166
+05:33:45 [INFO] scraper: Abstract enriched via Crossref
+05:33:48 [INFO] scraper: DOI enriched via Crossref: 10.1002/aic.11177
+05:33:48 [INFO] scraper: Abstract enriched via Crossref
+05:33:49 [INFO] scraper: DOI enriched via Crossref: 10.1115/1.4031175
+05:33:49 [INFO] scraper: Abstract enriched via Crossref
+05:33:51 [INFO] scraper: DOI enriched via Crossref: 10.1088/1741-4326/acbe0e
+05:33:51 [INFO] scraper: Abstract enriched via Crossref
+05:33:55 [INFO] scraper: DOI enriched via Crossref: 10.2514/6.2026-0293
+05:33:56 [INFO] scraper: Checkpoint saved → smns_r4_scholar_checkpoint.json (20 papers)
+05:33:56 [INFO] scraper: ════════════════════════════════════════════════════════════
+05:33:56 [INFO] scraper: Site: IEEE Xplore
+05:33:56 [INFO] scraper: [IEEE Xplore] Running query: "latent dynamics" AND bifurcation AND actuator
+05:33:57 [INFO] scraper: [ieee] Query done — raw: 0, unique: 0
+05:33:57 [INFO] scraper: [IEEE Xplore] Running query: "latent representation" AND bifurcation AND control
+05:33:58 [INFO] scraper: [ieee] Query done — raw: 0, unique: 0
+05:33:58 [INFO] scraper: [IEEE Xplore] Running query: "actuator degradation" AND "latent dynamics"
+05:34:00 [INFO] scraper: [ieee] Query done — raw: 0, unique: 0
+05:34:00 [INFO] scraper: [IEEE Xplore] Running query: "actuator fault" AND "latent space" AND control
+05:34:02 [INFO] scraper: [ieee] Query done — raw: 0, unique: 0
+05:34:02 [INFO] scraper: [IEEE Xplore] Running query: "fault tolerant control" AND "latent dynamics"
+05:34:04 [INFO] scraper: [ieee] Query done — raw: 0, unique: 0
+05:34:04 [INFO] scraper: Checkpoint saved → smns_r4_ieee_checkpoint.json (0 papers)
+05:34:04 [INFO] scraper: ════════════════════════════════════════════════════════════
+05:34:04 [INFO] scraper: Site: ScienceDirect
+05:34:04 [INFO] scraper: [ScienceDirect] Running query: latent bifurcation dynamics actuator fault
+05:34:17 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.icheatmasstransfer.2026.112492
+05:34:19 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.cej.2026.175242
+05:34:31 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/b978-0-32-395419-8.00008-8
+05:34:46 [INFO] scraper: [sciencedirect] Query done — raw: 20, unique: 20
+05:34:46 [INFO] scraper: [ScienceDirect] Running query: learned latent dynamics actuator degradation
+05:35:03 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.robot.2026.105744
+05:35:05 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.enbuild.2026.118218
+05:35:15 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.geits.2026.100404
+05:35:17 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.chaos.2026.119004
+05:35:27 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.ast.2026.113802
+05:35:27 [INFO] scraper: [sciencedirect] Query done — raw: 20, unique: 19
+05:35:27 [INFO] scraper: [ScienceDirect] Running query: bifurcation structured latent representation nonlinear control
+05:35:45 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.aej.2026.04.017
+05:36:03 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.chaos.2026.119082
+05:36:07 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.nls.2026.100169
+05:36:09 [INFO] scraper: [sciencedirect] Query done — raw: 20, unique: 20
+05:36:09 [INFO] scraper: [ScienceDirect] Running query: actuator degradation latent space bifurcation
+05:36:21 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.compag.2026.112445
+05:36:35 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.energy.2026.142302
+05:36:43 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.icheatmasstransfer.2026.112492
+05:36:51 [INFO] scraper: [sciencedirect] Query done — raw: 20, unique: 13
+05:36:51 [INFO] scraper: [ScienceDirect] Running query: fault tolerant control latent nonlinear dynamics
+05:37:33 [INFO] scraper: [sciencedirect] Query done — raw: 20, unique: 20
+05:37:33 [INFO] scraper: [ScienceDirect] Running query: bifurcation early warning actuator degradation latent
+05:37:41 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/b978-0-32-395419-8.00008-8
+05:37:47 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.jspr.2026.103220
+05:37:53 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.birob.2026.100360
+05:38:07 [WARNING] scraper: HTTP 404 from https://api.elsevier.com/content/abstract/doi/10.1016/j.jrst.2025.10.003
+05:38:15 [INFO] scraper: [sciencedirect] Query done — raw: 20, unique: 16
+05:38:20 [INFO] scraper: Checkpoint saved → smns_r4_sciencedirect_checkpoint.json (20 papers)
+05:38:20 [INFO] scraper: ════════════════════════════════════════════════════════════
+05:38:20 [INFO] scraper: Site: Springer Nature Link
+05:38:20 [INFO] scraper: [Springer Nature Link] Running query: latent bifurcation dynamics actuator fault
+05:38:21 [INFO] scraper: [springer] Query done — raw: 20, unique: 20
+05:38:21 [INFO] scraper: [Springer Nature Link] Running query: learned latent dynamics actuator degradation
+05:38:25 [INFO] scraper: [springer] Query done — raw: 20, unique: 20
+05:38:25 [INFO] scraper: [Springer Nature Link] Running query: bifurcation structured latent representation nonlinear control
+05:38:27 [INFO] scraper: [springer] Query done — raw: 20, unique: 20
+05:38:27 [INFO] scraper: [Springer Nature Link] Running query: actuator degradation latent space bifurcation
+05:38:28 [INFO] scraper: [springer] Query done — raw: 20, unique: 12
+05:38:28 [INFO] scraper: [Springer Nature Link] Running query: fault tolerant control latent nonlinear dynamics
+05:38:30 [INFO] scraper: [springer] Query done — raw: 20, unique: 16
+05:38:30 [INFO] scraper: [Springer Nature Link] Running query: bifurcation early warning actuator degradation latent
+05:38:33 [INFO] scraper: [springer] Query done — raw: 20, unique: 18
+05:38:34 [INFO] scraper: Checkpoint saved → smns_r4_springer_checkpoint.json (20 papers)
+05:38:34 [INFO] scraper: ════════════════════════════════════════════════════════════
+05:38:34 [INFO] scraper: Site: ACM Digital Library
+05:38:34 [INFO] scraper: [ACM Digital Library] Running query: latent bifurcation dynamics actuator fault
+05:38:34 [WARNING] scraper: HTTP 403 from https://dl.acm.org/action/doSearch — waiting 2.0s
+05:38:36 [WARNING] scraper: HTTP 403 from https://dl.acm.org/action/doSearch — waiting 4.0s
+05:38:40 [WARNING] scraper: HTTP 403 from https://dl.acm.org/action/doSearch — waiting 8.0s
+05:38:48 [INFO] scraper: [acm] Query done — raw: 0, unique: 0
+05:38:48 [INFO] scraper: [ACM Digital Library] Running query: learned latent dynamics actuator degradation
+05:38:48 [WARNING] scraper: HTTP 403 from https://dl.acm.org/action/doSearch — waiting 2.0s
+05:38:51 [WARNING] scraper: HTTP 403 from https://dl.acm.org/action/doSearch — waiting 4.0s
+05:38:55 [WARNING] scraper: HTTP 403 from https://dl.acm.org/action/doSearch — waiting 8.0s
+05:39:03 [INFO] scraper: [acm] Query done — raw: 0, unique: 0
+05:39:03 [INFO] scraper: [ACM Digital Library] Running query: fault tolerant control latent nonlinear dynamics
+05:39:03 [WARNING] scraper: HTTP 403 from https://dl.acm.org/action/doSearch — waiting 2.0s
+05:39:05 [WARNING] scraper: HTTP 403 from https://dl.acm.org/action/doSearch — waiting 4.0s
+05:39:09 [WARNING] scraper: HTTP 403 from https://dl.acm.org/action/doSearch — waiting 8.0s
+05:39:17 [INFO] scraper: [acm] Query done — raw: 0, unique: 0
+05:39:17 [INFO] scraper: Checkpoint saved → smns_r4_acm_checkpoint.json (0 papers)
+05:39:17 [INFO] scraper: ════════════════════════════════════════════════════════════
+05:39:17 [INFO] scraper: Site: AIAA Aerospace Research Central
+05:39:17 [INFO] scraper: [AIAA Aerospace Research Central] Running query: "latent dynamics" AND bifurcation AND actuator
+05:39:17 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 2.0s
+05:39:19 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 4.0s
+05:39:23 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 8.0s
+05:39:31 [INFO] scraper: [aiaa] Query done — raw: 0, unique: 0
+05:39:31 [INFO] scraper: [AIAA Aerospace Research Central] Running query: "latent representation" AND bifurcation AND flight control
+05:39:31 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 2.0s
+05:39:33 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 4.0s
+05:39:37 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 8.0s
+05:39:45 [INFO] scraper: [aiaa] Query done — raw: 0, unique: 0
+05:39:45 [INFO] scraper: [AIAA Aerospace Research Central] Running query: "actuator degradation" AND bifurcation AND aircraft
+05:39:45 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 2.0s
+05:39:47 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 4.0s
+05:39:51 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 8.0s
+05:39:59 [INFO] scraper: [aiaa] Query done — raw: 0, unique: 0
+05:39:59 [INFO] scraper: [AIAA Aerospace Research Central] Running query: "actuator fault" AND "latent space" AND aircraft
+05:39:59 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 2.0s
+05:40:02 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 4.0s
+05:40:06 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 8.0s
+05:40:14 [INFO] scraper: [aiaa] Query done — raw: 0, unique: 0
+05:40:14 [INFO] scraper: [AIAA Aerospace Research Central] Running query: "fault tolerant control" AND "latent dynamics" AND aircraft
+05:40:14 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 2.0s
+05:40:16 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 4.0s
+05:40:20 [WARNING] scraper: HTTP 403 from https://arc.aiaa.org/action/doSearch — waiting 8.0s
+05:40:28 [INFO] scraper: [aiaa] Query done — raw: 0, unique: 0
+05:40:28 [INFO] scraper: Checkpoint saved → smns_r4_aiaa_checkpoint.json (0 papers)
+05:40:28 [INFO] scraper: ════════════════════════════════════════════════════════════
+05:40:28 [INFO] scraper: Site: IFAC-PapersOnLine
+05:40:28 [INFO] scraper: [IFAC-PapersOnLine] Running query: latent bifurcation dynamics actuator fault
+05:40:28 [INFO] scraper: [ifac] Query done — raw: 20, unique: 20
+05:40:28 [INFO] scraper: [IFAC-PapersOnLine] Running query: learned latent dynamics actuator degradation
+05:40:31 [INFO] scraper: [ifac] Query done — raw: 20, unique: 19
+05:40:31 [INFO] scraper: [IFAC-PapersOnLine] Running query: bifurcation structured latent representation nonlinear control
+05:40:34 [INFO] scraper: [ifac] Query done — raw: 20, unique: 20
+05:40:34 [INFO] scraper: [IFAC-PapersOnLine] Running query: actuator degradation latent space bifurcation
+05:40:37 [INFO] scraper: [ifac] Query done — raw: 20, unique: 13
+05:40:37 [INFO] scraper: [IFAC-PapersOnLine] Running query: fault tolerant control latent nonlinear dynamics
+05:40:40 [INFO] scraper: [ifac] Query done — raw: 20, unique: 20
+05:40:40 [INFO] scraper: [IFAC-PapersOnLine] Running query: bifurcation early warning actuator degradation latent
+05:40:43 [INFO] scraper: [ifac] Query done — raw: 20, unique: 16
+05:41:09 [INFO] scraper: Checkpoint saved → smns_r4_ifac_checkpoint.json (20 papers)
+05:41:09 [INFO] scraper: ════════════════════════════════════════════════════════════
+05:41:09 [INFO] scraper: Running cross-site deduplication …
+05:41:09 [INFO] scraper: Wrote 59 papers to smns_r4.json
+05:41:09 [INFO] scraper: Wrote 460 raw results to smns_r4_raw.json
+05:41:09 [INFO] scraper: Wrote Markdown to smns_r4.md
+
+════════════════════════════════════════════════════════════
+RETRIEVAL SUMMARY
+════════════════════════════════════════════════════════════
+
+Google Scholar
+  Query: 'latent bifurcation dynamics actuator fault'
+    raw: 20  unique: 19
+  Query: 'learned latent dynamics actuator degradation'
+    raw: 0  unique: 0
+  Query: 'bifurcation structured latent representation nonlinear control'
+    raw: 0  unique: 0
+  Query: 'actuator degradation latent space bifurcation'
+    raw: 20  unique: 17
+  Query: 'fault tolerant control latent nonlinear dynamics'
+    raw: 20  unique: 20
+  Query: 'learned center manifold actuator fault control'
+    raw: 20  unique: 20
+  Query: 'bifurcation early warning actuator degradation latent'
+    raw: 20  unique: 17
+  TOTAL raw: 100  unique: 20  with abstract: 11
+  ⚠  Query 'learned latent dynamics actuator degradation' failed: expected string or bytes-like object, got 'NoneType'
+  ⚠  Query 'bifurcation structured latent representation nonlinear control' failed: expected string or bytes-like object, got 'NoneType'
+
+IEEE Xplore
+  Query: '"latent dynamics" AND bifurcation AND actuator'
+    raw: 0  unique: 0
+  Query: '"latent representation" AND bifurcation AND control'
+    raw: 0  unique: 0
+  Query: '"actuator degradation" AND "latent dynamics"'
+    raw: 0  unique: 0
+  Query: '"actuator fault" AND "latent space" AND control'
+    raw: 0  unique: 0
+  Query: '"fault tolerant control" AND "latent dynamics"'
+    raw: 0  unique: 0
+  TOTAL raw: 0  unique: 0  with abstract: 0
+
+ScienceDirect
+  Query: 'latent bifurcation dynamics actuator fault'
+    raw: 20  unique: 20
+  Query: 'learned latent dynamics actuator degradation'
+    raw: 20  unique: 19
+  Query: 'bifurcation structured latent representation nonlinear control'
+    raw: 20  unique: 20
+  Query: 'actuator degradation latent space bifurcation'
+    raw: 20  unique: 13
+  Query: 'fault tolerant control latent nonlinear dynamics'
+    raw: 20  unique: 20
+  Query: 'bifurcation early warning actuator degradation latent'
+    raw: 20  unique: 16
+  TOTAL raw: 120  unique: 20  with abstract: 17
+
+Springer Nature Link
+  Query: 'latent bifurcation dynamics actuator fault'
+    raw: 20  unique: 20
+  Query: 'learned latent dynamics actuator degradation'
+    raw: 20  unique: 20
+  Query: 'bifurcation structured latent representation nonlinear control'
+    raw: 20  unique: 20
+  Query: 'actuator degradation latent space bifurcation'
+    raw: 20  unique: 12
+  Query: 'fault tolerant control latent nonlinear dynamics'
+    raw: 20  unique: 16
+  Query: 'bifurcation early warning actuator degradation latent'
+    raw: 20  unique: 18
+  TOTAL raw: 120  unique: 20  with abstract: 19
+
+ACM Digital Library
+  Query: 'latent bifurcation dynamics actuator fault'
+    raw: 0  unique: 0
+  Query: 'learned latent dynamics actuator degradation'
+    raw: 0  unique: 0
+  Query: 'fault tolerant control latent nonlinear dynamics'
+    raw: 0  unique: 0
+  TOTAL raw: 0  unique: 0  with abstract: 0
+  ⚠  ACM search failed: latent bifurcation dynamics actuator fault
+  ⚠  ACM search failed: learned latent dynamics actuator degradation
+  ⚠  ACM search failed: fault tolerant control latent nonlinear dynamics
+
+AIAA Aerospace Research Central
+  Query: '"latent dynamics" AND bifurcation AND actuator'
+    raw: 0  unique: 0
+  Query: '"latent representation" AND bifurcation AND flight control'
+    raw: 0  unique: 0
+  Query: '"actuator degradation" AND bifurcation AND aircraft'
+    raw: 0  unique: 0
+  Query: '"actuator fault" AND "latent space" AND aircraft'
+    raw: 0  unique: 0
+  Query: '"fault tolerant control" AND "latent dynamics" AND aircraft'
+    raw: 0  unique: 0
+  TOTAL raw: 0  unique: 0  with abstract: 0
+  ⚠  AIAA search failed: "latent dynamics" AND bifurcation AND actuator
+  ⚠  AIAA search failed: "latent representation" AND bifurcation AND flight control
+  ⚠  AIAA search failed: "actuator degradation" AND bifurcation AND aircraft
+  ⚠  AIAA search failed: "actuator fault" AND "latent space" AND aircraft
+  ⚠  AIAA search failed: "fault tolerant control" AND "latent dynamics" AND aircraft
+
+IFAC-PapersOnLine
+  Query: 'latent bifurcation dynamics actuator fault'
+    raw: 20  unique: 20
+  Query: 'learned latent dynamics actuator degradation'
+    raw: 20  unique: 19
+  Query: 'bifurcation structured latent representation nonlinear control'
+    raw: 20  unique: 20
+  Query: 'actuator degradation latent space bifurcation'
+    raw: 20  unique: 13
+  Query: 'fault tolerant control latent nonlinear dynamics'
+    raw: 20  unique: 20
+  Query: 'bifurcation early warning actuator degradation latent'
+    raw: 20  unique: 16
+  TOTAL raw: 120  unique: 20  with abstract: 0
+
+────────────────────────────────────────────────────────────
+Cross-site unique papers : 59
+Papers with abstracts    : 47
+Papers without abstracts : 12
+
+Outputs:
+  smns_r4.json
+  smns_r4.md
+  smns_r4_raw.json
+════════════════════════════════════════════════════════════

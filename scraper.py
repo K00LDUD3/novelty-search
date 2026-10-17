@@ -1808,6 +1808,17 @@ def build_parser() -> argparse.ArgumentParser:
                    help="Enable DEBUG logging")
     return p
 
+def checkpoint(papers: list[PaperRecord], raw_bucket: list[dict], stem: str) -> None:
+    Path(f"{stem}_checkpoint.json").write_text(
+        json.dumps([p.to_dict() for p in papers], indent=2, ensure_ascii=False),
+        encoding="utf-8"
+    )
+    Path(f"{stem}_raw_checkpoint.json").write_text(
+        json.dumps(raw_bucket, indent=2, ensure_ascii=False),
+        encoding="utf-8"
+    )
+    log.info("Checkpoint saved (%d papers so far)", len(papers))
+
 
 def main() -> None:
     parser = build_parser()
@@ -1857,6 +1868,8 @@ def main() -> None:
                 crossref_sess,
             )
             all_site_papers[site_key] = papers
+            # Change for checkpointing:
+            checkpoint(list(global_dedup.papers()) + [p for s, ps in all_site_papers.items() for p in ps], raw_bucket, output_stem)
         except Exception as exc:
             log.error("Site %s failed entirely: %s", site_key, exc)
             site_stats[site_key] = {

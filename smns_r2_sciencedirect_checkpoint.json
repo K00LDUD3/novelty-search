@@ -1,0 +1,1577 @@
+[
+  {
+    "title": "On the turbulent wake of the actuated fluidic pinball: Dynamics, bifurcations and control authority",
+    "authors": [
+      "Alicia Rodríguez-Asensio"
+    ],
+    "year": "2026",
+    "venue": "Experimental Thermal and Fluid Science",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.expthermflusci.2026.111798",
+    "doi_source": "api",
+    "abstract": "We present the first comprehensive experimental and numerical study featuring the turbulent wake of the fluidic pinball for a large actuation range. The fluidic pinball is a cluster of three equal parallel circular cylinders centered on the vertices of an equilateral triangle, pointing upstream in uniform flow. This configuration has become a canonical benchmark for control-oriented reduced-order modeling, for nonlinear control design and for a large kaleidoscope of drag reduction mechanisms. While the literature covers well the laminar two-dimensional Reynolds number regime, we focus on unexplored terra incognita: experiments of the symmetrically actuated turbulent regime at a Reynolds number of (Formula presented). In other words, the upstream cylinder is kept stationary, while the two downstream cylinders rotate with equal and opposite angular velocities. A large range of base-bleeding and boat-tailing actuation parameters is investigated with time-resolved particle image velocimetry and aerodynamic force measurement with a companion Reynolds-averaged Navier–Stokes simulation. Our results indicate that the turbulent wake of the fluidic pinball can be approximated by a three-dimensional actuation manifold (Marra et al., 2024 [1]), comprising two inverse pitchfork bifurcations. In the boat-tailing limit, a reduced control authority with a new low-frequency shedding state is observed.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.expthermflusci.2026.111798",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.expthermflusci.2026.111798"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Hopf bifurcation analysis and control of actuated wheelset under delayed linear and nonlinear feedback",
+    "authors": [
+      "Peng Guo"
+    ],
+    "year": "2025",
+    "venue": "Journal of Sound and Vibration",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.jsv.2025.119216",
+    "doi_source": "api",
+    "abstract": "This paper investigates the hunting bifurcation behavior of an actuated railway wheelset under delayed linear and nonlinear yaw feedback control. The control force applied by the actuator is described as a delayed polynomial function of the state variables. First, the local stability and the occurrence of Hopf bifurcation are considered by treating the time delay as a bifurcation parameter and analyzing the associated characteristic equation. The explicit formulae are then derived to determine the direction of Hopf bifurcation and the stability of bifurcated periodic solutions using the normal form theory and center manifold theorem. The impact of changes in individual variables on the critical time delay is discussed within a specified range. Finally, the effects of time delay and feedback control gains on the Hopf bifurcation point, type of bifurcation, and limit cycle amplitude are thoroughly examined. Numerical simulations conducted via the continuation package DDE-BIFTOOL validate the theoretical analysis results. Our findings demonstrate that the optimal combination of linear and nonlinear velocity control gains enhances hunting stability by delaying Hopf bifurcation and mitigating hunting oscillations.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.jsv.2025.119216",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.jsv.2025.119216"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Dynamics of a capsule robot driven by a bistable dielectric elastomer actuator",
+    "authors": [
+      "Chuang Wu"
+    ],
+    "year": "2026",
+    "venue": "Mechanics Research Communications",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.mechrescom.2026.104798",
+    "doi_source": "api",
+    "abstract": "Capsule crawling robots offer significant potential for navigating unstructured environments. However, conventional designs based on active anchoring or anisotropic friction generally suffer from complex structures and poor environmental adaptability. Vibro-impact capsule robots eliminate external anchoring mechanisms, but their reliance on high-peak impact forces raises structural fatigue risks and safety concerns in fragile environments. This paper presents a numerical investigation of a novel low-impact capsule robot driven by a bistable dielectric elastomer actuator (DEA). Unlike vibro-impact-driven designs, the proposed robot achieves directional locomotion by exploiting the asymmetric driving force generated during the intra-well oscillations of the bistable DEA. A two-degree-of-freedom electromechanical coupling dynamic model is developed to characterize the nonlinear bistable behaviors and stick–slip locomotion of the system. Extensive numerical simulations are conducted to systematically analyze the effects of key parameters on locomotion performance, including excitation conditions, bistable characteristics, static friction coefficient, and robot mass. The results demonstrate that reliable directional locomotion relies on stable periodic intra-well responses of the DEA. Crucially, increasing the voltage amplitude can improve locomotion velocity within a certain range, while excessive voltage amplitude induces period-doubling bifurcations and chaotic motion, leading to performance degradation. Furthermore, an optimal matching relationship between the nonlinear driving force profile and the static friction threshold is revealed, which minimizes backward slippage and achieves the highest locomotion velocity. This work provides theoretical guidance for the design of low-impact soft capsule robots and is promising for applications requiring delicate contact environments.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.mechrescom.2026.104798",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.mechrescom.2026.104798"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Delay induced stability switches in actuated railway bogie",
+    "authors": [
+      "Peng Guo"
+    ],
+    "year": "2026",
+    "venue": "Applied Mathematical Modelling",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.apm.2025.116332",
+    "doi_source": "api",
+    "abstract": "This study examines the dynamical behavior of a railway bogie with yaw actuators under delayed displacement and velocity feedback control. First, the time delay is regarded as a bifurcation parameter to analyze stability switches and Hopf bifurcations. Next, analytical criteria for bifurcation direction and periodic solution stability are derived using the normal form theory and center manifold theorem. Furthermore, bifurcation analysis reveals the influence of key parameters on stability switches, Hopf frequency, global view of periodic motions, and global structure of Hopf bifurcations, including a Hopf-Hopf bifurcation through crossed Hopf branches. Notably, distinct critical delays generate periodic solutions with varying Hopf-related frequencies. Ultimately, numerical simulations validate that growing delay induces multiple stability switches and Hopf bifurcations, eventually causing instability, with hunting stability potentially being maintained under certain high-delay regions.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.apm.2025.116332",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.apm.2025.116332"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Self-oscillation of a photo-actuated dual-beam system under linear optical excitation",
+    "authors": [
+      "Lin Zhou"
+    ],
+    "year": "2026",
+    "venue": "Chaos, Solitons & Fractals",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.chaos.2025.117740",
+    "doi_source": "api",
+    "abstract": "Self-oscillating systems utilizing optically responsive liquid crystal elastomers (LCEs) are increasingly used in energy harvesting, soft robotics, and actuator applications. However, most studies expose different sections of the same LCE fiber to varying light intensity gradients, leading to local overheating and internal stress concentration, making accurate prediction and control difficult. To overcome these limitations, we propose a dual-beam system operating under a linear optical environment. A general governing equation is formulated, and its asymptotic form is derived for short characteristic times. Numerical analysis reveals a Hopf bifurcation between static and periodic modes. Using multi-scale method, the bifurcation point, oscillation amplitude, and frequency are obtained analytically, and their dependence on system parameters is systematically examined. The analytical solutions agree well with numerical results from both the governing and asymptotic equations, confirming their validity. This system overcomes the limitations of uniform-light models by enabling flexible spatial light regulation, preventing local overheating, and ensuring uniform stress and coordinated deformation. The model is compact and provides a theoretical foundation for analyzing LCE fibers under complex non-uniform or coupled stimulus fields, offering guidance for applications in soft robotics, energy harvesting, and micro-machinery.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.chaos.2025.117740",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.chaos.2025.117740"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Non-minimum-phase resonant controller for active damping control: Application to piezo-actuated nanopositioning system",
+    "authors": [
+      "Aditya Natu"
+    ],
+    "year": "2026",
+    "venue": "Control Engineering Practice",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.conengprac.2026.106790",
+    "doi_source": "api",
+    "abstract": "Nanopositioning systems frequently encounter limitations in control bandwidth due to their lightly damped resonance behavior. This paper presents a novel Non-Minimum-Phase Resonant Controller (NRC) aimed at active damping control within dual closed-loop architectures, specifically applied to piezo-actuated nanopositioning systems. The control strategy is structured around formulated objectives for shaping sensitivity functions to meet predetermined system performance criteria. Leveraging non-minimum-phase characteristics, the proposed NRC accomplishes complete damping and the bifurcation of double resonant poles at the primary resonance peak through a constant-gain design accompanied by tunable phase variation. The NRC demonstrates robustness against frequency variations of the resonance arising from load changes and is also capable of damping higher-order flexural modes simultaneously. Furthermore, by establishing high gains at low frequencies within the inner closed-loop and integrating it with a conventional PI tracking controller, the NRC achieves substantial dual closed-loop bandwidths that can exceed the first resonance frequency. Moreover, the NRC significantly diminishes the effect of low-frequency reference signals on real feedback errors while effectively rejecting disturbances proximate to the resonance frequency. All contributions are thoroughly formulated and exemplified mathematically, with the controller's performance confirmed through an experimental setup utilizing an industrial nanopositioning system. The experimental results indicate dual closed-loop bandwidths of 830 Hz and 755 Hz, characterized by ± 3 dB and ± 1 dB bounds, respectively, that surpass the resonance frequency of 710 Hz.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.conengprac.2026.106790",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.conengprac.2026.106790"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Non-smooth bifurcation structures and chaos control in a quarter-car piecewise-linear suspension system with time-delayed velocity feedback",
+    "authors": [
+      "Ponnada Durga Prasad"
+    ],
+    "year": "2026",
+    "venue": "International Journal of Non-Linear Mechanics",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.ijnonlinmec.2026.105370",
+    "doi_source": "api",
+    "abstract": "Advanced vehicle suspension systems often incorporate piecewise-smooth and non-smooth stiffness and damping elements, making them susceptible to complex nonlinear behaviors, including multi-periodicity, bifurcations, and chaos, particularly under parametric uncertainties and external excitations. Such dynamics can degrade ride comfort, accelerate structural wear, and jeopardize operational safety, underscoring the necessity for precise dynamical characterization and effective control strategies. In this study, the bifurcation structure and chaos suppression of a harmonically excited quarter-car piecewise-linear suspension (QC-PLS) are systematically investigated using time-delayed velocity feedback control. Complex periodic responses of both uncontrolled and controlled systems are computed in the frequency domain via the incremental harmonic balance (IHB) method, while their stability is evaluated with a semi-discretization-based Floquet framework. The uncontrolled QC-PLS system exhibits rich nonlinear dynamics, including multiple coexisting primary and subharmonic resonance branches, simultaneous subcritical and supercritical flip bifurcations, and broadband chaotic responses stemming from mixed-mode period-doubling cascades. To mitigate these adverse behaviors, delayed linear and nonlinear velocity feedback controllers are designed within the IHB framework—an approach that remains largely unexplored for non-smooth systems. Controller gains and delay parameters are selected based on local equilibrium stability criteria. The proposed control strategies effectively suppress higher-order subharmonic resonances, flip bifurcations, and chaotic oscillations, guiding the system toward stable, low-amplitude periodic responses. For identical control parameters, pure linear velocity feedback is found to outperform purely nonlinear feedback in terms of vibration attenuation and stability enhancement. Bifurcation diagrams and basins of attraction further reveal that substantially larger negative velocity gains are necessary to eliminate strong chaotic motions compared to weak chaos. The analytical predictions are corroborated by direct time-domain numerical simulations (NS), confirming the accuracy of the IHB-based analysis and the robustness of the proposed control schemes. The work provides a comprehensive theoretical and computational framework for analysing and controlling non-smooth quarter-car suspension systems that exhibit complex nonlinear dynamics.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.ijnonlinmec.2026.105370",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.ijnonlinmec.2026.105370"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Stability and Hopf bifurcation of vertical magnetic bearing system with asymmetric displacement and velocity delays",
+    "authors": [
+      "Zhizhou Zhang"
+    ],
+    "year": "2026",
+    "venue": "Communications in Nonlinear Science and Numerical Simulation",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.cnsns.2026.110129",
+    "doi_source": "api",
+    "abstract": "In magnetic bearing systems, Hopf bifurcations induced by time-delay effects not only degrade system stability but also significantly affect controller performance. However, existing studies primarily focus on single-delay systems, while the effects of dual time delays remain insufficiently researched. This work investigates the Hopf bifurcation characteristics of a vertical magnetic bearing (VMB) system with displacement and velocity feedback delays. First, the critical delay values under simultaneous variations of the two delays are determined using the stability switching curve method. The stability and direction of the bifurcating periodic solutions are then analyzed via center manifold reduction. Next, numerical simulations are conducted to reveal the coupling effects between the dual delays and to quantify the influence of control parameters on the system stability regions. Combined with frequency-domain analysis, the physical mechanisms by which control parameters regulate the delay-induced stability regions are elucidated, providing theoretical guidance for controller design. In addition, the effects of dual-delay-induced Hopf bifurcations on rotor dynamic behavior are systematically analyzed. Finally, experimental results on the VMB platform validate the theoretical analysis.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.cnsns.2026.110129",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.cnsns.2026.110129"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Fuzzy prescribed performance backstepping control for ship roll chaotic motion under actuator faults",
+    "authors": [
+      "Zexu Miao"
+    ],
+    "year": "2026",
+    "venue": "Ocean Engineering",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.oceaneng.2026.125909",
+    "doi_source": "api",
+    "abstract": "To address the problem of chaos suppression in ship roll motion under actuator faults and to enhance control performance and navigation safety under faulty conditions, a fixed-time prescribed performance backstepping control method based on a fuzzy state observer is proposed By designing a fixed-time prescribed performance function, the dynamic performance of the tracking error is strictly constrained; a fuzzy state observer is constructed to estimate unknown system states in real time; and a fuzzy logic system is introduced to approximate the unknown nonlinear functions arising from actuator faults and model uncertainties. Through the Lyapunov theorem, the semi-global uniform ultimate bounded (SGUUB) properties of the proposed control algorithm are proved. Finally, simulations verify that the proposed method can effectively suppress chaotic phenomena in ship rolling motion under actuator failures, ensure rapid convergence within a fixed time, and comply with the prescribed dynamic performance requirements. This approach significantly improves the system’s convergence speed, robustness, and fault tolerance.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.oceaneng.2026.125909",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.oceaneng.2026.125909"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Experimental research on supersonic shock wave/boundary layer interaction controlled by alternating continuous plasma actuation",
+    "authors": [
+      "Dongsheng Zhang"
+    ],
+    "year": "2026",
+    "venue": "Aerospace Science and Technology",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.ast.2026.112616",
+    "doi_source": "api",
+    "abstract": "A pulsed arc plasma alternating continuous discharge circuit was designed to control supersonic shock wave/boundary layer interaction (SWBLI). By controlling the on and off states of the electronic switches in the charging circuit, it enables the integration of high-frequency actuation and high-energy actuation, overcoming the traditional limitation that high energy and high frequency cannot be achieved simultaneously. Using a high-speed schlieren system and surface fluorescent oil-flow visualization, the evolution of the flow-field shock system structure and the wall-surface separation region were captured. The results indicate that, for shock wave system control, the actuation frequency is a key factor influencing the control effectiveness. On the one hand, plasma actuation continuously affects the shock wave structure, intensifying its unsteadiness and reducing the shock angle. On the other hand, actuation mitigates the low-frequency instability of the shock wave, increasing the proportion of high-frequency components dominated by the actuation frequency. For separation-region control, a \"W\"-shaped separation line forms at an actuation frequency of 10 kHz. The separation point downstream of the actuation location moves upstream, while the separation points on both sides move downstream, resulting in a net downstream shift of the mean separation line. This phenomenon is related to the evolution of vortex structures induced by actuation. Under the premise of effective shock wave system control, separation regulation results from a trade-off between actuation frequency and actuation energy. This study provides new control concepts and methodological support for the regulation of shock wave/boundary layer interaction and flow separation control in supersonic aircraft.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.ast.2026.112616",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.ast.2026.112616"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Flutter suppression and bifurcation reconfiguration of an airfoil using pre-stressed nonlinear vibration absorbers",
+    "authors": [
+      "Xin Wu"
+    ],
+    "year": "2026",
+    "venue": "Aerospace Science and Technology",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.ast.2026.113189",
+    "doi_source": "api",
+    "abstract": "Passive flutter suppression requires absorbers that can improve the local stability boundary while regulating nonlinear post-flutter responses. This study investigates pre-stressed nonlinear vibration absorbers attached to a two-dimensional typical airfoil section with a control surface, focusing on pre-compression and pre-tension configurations. A coupled aeroelastic model based on Theodorsen’s unsteady aerodynamic theory is developed, and time-domain simulations, two-parameter bifurcation analysis, numerical continuation, Hilbert-Huang analysis, and energy analysis are combined to examine flutter onset, bifurcation reconfiguration, resonance capture, and energy dissipation. The two-parameter analysis reveals that Hopf-Hopf bifurcations organize the interaction between Neimark-Sacker and cyclic-fold curves, thereby governing the transition between low-amplitude modulated responses and fold-induced large-amplitude oscillations. The results show that pre-stress introduces a tunable equivalent linear stiffness, enabling both absorber configurations to modify the flutter boundary. However, their nonlinear post-flutter behaviors differ substantially. Within the investigated parameter range, the pre-tension absorber produces a more favorable bifurcation structure by separating the low-amplitude response path from the large-amplitude branch and delaying the jump boundary. Time-frequency and energy analyses further show intermittent resonance capture and directed transfer of aerodynamic energy into absorber damping, with limited energy backflow when the absorber is properly tuned. Compared with the classical nonlinear energy sink under the examined conditions, the tuned pre-tension nonlinear vibration absorber increases the Hopf onset speed, delays the jump boundary, and substantially reduces the post-flutter response amplitude. These findings indicate that pre-tension nonlinear vibration absorbers provide a promising passive strategy for flutter suppression through the combined regulation of bifurcation structure and energy dissipation.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.ast.2026.113189",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.ast.2026.113189"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Design strategies for low-voltage dielectric elastomer actuators from materials to systems",
+    "authors": [
+      "Minchae Kang"
+    ],
+    "year": "2026",
+    "venue": "Materials & Design",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.matdes.2026.117069",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.matdes.2026.117069",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.matdes.2026.117069"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Surface dielectric barrier discharge plasma actuators for flame stabilization and combustion control: mechanisms, design trends, and future directions",
+    "authors": [
+      "F. Bagherighajari"
+    ],
+    "year": "2026",
+    "venue": "Fuel",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.fuel.2026.139348",
+    "doi_source": "api",
+    "abstract": "The present state of the energy industry in the world predetermines the transition to clean and environmentally friendly combustion systems that may contribute to addressing climate change and reduce environmental contamination. Among various combustion enhancement techniques, dielectric barrier discharge (DBD) plasma actuators are appearing to be a promising and viable method. This review is meant to investigate the new and the most significant applications and the operational capacity of DBD plasma actuators in flame and combustion control and enhancement. This paper describes how non-thermal plasma devices with electrohydrodynamic, thermal, and chemical kinetic processes are an encouraging non-intrusive solution to the issue of flame stability, combustion enhancement, and emission minimization. This review unites both experimental and theoretical researches in demonstrating the successes and possibility of the employing DBD actuator on applications, including the use of the actuator to stabilize flames in bluff-body burners, to produce active swirls using a plasma swirler, and to accelerate reaction rates by using active species generated in a plasma such as ozone (O3). This study has suggested that DBD could be used to increase the lean blow-off limits and to allow stable operation under moderate or severe low-oxygen dilution combustion. Some of the current limitations are also addressed, such as the durability of actuators, power needs, scale in high-velocity flows and incomplete knowledge of the interactions between a plasma and combustion. The review is concluded with the views on the future research, in which advanced diagnostics, strong materials, and better numerical modeling are needed to exploit the full potential of DBD-based combustion systems.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.fuel.2026.139348",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.fuel.2026.139348"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Stiffness-controlled failure bifurcation in heavy-duty pin connections driven by parasitic axial thrust",
+    "authors": [
+      "Zhongyuan Wang"
+    ],
+    "year": "2026",
+    "venue": "Engineering Failure Analysis",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.engfailanal.2026.110833",
+    "doi_source": "api",
+    "abstract": "Heavy-duty pin connections are usually designed for transverse bearing and shear, and axial actions are often ignored. Field failures of retaining hardware indicate that structural deformation can generate a significant parasitic axial demand. This paper investigates parasitic axial thrust (PAT) and shows that the axial boundary condition governs how this demand evolves into damage. Two contrasted cases are examined using mechanics-based analysis, finite element simulation, and forensic evidence. In a tower crane jib connection with rigid baffle restraint, axial motion is suppressed and PAT is confined. The trapped thrust is transformed into a critical bending demand in the locking pin, leading to brittle cleavage when material toughness is insufficient. In a full-scale lattice attachment strut with a floating washer–cotter retention, prying and lug dilation promote contact migration and generate an axial component. The inferred PAT is about 30 kN, sufficient to shear the cotter pin while the main shaft bends significantly. Together, the cases establish a stiffness-dependent bifurcation: rigid restraint promotes force-controlled pin fracture, whereas floating restraint shifts failure to displacement-controlled retainer shear. The proposed formulation and failure mechanism map provide actionable guidance for the design of axial retention systems in heavy-duty pin connections.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.engfailanal.2026.110833",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.engfailanal.2026.110833"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Dynamics characteristic analysis of rudder actuator with lubrication clearance under transient impact load",
+    "authors": [
+      "Ye Lu"
+    ],
+    "year": "2026",
+    "venue": "Applied Mathematical Modelling",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.apm.2026.117035",
+    "doi_source": "api",
+    "abstract": "In previous dynamic analyses of rudder actuator with clearance, it was typically assumed that the linkages were rigid, and the lubrication of the revolute joints was overlooked. However, the introduction of lubrication clearance and flexible linkage significantly alters the dynamic response of the mechanism. Given that the rudder actuator is influenced by practical factors such as lubrication clearance, flexible linkages, and impact loads on the rudder surface, this work constructs a dynamic model with rigid-flexible coupling to characterize the behavior of the rudder actuator under lubrication clearance conditions. This model is based on an improved hybrid contact force model, integrated with a modified Pinkus-Sternlicht model and a flexible beam element model. The analysis assessed the effects of various different nonlinear influences on the system’s dynamic performance and its nonlinear attributes. The findings indicated that linkage flexibility exacerbates the system's chaos behavior, whereas lubricants effectively alleviate this issue. However, lubricants are unable to reduce the chaos behavior of the mechanism with excessively small clearances. Additionally, it is observed that transient impact loads intensify the system's dynamic response and have a persistent impact on subsequent cycles. Finally, experiments validate the effectiveness of the theoretical model. This study provides a theoretical foundation for accurately analyzing the dynamic characteristics of rudder actuators with clearance and supports the precise control of such mechanisms.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.apm.2026.117035",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.apm.2026.117035"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Vibration suppression analysis of active magnetic bearing systems considering time-delay bifurcation and amplitude jump",
+    "authors": [
+      "Shuaikang Cao"
+    ],
+    "year": "2026",
+    "venue": "Chaos, Solitons & Fractals",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.chaos.2026.118957",
+    "doi_source": "api",
+    "abstract": "This work investigates resonance instability and vibration suppression in active magnetic bearing (AMB) systems, with particular attention to the coupled effects of time-delay bifurcation and amplitude jump phenomena. The influences of proportional-derivative (PD) feedback gains and control-loop delays on the equivalent damping and nonlinear stiffness of the AMB system are examined. Hassard's stability criterion is employed to determine the allowable stable delay regions, and the corresponding boundaries are identified as Hopf bifurcation points via the transversality condition and root locus analysis. The stiffness hardening-softening transition of active magnetic bearings is identified via cubic nonlinear‑stiffness coefficients, and the analytical results obtained from the improved multiple‑scale method are used to verify this transition mechanism under external excitation and to explore the amplitude–frequency characteristics. The Routh–Hurwitz criterion is then applied to determine the amplitude jump regions, and a joint analysis of the jump regions and Hassard stable domains is performed to evaluate the overall resonance stability. The coupling effects of control gains, time delays, and external excitation on resonance stability are summarized and validated through numerical simulations and experiments. Results show that mismatched feedback gains broaden the resonance range, aggravate amplitude jumps, and ultimately induce Hopf bifurcation. The critical delays of the displacement and velocity channels exhibit an opposite evolution trend with varying velocity feedback gain, whereas the displacement feedback gain governs the evolution of stiffness from hardening to softening. Setting the displacement gain near the boundary of the jump region enables a trade-off between low resonant amplitude and favorable stability margins. Experimental results corroborate the theoretical predictions and simulations regarding amplitude jump evolution and Hopf bifurcation, and further confirm the effectiveness of the proposed vibration suppression strategy.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.chaos.2026.118957",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.chaos.2026.118957"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Bifurcation and hunting stability of high-speed trains with active lateral and motor suspension systems on curved tracks",
+    "authors": [
+      "Wen Zhang"
+    ],
+    "year": "2026",
+    "venue": "International Journal of Non-Linear Mechanics",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.ijnonlinmec.2026.105418",
+    "doi_source": "api",
+    "abstract": "This paper establishes a simplified 7-degree-of-freedom (7-DOF) nonlinear lateral dynamic model of a complete train operating on curved tracks, and investigates the effects of curve parameters, suspension parameters, equivalent conicity, and friction coefficient on the first and second hunting motions. The results show that increasing the track curvature radius and superelevation angle has minimal impact on the stability range of the first hunting motion but can significantly enhance the critical speed for the second hunting motion. While existing research has extensively explored vehicle dynamics, the influence of active control parameters and motor parameters on the system’s Hopf bifurcation behavior remains insufficiently investigated. To address this issue, the paper introduces an active lateral suspension control strategy based on the skyhook/groundhook damping principle, revealing the influence mechanisms of linear and nonlinear control gain coefficients on the critical hunting speed and limit cycle amplitude. The results indicate that the skyhook linear damping control law can completely suppress the first hunting motion, while the groundhook linear damping control law suppresses the second hunting motion; the groundhook cubic nonlinear damping control law effectively reduces the amplitude of the second hunting motion, whereas the skyhook cubic nonlinear damping control law significantly reduces the amplitude of the first hunting motion. However, excessive nonlinear damping may increase system uncertainty. Furthermore, by incorporating a motor suspension system, the influence of key parameters such as motor mass, rotational inertia, lateral and yaw frequencies, and damping on the system’s hunting stability is investigated. Based on this analysis, the critical speed for the second hunting motion is effectively improved through parameter configurations identified via parameter scanning.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.ijnonlinmec.2026.105418",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.ijnonlinmec.2026.105418"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Dual-actuated fuel valve based on piezoelectric stack and stepper motor with active decoupling control for combustion oscillations",
+    "authors": [
+      "Pengda Ren"
+    ],
+    "year": "2026",
+    "venue": "Aerospace Science and Technology",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.ast.2026.111658",
+    "doi_source": "api",
+    "abstract": "Lean premixed combustion offers advantages such as low nitrogen oxide emissions and high combustion efficiency, but it is more prone to inducing coupled oscillations in combustion chambers. The resulting intense pressure fluctuations can degrade aeroengine performance and even seriously compromise flight safety. Therefore, active decoupling control methods for combustion oscillations have become a critical research focus. To address the challenge, this study proposed a bilateral direct‑drive fuel valve actuated by a stepper motor and a piezoelectric actuator, along with an active decoupling control algorithm. A nonlinear combustion oscillation model was established, including the flame model, the thermo‑velocity model, and the thermo‑pressure model, to simulate the decoupling effect of the valve based on a phase‑shift controller and the proposed state‑observer‑based phase‑shift controller(SO-PSC). Key parameters influencing decoupling performance, such as observation window width β and amplitude‑variation‑rate feedback gain K ref were analyzed, and the control performance was compared with mainstream controllers. The results indicated that the bilateral direct‑drive valve and its controller achieve effective decoupling of combustion oscillations, outperforming control methods including H∞, STR, and PID controllers. Optimal performance is achieved by setting β to 3.6 and K ref to 82, which yields a 72.6% reduction in combustion oscillation and a decay time of 0.037 s.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.ast.2026.111658",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.ast.2026.111658"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Stochastic bifurcations and chaos suppression in a quasi-zero stiffness isolator with time-delayed feedback control",
+    "authors": [
+      "Ruocong Zhang"
+    ],
+    "year": "2025",
+    "venue": "Chaos, Solitons & Fractals",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.chaos.2025.117423",
+    "doi_source": "api",
+    "abstract": "This paper investigates stochastic bifurcation and chaos suppression in a quasi-zero stiffness (QZS) isolator under time-delayed feedback and combined random–harmonic excitation. First, it shows how varying the damping ratio triggers a Hopf bifurcation and that noise shrinks the stability region. Next, center manifold reduction and stochastic averaging reduce the system to a one-dimensional Itoˆ equation, whose stochastic bifurcation conditions are derived via singularity theory. To avoid misidentifying peaks in probability densities, topological data analysis (TDA) is used to detect bifurcations through persistent homology of superlevel sets. Results demonstrate that time-delayed feedback raises the chaos threshold and that confining the response to a unimodal distribution enhances stability. Finally, a “rapid optimization algorithm” scans parameter spaces to minimize the standard deviation transmissibility (SDT) while guaranteeing dynamical stability. Integrating nonlinear dynamics, delayed feedback, and TDA, the study offers a paradigm for designing high-performance QZS isolators in complex environments.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.chaos.2025.117423",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.chaos.2025.117423"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Bifurcation-gated kresling origami triboelectric mechanoreceptor enabling self-powered multimodal tactile sensing for intelligent human-robot interaction",
+    "authors": [
+      "Yu-seop Kim"
+    ],
+    "year": "2026",
+    "venue": "Nano Energy",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.nanoen.2026.112280",
+    "doi_source": "api",
+    "abstract": "Tactile sensors play major roles in human-robot interaction (HRI) by providing essential feedback on physical stimuli. In this context, bio-inspired design offers a promising route to reproducing the adaptive and multimodal sensing functions of biological tactile systems. Within this biomimetic framework, human-like tactile perception can be achieved by emulating the complementary dual-sensing behaviors of cutaneous mechanoreceptors, comprising Fast-Adaptive (FA) receptors responding to dynamic stimuli, and Slow-Adaptive (SA) receptors producing sustained responses to static stimuli. While triboelectric tactile sensors serve as substantial solutions, their sensing capability is primarily optimized for dynamic motion. In this study, we introduce a bifurcation-gated sensing strategy embodied in a Bio-inspired Origami-based Triboelectric mechanoreceptor (BOT) that discriminates between dynamic and static stimuli through a single compliant structure. The Kresling origami of the BOT exhibits a kinematic bifurcation at a buckling threshold. Below this threshold, dynamic loads produce FA mode, whereas static loads exceeding the threshold activate a SA mode that generates sustained signals during deformation. The BOT achieves highly linear sensing of indentation depth and normal force. Its practical utility is demonstrated through a self-powered collision detection system for safety and a deep learning-based material recognition framework capable of identifying properties under electromagnetic interference (EMI) environments. This work establishes the bifurcation-gated design principle as an alternative to multi-mechanism, opening a pathway toward triboelectric tactile sensors with mechanical property perception for HRI systems.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.nanoen.2026.112280",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.nanoen.2026.112280"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Empirical reliability enhancement in series elastic actuators using fractional-order finite-time robust control",
+    "authors": [
+      "Seyed Ali Moafi"
+    ],
+    "year": "2026",
+    "venue": "Reliability Engineering & System Safety",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.ress.2026.112330",
+    "doi_source": "api",
+    "abstract": "This paper presents a novel fractional-order control strategy aimed at enhancing the reliability, safety, and efficiency of the series elastic actuators in robotic systems, with practical reliability approximated through empirical metrics such as failure probability and mean time to failure. The proposed method optimizes control signal constraints, thereby improving the performance and reliability of series elastic actuator-driven robots in assistive human-robot interaction tasks. Leveraging fractional calculus, the proposed approach provides a more accurate model of dynamic interactions between robots and flexible environments, addressing these complexities more precisely than traditional integer-order models. The proposed strategy accounts for controller effort saturation, offering robust finite-time convergence and ensuring superior resilience to disturbances and uncertainties, critical for mission success in real-world applications. The adaptive capability of the system in low- and high-stiffness environments further enhances its versatility and maintainability in diverse operational scenarios. Various experiments demonstrate the superior performance of the method compared to integer-order terminal sliding mode techniques, particularly in accurately modeling failure dynamics and enhancing system safety. The findings underscore the potential of fractional-order control to substantially improve the reliability of series elastic actuator-driven robots, advancing the development of safe, human-centric robotic systems for deployment in unpredictable and dynamic environments.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.ress.2026.112330",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.ress.2026.112330"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Sensor-actuator-integrated load-adaptive absolute zero stiffness vibration isolator",
+    "authors": [
+      "Zhengzheng Wang"
+    ],
+    "year": "2026",
+    "venue": "International Journal of Mechanical Sciences",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.ijmecsci.2026.111692",
+    "doi_source": "api",
+    "abstract": "Traditional quasi-zero stiffness vibration isolators (QZSVI) are sensitive to variations in both load and excitation amplitude. Severe load mismatching and excessive excitation amplitudes can both lead to a degradation in low-frequency vibration isolation performance. This study proposes a novel load-adaptive absolute zero stiffness vibration isolator (LAVI) integrated with sensing and actuation functionalities. This design achieves adaptive load adjustment and full-stroke absolute zero stiffness (AZS) characteristics, effectively addressing the critical issues of traditional QZSVI, namely their high sensitivity to load changes and inability to handle large amplitudes. By combining theoretical analysis, finite element simulations, and experimental validation, the mechanical properties of the isolator are systematically investigated. The results demonstrate that the isolator exhibits AZS behavior over its entire stroke and enables continuous load adjustment by modifying the spring position. By incorporating Coulomb damping analysis, the load range of the isolator is precisely defined, and the prediction accuracy of its dynamic response is improved. Furthermore, a controller is designed based on the linear analytical model of the load-spring position relationship. Experimental results verify that LAVI maintains excellent low-frequency vibration isolation performance under continuous load variations (capable of isolating vibrations above 4.5 Hz). Comparative tests demonstrate that, under identical isolation conditions, the low-frequency performance of the LAVI is superior to that of traditional QZSVI and linear stiffness vibration isolators (LSVI). In standard excitation vibration isolation tests simulating truck transportation scenarios, the LAVI reduced the vibration level by 90% (in terms of root mean square acceleration) and effectively isolated random vibrations across the full frequency range of 1–500 Hz. The proposed LAVI offers a new perspective for the design of QZSVI insensitive to both load and large amplitudes, and holds great promise for advancing the engineering applications of QZSVI in fields such as future cargo transportation.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.ijmecsci.2026.111692",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.ijmecsci.2026.111692"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Dynamical characteristics of chattering and grazing bifurcation in a fractional-order coupled impact system",
+    "authors": [
+      "Jiaquan Xie"
+    ],
+    "year": "2026",
+    "venue": "Chaos, Solitons & Fractals",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.chaos.2026.118732",
+    "doi_source": "api",
+    "abstract": "Impact vibration systems are widely employed in high-end equipment fields such as aerospace and precision manufacturing, whose nonlinear dynamic behaviors directly determine the service performance of the equipment. Complex critical behaviors such as chattering and grazing may lead to component wear, structural failure and precision loss, and can also result in dynamic instability of the system and even induce safety accidents, seriously affecting the operational stability and safety of equipment. Therefore, their prevention and control constitute a key issue urgently to be addressed in engineering. In this paper, a dynamic model of a two-degree-of-freedom impact vibration system with piecewise stiffness, fractional-order damping and strong nonlinear stiffness is firstly established. Subsequently, the chattering characteristics are deduced under three impact conditions, with quantitative analysis of the chattering completion point and evolution duration. Combined with numerical simulation, the regulation mechanisms of chattering modes are clarified. Then, the existence conditions and determination methods for grazing phenomena are derived. Through bidirectional frequency sweep simulation, the hysteresis characteristics, bistable features and periodic motion evolution of grazing bifurcations are revealed. Furthermore, the response distribution characteristics under multi-parameter coupling are explored. Combined with parameter sensitivity analysis, the core control parameters are identified, and a targeted multi-dimensional parameter coordination strategy is proposed. This study elucidates the evolution mechanisms of chattering and grazing bifurcations in impact vibration systems as well as the key control parameters, thereby providing significant practical guidance for the design optimization, safe operation and maintenance of related engineering systems.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.chaos.2026.118732",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "fault induced bifurcation nonlinear control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.chaos.2026.118732"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Nonlinear model predictive control of high-amplitude isolated response branches in vibration isolation systems incorporating dielectric elastomer actuators",
+    "authors": [
+      "Yongheng Yu"
+    ],
+    "year": "2026",
+    "venue": "Mechanical Systems and Signal Processing",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.ymssp.2025.113832",
+    "doi_source": "api",
+    "abstract": "This paper adopts a nonlinear model predictive control (NMPC) framework to actively guide high-amplitude isolated response branches in vibration isolation systems with dielectric elastomer actuators (DEAs). The core innovation is the integration of the nonlinear voltage-stiffness relationship of DEAs into a real-time predictive model. This Euler-discrete prediction model is designed to balance accuracy and computational efficiency. A multi-objective cost function with a hierarchical tuning strategy is employed to simultaneously suppress vibrations, minimize energy consumption, and ensure control smoothness. Experimental results demonstrate that the control strategy effectively shifts the high-amplitude isolated response branches toward a low-frequency and low-amplitude region, reducing the root-mean-square (RMS) response by over 50% and transforming complex subharmonic oscillations into stable periodic motions. Furthermore, the control strategy not only demonstrates effective vibration suppression within the resonance region but also exhibits favorable performance in low-frequency ranges, confirming its broad applicability beyond resonant regions. This approach not only mitigates high-amplitude vibrations but also enhances system stability and broad frequency operational adaptability, offering a novel solution for controlling strongly nonlinear dynamical systems.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.ymssp.2025.113832",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.ymssp.2025.113832"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Piezoelectric air actuators for electronic thermal management: a bibliometric and comprehensive review",
+    "authors": [
+      "Zuyu Fu"
+    ],
+    "year": "2026",
+    "venue": "Applied Thermal Engineering",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.applthermaleng.2026.133127",
+    "doi_source": "api",
+    "abstract": "With the continuous rise in heat flux density in high-power electronic devices, conventional cooling strategies increasingly struggle to achieve an effective balance among system footprint, noise, energy consumption, and heat transfer performance. Piezoelectric air actuators have therefore emerged as a promising active air-cooling technology for electronic thermal management. This review examines 660 relevant publications indexed in the Web of Science from 2000 to 2026, identified through topic-based screening and citation tracing. The bibliometric analysis systematically examines the field's developmental trajectory, research collaboration networks, and evolving research hotspots. The technical analysis also comprehensively and critically examines the structural evolution, flow mechanisms, and heat transfer characteristics of cantilever-type piezoelectric fans, zero-net-mass-flux piezoelectric synthetic jet actuators, and non-zero-net-mass-flux piezoelectric synthetic jet actuators. A complete energy-transfer chain from electrical input to heat removal is established, and a multidimensional evaluation framework integrating flow, thermal, and acoustic performance is further proposed. By linking academic advances with industrial practice, this review indicates that ultrasonic-frequency piezoelectric synthetic jet actuators may offer application-specific advantages for high-heat-flux, low-noise, thin, array-scalable, and embedded electronic cooling systems. Finally, current limitations include insufficient understanding of multiphysics coupling, inadequate system-level evaluation criteria, limited array coordination, and inadequate operational stability. Commercialization is further constrained by manufacturing repeatability and system-level competitiveness. Future research should prioritize energy efficiency, long-term reliability, and versatile applicability, providing theoretical guidance for the development of compact piezoelectric active air-cooling technologies.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.applthermaleng.2026.133127",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.applthermaleng.2026.133127"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Active nonlinear vibration suppression of bistable laminate using an MFC actuator and a fuzzy adaptive PID controller",
+    "authors": [
+      "Y. X. Hao"
+    ],
+    "year": "2026",
+    "venue": "Aerospace Science and Technology",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.ast.2026.112075",
+    "doi_source": "api",
+    "abstract": "Bistable laminates (BLs) are deformable structures with two stable states. They can transition between stable-state configurations under external loads and maintain a stable state without sustained external energy input. This uniqueness has led to extensive research and application in the aerospace field, including variable-wing aircraft design, deformable solar panels, and deformable aircraft. In complex service environments, this deformable laminated structure can generate strong nonlinear vibrations, unnecessary snap-through behavior, and even serious failures. Therefore, active vibration control under impact load is of great significance. In this paper, a 17-parameter geometric configuration model for bistable laminates is developed to more accurately represent bistable configurations and their evolution. Validation of the static configurations and natural frequencies against ABAQUS results indicates that the geometric model is correct within a reasonable error margin. Focused on impact-induced snap-through and nonlinear transient vibrations, which are rarely addressed in piezoelectric actuators, the fuzzy proportional-integral-derivative (PID) controller effectively suppresses vibrations across varying load intensities and boundary constraints. Numerical simulations across multiple operating conditions show that the proposed control strategy outperforms PID control in terms of root-mean-square error, stable-state peak-to-peak value, maximum transient deviation, and adjustment time, and offers clear advantages over conventional fixed-gain PID control by adaptively tuning PID parameters via fuzzy inference. It will serve as an intentional reference for practical applications.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.ast.2026.112075",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.ast.2026.112075"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Dielectric elastomers for soft actuation: Recent progress in material design, structural engineering and emerging applications",
+    "authors": [
+      "Yanhao Kuang"
+    ],
+    "year": "2026",
+    "venue": "Polymer",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.polymer.2026.130724",
+    "doi_source": "api",
+    "abstract": "Dielectric elastomers are soft electroactive polymers that generate large, reversible deformation under electrical stimulation and are widely regarded as promising artificial muscles. This review summarizes recent progress in dielectric elastomers and their actuators from the integrated design-to-application perspectives that connects material design, actuator structural engineering and emerging applications. Material design strategies are discussed with emphasis on how physical and chemical routes regulate dielectric constant and loss, elastic modulus, dielectric breakdown strength, leakage current, viscoelasticity, and processability. Actuator structural engineering is then reviewed to clarify how planar- and curved-dielectric elastomers actuator configurations, and compliant electrode configurations convert intrinsic electrical stimuli-responsive behavior from materials into application-specific mechanical outputs. Drawing on reports published in recent years, this review highlights emerging applications in soft robotics, biomedical devices and haptic interfaces, while relating application-specific requirements to material and structural design. Finally, key challenges and future opportunities are discussed. This review aims to provide guidance for designing high-performance dielectric elastomers and translating their actuators into practical applications.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.polymer.2026.130724",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.polymer.2026.130724"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Piezoelectrically actuated control of nonlinear vibrations and resonant instabilities in rotating cylindrical structures",
+    "authors": [
+      "Hamza Abu Owida"
+    ],
+    "year": "2026",
+    "venue": "Mechanics Research Communications",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.mechrescom.2026.104704",
+    "doi_source": "api",
+    "abstract": "This research examines how to control axial vibrations using piezoelectric elements and their associated nonlinear vibrational behaviours with regard to rotating cylindrical shells. This will require the use of axial thermal loads in the design model, which utilises the following criteria: (1) As a thin-walled sandwich beam, it consists of a porous functional grading (FG) core and piezoelectric sensor and actuator layers. (2) A thin-walled Rayleigh beam formulation that incorporates geometric nonlinear effects of the von Kármán type to predict varying amplitude of vibration and impact of the piezoelectric elements. (3) The constitutive model of each piezoelectric element, which allows for active control through negative proportional displacement feedback, provides a method for controlling axial vibrations. (4) The governing equations of motion take into account the gyroscopic effects of the rotation and the influence of an interior fluid. The governing equations are derived using Hamilton's principle by retaining all terms up to cubic order and dropping all higher than cubic order terms for the purposes of being analytic. To accomplish this, the Galerkin method is used to convert the resulting partial differential equations (PDEs) into a series of ordinary differential equations (ODEs), and as a group of ODEs, allows the evaluation of a steady state or resonant response using a harmonic trial solution. Investigations into piezoelectric actuation as a means of reducing nonlinear resonant vibrations and preventing dynamic instability from occurring under combined loading conditions that produce thermal, rotational, and fluid loads have been thoroughly conducted. Several parametric analyses reveal how critical rotational speed, thermal gradients, feedback gains, and material gradation are to the conditions that result in the onset of resonant instability and amplitude modulation. The results obtained from these investigations indicate that properly tuned negative displacement proportional feedback can produce a considerable increase in dynamic stability, a reduction in the amplitude of vibration, and a delay of resonance when subjected to multiple types of loading. The results will therefore serve as a useful guideline for designing active vibration control systems for advanced rotating cylindrical systems utilizing multifunctional engineered material architectures.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.mechrescom.2026.104704",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.mechrescom.2026.104704"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "A magnetically actuated catheter robot integrating forward- and side-looking intravascular ultrasound",
+    "authors": [
+      "Zhengxin Yang"
+    ],
+    "year": "2026",
+    "venue": "Sensors and Actuators A: Physical",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.sna.2026.118396",
+    "doi_source": "api",
+    "abstract": "Intravascular ultrasound (IVUS) is a critical imaging modality for the diagnosis of cardiovascular diseases (CVD). Conventional IVUS catheters primarily provide side-looking cross-sectional ultrasound (US) images to visualize the anatomy along the catheter path, leaving a blind zone distal to the catheter tip. This study develops a system capable of providing both forward- and side-looking IVUS within a single device. An active-steering catheter robot is designed, integrating dual miniaturized US transducers and an embedded magnetic element, selectively performing sector or circular ultrasonic beam scanning as driven by external magnetic fields. A sector scanning model based on Cosserat rod theory and a circular scanning model based on rotor dynamics are established to predict transducer motion. Tailored data acquisition strategies and a model-based phase-corrected synthetic aperture beamforming framework are developed to reconstruct high-quality images in both imaging modes. Experiments validate the accuracy of the proposed models and demonstrate effective dual-mode US imaging. The catheter robot achieves sector scanning with a maximum angle of 54.6° in the forward-looking mode and supports circular scanning at rotational speeds up to 1800 rpm. These capabilities demonstrate the feasibility of dual-perspective endoluminal imaging in benchtop phantom experiments, providing a technical basis for future systems.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.sna.2026.118396",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.sna.2026.118396"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Rigid-flexible coupling modeling and nonlinear analysis of rudder actuator with lubrication clearance",
+    "authors": [
+      "Ye Lu"
+    ],
+    "year": "2026",
+    "venue": "Mechanical Systems and Signal Processing",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.ymssp.2026.113928",
+    "doi_source": "api",
+    "abstract": "To investigate the coupling effects of clearance and flexible components on dynamic performance of pushrod-driven actuator, this study proposes a hybrid contact force model suitable for large loads with an adaptive restitution coefficient, and a modified transitional lubrication force model. Considering the influence of flexible components, a rigid-flexible coupling dynamics model of the actuator incorporating lubrication clearance is established. Subsequently, effects of clearance size, driving speed, dynamic viscosity and load on system's dynamics and chaos are then analyzed. Finally, experimental validation confirms the model's effectiveness. The results show that the choice of clearance size and drive speed significantly influences system stability, and that high dynamic viscosity lubricants can lower the output vibration frequency and amplitude. Under large loads, the lubricant film thickness at clearance approaches zero, intensifying clearance collisions and wear. This increases the output vibration frequency, and substantially reduces the lubricant's mitigating effects on clearance and flexible factors. This study provides theoretical support for the design of high-performance rudder actuators.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.ymssp.2026.113928",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.ymssp.2026.113928"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Aerosol Jet Printed plasma actuators: Optical and electromechanical characteristics",
+    "authors": [
+      "K. Kourtzanidis"
+    ],
+    "year": "2026",
+    "venue": "Sensors and Actuators A: Physical",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.sna.2026.117702",
+    "doi_source": "api",
+    "abstract": "We present a novel promising fabrication technique for Surface Dielectric Barrier Discharge (SDBD) plasma actuators based on Aerosol Jet Printing (AJP) technology of conductive inks on dielectric surfaces and characterize the AJP-SDBDs optical and electromechanical performance. Linear SDBD designs, with ultra-smooth electrode edges of micrometer thickness have been fabricated, which when driven by AC, High Voltage waveforms, present stable plasma operation and reproducible features. We measure the electromechanical characteristics in terms of ink-related electrical properties (through Van der Pauw-resistivity and Hall measurements), plasma properties through electrical diagnostics, time-resolved imaging and optical emission spectroscopy (OES), while we perform Particle Tracking Velocimetry (PTV) measurements of the induced wall-jet flow. The printed electrodes show a clear metallic behavior, with their electronic properties comparing very favorably to other printable materials. The AJP-SDBDs show similar electromechanical characteristics with conventional SDBDs fabricated via conventional methods, good robustness, and more intense nature indicating lower breakdown voltage requirements. The emission spectra from the discharge show dominant formation of excited N2 and N2+ species. Based on high-resolution OES, an estimation of rotational and vibrational temperatures of the N2(C) state is performed, showing the strong non-equilibrium nature of the discharges produced. This helps in maintaining the average gas temperature in the positive and negative AC voltage phase at low levels (below 350 K) indicating its minimal impact on the gas dynamics. In terms of induced flow and electrohydrodynamic (EHD) forcing, the AJP-SDBD resulted in wall-jet flows with a maximum velocity achieved of approximately 5 m/s and a wall-jet height of approximately 3 mm at 7 mm from the exposed electrode edge for the 30 kV 3 kHz case. At the same conditions, the EHD force reached more than 27.5 mN/m. The obtained values and trends are in good agreement with literature values of conventional AC driven SDBD actuators, showcasing AJP potential as a promising fabrication technique for robust and efficient plasma actuators and related applications.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.sna.2026.117702",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.sna.2026.117702"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Asymptotic full-body vibration suppression of flexible structures via adaptive MIMO boundary actuators",
+    "authors": [
+      "Hossein Mohammadi"
+    ],
+    "year": "2026",
+    "venue": "Aerospace Science and Technology",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.ast.2025.111545",
+    "doi_source": "api",
+    "abstract": "This paper presents a novel integrated rotary–linear actuator for asymptotic and full-body vibration suppression in flexible beams modeled as infinite degree of freedom systems. Unlike conventional boundary controllers that primarily stabilize endpoint vibrations, the proposed system achieves complete convergence to equilibrium across the entire beam body—even under sustained external distributed loads. Implemented at a single boundary point, the actuator simultaneously provides displacement and rotation control, forming an effective multiple-input multiple-output (MIMO) boundary control strategy. The control design integrates active and adaptive mechanisms, enabling robust compensation of nonlinear backlash that arises from the actuator’s inherent mechanical return effect. To ensure realistic modeling, this nonlinearity was explicitly incorporated into the system equations, allowing the controller to effectively neutralize its influence on vibration dynamics. The adaptive structure simultaneously identifies the unknown parameters associated with both the input backlash and the external disturbances. For numerical simulation and temporal response analysis, the finite difference method was employed to discretize the governing equations, enabling precise evaluation of beam-wide control performance. Three-dimensional numerical results validate the method, demonstrating its superior performance in suppressing both free and forced vibrations throughout the beam. The proposed approach offers significant practical advantages through its single-point boundary implementation, fast response, and robust full-body stabilization. Owing to these features, it holds strong potential for aerospace applications such as aircraft wings, deployable booms, and lightweight space structures, where effective vibration suppression is critical for operational reliability. This work marks a substantial advancement beyond existing boundary control techniques.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.ast.2025.111545",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.ast.2025.111545"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Innovative Y-shaped hydrogel mitral clip with magnetic actuation and hydrophilic janus surface for enhanced valve leaflet repair",
+    "authors": [
+      "Yue Wang"
+    ],
+    "year": "2026",
+    "venue": "Materials Today Bio",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.mtbio.2025.102750",
+    "doi_source": "api",
+    "abstract": "We developed a magnetically responsive Y-shaped hydrogel mitral clip for minimally invasive repair of mitral regurgitation. Fabricated through a multilayer assembly strategy, the clip integrates a polyurethane layer featuring a biomimetic inverse opal architecture to enhance tissue adhesion, a GelMA/Fe3O4 hydrogel for magnetic actuation, a flexible epoxy acrylate scaffold for mechanical compliance, and a biocompatible polydimethylsiloxane interface. The clip exhibits Janus wettability, with a hydrophilic inner surface to promote effective leaflet anchoring and a hydrophobic outer surface to minimize blood fouling, thus optimizing device-tissue and device-fluid interactions. Performance was validated through in vitro, ex vivo, and computational studies, confirming precise magnetic clamping, strong adhesion, and mechanical resilience under simulated physiological conditions. Hemocompatibility evaluations demonstrated favorable outcomes in terms of blood interaction and reduced thrombogenicity when benchmarked against commercial alternatives. This soft, adaptive device supports minimally invasive deployment and reliable leaflet fixation, offering a promising approach for next-generation transcatheter mitral valve repair with enhanced tissue integration and blood compatibility.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.mtbio.2025.102750",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.mtbio.2025.102750"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Dynamic control of cantilever bistable composites: Theory and experiment",
+    "authors": [
+      "Xingping Fan"
+    ],
+    "year": "2026",
+    "venue": "Communications in Nonlinear Science and Numerical Simulation",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.cnsns.2026.110284",
+    "doi_source": "api",
+    "abstract": "Bistable composite laminates, capable of maintaining two stable configurations without continuous energy input, are promising candidates for morphing aerospace structures. This study investigates the nonlinear dynamic behavior of cantilevered bistable composite plates and proposes a resonance-based actuation strategy for efficient configuration switching. A nonlinear dynamic model is developed based on Hamilton’s principle and the Rayleigh–Ritz method to accurately model nonlinear dynamic behavior of bistable plates. The dynamic characteristics under varying excitation amplitudes are analyzed through bifurcation diagrams, time histories, phase portraits, and Poincaré maps, revealing the evolution from periodic oscillations to period-doubling bifurcations, chaotic motion, and eventually snap-through. As the excitation frequency approaches the modal frequency, the vibration amplitude increases significantly. When the excitation amplitude exceeds a critical threshold, snap-through occurs, accompanied by the structure switching from one stable state to another. The theoretical predictions show good agreement with the experimental observations. The proposed resonance-based strategy enables rapid and energy-efficient configuration switching, providing practical insights for morphing structure design.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.cnsns.2026.110284",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.cnsns.2026.110284"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Pneumatic smart textile actuation",
+    "authors": [
+      "Fuyi Fang"
+    ],
+    "year": "2026",
+    "venue": "Matter",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.matt.2026.102904",
+    "doi_source": "api",
+    "abstract": "Textiles are lightweight, breathable, and soft, characteristics that make them naturally suitable platforms for wearable systems. Next-generation wearables that can change shape or generate interactive forces require the integration of soft actuators. Among them, soft pneumatic actuators are particularly promising because of their safety, relatively strong output forces, and rapid deformation. This review focuses on textile-based soft pneumatic actuators, also known as pneumatic textile actuators (PTAs), and their wearable applications. We summarize the design strategies and characteristics of PTAs from the perspective of actuation mechanisms, and we discuss textile material selection and related manufacturing processes. We also review soft sensors integrated with PTAs to enhance the intelligent perception of wearable devices. With the rapid development of PTA-based wearables, representative applications such as haptic displays, medical rehabilitation, and physical assistance have been introduced. Finally, future PTA-based smart wearables are expected to evolve toward multifunctionality, high integration, rapid customization, and environmental adaptability.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.matt.2026.102904",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.matt.2026.102904"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Sensor-actuator integration in intelligent devices: from functional synergy to emerging application",
+    "authors": [
+      "Zhenshuai Wan"
+    ],
+    "year": "2026",
+    "venue": "Composites Part B: Engineering",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.compositesb.2025.113339",
+    "doi_source": "api",
+    "abstract": "The integration of sensors and actuators in intelligent devices has led to the revolutionary change in the fields of robotics, healthcare, and IoT to allow the perception-to-action cycles. This interactions leads to real-time responsiveness, flexibility, and autonomy, and creates innovations, including soft robotics, bioelectronic medicine, and smart wearable devices. However, there are still problems associated with the attainment of signal coordination control, miniaturization and strong interoperability in dynamic environments. This paper reviews the design principles of sensor-actuator integration, highlighting key mechanisms for functional synergy, such as feedback architectures, multimodal sensing, and adaptive actuation. The emerging applications, including soft robotics and human-machine interfaces are then examined, with an emphasis on how cross-disciplinary solutions are tackling the existing constraints. Finally, we discuss the directions of the future, such as biohybrid systems and neuromorphic engineering, which are projected to restructure the limits of intelligent devices. By synthesizing theoretical insights with practical advancements, this work is expected to help the researchers overcome the existing limitations and open the opportunities of this rapidly evolving field.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.compositesb.2025.113339",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.compositesb.2025.113339"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Advancements and challenges of high-speed active flow control: Plasma actuators",
+    "authors": [
+      "Xiaobing Zhang"
+    ],
+    "year": "2025",
+    "venue": "International Journal of Heat and Mass Transfer",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.ijheatmasstransfer.2025.127481",
+    "doi_source": "api",
+    "abstract": "Effective active flow control is crucial for high-speed aircraft to reduce drag, enhance heat dissipation, and improve fuel mixing characteristics. Plasma actuators, which offer rapid response times, lack of mechanical moving parts, and a broad operating frequency range, have emerged as a promising solution for these challenges. It has received extensive attention in the past 30 years. This review synthesizes findings from over 2700 relevant studies and over 300 in-depth papers on the application of plasma actuators in high-speed active flow control. The paper compares the technical features of various plasma actuator designs and examines their mechanisms for controlling high-speed flow fields, particularly focusing on shock wave control and boundary layer interference. Despite notable progress, challenges remain in fully leveraging the potential of plasma actuators for efficient flow control in high-speed aircraft. Nonetheless, advancements in plasma actuator technology hold the potential to revolutionize aircraft design and performance, marking a significant step forward in high-speed fluid mechanics.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.ijheatmasstransfer.2025.127481",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.ijheatmasstransfer.2025.127481"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Frequency–time domain method for an unrestrained aeroservoelastic system with actuator nonlinearities",
+    "authors": [
+      "Peihan Wang"
+    ],
+    "year": "2026",
+    "venue": "Communications in Nonlinear Science and Numerical Simulation",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.cnsns.2026.109867",
+    "doi_source": "api",
+    "abstract": "The frequency–time domain method is an intriguing tool for analyzing nonlinear aeroelastic systems. However, the applications for closed-loop systems with actuator nonlinearities are challenging to implement; existing procedures require variable augmentation associated with control systems, which complicates the dynamic equations. To address these issues, this paper describes modifications to reconstruct nonlinear closed-loop systems. Nonlinear elements are disconnected at specific locations, whereas the remaining components are reorganized as frequency-domain blocks to obtain linear and impulse responses. Subsequently, a convolution integral is applied in the time domain to introduce the effects of nonlinearities into the outputs of nonlinear actuators. This hybrid frequency–time domain framework exhibits responses with various nonlinearities, leveraging both the frequency- and time-domain characteristics. Based on an unrestrained airfoil section, a closed-loop system with freeplay and actuator saturation is provided as a numerical example. Linear and nonlinear time responses induced by external excitation and initial conditions are calculated, validating the feasibility and accuracy of the proposed method. Furthermore, nonlinear frequency responses are directly obtained without additional operations. Notably, the proposed method enables efficient computations, reducing the computational time by an order of magnitude. This advantage scales effectively for advanced applications, for instance, uncertainty analysis. The introduction of unsteady aerodynamics is explored in the frequency domain to circumvent conventional approximation techniques, extending the applications of the frequency–time domain method.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.cnsns.2026.109867",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.cnsns.2026.109867"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Uncertainty-aware digital twins for safe operation and active fault-tolerance in degrading heterogeneous pumping systems",
+    "authors": [
+      "Wenjun Qiu"
+    ],
+    "year": "2027",
+    "venue": "Reliability Engineering & System Safety",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.ress.2026.113512",
+    "doi_source": "api",
+    "abstract": "Conventional deterministic controls often fail in fluid systems under mechanical degradation due to epistemic uncertainties, leading to constraint violations. While passive fault diagnosis has advanced, autonomous risk-averse decision-making post-degradation remains lacking. To bridge this gap, this study proposes an Adaptive Probabilistic Digital Twin (APDT) framework. Utilizing Uncertainty Quantification (UQ), the APDT establishes mathematical guardrails based on the Probability of Feasibility, actively preventing physical boundary violations under deep uncertainties. Furthermore, the framework dynamically reconstructs system mappings online to adapt to non-stationary asymmetrical degradation, overcoming the limitations of static models. An embedded Trust-Region mechanism ensures smooth state transitions by preventing actuator fatigue. Crucially, trajectory analysis reveals an emergent “strategic offloading” behavior: the APDT autonomously shifts operational loads from degraded to healthy units. This acts as an active fault-tolerant mechanism, mitigating stress on deteriorating components to prevent sudden failures while maintaining robust output. Ultimately, the APDT offers a reliable, physics-compliant paradigm for the active safety management and life-extension of cyber-physical systems.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.ress.2026.113512",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.ress.2026.113512"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Design of hybrid actuation piezoelectric MEMS scanning mirror with reduced nonlinearity",
+    "authors": [
+      "Hao-Chien Cheng"
+    ],
+    "year": "2025",
+    "venue": "Sensors and Actuators A: Physical",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.sna.2025.117001",
+    "doi_source": "api",
+    "abstract": "MEMS scanning mirrors are compact, high-frequency devices widely used for precise light steering in applications such as image projection. However, conventional piezoelectric MEMS scanners often exhibit nonlinear behavior that distorts images and limits system performance. This study presents a novel hybrid-actuator design that integrates a normal force actuator and a transmission spring with a traditional clamped-clamped torsional actuator to reduce nonlinearity while enhancing the scanning angle. Finite element simulations were conducted to analyze the dynamic behavior and stress distribution of the design, followed by device fabrication on SOI wafers incorporating a KNN piezoelectric film. Experimental measurements demonstrate that the hybrid-actuator design effectively reduces nonlinearity, achieving a 44.6 % increase in scanning angle and producing significantly clearer projected images compared to conventional designs. Additionally, Fast Fourier Transform analysis of vibration signals revealed a substantial reduction in Total Harmonic Distortion (THD), decreasing from 43.8 % in the reference design to 14.8 % in the proposed design. This reduction in THD directly contributes to the mitigation of image blurriness, further highlighting the superior performance of the proposed scanner.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.sna.2025.117001",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.sna.2025.117001"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Conventional and additive manufacturing of NiTi shape memory alloy tubes: A review of fabrication, multiaxial thermomechanical behavior, constitutive modeling, and emerging applications in actuation and elastocaloric cooling",
+    "authors": [
+      "Saeedeh Vanaei"
+    ],
+    "year": "2026",
+    "venue": "Journal of Alloys and Compounds",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.jallcom.2026.190399",
+    "doi_source": "api",
+    "abstract": "This review critically assesses the state of research on NiTi shape memory alloy tubes fabricated via both conventional thermomechanical processing and additive manufacturing (AM), with emphasis on Laser Powder Bed Fusion (LPBF). Synthesizing over 157 studies on fabrication, multiaxial thermomechanical characterization, constitutive modeling, and applications in actuation and elastocaloric cooling, this work addresses the full lifecycle of NiTi tubes from processing to performance. Unlike prior reviews that treat AM fabrication or constitutive modeling of NiTi independently, this review integrates, for thin-walled tubular geometries specifically, fabrication-induced microstructure, multiaxial thermomechanical characterization, constitutive model validation, and application performance in a single treatment, a combination not addressed collectively by any prior review in this domain. Experiments under uniaxial tension, pure torsion, and proportional and non-proportional axial-torsional loading reveal significant tension-torsion coupling, rate-dependent transformations, and pronounced anisotropy in drawn tubes. A microplane-based constitutive model, validated against these experiments with a maximum error of 3.3%, effectively captures superelasticity and shape memory behavior across all loading paths. For LPBF-fabricated tubes, the review examines the influence of post-processing on transformation temperatures, strain localization, cyclic stability, and wall thickness effects, demonstrating that optimized heat treatment yields recoverable strains approaching those of wrought material. The analysis identifies four prioritized research gaps: (i) scarce multiaxial fatigue data for LPBF tubes, (ii) insufficient incorporation of AM-induced microstructural variability into constitutive models, (iii) the lack of standardized protocols for comparing conventional and AM tube performance, and (iv) limited integration of data-driven and machine learning methods with physics-based models for predictive design. A research roadmap is proposed, emphasizing manufacturing-aware models, LPBF-specific multiaxial datasets, and data-driven approaches to accelerate the translation of NiTi tubes into reliable engineering devices.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.jallcom.2026.190399",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.jallcom.2026.190399"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Actuation strategies and applications for high-output power soft robots",
+    "authors": [
+      "Luohui Zhou"
+    ],
+    "year": "2026",
+    "venue": "Fundamental Research",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.fmre.2026.04.026",
+    "doi_source": "api",
+    "abstract": "Recent breakthroughs in soft robotics have enabled transformative applications in manipulation, surgery, rehabilitation, and confined space exploration, driven by versatile smart materials that sense and respond to optical, thermal, electrical, and chemical stimuli. However, output power remains constrained by limited energy storage, delayed responses, and considerable dissipation. This review systematically examines the core design principles for agile locomotion, identifying three key strategies for high-output power through power amplification (PA): 1) increasing effective energy storage, 2) improving energy conversion efficiency by constraining losses, and 3) reducing energy release duration with latching mechanisms. By surveying representative examples across terrestrial, aerial, and aquatic environments, this work outlines key challenges and future directions to advance next-generation, high-output power soft robots. These insights lay a foundational framework to guide future innovations in soft robotics where enhanced actuation strength, speed, and functionality are essential.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.fmre.2026.04.026",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.fmre.2026.04.026"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Interaction between external forcing modes and self-excited thermoacoustic modes in a single-element liquid rocket engine: Bifurcation routes to period-2 oscillation",
+    "authors": [
+      "Yuanzhe Liu"
+    ],
+    "year": "2025",
+    "venue": "Aerospace Science and Technology",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.ast.2025.110424",
+    "doi_source": "api",
+    "abstract": "This study presents the first numerical evidence of multi-bifurcation routes to period-2 oscillations within an open-loop control framework in a single-element liquid rocket engine burning hydrogen peroxide and methane. To achieve this, a full-scale three-dimensional compressible Detached Eddy Simulation, combined with the PaSR combustion model accounting for coupling between turbulence and finite rate chemical reaction, was employed. We focus on the nonlinear dynamics of thermoacoustic instability and its open-loop control, which involve the coexistence and interaction of oscillations at multiple frequencies within the combustion chamber. The results show that, in the absence of external disturbances, the system spontaneously enters a limit cycle state with constant amplitude and frequency oscillations at the first-order longitudinal (1 L) acoustic frequency (≈1566 Hz). Subsequently, the external sinusoidal disturbances of inlet mass flow rate, with a fixed frequency of 3000 Hz and amplitudes from 10 % to 60 %, lead the system through a series of bifurcations: quasi-periodic (A = 10 %)→chaotic (A = 20 %)→quasi-periodic (A = 40 %)→period-2 (A = 60 %) oscillations. Additionally, we investigate the synchronization between acoustic pressure and flame dynamics under different states, providing insights into the physical mechanisms driving these bifurcations and offering guidance for active control strategies for thermoacoustic instability in liquid rocket engines.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.ast.2025.110424",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.ast.2025.110424"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Data-driven neurocomputational analysis of couple-stress bioconvective nanofluid transport with Arrhenius activation over a magnetically actuated Riga surface",
+    "authors": [
+      "Bilal Ali"
+    ],
+    "year": "2026",
+    "venue": "Results in Engineering",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.rineng.2026.111440",
+    "doi_source": "api",
+    "abstract": "The present study develops a computational framework for the analysis of multi-physical transport phenomena, thermal characteristics and bioconvection dynamics of a conducting fluid in contact with an elongating stretching surface coupled with a Riga plate electromagnetic actuator. The transport model also explains the localized MHD control effect through the Lorentz force, which is parallel to the wall and described by the exponential Grinberg term, while also taking into account the stable bioconvection field, which is affected by the microscopic floating of the motile microbes. In order to address the natural convergence and stability, the Parametric Continuation Method (PCM) is used to generate the dataset. The dataset is further solved through the Artificial Neural Network (ANN) based on the Levenberg-Marquardt backpropagation algorithm (LMBPO). The network is trained using the baseline dataset and is able to model the complex cross coupling behavior over a wide parametric range, including changes in the Hartmann and bioconvection Péclet numbers. The surrogate framework provides excellent predictive accuracy by having mean squared errors (MSE) close to zero and a correlation coefficient ( R ) close to on1. Ultimate validation shows that the ANN-LMBPO approach is capable of justifying the numerical instabilities that are typically seen in PCM during aggressive parametric sweep and is also able to instantaneously evaluate the critical engineering quantities like the skin friction coefficient, local Nusselt number and motile microbe’s density number. The energy transfer rate enhances up to 34.6496%, and 44.0358% by varying the mixed convection parameter from 0.5 to 1.5, and heat radiation factor from 0.1 to 0.5, whereas it drops up to 47.5205% with the effect of thermophoresis factor. The mass propagation increases up to 38.196%, 13.1664% and 19.1389% with the variation in mixed convection parameter from 0.5 to 1.5, thermal radiation from 0.1 to 0.5 and thermophoresis from 0.2 to 0.6, respectively.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.rineng.2026.111440",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.rineng.2026.111440"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "2.04: Thermal Actuation",
+    "authors": [
+      "Xiaoke Ding"
+    ],
+    "year": "2025",
+    "venue": "Comprehensive Microsystems",
+    "publisher": "Elsevier",
+    "doi": "10.1016/b978-0-323-95478-5.00003-0",
+    "doi_source": "api",
+    "abstract": "Thermal actuation, as one of the main actuation mechanisms, plays an important role in establishing functional micro-nano-systems. In this chapter, the basic theory of thermal actuation and several widely used thermal actuators are elaborated, including their operational principle and performance. Some potential strategies are discussed for optimization and thus enhancement of their performance. In addition, some major applications of thermal actuators in different fields such as micro-optics, bio-photonics, biomedical chips, microfluidics, wireless communication, nano instrumentation, nanomaterial characterization, soft robotics, and compliant mechanisms are summarized, followed by the discussions of the future trend of thermal actuation.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/b978-0-323-95478-5.00003-0",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/b978-0-323-95478-5.00003-0"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Bridging sensation and actuation: From fundamental architectures to adaptive systems",
+    "authors": [
+      "Yue Huang"
+    ],
+    "year": "2026",
+    "venue": "Chemical Engineering Journal",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.cej.2026.173685",
+    "doi_source": "api",
+    "abstract": "Adaptive systems, with their capacity to interact with dynamic environment with self-regulating actions, are driving the development of smart systems across applications ranging from biomedicine and energy to human–machine interfaces. Achieving adaptability requires functional integration between sensors and actuators to transfer from single, fixed operational modes to adaptive behaviors for dynamic scenarios. In this perspective, this review highlights the fundamental mechanisms of tactile sensors and actuators, along with strategies for their functional and performance-level integration. We summarize how adaptive features are embodied in diverse device architectures, revealing distinct characteristics tailored for dynamic functionality at the material and device levels. Furthermore, we focus on application-specific performance enabled by autonomous sensing, regulation, and decision-making. Ultimately, this review outlines key limitations, such as mechanical robustness, dimensional scalability and power management, that need to be overcome to advance adaptive devices from laboratory prototypes to practical, real-world technologies.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.cej.2026.173685",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.cej.2026.173685"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Bifurcation behavior of hunting motion in high-speed rail vehicles under modal coupling",
+    "authors": [
+      "Peng Guo"
+    ],
+    "year": "2025",
+    "venue": "Journal of Sound and Vibration",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.jsv.2025.119400",
+    "doi_source": "api",
+    "abstract": "This paper presents a theoretical study of hunting bifurcation behavior in high-speed rail vehicles under modal coupling and compares it to the traditional uncoupled system. A dynamic simplified model that integrates the lateral and yaw motions of the rigid bogie and the lateral motion of the carbody is established to evaluate the modal coupled effect between the carbody and bogie. The stability and Hopf bifurcation of the trivial equilibrium are first analyzed qualitatively using the normal form theory. The linear stability analysis then reveals that modal coupling introduces a new unstable region known as carbody (primary) hunting, which is absent in the uncoupled system that only exhibits bogie (secondary) hunting. The double-parameter Hopf bifurcation analysis is further carried out, which considers the influence of suspension parameters on the bifurcation speed and stability region. Our findings indicate that the dynamical behavior of the coupled system can closely match that of the uncoupled system with suitable parameter configurations, effectively reducing primary hunting and enhancing the overall hunting stability of rail vehicles.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.jsv.2025.119400",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.jsv.2025.119400"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Predicting freeplay-induced aeroelastic limit-cycle oscillations using pre-critical output data",
+    "authors": [
+      "Michael B. Hartin"
+    ],
+    "year": "2026",
+    "venue": "Journal of Fluids and Structures",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.jfluidstructs.2026.104647",
+    "doi_source": "api",
+    "abstract": "This paper presents an output-based approach for predicting aeroelastic limit-cycle oscillations caused by freeplay, a common concentrated stiffness nonlinearity in actuated structures. The approach extends conventional output-based flutter boundary estimation by capturing freeplay-induced nonlinear effects, enabling the prediction of limit-cycle oscillations beyond the flutter onset. It also extends bifurcation forecasting through a new formulation that captures how freeplay nonlinearity affects the recovery rate to equilibrium. The approach is demonstrated using data from simulated time histories of an idealized tilting propeller in airplane mode, with freeplay in the tilting mechanism. Using as few as one or two pre-critical responses, the method estimates regions of the parameter-amplitude plane associated with limit-cycle oscillations, which define the bifurcation diagram. These results indicate promise for the analysis of freeplay-induced limit-cycle oscillations in higher-complexity models and for potential experimental studies.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.jfluidstructs.2026.104647",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.jfluidstructs.2026.104647"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Resilient sampled-data control for fractional-order PMVG-based WTS with actuator saturation and probabilistic faults using fuzzy Lyapunov function method",
+    "authors": [
+      "Narayanan G"
+    ],
+    "year": "2025",
+    "venue": "Information Sciences",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.ins.2024.121294",
+    "doi_source": "api",
+    "abstract": "The goal of this study is to present a new fuzzy Lyapunov function-based resilient sampled-data control method for a fractional-order permanent magnet vernier generator (PMVG)-based wind turbine system (WTS) that addresses actuator saturation and probabilistic faults. To achieve this, we first model the dynamical fractional model of the PMVG-based WTS as a T-S fuzzy model. Next, we introduce a fuzzy Lyapunov function within a unified framework that incorporates actuator saturation, probabilistic faults, and uncertainty information from control gain matrices. We then present an actuator fault model that represents actuator faults as stochastic variables with a specific probability distribution. Subsequently, we formulate a robust asymptotic stability criterion for closed-loop systems using linear matrix inequality (LMI), which integrates the fuzzy Lyapunov function and membership function information with fractional integral inequality techniques based on sampling time. We also propose an LMI approach to identify the domain of attraction that meets the necessary actuator saturation criteria. Finally, we apply the proposed method to a PMVG-based WTS, demonstrating its superiority and practical applicability through a comparison with existing methods using a numerical example of a nonlinear truck trailer system.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.ins.2024.121294",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.ins.2024.121294"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Design of a SMA actuated freeplay elimination device for stiffness enhancement of a folding fin",
+    "authors": [
+      "Rongru Zhang"
+    ],
+    "year": "2025",
+    "venue": "Mechanical Systems and Signal Processing",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.ymssp.2025.112861",
+    "doi_source": "api",
+    "abstract": "The folding fin, essential for controlling aircraft flight attitude and maintaining stability, is extensively employed in aerospace vehicles. Inevitable freeplay within the structure, due to design, installation, and mechanical wear, reduce the stiffness of the folding fins and impair the aircraft's aerodynamic performance. Therefore, eliminating the freeplay in the folding fin is crucial for enhancing the aircraft's flight accuracy and stability. This paper introduces a novel freeplay elimination device utilizing SMA columns, which neither increases mass nor alters the aircraft's external dimensions. The device effectively alleviates nonlinear issues associated with gaps in the fin system and enhances both the dynamic and static stiffness of the folding fin. A parametric design model for the gap elimination device has been developed, delineating the relationship between the structure and layout of the SMA columns, the actuation temperature, load, and the target gap for elimination. We conducted static load tests along with modal tests at room and elevated temperatures to evaluate the stiffness enhancement performance of the folding fin before and after gap elimination. The experiments verified that the designed gap elimination device significantly enhances both the static and dynamic stiffness of the folding fin. Additionally, the first-order frequency of the folding fin increased by 40 % at room temperature and by 36.7 % at 200 °C. This paper provides quantifiable guidance for the structural and parametric design of gap elimination devices in folding fins. Optimal structural parameters, determined based on aerodynamic loads and gap elimination requirements, enhance the stiffness of the folding fin, thus improving the aircraft's flight performance.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.ymssp.2025.112861",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.ymssp.2025.112861"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  }
+]

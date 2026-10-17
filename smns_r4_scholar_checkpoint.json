@@ -1,0 +1,898 @@
+[
+  {
+    "title": "An Improved Probabilistic Variational Auto-Encoder with Dual Anomaly Score for UAV Flight Data Anomaly Detection",
+    "authors": [
+      "J Yang",
+      "Y Zhang",
+      "Q Miao"
+    ],
+    "year": "2026",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": "10.1109/jiot.2026.3702651",
+    "doi_source": "crossref",
+    "abstract": "The reliable operation of unmanned aerial vehicles (UAVs) as mobile Internet of Things (IoT) assets is critically dependent on robust, real-time anomaly detection within their high-dimensional flight data. Conventional methods based on reconstruction error often fail to capture the strong spatial–temporal dependencies and nonlinear dynamics inherent in time-series flight data. To address these limitations, this article proposes the nonlinear latent dynamic consistency probabilistic variational auto-encoder (NLDC-VAE), a novel framework that synergistically integrates a hybrid convolutional-recurrent encoder for spatiotemporal feature extraction with a nonlinear, GRU-based transition network that enforces latent dynamic consistency. Furthermore, a probabilistic decoder enables robust uncertainty quantification by reconstructing a full distribution with mean and variance. A dual anomaly score (DAS) mechanism is introduced, which decouples the assessment of anomalies into two distinct components: the observation anomaly score measures the negative log-likelihood (NLL) of reconstruction, and the dynamic anomaly score quantifies latent inconsistency via Kullback–Leibler (KL) divergence. The experimental results on both simulation and real-world UAV flight data demonstrate that NLDC-VAE achieves superior anomaly detection performance and robustness, confirming its effectiveness for safety-critical UAV monitoring applications.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… and the dynamic anomaly score quantifies latent inconsistency … safety, is generally bifurcated into two main paradigms: model-… for attitude and actuator fault diagnosis in hexarotor UAVs, …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11558292/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel8/6488907/6702522/11558292.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation",
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/11558292/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Prediction of aircraft lost of control in flight by continuation,bifurcation, and catastrophe theory methods",
+    "authors": [
+      "M Lasek",
+      "K Sibilski"
+    ],
+    "year": "2016",
+    "venue": "researchgate.net",
+    "publisher": null,
+    "doi": "10.5604/12314005.1217280",
+    "doi_source": "crossref",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… the mapping of Reason’s latent failure model, providing a … how environmental conditions or actuator failures or structural … , icing, faults or damage, will alter aircraft dynamics and may …",
+    "paper_url": "https://www.researchgate.net/profile/Jan-Awrejcewicz/publication/299746683_DYNAMICAL_SYSTEMS_-_Control_and_Stability/links/5704d52208ae74a08e246dc4/DYNAMICAL-SYSTEMS-Control-and-Stability.pdf#page=374",
+    "pdf_url": "https://www.researchgate.net/profile/Jan-Awrejcewicz/publication/299746683_DYNAMICAL_SYSTEMS_-_Control_and_Stability/links/5704d52208ae74a08e246dc4/DYNAMICAL-SYSTEMS-Control-and-Stability.pdf#page=374",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://www.researchgate.net/profile/Jan-Awrejcewicz/publication/299746683_DYNAMICAL_SYSTEMS_-_Control_and_Stability/links/5704d52208ae74a08e246dc4/DYNAMICAL-SYSTEMS-Control-and-Stability.pdf#page=374",
+      "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-0cdbd61d-5ddf-484b-8c2c-7d67e4d467b0"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [
+      "PDF download failed or not a PDF: https://www.researchgate.net/profile/Jan-Awrejcewicz/publication/299746683_DYNAMICAL_SYSTEMS_-_Control_and_Stability/links/5704d52208ae74a08e246dc4/DYNAMICAL-SYSTEMS-Control-and-Stability.pdf#page=374"
+    ]
+  },
+  {
+    "title": "The balance between compactness and forecast accuracy of data-drivenlatent-space reduced-order models in controlled wake flows",
+    "authors": [
+      "A Solera"
+    ],
+    "year": "2026",
+    "venue": "arxiv.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Abstract page for arXiv paper 2607.24569: The balance between compactness and forecast accuracy of data-driven latent-space reduced-order models in controlled wake flows",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… that predicts the latent evolution under actuation (the prediction … faster error growth as the errors accumulate in the latent -… controlinduced bifurcations , a single global latent space may …",
+    "paper_url": "https://arxiv.org/abs/2607.24569",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://arxiv.org/abs/2607.24569"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Aviation accidents aetiology from catastrophe theory point of view",
+    "authors": [
+      "M Lasek",
+      "K Sibilski",
+      "J Żurek"
+    ],
+    "year": "2010",
+    "venue": "icas.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Human error is often cited as a major contributing factor or case of incidents and accidents. Reason proposes a view that many accidents are catalyzed by persons not present at the time of the event. In fact, it is this source of latent conditions that pose a most significant threat to the safety of complex system. Another dimension to human error in aviation are the active errors that can precipitate the alignment or trigger the latent conditions. The risk associated with aviation is a dynamic element that is affected by both latent conditions and significant factors. In our opinion this dynamics nature of risk in aviation can be described in terms of Theory of Catastrophe. Using Reason's latent failure model, we try to describe this dynamics nature using the cusp catastrophe model. In our opinion the descriptive and predictive nature of cusp catastrophe model works as a map to illustrate the nature of aviation accidents in terms of \"instability\" resulting from the alignment of latent conditions and influence of active errors.",
+    "abstract_source": "pdf",
+    "abstract_status": "ok",
+    "search_snippet": "… Reason's latent failure model, we try to describe this dynamics … Bifurcation analysis is used to study aircraft control … to know how environmental conditions or actuator failures or structural …",
+    "paper_url": "https://icas.org/icas_archive/ICAS2010/PAPERS/707.PDF",
+    "pdf_url": "https://icas.org/icas_archive/ICAS2010/PAPERS/707.PDF",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://icas.org/icas_archive/ICAS2010/PAPERS/707.PDF"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [
+      {
+        "equation": "dynamic pitch attitude (θ + θ˙ ∆t) vs. % pitch",
+        "context": "Control  Envelope:  dynamic pitch attitude (θ + θ˙ ∆t) vs. % pitch  control  command  5.",
+        "page": 4
+      },
+      {
+        "equation": "dynamic roll attitude (φ + φ˙ ∆t) vs. % lateral",
+        "context": "Control  Envelope:  dynamic roll attitude (φ + φ˙ ∆t) vs. % lateral   control command  Kwatny et all. [45] provide a compelling",
+        "page": 4
+      }
+    ],
+    "relevant_passages": [
+      {
+        "page": 1,
+        "keywords": [
+          "stability"
+        ],
+        "text": "27TH INTERNATIONAL CONGRESS OF THE AERONAUTICAL SCIENCES Abstract Human error is often cited as a major contributing factor or case of incidents and accidents. Reason proposes a view that many accidents are catalyzed by persons not present at the time of the event. In fact, it is this source of latent conditions that pose a most significant threat to the safety of complex system. Another dimension to human error in aviation are the active errors that can precipitate the alignment or trigger the latent conditions. The risk associated with aviation is a dynamic element that is affected by both latent conditions and significant factors. In our opinion this dynamics nature of risk in aviation can be described in terms of Theory of Catastrophe. Using Reason's latent failure model, we try to describe this dynamics nature using the cusp catastrophe model. In our opinion the descriptive and predictive nature of cusp catastrophe model works as a map to illustrate the nature of aviation accident"
+      },
+      {
+        "page": 2,
+        "keywords": [
+          "bifurcation",
+          "attractor"
+        ],
+        "text": "Maciej Lasek, Krzysztof Sibilski, Józef Żurek 2 rigorous control systems analysis. The importance of LOC is emphasized in work [27] where the inadequacy of current definitions is also noted. On the other hand, flight trajectories have been successfully analyzed in terms of a set of five two- parameter envelopes to classify aircraft incidents as LOC [49]. As noted in that works, LOC is ordinarily associated with flight outside of the normal flight envelope, with nonlinear behaviors, and with an inability of the pilot to control the aircraft. These results provide a means for analyzing accident data to establish whether or not the accident should be classified as LOC. Moreover, they help identify when the initial upset occurred, and when control was lost. The analysis also suggests which variables were involved, thereby providing clues as to the underlying mechanism of upset. However, it does not provide direct links to the flight mechanics of the aircraft, so it cannot be used proactive"
+      },
+      {
+        "page": 3,
+        "keywords": [
+          "bifurcation",
+          "stability",
+          "manifold",
+          "state space"
+        ],
+        "text": "3 Aviation Accidents Aetiology From Catastrophe Theory Point of View aircraft. Such a bifurcation point is always associated with a degeneracy of the zero structure of the system linearization at the bifurcation point. As such points are approached; the ability to regulate degrades so that the performance of the regulator (or pilot) may deteriorate before the bifurcation point is actually reached. Fig. 1 A cusp catastrophe model The equilibrium surface or set of trim conditions is a submanifold of the state- parameter space that is divided into open sets by the bifurcation points. Within each region a linear regulator can be designed. However, a regulator designed in one region will fail if applied in a neighboring region [103]. In the paper [45] Kwatny et all. we consider how state and control constraints relate to lost-of-control (LOC). In the paper [103] authors defined in- flight LOC as a significant deviation of the aircraft from the intended flight path or operational envelope. T"
+      },
+      {
+        "page": 4,
+        "keywords": [
+          "stability"
+        ],
+        "text": "Maciej Lasek, Krzysztof Sibilski, Józef Żurek 4 active errors v and latent conditions u combine to place the point at the pleat, thereby leading to a catastrophe event. In this model, the active errors are contained as futures within the situational factors. Mistakes or errors within the catastrophe model will result in a move toward a more negative situational factor. These active errors may act as a trigger enabling the latent factors, thereby activating a series of effects or consequences with possible disastrous outcomes. The latent conditions are contained within systemic factors and range in value from low to high based on their emergence during a flight safety event. Point A represents a scenario characterized by positive situational factors and low systematic factors where the potential for flight safety incidents is very low. As the situation deteriorates the scenario develops a dynamic nature characterized as a movement along the axis x This situational factor triggers the la"
+      },
+      {
+        "page": 5,
+        "keywords": [
+          "bifurcation",
+          "dynamical systems",
+          "state space"
+        ],
+        "text": "5 Aviation Accidents Aetiology From Catastrophe Theory Point of View particular, we would like to know how environmental conditions or actuator failures or structural damage impact the vulnerability of the aircraft to LOC. To do this we need a formal analytical definition of LOC. Another important study [103] reviews 74 transport LOC accidents in the fifteen year period 1993-2007. Of these the major underlying causes of LOC are identified as stalls, ice contaminated airfoils, spatial disorientation, and faulty recovery technique. An aircraft must typically operate in multiple modes that have significantly different dynamics and control characteristics. For example, cruise and landing configurations. Within each mode there may be some parametric variation, such as weight or center of mass location, that also affects aircraft behavior. Each mode has associated with it a flight envelope restricting speed, attitude and other flight variables. Under normal conditions keeping within the flig"
+      },
+      {
+        "page": 6,
+        "keywords": [
+          "bifurcation",
+          "dynamical systems",
+          "stability"
+        ],
+        "text": "Maciej Lasek, Krzysztof Sibilski, Józef Żurek 6 c) determining the stability of each solution. Each step is described next. The system stability analysis based on the bifurcation approach requires of a set of differential and/or algebraic equations which contain two types of variables: states and parameters. In our case, the aircraft dynamic model is only characterized by a set of parameter dependent differential equations, that is: f( , ) d dt = x x µ (1) and g( ; ) x x µ ֏ (2) with ,and n p ∈ ⊂ℜ ∈ ⊂ℜ x µ U V , where U and V are open sets in ℜn and ℜp, respectively. We view the variables x as a vector of n state variables, the variables µ as a vector of m parameters (or controls), xɺ is the time derivative of x and f : n m n ℜ×ℜ→ℜ is the smooth vector field (the n non-linear functions). Note that both open loop (uncontrolled) and closed loop rigid-body flight dynamical systems can usually be represented in the form of equation (1), and referred to [32] as a vector field or ordinary di"
+      },
+      {
+        "page": 7,
+        "keywords": [
+          "bifurcation",
+          "stability",
+          "eigenvalue",
+          "jacobian",
+          "floquet"
+        ],
+        "text": "7 Aviation Accidents Aetiology From Catastrophe Theory Point of View Fig. 3 Principle of arc-length continuation Figure 3 illustrates the principle of arc-length continuation. Denoting the system parameter by and the n-dimensional state vector by a particular solution can be expressed by the – dimensional (1-D) vector. The index denotes the solution of the ongoing continuation process. The predictor determines a likely neighboring solution by linear extrapolation of the established solution branch in the direction of the tangent vector of the current solution. The predicted state is then corrected to the true solution using an iterative algorithm such as the gradient descending Newton–Raphson method (small circles in Figure 3). As this corrector is independent of the system dynamics, the continuation method is able to converge to solutions irrespective of their stability properties. Fig. 4 Three scenarios of stability of a solution: (a) fold bifurcation, (b) flip bifurcation, (c) secon"
+      },
+      {
+        "page": 8,
+        "keywords": [
+          "bifurcation",
+          "dynamical systems",
+          "stability",
+          "manifold",
+          "eigenvalue",
+          "jacobian"
+        ],
+        "text": "Maciej Lasek, Krzysztof Sibilski, Józef Żurek 8 previous frequency. The third possible loss of stability is through a Hopf bifurcation of the periodic solution (generalized Hopf bifurcation or torus bifurcation). This case is characterized by the crossing over the unit cycle of two complex conjugated eigenvalues and corresponds to the onset of quasiperiodic oscillations see Figure 4c. The most important ideas of DST used in the paper will be introduced in the following sections. The first step in the DST approach is to calculate the steady states of the system and their stability. Steady states can be found by setting all time derivatives equal to zero and solving the resulting set of algebraic equations. The Hartman-Grobman theorem (p. 234 in reference [102]) proves that the local stability of a steady state can be determined by linearizing the equations of motion about the steady state and calculating the eigenvalues. The implicit function theorem (Ioos and Joseph [40], in Chap. 2) p"
+      },
+      {
+        "page": 9,
+        "keywords": [
+          "bifurcation",
+          "stability",
+          "eigenvalue",
+          "jacobian"
+        ],
+        "text": "9 Aviation Accidents Aetiology From Catastrophe Theory Point of View some systematic, some that require flight dynamics insight and some based on the nonlinear systems theory. It should be noted however that none of the methods can be guaranteed to find all the starting solutions for a given set of nonlinear equations. In most cases though, a combination of methods and perseverance allows a comprehensive set of starting solutions to be found. Starting with an approximation of a steady state for a given value of parameters, the computer code determines, by a continuation process, the solution curve x(µ) of a following set of non- linear algebraic equations, and determine type of bifurcation, (note: the continuation process assumes that all functions for (6) are continuous and have derivatives): ( ) ( ) ( ) ( ) ( ) ( ) 1,2 0 Equilibrium points : f , 0 Limit points : f , 0 0 Hopf points : f , 0 2 / Periodic orbits : 0 f , T i T x T x dt λ λ π  =  =   =  =  = ±   = +  ∫ x µ x µ "
+      },
+      {
+        "page": 10,
+        "keywords": [
+          "bifurcation",
+          "stability",
+          "eigenvalue",
+          "floquet",
+          "state space"
+        ],
+        "text": "Maciej Lasek, Krzysztof Sibilski, Józef Żurek 10 4.3. Dynamic analysis using XPPAUT A wide collection of useful numerical algorithms for the exploration of ordinary differential equations has been made available through the public domain software XPPAUT [24]. With its graphical interface to the popular continuation and bifurcation software AUTO, XPPAUT combines the advantages of two worlds: A set of ordinary differential equation can be integrated with the phase plane explorer XPP until a steady-state has been reached; once balanced, the system equations can then be passed to AUTO for continuation and bifurcation analysis. A convenient text-based interface allows the differential equations to be entered without the need for tedious low-level programming in FORTRAN or C. Figure 3 shows a screenshot of the main window of XPPAUT with the embedded AUTO in the foreground. Fig. 5 Screenshot of the XPPAUT interface to AUTO The problem definition file specifies a number of algorithmic options "
+      },
+      {
+        "page": 11,
+        "keywords": [
+          "bifurcation",
+          "stability",
+          "attractor",
+          "state space"
+        ],
+        "text": "11 Aviation Accidents Aetiology From Catastrophe Theory Point of View usually do not take into account all of the important nonlinearities in the aircraft mathematical model. As a result, the handling qualities and stability characteristics may be satisfactory only at small disturbances from the controllable flight conditions. The qualitative analysis of aircraft closed-loop dynamics in such cases provides valuable information for control design. By varying free control-system parameters, like input interconnections, feedback gains, actuator constraints, etc., the closed-loop dynamics can be modified and improved, even for conditions where the applied control design method does not guarantee desired characteristics. The following computational methods for equilibriums and periodical orbits investigation, provided by the AUTO package, were used in this work for control law design: 1. continuation method along with the local stability analysis; 2. bifurcation-diagram method; 3. global st"
+      },
+      {
+        "page": 12,
+        "keywords": [
+          "bifurcation",
+          "stability"
+        ],
+        "text": "Maciej Lasek, Krzysztof Sibilski, Józef Żurek 12 interconnections can significantly improve the controllability of an aircraft and avoid possible departures due to aircraft-motion coupling. The bifurcation diagrams in the plane of aileron, rudder or stabiliser deflections reveal the “departure-free” regions of the flight envelope. If interconnection keeps control surfaces inside the “departure-free” region, coordinated turns (β = 0) and departure prevention may be provided. Fig. 7 Recovery control from critical autorotational regimes (cf. Goman, Kharamovsky [29] - illustration of cusp catastrophe). Such interconnection at small control deflections is similar to well-known aileron rudder interconnection, used in many aircraft (Mehra [62]; Guicheteau [33 - 36]. The continuation technique can be applied to compute the nonlinear interconnection laws between stabilator, aileron and rudder, required to provide decoupling of longitudinal, directional and roll equilibrium states. Such decoupli"
+      },
+      {
+        "page": 13,
+        "keywords": [
+          "bifurcation",
+          "stability",
+          "attractor",
+          "manifold",
+          "state space"
+        ],
+        "text": "13 Aviation Accidents Aetiology From Catastrophe Theory Point of View equilibriums surface and after the “jump” returns smoothly to the desired zero-rotation point. 5. Continuation methods – implementation to aircraft dynamics The wide and purposeful applications of bifurcational methods and nonlinear dynamical system theory to flight dynamics nonlinear problem at high angles of attack regimes are now well-established [4 - 7, 10, 16, 18 - 20, 29 - 31, 33 - 36, 39, 41, 45 - 53, 52, 66, 86 - 93, 108]. The common feature of all these works is the implementation of the continuation technique for solving the nonlinear problems of an aircraft equation both for equilibrium and oscillatory motions. Carroll and mehra3 were the first who used the continuation method in flight dynamics and connected the main types of aircraft instabilities with bifurcation phenomena (e.g. The occurrence of wing rock motion was connected with a hopf bifurcation, the examples of chaotic motion were presented, etc)."
+      },
+      {
+        "page": 14,
+        "keywords": [
+          "bifurcation"
+        ],
+        "text": "Maciej Lasek, Krzysztof Sibilski, Józef Żurek 14 prediction of further motion of the aircraft. The rates of parameter variations are also important for such a forecast. The faster the parameter change, the more the difference between steady- state solution and transient motion can be observed. • Last, the numerical simulation is used for checking the obtained predictions and obtaining transient characteristics of system dynamics for large amplitude state variable disturbances and parameter variations. 5.2. The adequacy of a mathematical model The adequacy of mathematical modeling of high angle-of-attack dynamics is strictly dependent on the adequacy of the aerodynamic model at these regimes. There is nontrivial problem due to the very complicated nature of the separated and vortex flow in unsteady conditions. Aerodynamics becomes extremely nonlinear and time history motion dependable. Qualitative and bifurcation approaches are also very fruitful when the sources and nature of aerodynam"
+      },
+      {
+        "page": 16,
+        "keywords": [
+          "stability"
+        ],
+        "text": "Maciej Lasek, Krzysztof Sibilski, Józef Żurek 16 motion. The roll rate in wind-body axes ( ) cos sin cos sin ap p r q α α β β = + + defines the rate of conical rotation, which is similar to the angular rate in the rotary balance tests. Two other projections: ( ) cos sin sin cos , cos sin a a q p r q r r p α α β β α α = − + + = − define both the unsteadiness and spirality of motion: ( ) / cos , sp sp a a a a q q r r α β β = − = − + ɺ ɺ . The values of , sp sp a a q r are the wind-body angular rates in steady state spiral motion and their undimensional values / 2 , / 2 sp sp a a q c V r c V are usually very small. Assuming that the disturbances of the pure conical motion are small, the following representation of the aerodynamic coefficients can be used: ( ) ( ) ( ) ( ) , , , 2 2 2 2 , , , / cos 2 2 2 cos 2 RB qa ra RB qa sp sp ra a i i a i a i i i a i a i i a a a i i i i q c C C p C V r b c b C C C V V V q c C p C C V q c r b r b C C C C V C V α β α β α β α β α β α β β β = + + + + + = +"
+      },
+      {
+        "page": 17,
+        "keywords": [
+          "bifurcation",
+          "stability"
+        ],
+        "text": "17 Aviation Accidents Aetiology From Catastrophe Theory Point of View region and to a great degree defines the spin dynamics. Due to asymmetry, the right spin modes can greatly differ from the left ones both in the values of parameters and the character of stability. Unsteady aerodynamic effects at high angles of attack, resulting from the separated and vortex flow development, can significantly transform the real aerodynamic loads with respect to their conventional representation, which was discussed above. In the frame of the conventional approach the unsteady effects are described using linear terms with unsteady aerodynamic derivatives. There are special regions of incidence, e.g. CLmax region, where the conventional representation is not valid. The special approaches using the differential equations or transfer functions can improve the aerodynamic model and take into account the nonlinear unsteady aerodynamic effects due to separated and vortex flow dynamics. 5.5. Aircraft with c"
+      },
+      {
+        "page": 18,
+        "keywords": [
+          "bifurcation",
+          "stability"
+        ],
+        "text": "Maciej Lasek, Krzysztof Sibilski, Józef Żurek 18 inputs is their characteristic feature. Departure resistance to the entering in these critical regimes and the methods of recovery from them are the most important questions, when the problem of flight safety is considered (see Fig. 7). Figure 9 Critical flight regimes regions. A number of different forms of the loss of stability in longitudinal and lateral/directional motion is usually connected with aircraft stall concept56 . One may distinguish among them: • a sudden rise of the angle of attack (“pitch up”) taking place at moderate and high angles of attack due to pitching moment nonlinearity; • stable self-oscillating pitching motion at high angles of attack due to the development of the separated flow (“bucking”); • the full turn rotation in pitch (“tumbling”); • divergent increase in the bank angle (“wing drop” or “roll off”) due to asymmetrical aerodynamic rolling moment at high angle of attack or propelling aerodynamic moments; •"
+      },
+      {
+        "page": 19,
+        "keywords": [
+          "bifurcation",
+          "stability",
+          "state space"
+        ],
+        "text": "19 Aviation Accidents Aetiology From Catastrophe Theory Point of View regime in the general case will be more complicated with respect to the region, considered above in simplified manner. To take into account the interaction between phugoid and angular modes the first four equation of (20), which are the autonomous nonlinear system with state vector x=[V,Θ,α, q]T, have to be considered with entire ranges of α and Θ variations [-π, π]. To represent the stability region in the fourth-order state space it is possible only by means of drawing its two- dimensional cross-sections considering the disturbances only in two selected state variables. Figure 11 Crss section of asymptotic stability region for deep stall regime α3 (cf. ref. [30]) For example, in Figure 9 two different cross- sections of the region of attraction of deep stall regime, i.e. stable point α3, are shown. The disturbances in the plane of pitch angle Θ and velocity V are considered. Two other state variables at the initial"
+      },
+      {
+        "page": 20,
+        "keywords": [
+          "bifurcation",
+          "dynamical systems"
+        ],
+        "text": "Maciej Lasek, Krzysztof Sibilski, Józef Żurek 20 equilibrium solutions form the single continuous surface. The equilibrium surface in this case possesses the canonical form of a singularity in the mapping of the equilibrium surface on the plane of control parameters δe, δa, which are called “cusp catastrophe” and “butterfly catastrophe”. Although the catastrophe theory was developed for the gradient type of dynamical systems, the formulated singularities are, nonetheless, also apparent in the autonomous dynamical systems. Figure 12 Equilibrium roll rates for different elevator and aileron deflection A) δe var, δa=0; B) δa var, 0.4 3.0 = − ÷ 2 a [cf. [30]) In Fig. 12 the common view of the calculated equilibrium surface is shown along with the bifurcational diagram below it in the plane of elevator and aileron deflections. The number of equilibrium solutions, shown in the figure, varies with control inputs. There is a critical region with auto-rotational rolling regimes at pitch-down el"
+      },
+      {
+        "page": 21,
+        "keywords": [
+          "bifurcation",
+          "stability"
+        ],
+        "text": "21 Aviation Accidents Aetiology From Catastrophe Theory Point of View families, which are shown in Figure 13. The dependencies of equilibrium roll rate on aileron deflection are presented for different elevator deflections, corresponding to different values of normal factor parameter az = -2 ÷ 5. As in the previous case the type of line defines the code of equilibrium stability (solid lines - stable solutions, dashed lines -divergent solutions, dash-dotted lines - oscillatory unstable solutions). There are two different subcritical types of curves starting from the zero point. The first ones for positive az > 0 possess the “loss of controllability” - the increase of control moment does not proportionately increase the roll rate. This effect is due to the arising of opposite roll moments from sideslip, resulting from roll coupling. The second ones for zero and negative az ≤0 possess the departure point, where stable and divergent equilibriums disappear. Figure 14 Periodical and chaotic "
+      }
+    ],
+    "relevant_conclusions": [
+      {
+        "page": 1,
+        "text": "27TH INTERNATIONAL CONGRESS OF THE AERONAUTICAL SCIENCES Abstract Human error is often cited as a major contributing factor or case of incidents and accidents. Reason proposes a view that many accidents are catalyzed by persons not present at the time of the event. In fact, it is this source of latent conditions that pose a most significant threat to the safety of complex system. Another dimension to human error in aviation are the active errors that can precipitate the alignment or trigger the latent conditions. The risk associated with aviation is a dynamic element that is affected by both latent conditions and significant factors. In our opinion this dynamics nature of risk in aviation can be described in terms of Theory of Catastrophe. Using Reason's latent failure model, we try to describe this dynamics nature using the cusp catastrophe model. In our opinion the descriptive and predictive nature of cusp catastrophe model works as a map to illustrate the nature of aviation accident"
+      },
+      {
+        "page": 2,
+        "text": "Maciej Lasek, Krzysztof Sibilski, Józef Żurek 2 rigorous control systems analysis. The importance of LOC is emphasized in work [27] where the inadequacy of current definitions is also noted. On the other hand, flight trajectories have been successfully analyzed in terms of a set of five two- parameter envelopes to classify aircraft incidents as LOC [49]. As noted in that works, LOC is ordinarily associated with flight outside of the normal flight envelope, with nonlinear behaviors, and with an inability of the pilot to control the aircraft. These results provide a means for analyzing accident data to establish whether or not the accident should be classified as LOC. Moreover, they help identify when the initial upset occurred, and when control was lost. The analysis also suggests which variables were involved, thereby providing clues as to the underlying mechanism of upset. However, it does not provide direct links to the flight mechanics of the aircraft, so it cannot be used proactive"
+      },
+      {
+        "page": 4,
+        "text": "Maciej Lasek, Krzysztof Sibilski, Józef Żurek 4 active errors v and latent conditions u combine to place the point at the pleat, thereby leading to a catastrophe event. In this model, the active errors are contained as futures within the situational factors. Mistakes or errors within the catastrophe model will result in a move toward a more negative situational factor. These active errors may act as a trigger enabling the latent factors, thereby activating a series of effects or consequences with possible disastrous outcomes. The latent conditions are contained within systemic factors and range in value from low to high based on their emergence during a flight safety event. Point A represents a scenario characterized by positive situational factors and low systematic factors where the potential for flight safety incidents is very low. As the situation deteriorates the scenario develops a dynamic nature characterized as a movement along the axis x This situational factor triggers the la"
+      },
+      {
+        "page": 5,
+        "text": "5 Aviation Accidents Aetiology From Catastrophe Theory Point of View particular, we would like to know how environmental conditions or actuator failures or structural damage impact the vulnerability of the aircraft to LOC. To do this we need a formal analytical definition of LOC. Another important study [103] reviews 74 transport LOC accidents in the fifteen year period 1993-2007. Of these the major underlying causes of LOC are identified as stalls, ice contaminated airfoils, spatial disorientation, and faulty recovery technique. An aircraft must typically operate in multiple modes that have significantly different dynamics and control characteristics. For example, cruise and landing configurations. Within each mode there may be some parametric variation, such as weight or center of mass location, that also affects aircraft behavior. Each mode has associated with it a flight envelope restricting speed, attitude and other flight variables. Under normal conditions keeping within the flig"
+      },
+      {
+        "page": 11,
+        "text": "11 Aviation Accidents Aetiology From Catastrophe Theory Point of View usually do not take into account all of the important nonlinearities in the aircraft mathematical model. As a result, the handling qualities and stability characteristics may be satisfactory only at small disturbances from the controllable flight conditions. The qualitative analysis of aircraft closed-loop dynamics in such cases provides valuable information for control design. By varying free control-system parameters, like input interconnections, feedback gains, actuator constraints, etc., the closed-loop dynamics can be modified and improved, even for conditions where the applied control design method does not guarantee desired characteristics. The following computational methods for equilibriums and periodical orbits investigation, provided by the AUTO package, were used in this work for control law design: 1. continuation method along with the local stability analysis; 2. bifurcation-diagram method; 3. global st"
+      },
+      {
+        "page": 19,
+        "text": "19 Aviation Accidents Aetiology From Catastrophe Theory Point of View regime in the general case will be more complicated with respect to the region, considered above in simplified manner. To take into account the interaction between phugoid and angular modes the first four equation of (20), which are the autonomous nonlinear system with state vector x=[V,Θ,α, q]T, have to be considered with entire ranges of α and Θ variations [-π, π]. To represent the stability region in the fourth-order state space it is possible only by means of drawing its two- dimensional cross-sections considering the disturbances only in two selected state variables. Figure 11 Crss section of asymptotic stability region for deep stall regime α3 (cf. ref. [30]) For example, in Figure 9 two different cross- sections of the region of attraction of deep stall regime, i.e. stable point α3, are shown. The disturbances in the plane of pitch angle Θ and velocity V are considered. Two other state variables at the initial"
+      },
+      {
+        "page": 23,
+        "text": "23 Aviation Accidents Aetiology From Catastrophe Theory Point of View 1 shows the results of numerical reconstruction of flight trajectory. Similarly, the second accident was caused by the destruction of left inner engine as a result of burst of toothed ring of low pressure turbine. This occurred as a result of a break of the shaft of this turbine, caused by a malfunction of a bearing. During this tragic flight the use of the bearing got into a critical state, which caused the seizure of labyrinth seals rotating in relation to the sleeve. As a result emission of a lot of heat occurred, the shaft of the turbine heated up to a temperature, in which its strength dropped below permissible value. A crack of the shaft occurred, and the mechanic link between the turbine and the compressor was broken. Whole power of the turbine during several dozen milliseconds was used to increasing its rotation velocity, to the value at which the strength of the toothed ring of the turbine was lower than the"
+      },
+      {
+        "page": 29,
+        "text": "29 Aviation Accidents Aetiology From Catastrophe Theory Point of View − incorrect indications or no indications of: device velocity Vp (velocity meter), barometric altitude Hp (altimeter), velocity of climb (rate-of-climb indicator) Mach number (Machmeter). Tunnel tests of Fokker F-28 aeroplane with a wing with “abrasive paper” type fouling showed 25% reduction of maximal aerodynamic lift and 6o reduction of critical attack angle [13]. McDonnell-Douglas company notes, that the fouling of the surface only 0.4 mm thick on the wings of DC-9-10 aeroplane can be the cause of loss of 25% of aerodynamic lift and loss of critical angle to the value below that, which switches on the warning system (of transgression of αkr). This was confirmed by research done by Boeing, as well as tunnel research and simulation computations by NASA [13, 17]. One needs to remember, that icing develops strongly on the edges of attack of lifting surfaces [17], which creates the greatest danger especially for aerop"
+      }
+    ],
+    "errors": []
+  },
+  {
+    "title": "Predictingbifurcationof mechanical systems using reservoir computing: Case studies on legged locomotion and pneumatic softactuator",
+    "authors": [
+      "J Shen",
+      "R Al Ajroudi",
+      "N Akashi",
+      "T Jo…"
+    ],
+    "year": "2026",
+    "venue": "pubs.aip.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… dynamics of the pneumatic soft actuator shown in (c). Our results show that the ESN can reliably predict bifurcation structures in robot bodies’ mechanical dynamics … prediction error , …",
+    "paper_url": "https://pubs.aip.org/aip/cha/article/36/1/013103/3376040",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation",
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://pubs.aip.org/aip/cha/article/36/1/013103/3376040"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Basics of animation",
+    "authors": [
+      "J Tkemaladze"
+    ],
+    "year": "2026",
+    "venue": "researchgate.net",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… latent structure, such as a nascent geochemical pathway or a precariously stable seismic fault zone, exists in a state of dynamical … the probe has triggered a latent bifurcation , exposing a …",
+    "paper_url": "https://www.researchgate.net/profile/Gabro-Gakely/publication/399918038_Basics_of_Animation/links/696febababecff2489ed742f/Basics-of-Animation.pdf",
+    "pdf_url": "https://www.researchgate.net/profile/Gabro-Gakely/publication/399918038_Basics_of_Animation/links/696febababecff2489ed742f/Basics-of-Animation.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://www.researchgate.net/profile/Gabro-Gakely/publication/399918038_Basics_of_Animation/links/696febababecff2489ed742f/Basics-of-Animation.pdf"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [
+      "PDF download failed or not a PDF: https://www.researchgate.net/profile/Gabro-Gakely/publication/399918038_Basics_of_Animation/links/696febababecff2489ed742f/Basics-of-Animation.pdf"
+    ]
+  },
+  {
+    "title": "Effect ofactuatorsaturation on pilot-induced oscillation: a nonlinearbifurcationanalysis",
+    "authors": [
+      "DH Nguyen",
+      "MH Lowenberg",
+      "SA Neild"
+    ],
+    "year": "2021",
+    "venue": "arc.aiaa.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… The problem stretches back to the early days of fly-by-wire technology … , bifurcation analysis and numerical continuation have proven to be a powerful tool for nonlinear flight dynamics …",
+    "paper_url": "https://arc.aiaa.org/doi/full/10.2514/1.G005840",
+    "pdf_url": "https://research-information.bris.ac.uk/files/264460038/JGCD_3_PURE.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://arc.aiaa.org/doi/full/10.2514/1.G005840"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [
+      "PDF download failed or not a PDF: https://research-information.bris.ac.uk/files/264460038/JGCD_3_PURE.pdf"
+    ]
+  },
+  {
+    "title": "Dual nonlinear saturation control of electromagnetic suspension (EMS) system in maglev trains",
+    "authors": [
+      "HSB Abdelmonem"
+    ],
+    "year": "2025",
+    "venue": "mdpi.com",
+    "publisher": null,
+    "doi": "10.3390/math14010062",
+    "doi_source": "crossref",
+    "abstract": "This paper presents a nonlinear vertical dynamic model of an electromagnetic suspension (EMS) system in maglev trains regulated by a dual nonlinear saturation controller (DNSC) under simultaneous resonance (Ω≅ωs,  ωs≅2ωc). The governing nonlinear differential equations of the system are addressed analytically utilizing the multiple time-scale technique (MTST), concentrating on resonance situations obtained from first-order approximations. The suggested controller incorporates two nonlinear saturation functions in the feedback and feedforward paths to improve system stability, decrease vibration levels, and enhance passenger comfort amidst external disturbances and parameter changes. The dynamic bifurcations caused by DNSC parameters are examined through phase portraits and time history diagrams. The goal of control is to minimize vibration amplitude through the implementation of a dual nonlinear saturation control law based on displacement and velocity feedback signals. A comparative analysis is performed on different controllers such as integral resonance control (IRC), positive position feedback (PPF), nonlinear integrated PPF (NIPPF), proportional integral derivative (PID), and DNSC to determine the best approach for vibration reduction in maglev trains. DNSC serves as an effective control approach designed to minimize vibrations and enhance the stability of suspension systems in maglev trains. Stability evaluation under concurrent resonance is conducted utilizing the Routh–Hurwitz criterion. MATLAB 18.2 numerical simulations (fourth-order Runge–Kutta) are employed to analyze time-history responses, the effects of system parameters, and the performance of controllers. The evaluation of all the derived solutions was conducted to verify the findings. Additionally, quadratic velocity feedback leads to intricate bifurcation dynamics. In the time domain, higher displacement and quadratic velocity feedback may destabilize the system, leading to shifts between periodic and chaotic movements. These results emphasize the substantial impact of DNSC on the dynamic performance of electromagnetic suspension systems. Frequency response, bifurcation, and time-domain evaluations demonstrate that the DNSC successfully reduces nonlinear oscillations and chaotic dynamics in the EMS system while attaining enhanced transient performance and resilience.",
+    "abstract_source": "crossref",
+    "abstract_status": "ok",
+    "search_snippet": "… feedback leads to intricate bifurcation dynamics . In the time … or for preventing actuator overdrive during nonlinear dynamic … —can induce complex bifurcation patterns and chaotic motion …",
+    "paper_url": "https://www.mdpi.com/2227-7390/14/1/62",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://www.mdpi.com/2227-7390/14/1/62"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Controllability of nonlinear epileptic-seizure spreadingdynamicsin large-scale subject-specific brain networks",
+    "authors": [
+      "SA Moosavi",
+      "JS Feldman",
+      "W Truccolo"
+    ],
+    "year": "2025",
+    "venue": "nature.com",
+    "publisher": null,
+    "doi": "10.1038/s41598-025-90632-w",
+    "doi_source": "crossref",
+    "abstract": "Closed-loop electrical stimulation has become an important alternative to resective surgery for control of pharmacologically-resistant focal epileptic seizures. Seizure spread across large-scale brain networks, rather than its focal onset, is what commonly leads to major disruptions in sensorimotor and cognitive processing, as well as loss-of-consciousness, one of the main impairing aspects of the disorder. Electrical stimulation, triggered by early detection of seizure onset in epileptogenic zones (EZs), has been applied to prevent spread and its subsequent effects. Here, we show how linear feedback seizure-spread controllability in subject-specific (white-matter tractography) Epileptor network models is affected by variations in brain excitability, network coupling strength, control latency and gain, and actuation targets. Feedback control can qualitatively change the nonlinear seizure dynamics, and the paths to seizure termination and spread prevention. Notably, control onset latency is a critical parameter leading to a phase transition in spread controllability. Consequently, the efficacy of EZ-only actuation is limited depending on network excitability, coupling strength, and practical latencies for detection and actuation. Additional feedback-stabilization control of theoretically-derived optimal node subsets in the network are necessary for spread prevention. Finally, we contrast our linear-feedback controllability assessment with other measures based on minimum-energy (Gramian) controllability and nonlinear pulse-perturbation approaches.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… strength, control latency and gain, and actuation targets. Feedback … Finally, we emphasize that the controllability problem … In the next subsections, we show that this SN bifurcation can …",
+    "paper_url": "https://www.nature.com/articles/s41598-025-90632-w",
+    "pdf_url": "https://www.nature.com/articles/s41598-025-90632-w.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://www.nature.com/articles/s41598-025-90632-w"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "A type-3 fuzzy synchronization system subjected to hysteresis quantizer inputs and unknowndynamics: Applicable to financial and physical chaotic systems",
+    "authors": [
+      "M Tian",
+      "A Mohammadzadeh",
+      "H Taghavifar",
+      "R Sakthivel …"
+    ],
+    "year": "2025",
+    "venue": "Elsevier",
+    "publisher": null,
+    "doi": "10.1016/j.isatra.2025.12.007",
+    "doi_source": "crossref",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… , the bifurcations and chaos control of complex dynamics are … strategies for complex dynamical problems , paving the way … by the network such as latency , jitter, and communication noise…",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0019057825006998",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://www.sciencedirect.com/science/article/pii/S0019057825006998"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "A review of integrated control technologies for four in-wheel motor drive electric vehicle chassis",
+    "authors": [
+      "X Fan",
+      "M Chen",
+      "Z Huang",
+      "X Yu"
+    ],
+    "year": "2025",
+    "venue": "Springer",
+    "publisher": null,
+    "doi": "10.1007/s40430-025-05411-5",
+    "doi_source": "crossref",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… -dimensional dynamics and three-dimensional dynamics . Then… as the control parameter for bifurcation analysis, establishes a … The faults that are more likely to occur are actuator faults , …",
+    "paper_url": "https://link.springer.com/article/10.1007/s40430-025-05411-5",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s40430-025-05411-5.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://link.springer.com/article/10.1007/s40430-025-05411-5"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [
+      "PDF download failed or not a PDF: https://link.springer.com/content/pdf/10.1007/s40430-025-05411-5.pdf"
+    ]
+  },
+  {
+    "title": "Learning Nonlinear Motor Control: How Integrating Machine Learning and NonlinearDynamicsReveals Structure, Adaptation, and Control in Human …",
+    "authors": [
+      "A Hakkak Moghadam Torbati",
+      "Y Shiravand",
+      "A Mazinani"
+    ],
+    "year": "2026",
+    "venue": "mdpi.com",
+    "publisher": null,
+    "doi": "10.3390/act15030166",
+    "doi_source": "crossref",
+    "abstract": "Human movement emerges from complex interactions between neural processes, musculoskeletal dynamics, and environmental constraints, resulting in behavior that is inherently nonlinear. Therefore, nonlinear dynamical systems approaches have been widely used to characterize variability, stability, and coordination in motor behavior. However, despite their conceptual value, these methods are often applied post hoc and remain limited in their ability to support prediction, control, and integration of high-dimensional multimodal data. Artificial intelligence (AI) provides a complementary modeling framework capable of addressing these limitations. Yet many current AI applications treat motor signals primarily as feature sets for classification or regression, leaving the underlying dynamical structure of movement underexplored. This review synthesizes recent research that integrates AI with nonlinear motor control analysis to model, interpret, and control human movement across neural, biomechanical, and behavioral domains. We organize related studies according to the type of nonlinear motor control problem addressed, including input–output mappings, temporal dynamics, and adaptive control policies under conditions of partial observability and nonstationarity. Across these examples, we show that AI becomes scientifically informative when constrained and evaluated by nonlinear dynamical constructs such as attractors, phase relationships, manifolds, and stability structures. Finally, we discuss current limitations and outline future directions toward theory-informed, explainable, and closed-loop AI models for motor control and human–actuator interaction.",
+    "abstract_source": "crossref",
+    "abstract_status": "ok",
+    "search_snippet": "… the following: What latent dynamical objects can stably store … problem addressed in this study concerns the stabilization of chaotic and bifurcation -driven dynamics in passive dynamic …",
+    "paper_url": "https://www.mdpi.com/2076-0825/15/3/166",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://www.mdpi.com/2076-0825/15/3/166"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "… of a dual-branch recursive-time series joint model based on a multi-scale Transformer and multi-modal fusion tofaultdiagnosis of fixed-wing UAVactuators",
+    "authors": [
+      "W Zhang",
+      "Z Liu",
+      "Z Jia",
+      "S Wang…"
+    ],
+    "year": "2025",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Fixed-wing UAV actuators are prone to compound failures under complex multimodal dynamic environments, posing challenges to fault diagnosis accuracy and robustness. To address this, a dual-branch recursive-time-series joint model based on a multiscale transformer and multimodal fusion is proposed. The model employs a gated recurrent unit (GRU) branch to capture temporal dependencies, and a convolutional branch to extract spatial features from recursive graphs derived from time-series signals. A transformer-based fusion module adaptively integrates six sensor modalities, including rudder angle, thrust, and gyroscope, enabling accurate modeling of nonlinear patterns and dynamic interactions. Data augmentation techniques, such as Gaussian noise, translation, and scaling, are introduced to improve generalization. Experimental validation on 5000 samples across one normal and ten fault modes shows that the proposed model achieves 95% <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">F</i>1-score and 98% area under curve (AUC) on a balanced dataset, and 91% <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">F</i>1 and 95% AUC on unbalanced data. Compared with a range of classical and recent deep-learning baselines, including RF (81% ), SVM (83% ), RNN (85% ), LSTM/GRU (88% ), transformer (91% ), transformer-XL (92% ), and convolutional neural network–BiLSTM (89% ), the proposed method exhibits superior classification performance, especially for rare and compound faults. Ablation studies confirm the critical role of each module. The results demonstrate the model’s strong potential for real-time, reliable fault diagnosis in UAV actuator systems, offering theoretical and engineering value for autonomous flight safety and maintenance planning.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… dynamic environments, posing challenges to fault diagnosis … of nonlinear patterns and dynamic interactions. Data … interface, ensuring minimal latency and stable operation. This …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11180823/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel8/7/7778228/11180823.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/11180823/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Actuator faultisolation and reconfiguration in transport‐reaction processes",
+    "authors": [
+      "NH El‐Farra",
+      "S Ghantasala"
+    ],
+    "year": "2007",
+    "venue": "Wiley Online Library",
+    "publisher": null,
+    "doi": "10.1002/aic.11177",
+    "doi_source": "crossref",
+    "abstract": "AbstractA methodology is presented for the design of integrated, model‐based fault diagnosis and reconfigurable control systems for transport‐reaction processes modeled by nonlinear parabolic partial differential equations (PDEs) with control constraints and actuator faults. The methodology brings together nonlinear feedback control, fault detection and isolation (FDI), and performance‐based supervisory switching between multiple actuator configurations. Using an approximate, finite‐dimensional model that captures the PDE's dominant dynamic modes, a stabilizing nonlinear feedback controller is initially designed for each actuator configuration, and its stability region is explicitly characterized in terms of the control constraints and actuator locations. To facilitate the fault diagnosis task, the locations of the control actuators are chosen in a way that ensures that the evolution of each dominant mode, in appropriately chosen coordinates, is excited by only one actuator. Then, a set of dedicated FDI filters, each replicating the fault‐free behavior of a given state of the approximate system, are constructed. The choice of actuator locations ensures that the residual of each filter is sensitive to faults in only one actuator and decoupled from the rest, thus, allowing complete fault isolation. Finally, a set of switching rules are derived to orchestrate switching from the faulty actuators to healthy fallbacks in a way that preserves closed‐loop stability and minimizes the closed‐loop performance deterioration resulting from actuator faults. Precise FDI thresholds and control reconfiguration criteria that account for model reduction errors are derived to prevent false alarms when the reduced order model‐based fault‐tolerant control structure is implemented on the process. A singular perturbation formulation is used to link these thresholds with the degree of separation between the slow and fast eigenvalues of the spatial differential operator. The developed methodology is successfully applied to the problem of constrained, actuator fault‐tolerant stabilization of an unstable steady‐state of a representative diffusion‐reaction process. © 2007 American Institute of Chemical Engineers AIChE J, 2007",
+    "abstract_source": "crossref",
+    "abstract_status": "ok",
+    "search_snippet": "… configuration is to be active for control, while the rest are kept dormant . We assume that … tion of the plant dynamics from the nominal dynamics in the absence of faults , or by redesigning …",
+    "paper_url": "https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.11177",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.11177"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Closed-loop turbulence control: Progress and challenges",
+    "authors": [
+      "SL Brunton",
+      "BR Noack"
+    ],
+    "year": "2015",
+    "venue": "asmedigitalcollection.asme.org",
+    "publisher": null,
+    "doi": "10.1115/1.4031175",
+    "doi_source": "crossref",
+    "abstract": "Closed-loop turbulence control is a critical enabler of aerodynamic drag reduction, lift increase, mixing enhancement, and noise reduction. Current and future applications have epic proportion: cars, trucks, trains, airplanes, wind turbines, medical devices, combustion, chemical reactors, just to name a few. Methods to adaptively adjust open-loop parameters are continually improving toward shorter response times. However, control design for in-time response is challenged by strong nonlinearity, high-dimensionality, and time-delays. Recent advances in the field of model identification and system reduction, coupled with advances in control theory (robust, adaptive, and nonlinear) are driving significant progress in adaptive and in-time closed-loop control of fluid turbulence. In this review, we provide an overview of critical theoretical developments, highlighted by compelling experimental success stories. We also point to challenging open problems and propose potentially disruptive technologies of machine learning and compressive sensing.",
+    "abstract_source": "crossref",
+    "abstract_status": "ok",
+    "search_snippet": "… This review focuses on modeling and control methods for nonlinear dynamics … in actuation power. Note that any well-defined control problem requires a penalization of the actuation …",
+    "paper_url": "https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/67/5/050801/369906",
+    "pdf_url": "https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-pdf/67/5/050801/6074501/amr_067_05_050801.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/67/5/050801/369906"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [
+      "PDF download failed or not a PDF: https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-pdf/67/5/050801/6074501/amr_067_05_050801.pdf"
+    ]
+  },
+  {
+    "title": "Time-dependent SOLPS-ITER simulations of the tokamak plasma boundary for model predictive control using SINDy",
+    "authors": [
+      "JD Lore",
+      "S De Pascuale",
+      "P Laiu",
+      "B Russo…"
+    ],
+    "year": "2023",
+    "venue": "iopscience.iop.org",
+    "publisher": null,
+    "doi": "10.1088/1741-4326/acbe0e",
+    "doi_source": "crossref",
+    "abstract": "Abstract\n               Time-dependent SOLPS-ITER simulations have been used to identify reduced models with the sparse identification of nonlinear dynamics (SINDy) method and develop model-predictive control of the boundary plasma state using main ion gas puff actuation. A series of gas actuation sequences are input into SOLPS-ITER to produce a dynamic response in upstream and divertor plasma quantities. The SINDy method is applied to identify reduced linear and nonlinear models for the electron density at the outboard midplane \n                     \n                     \n                        \n                           n\n                           \n                              e\n                              ,\n                              s\n                              e\n                              p\n                           \n                           \n                              O\n                              M\n                              P\n                           \n                        \n                     \n                     \n                   and the electron temperature at the outer divertor \n                     \n                     \n                        \n                           T\n                           \n                              e\n                              ,\n                              s\n                              e\n                              p\n                           \n                           \n                              \n                                 d\n                                 i\n                                 v\n                              \n                           \n                        \n                     \n                     \n                  . Note that \n                     \n                     \n                        \n                           T\n                           \n                              e\n                              ,\n                              s\n                              e\n                              p\n                           \n                           \n                              \n                                 d\n                                 i\n                                 v\n                              \n                           \n                        \n                     \n                     \n                   is not necessarily the peak value of T\n                  \n                     e\n                   along the divertor. The identified reduced models are interpretable by construction (i.e. not black box), and have the form of coupled ordinary differential equations. Despite significant noise in \n                     \n                     \n                        \n                           T\n                           \n                              e\n                              ,\n                              s\n                              e\n                              p\n                           \n                           \n                              \n                                 d\n                                 i\n                                 v\n                              \n                           \n                        \n                     \n                     \n                  , the reduced models can be used to predict the response over a range of actuation levels to a maximum deviation of 0.5% in \n                     \n                     \n                        \n                           n\n                           \n                              e\n                              ,\n                              s\n                              e\n                              p\n                           \n                           \n                              O\n                              M\n                              P\n                           \n                        \n                     \n                     \n                   and 5%–10% in \n                     \n                     \n                        \n                           T\n                           \n                              e\n                              ,\n                              s\n                              e\n                              p\n                           \n                           \n                              \n                                 d\n                                 i\n                                 v\n                              \n                           \n                        \n                     \n                     \n                   for the cases considered. Model retraining using time history data triggered by a preset error threshold is also demonstrated. A model predictive control strategy for nonlinear models is developed and used to perform feedback control of a SOLPS-ITER simulation to produce a setpoint trajectory in \n                     \n                     \n                        \n                           n\n                           \n                              e\n                              ,\n                              s\n                              e\n                              p\n                           \n                           \n                              O\n                              M\n                              P\n                           \n                        \n                     \n                     \n                   using the integrated plasma simulator framework. The developed techniques are general and can be applied to time-dependent data from other boundary simulations or experimental data. Ongoing work is extending the approach to model identification and control for divertor detachment, which will present transient nonlinear behavior from impurity seeding, including realistic latency and synthetic diagnostic signals derived from the full SOLPS-ITER output.",
+    "abstract_source": "crossref",
+    "abstract_status": "ok",
+    "search_snippet": "… actuators , suggests an opportunity for reducing the problem … Dynamic actuation near this value is useful for identifying … system without latency in the actuator or measurement. Fig. 10 …",
+    "paper_url": "https://iopscience.iop.org/article/10.1088/1741-4326/acbe0e/meta",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://iopscience.iop.org/article/10.1088/1741-4326/acbe0e/meta"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Data-driven sparse sensor placement for reconstruction: Demonstrating the benefits of exploiting known patterns",
+    "authors": [
+      "K Manohar",
+      "BW Brunton",
+      "JN Kutz …"
+    ],
+    "year": "2018",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Optimal sensor and actuator placement is an important unsolved problem in control theory. Nearly every downstream control decision is affected by these sensor and actuator locations, but determining optimal locations amounts to an intractable brute-force search among the combinatorial possibilities. Indeed, there are (np) = n!/((n-p)!p!) possible choices of p point sensors out of an n-dimensional state x. Determining optimal sensor and actuator placement in general, even for linear feedback control, is an open challenge. Instead, sensor and actuator locations are routinely chosen according to heuristics and intuition. For moderate-sized search spaces, the sensor placement problem has well-known model-based solutions using optimal experiment design [1], [2], and information theoretic and Bayesian criteria [3]-[7]. As discussed in \"Summary,\" this article explores how to design optimal sensor locations for signal reconstruction in a framework that scales to arbitrarily large problems, leveraging modern techniques in machine learning and sparse sampling. Reducing the number of sensors through principled selection may be critically enabling when sensors are costly, and it may also enable faster state estimation for low-latency, high-bandwidth control.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… sensor and actuator placement is a grand challenge problem , … is the latency in making a control decision, with large latency … Thus, for systems with fast dynamics and complex coherent …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/8361090/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/5488303/8361089/08361090.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/8361090/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Majority-rule opiniondynamicswith differentiallatency: a mechanism for self-organized collective decision-making",
+    "authors": [
+      "MA Montes de Oca",
+      "E Ferrante",
+      "A Scheidler …"
+    ],
+    "year": "2011",
+    "venue": "Springer",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… Two LEDs are placed at the bifurcations to let robot teams know when and in which direction they … with task allocation methods in order to tackle problems for which consensus is a …",
+    "paper_url": "https://link.springer.com/article/10.1007/s11721-011-0062-z",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11721-011-0062-z.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://link.springer.com/article/10.1007/s11721-011-0062-z"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [
+      "PDF download failed or not a PDF: https://link.springer.com/content/pdf/10.1007/s11721-011-0062-z.pdf"
+    ]
+  },
+  {
+    "title": "Planetary Ze-Formation: Co-Evolutionary Provocation ofLatentPotential",
+    "authors": [
+      "J Tkemaladze"
+    ],
+    "year": "2026",
+    "venue": "preprints.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… Probing them requires synchronized networks of actuators delivering coordinated … Success is measured not by predictive accuracy, but by the quality of the diagnostic failure our …",
+    "paper_url": "https://www.preprints.org/manuscript/202601.1491",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://www.preprints.org/manuscript/202601.1491"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Discovering Interpretable Dynamic Stall Models from Surface Pressure Data",
+    "authors": [
+      "EM Curran",
+      "AL Bertolin",
+      "TS Haines",
+      "S Bull"
+    ],
+    "year": "2026",
+    "venue": "arc.aiaa.org",
+    "publisher": null,
+    "doi": "10.2514/6.2026-0293",
+    "doi_source": "crossref",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… presented that highlighted the bifurcation of the system dynamics … to the training, which maps the latent space directly to the lift … As we consider 𝛼 as the actuation input to the dynamics, a …",
+    "paper_url": "https://arc.aiaa.org/doi/abs/10.2514/6.2026-0293",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://arc.aiaa.org/doi/abs/10.2514/6.2026-0293"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  }
+]

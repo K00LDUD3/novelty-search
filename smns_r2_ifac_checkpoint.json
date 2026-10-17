@@ -1,0 +1,1577 @@
+[
+  {
+    "title": "On the turbulent wake of the actuated fluidic pinball: Dynamics, bifurcations and control authority",
+    "authors": [
+      "Alicia Rodríguez-Asensio"
+    ],
+    "year": "2026",
+    "venue": "Experimental Thermal and Fluid Science",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.expthermflusci.2026.111798",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S089417772600110X",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S089417772600110X"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Hopf bifurcation analysis and control of actuated wheelset under delayed linear and nonlinear feedback",
+    "authors": [
+      "Peng Guo"
+    ],
+    "year": "2025",
+    "venue": "Journal of Sound and Vibration",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.jsv.2025.119216",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0022460X25002901",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0022460X25002901"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Dynamics of a capsule robot driven by a bistable dielectric elastomer actuator",
+    "authors": [
+      "Chuang Wu"
+    ],
+    "year": "2026",
+    "venue": "Mechanics Research Communications",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.mechrescom.2026.104798",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0093641326001886",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0093641326001886"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Delay induced stability switches in actuated railway bogie",
+    "authors": [
+      "Peng Guo"
+    ],
+    "year": "2026",
+    "venue": "Applied Mathematical Modelling",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.apm.2025.116332",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0307904X25004068",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0307904X25004068"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Self-oscillation of a photo-actuated dual-beam system under linear optical excitation",
+    "authors": [
+      "Lin Zhou"
+    ],
+    "year": "2026",
+    "venue": "Chaos, Solitons & Fractals",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.chaos.2025.117740",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0960077925017539",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0960077925017539"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Non-minimum-phase resonant controller for active damping control: Application to piezo-actuated nanopositioning system",
+    "authors": [
+      "Aditya Natu"
+    ],
+    "year": "2026",
+    "venue": "Control Engineering Practice",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.conengprac.2026.106790",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0967066126000341",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0967066126000341"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Non-smooth bifurcation structures and chaos control in a quarter-car piecewise-linear suspension system with time-delayed velocity feedback",
+    "authors": [
+      "Ponnada Durga Prasad"
+    ],
+    "year": "2026",
+    "venue": "International Journal of Non-Linear Mechanics",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.ijnonlinmec.2026.105370",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0020746226000557",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0020746226000557"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Stability and Hopf bifurcation of vertical magnetic bearing system with asymmetric displacement and velocity delays",
+    "authors": [
+      "Zhizhou Zhang"
+    ],
+    "year": "2026",
+    "venue": "Communications in Nonlinear Science and Numerical Simulation",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.cnsns.2026.110129",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S1007570426004880",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S1007570426004880"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Fuzzy prescribed performance backstepping control for ship roll chaotic motion under actuator faults",
+    "authors": [
+      "Zexu Miao"
+    ],
+    "year": "2026",
+    "venue": "Ocean Engineering",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.oceaneng.2026.125909",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0029801826017439",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0029801826017439"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Experimental research on supersonic shock wave/boundary layer interaction controlled by alternating continuous plasma actuation",
+    "authors": [
+      "Dongsheng Zhang"
+    ],
+    "year": "2026",
+    "venue": "Aerospace Science and Technology",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.ast.2026.112616",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S1270963826009958",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S1270963826009958"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Flutter suppression and bifurcation reconfiguration of an airfoil using pre-stressed nonlinear vibration absorbers",
+    "authors": [
+      "Xin Wu"
+    ],
+    "year": "2026",
+    "venue": "Aerospace Science and Technology",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.ast.2026.113189",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S1270963826015671",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S1270963826015671"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Design strategies for low-voltage dielectric elastomer actuators from materials to systems",
+    "authors": [
+      "Minchae Kang"
+    ],
+    "year": "2026",
+    "venue": "Materials & Design",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.matdes.2026.117069",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S026412752601645X",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S026412752601645X"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Surface dielectric barrier discharge plasma actuators for flame stabilization and combustion control: mechanisms, design trends, and future directions",
+    "authors": [
+      "F. Bagherighajari"
+    ],
+    "year": "2026",
+    "venue": "Fuel",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.fuel.2026.139348",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0016236126011026",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0016236126011026"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Stiffness-controlled failure bifurcation in heavy-duty pin connections driven by parasitic axial thrust",
+    "authors": [
+      "Zhongyuan Wang"
+    ],
+    "year": "2026",
+    "venue": "Engineering Failure Analysis",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.engfailanal.2026.110833",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S1350630726003080",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S1350630726003080"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Dynamics characteristic analysis of rudder actuator with lubrication clearance under transient impact load",
+    "authors": [
+      "Ye Lu"
+    ],
+    "year": "2026",
+    "venue": "Applied Mathematical Modelling",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.apm.2026.117035",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0307904X26002969",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0307904X26002969"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Vibration suppression analysis of active magnetic bearing systems considering time-delay bifurcation and amplitude jump",
+    "authors": [
+      "Shuaikang Cao"
+    ],
+    "year": "2026",
+    "venue": "Chaos, Solitons & Fractals",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.chaos.2026.118957",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0960077926010982",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0960077926010982"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Bifurcation and hunting stability of high-speed trains with active lateral and motor suspension systems on curved tracks",
+    "authors": [
+      "Wen Zhang"
+    ],
+    "year": "2026",
+    "venue": "International Journal of Non-Linear Mechanics",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.ijnonlinmec.2026.105418",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0020746226001034",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0020746226001034"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Dual-actuated fuel valve based on piezoelectric stack and stepper motor with active decoupling control for combustion oscillations",
+    "authors": [
+      "Pengda Ren"
+    ],
+    "year": "2026",
+    "venue": "Aerospace Science and Technology",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.ast.2026.111658",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S1270963826000398",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S1270963826000398"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Stochastic bifurcations and chaos suppression in a quasi-zero stiffness isolator with time-delayed feedback control",
+    "authors": [
+      "Ruocong Zhang"
+    ],
+    "year": "2025",
+    "venue": "Chaos, Solitons & Fractals",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.chaos.2025.117423",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0960077925014365",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0960077925014365"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Bifurcation-gated kresling origami triboelectric mechanoreceptor enabling self-powered multimodal tactile sensing for intelligent human-robot interaction",
+    "authors": [
+      "Yu-seop Kim"
+    ],
+    "year": "2026",
+    "venue": "Nano Energy",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.nanoen.2026.112280",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S2211285526005847",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S2211285526005847"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Empirical reliability enhancement in series elastic actuators using fractional-order finite-time robust control",
+    "authors": [
+      "Seyed Ali Moafi"
+    ],
+    "year": "2026",
+    "venue": "Reliability Engineering & System Safety",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.ress.2026.112330",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0951832026001468",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0951832026001468"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Sensor-actuator-integrated load-adaptive absolute zero stiffness vibration isolator",
+    "authors": [
+      "Zhengzheng Wang"
+    ],
+    "year": "2026",
+    "venue": "International Journal of Mechanical Sciences",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.ijmecsci.2026.111692",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0020740326005461",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0020740326005461"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Dynamical characteristics of chattering and grazing bifurcation in a fractional-order coupled impact system",
+    "authors": [
+      "Jiaquan Xie"
+    ],
+    "year": "2026",
+    "venue": "Chaos, Solitons & Fractals",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.chaos.2026.118732",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0960077926008738",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "fault induced bifurcation nonlinear control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0960077926008738"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Nonlinear model predictive control of high-amplitude isolated response branches in vibration isolation systems incorporating dielectric elastomer actuators",
+    "authors": [
+      "Yongheng Yu"
+    ],
+    "year": "2026",
+    "venue": "Mechanical Systems and Signal Processing",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.ymssp.2025.113832",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S088832702501533X",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S088832702501533X"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Piezoelectric air actuators for electronic thermal management: a bibliometric and comprehensive review",
+    "authors": [
+      "Zuyu Fu"
+    ],
+    "year": "2026",
+    "venue": "Applied Thermal Engineering",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.applthermaleng.2026.133127",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S1359431126034356",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S1359431126034356"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Active nonlinear vibration suppression of bistable laminate using an MFC actuator and a fuzzy adaptive PID controller",
+    "authors": [
+      "Y. X. Hao"
+    ],
+    "year": "2026",
+    "venue": "Aerospace Science and Technology",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.ast.2026.112075",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S1270963826004554",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S1270963826004554"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Dielectric elastomers for soft actuation: Recent progress in material design, structural engineering and emerging applications",
+    "authors": [
+      "Yanhao Kuang"
+    ],
+    "year": "2026",
+    "venue": "Polymer",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.polymer.2026.130724",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0032386126011717",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0032386126011717"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Piezoelectrically actuated control of nonlinear vibrations and resonant instabilities in rotating cylindrical structures",
+    "authors": [
+      "Hamza Abu Owida"
+    ],
+    "year": "2026",
+    "venue": "Mechanics Research Communications",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.mechrescom.2026.104704",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0093641326000947",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0093641326000947"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "A magnetically actuated catheter robot integrating forward- and side-looking intravascular ultrasound",
+    "authors": [
+      "Zhengxin Yang"
+    ],
+    "year": "2026",
+    "venue": "Sensors and Actuators A: Physical",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.sna.2026.118396",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0924424726009477",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0924424726009477"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Rigid-flexible coupling modeling and nonlinear analysis of rudder actuator with lubrication clearance",
+    "authors": [
+      "Ye Lu"
+    ],
+    "year": "2026",
+    "venue": "Mechanical Systems and Signal Processing",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.ymssp.2026.113928",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0888327026000853",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0888327026000853"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Aerosol Jet Printed plasma actuators: Optical and electromechanical characteristics",
+    "authors": [
+      "K. Kourtzanidis"
+    ],
+    "year": "2026",
+    "venue": "Sensors and Actuators A: Physical",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.sna.2026.117702",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0924424726002530",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0924424726002530"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Asymptotic full-body vibration suppression of flexible structures via adaptive MIMO boundary actuators",
+    "authors": [
+      "Hossein Mohammadi"
+    ],
+    "year": "2026",
+    "venue": "Aerospace Science and Technology",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.ast.2025.111545",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S1270963825016098",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S1270963825016098"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Innovative Y-shaped hydrogel mitral clip with magnetic actuation and hydrophilic janus surface for enhanced valve leaflet repair",
+    "authors": [
+      "Yue Wang"
+    ],
+    "year": "2026",
+    "venue": "Materials Today Bio",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.mtbio.2025.102750",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S2590006425013225",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S2590006425013225"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Dynamic control of cantilever bistable composites: Theory and experiment",
+    "authors": [
+      "Xingping Fan"
+    ],
+    "year": "2026",
+    "venue": "Communications in Nonlinear Science and Numerical Simulation",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.cnsns.2026.110284",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S1007570426006416",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S1007570426006416"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Pneumatic smart textile actuation",
+    "authors": [
+      "Fuyi Fang"
+    ],
+    "year": "2026",
+    "venue": "Matter",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.matt.2026.102904",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S2590238526002675",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S2590238526002675"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Sensor-actuator integration in intelligent devices: from functional synergy to emerging application",
+    "authors": [
+      "Zhenshuai Wan"
+    ],
+    "year": "2026",
+    "venue": "Composites Part B: Engineering",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.compositesb.2025.113339",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S1359836825012557",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S1359836825012557"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Advancements and challenges of high-speed active flow control: Plasma actuators",
+    "authors": [
+      "Xiaobing Zhang"
+    ],
+    "year": "2025",
+    "venue": "International Journal of Heat and Mass Transfer",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.ijheatmasstransfer.2025.127481",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0017931025008191",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0017931025008191"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Frequency–time domain method for an unrestrained aeroservoelastic system with actuator nonlinearities",
+    "authors": [
+      "Peihan Wang"
+    ],
+    "year": "2026",
+    "venue": "Communications in Nonlinear Science and Numerical Simulation",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.cnsns.2026.109867",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S1007570426002273",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S1007570426002273"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Uncertainty-aware digital twins for safe operation and active fault-tolerance in degrading heterogeneous pumping systems",
+    "authors": [
+      "Wenjun Qiu"
+    ],
+    "year": "2027",
+    "venue": "Reliability Engineering & System Safety",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.ress.2026.113512",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0951832026013165",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0951832026013165"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Design of hybrid actuation piezoelectric MEMS scanning mirror with reduced nonlinearity",
+    "authors": [
+      "Hao-Chien Cheng"
+    ],
+    "year": "2025",
+    "venue": "Sensors and Actuators A: Physical",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.sna.2025.117001",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0924424725008076",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0924424725008076"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Conventional and additive manufacturing of NiTi shape memory alloy tubes: A review of fabrication, multiaxial thermomechanical behavior, constitutive modeling, and emerging applications in actuation and elastocaloric cooling",
+    "authors": [
+      "Saeedeh Vanaei"
+    ],
+    "year": "2026",
+    "venue": "Journal of Alloys and Compounds",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.jallcom.2026.190399",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0925838826044683",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0925838826044683"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Actuation strategies and applications for high-output power soft robots",
+    "authors": [
+      "Luohui Zhou"
+    ],
+    "year": "2026",
+    "venue": "Fundamental Research",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.fmre.2026.04.026",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S2667325826002475",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S2667325826002475"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Interaction between external forcing modes and self-excited thermoacoustic modes in a single-element liquid rocket engine: Bifurcation routes to period-2 oscillation",
+    "authors": [
+      "Yuanzhe Liu"
+    ],
+    "year": "2025",
+    "venue": "Aerospace Science and Technology",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.ast.2025.110424",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S127096382500495X",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S127096382500495X"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Data-driven neurocomputational analysis of couple-stress bioconvective nanofluid transport with Arrhenius activation over a magnetically actuated Riga surface",
+    "authors": [
+      "Bilal Ali"
+    ],
+    "year": "2026",
+    "venue": "Results in Engineering",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.rineng.2026.111440",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S2590123026024667",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S2590123026024667"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "2.04: Thermal Actuation",
+    "authors": [
+      "Xiaoke Ding"
+    ],
+    "year": "2025",
+    "venue": "Comprehensive Microsystems",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/b978-0-323-95478-5.00003-0",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/B9780323954785000030",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/B9780323954785000030"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Bridging sensation and actuation: From fundamental architectures to adaptive systems",
+    "authors": [
+      "Yue Huang"
+    ],
+    "year": "2026",
+    "venue": "Chemical Engineering Journal",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.cej.2026.173685",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S1385894726011447",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S1385894726011447"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Bifurcation behavior of hunting motion in high-speed rail vehicles under modal coupling",
+    "authors": [
+      "Peng Guo"
+    ],
+    "year": "2025",
+    "venue": "Journal of Sound and Vibration",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.jsv.2025.119400",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0022460X25004730",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0022460X25004730"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Predicting freeplay-induced aeroelastic limit-cycle oscillations using pre-critical output data",
+    "authors": [
+      "Michael B. Hartin"
+    ],
+    "year": "2026",
+    "venue": "Journal of Fluids and Structures",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.jfluidstructs.2026.104647",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0889974626001477",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0889974626001477"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Resilient sampled-data control for fractional-order PMVG-based WTS with actuator saturation and probabilistic faults using fuzzy Lyapunov function method",
+    "authors": [
+      "Narayanan G"
+    ],
+    "year": "2025",
+    "venue": "Information Sciences",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.ins.2024.121294",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0020025524012088",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0020025524012088"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Design of a SMA actuated freeplay elimination device for stiffness enhancement of a folding fin",
+    "authors": [
+      "Rongru Zhang"
+    ],
+    "year": "2025",
+    "venue": "Mechanical Systems and Signal Processing",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.ymssp.2025.112861",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S088832702500562X",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S088832702500562X"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  }
+]

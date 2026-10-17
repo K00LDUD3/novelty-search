@@ -1,0 +1,698 @@
+[
+  {
+    "title": "Advances in Hardware Reliability Assessment for Production Systems: A Review of Methods, Developments, Challenges and Future Perspectives",
+    "authors": [
+      "Sadraoui, Youssef",
+      "Er-Ratby, Mohamed",
+      "Kadiri, Moulay Saddik",
+      "Kobi, Abdessamad"
+    ],
+    "year": "2026",
+    "venue": "Journal of Systems Science and Systems Engineering",
+    "publisher": "Springer",
+    "doi": "10.1007/s11518-026-5748-2",
+    "doi_source": "api",
+    "abstract": "Hardware Reliability Assessment HWRA has become essential in modern systems engineering due their increasing complexity. Traditional methods, including Markov models, Bayesian networks, fault tree analysis, reliability block diagrams, Petri nets and FMEA/FMECA, remain fundamental for reliability evaluation. However, Industry 4.0 technologies, including cyber-physical systems, digital twins, industrial IoT and data-driven decision support, expose limitations of conventional approaches. This paper presents a comprehensive critical review of HWRA methods, examining theoretical foundations, modelling capabilities and applications across production systems. It emphasizes dynamic reliability, multi-state systems, mission reliability, hybridization and integration with fuzzy logic, Monte Carlo simulation and data-driven techniques. Unlike previous reviews, it synthesizes the evolution of HWRA toward dynamic, hybrid and AI-enabled frameworks. The literature is analysed through challenges involving uncertainty, scalability, dynamic behaviour, emerging technologies and balance between realism and usability. Remaining gaps include computational burden, expert dependence and limited standardization, motivating future research directions emphasizing HWRA architectures.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11518-026-5748-2",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11518-026-5748-2"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Secure IIoT architecture with blockchain-enabled anomaly detection for water distribution cyber–physical systems",
+    "authors": [
+      "Salam, Abdu",
+      "Shakir, Ahmed Thair",
+      "Javaid, Qaisar",
+      "Masini, Barbara M.",
+      "Ahmad, Masood",
+      "Wahid, Ishtiaq"
+    ],
+    "year": "2026",
+    "venue": "Scientific Reports",
+    "publisher": "Nature",
+    "doi": "10.1038/s41598-026-58418-w",
+    "doi_source": "api",
+    "abstract": "Industrial Internet of Things (IIoT)-based technologies are becoming increasingly popular in water-distribution cyber-physical systems (CPS) for automated, real-time control and information-based decision-making. Nevertheless, this increased digital connectivity has also expanded the attack surface, allowing adversaries to interfere with sensor data and control logic, and to cause harmful hydraulic disturbances. To overcome them, this paper proposes a comprehensive secure IIoT architecture that integrates blockchain-based data integrity with a sophisticated anomaly-detection framework tailored to a water-distribution CPS. The architecture uses a permissioned blockchain to provide tamper-resistant recording of sensor telemetry, device identity validation via smart contracts, and verifiable provenance for the operator and forensic analysis. To supplement the trust layer, a hybrid anomaly-detection model based on LSTM autoencoders with cyber–physical feature fusion can provide real-time detection of both sudden and covert attacks. Three popular benchmark datasets, BATADAL, WADI, and SWaT, are used to evaluate the proposed system, simulated hydraulic networks, and full-scale industrial testbeds. The results of the experiments show that the proposed framework is more accurate, has higher recall, and achieves a higher AUC than classical machine-learning and modern deep-learning baselines. The cross-dataset analysis demonstrates the framework’s ability to be transferred into a cross-dataset and heterogeneous water and industrial CPS environment, where performance depends on the density of sensors, complexity of processes, and distribution of attacks. The result shows the strength of the proposed model and the potential necessity of further domain adaptation-based methods in the case of highly heterogeneous deployments.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://www.nature.com/articles/s41598-026-58418-w",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://www.nature.com/articles/s41598-026-58418-w"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "2025 SRS Annual Meeting Supplement",
+    "authors": [],
+    "year": "2026",
+    "venue": "Journal of Robotic Surgery",
+    "publisher": "Springer",
+    "doi": "10.1007/s11701-026-03463-w",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11701-026-03463-w",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11701-026-03463-w"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Cyclic variability in compression-ignition engines: mechanisms, characterization, and mitigation strategies",
+    "authors": [
+      "Singh, Satsimran",
+      "Sandhu, Sarbjot Singh"
+    ],
+    "year": "2026",
+    "venue": "Journal of the Brazilian Society of Mechanical Sciences and Engineering",
+    "publisher": "Springer",
+    "doi": "10.1007/s40430-026-06379-6",
+    "doi_source": "api",
+    "abstract": "Cycle‑to‑cycle variations (CCV), caused by fluctuations in combustion between successive engine cycles, directly influence the performance, emissions, and reliability of compression ignition engines, often leading to power output inconsistencies, higher emissions, and added mechanical stresses. The growing demand for environmental sustainability has led to the transition towards alternative fuels and low‑temperature combustion strategies, which often operate near the critical 5% stability threshold and thus require precise characterization of cyclic variability to ensure the development of effective engine technologies. This review offers a detailed analysis to explore the impact of cyclic variations in internal combustion engines with a focus on the responsible core mechanisms, identifying the role of physical mixing timescales and chemical ignition delays, as well as key contributing factors and transient conditions while outlining effective mitigation strategies. The progress in characterization methods is examined by comparing conventional methods with emerging diagnostic tools such as time–frequency analysis, nonlinear dynamics techniques, and data-driven models, as these offer improved capability to identify multiscale, non-stationary behavior in combustion signals and to detect early indicators of unstable cycles. A critical assessment of experimental and numerical studies shows that appropriate control of injection timing, combustion phasing, and in-cylinder flow structures can reduce the COV_Imep by approximately 10% to 40%, depending on engine load and combustion mode. While oxygenated and alcohol-based fuels consistently lower soot and CO emissions, they often induce higher CCV under highly dilute conditions, indicating a clear trade-off between stability and emissions control. Advanced analysis techniques including wavelet-based methods, and machine-learning predictors, demonstrate strong potential for capturing these dynamics for real-time mitigation of unstable combustion cycles. Remaining challenges include establishing unified metrics for assessment and integrating physics-based machine-learning models for transient multi-cylinder validation. By linking the responsible mechanisms, diagnostic methodologies, and control strategies, this review provides a coherent framework to guide the development of next-generation engines with improved combustion stability.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s40430-026-06379-6",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s40430-026-06379-6"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "A Comprehensive Overview of PSO-LSTM Approaches: Applications, Analytical Insights, and Future Opportunities",
+    "authors": [
+      "Hosseinzadeh, Mehdi",
+      "Tanveer, Jawad",
+      "Rahmani, Amir Masoud",
+      "Gharehchopogh, Farhad Soleimanian",
+      "Yusof, Norfadzlia Mohd",
+      "Khoshvaght, Parisa",
+      "Liu, Zhe",
+      "Porntaveetus, Thantrira",
+      "Lee, Sang-Woong"
+    ],
+    "year": "2026",
+    "venue": "Archives of Computational Methods in Engineering",
+    "publisher": "Springer",
+    "doi": "10.1007/s11831-025-10445-y",
+    "doi_source": "api",
+    "abstract": "The combination of particle swarm optimization algorithm with long short-term memory has led to new horizons in data analysis and solving complex problems. The particle swarm optimization has been used to solve complex and hard optimization problems since 1995 and has gained extraordinary popularity among researchers. The combination of particle swarm optimization-long short-term memory is carried out in order to simultaneously utilize the global search capability and convergence ability of the particle swarm optimization to optimize long short-term memory in modeling long-term temporal dependencies. The goal of the particle swarm optimization-long short-term memory model is to increase the prediction accuracy and reduce the error in solving complex and dynamic real-world problems. In this paper, a comprehensive and structured look at the scientific literature of particle swarm optimization-long short-term memory models between 2019 and June 2025 has been conducted. By categorizing the articles according to the publication date and place of publication, it was found that prominent publishers such as MDPI, Springer, Elsevier, and IEEE played a major role in the publication of particle swarm optimization-long short-term memory models in 2024. This paper aims to provide a clear overview of the potential applications of particle swarm optimization-long short-term memory in various domains. particle swarm optimization-long short-term memory has been widely used in engineering systems design, time series forecasting, and the oil and gas industry. This paper analyses the strengths and weaknesses, as well as the challenges of complexity in hybrid architectures, and issues related to scalability and optimization. Finally, future directions are proposed with an emphasis on performance enhancement and development of adaptable solutions for real-world problems.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11831-025-10445-y",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation",
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11831-025-10445-y"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Nonlinear effects of actuator rate and acceleration limits on closed-loop systems: a describing function approach",
+    "authors": [
+      "Marino, Luca",
+      "Sodja, Jurij"
+    ],
+    "year": "2026",
+    "venue": "Nonlinear Dynamics",
+    "publisher": "Springer",
+    "doi": "10.1007/s11071-026-12449-0",
+    "doi_source": "api",
+    "abstract": "Actuator nonlinearities can significantly affect control systems, leading to performance degradation and even loss of stability. Physical constraints such as rate and acceleration limits are particularly detrimental in applications where rapid actuation is required, yet their combined effects remain largely unexplored. This paper investigates the nonlinear dynamic behaviour induced by rate and acceleration limits in closed-loop systems, focusing on their steady-state response to sinusoidal excitation. The saturation regimes associated with these nonlinearities are fully characterised, and their analytical boundaries are represented in a two-dimensional parameter space defined by normalised rate and acceleration limits. Sinusoidal describing functions are derived for each regime, providing a unified frequency-domain representation of the actuator dynamics. These formulations are employed to analyse the impact of actuator nonlinearities on closed-loop dynamics, including the onset of nonlinear behaviour, phase lag and gain reduction. Analytical conditions for the occurrence of jump resonance are derived, along with the lowest frequency where multiple steady-state solutions appear, leading to potential abrupt changes in system response. The applicability of the proposed framework is demonstrated through both an illustrative first-order system and a realistic high-order aeroservoelastic model for gust load alleviation, where the interaction between actuator nonlinearities and closed-loop dynamics is shown to produce multiple jump resonance scenarios and isolated nonlinear response branches. The results highlight the critical role of actuator rate and acceleration limits in high-bandwidth control applications and provide practical insights for frequency-domain stability assessment and preliminary feedback control system design.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11071-026-12449-0",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11071-026-12449-0"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Light-programmable mechanical computing via polyaniline composite film",
+    "authors": [
+      "Yan, Xiunan",
+      "Li, Yixiang",
+      "Zhao, Yichen",
+      "Pan, Chen",
+      "Yan, Shengnan",
+      "Yang, Dong",
+      "Ruan, Gong-Jie",
+      "Zhao, Hang",
+      "Chen, Fanqing",
+      "Yangdong, Xing-Jian",
+      "Wang, Pengfei",
+      "Yu, Wentao",
+      "Yang, Yuekun",
+      "Wang, Cong",
+      "Cheng, Bin",
+      "Liang, Shi-Jun",
+      "Miao, Feng"
+    ],
+    "year": "2026",
+    "venue": "Nature Communications",
+    "publisher": "Nature",
+    "doi": "10.1038/s41467-026-70425-z",
+    "doi_source": "api",
+    "abstract": "Mechanical computing represents a highly promising paradigm for environment-adaptive information processing. However, existing implementations are generally constrained by limited architectural scalability, and their modes of application in practical scenarios remain insufficiently defined. Here, we develop a light-programmable mechanical computing system that not only performs scalable logic operations but also enables environment-adaptive optical camouflage. The system is based on a polyaniline composite film (PCF) that integrates light-responsive expansion–contraction elements with a flexible conductive layer. Light illumination dynamically modulates the conductive pathways, giving rise to optically controlled single-pole single-throw (SPST) and single-pole double-throw (SPDT) relays that reconfigure signal transmission routes. Interconnecting these relays enables the construction of basic logic gates and 2-bit full-adder circuits, establishing a scalable paradigm for light-programmable mechanical computation. Moreover, we implement an adaptive camouflage function that senses environmental textures and generates matching optical patterns, demonstrating potential for intelligent skin applications capable of environmental interaction. This work establishes a light-programmable, pathway-reconfigurable mechanical computing framework, expanding possibilities for autonomous and adaptive intelligent systems. Mechanical computing is promising for environment-adaptive information processing, however existing methods have limited scalability. Here the authors report a polyaniline composite film enabling scalable logical operations.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://www.nature.com/articles/s41467-026-70425-z",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://www.nature.com/articles/s41467-026-70425-z"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Edge-aware multi-head transformer for noise-robust full-field magnetocardiography signal modeling",
+    "authors": [
+      "Wang, Jinyang",
+      "Shen, Hong",
+      "Guo, Jingyi",
+      "Xu, Xuanhao",
+      "Liu, Liang",
+      "Ma, Jian",
+      "Shen, Chengxing"
+    ],
+    "year": "2026",
+    "venue": "The Visual Computer",
+    "publisher": "Springer",
+    "doi": "10.1007/s00371-025-04260-6",
+    "doi_source": "api",
+    "abstract": "Magnetocardiography (MCG) provides unrivalled sensitivity to the weak magnetic fields generated by the heart, yet its clinical utility is hindered by two intertwined challenges: severe information loss during conventional channel-wise or spatial-averaging dimensionality reduction and contamination from heterogeneous environmental and physiological noise. We present Edge-Aware Multi-Head Transformer (EA-MHT), a novel spatiotemporal architecture that treats the MCG array as a whole, explicitly preserving both the central cardiac dynamics and the often-neglected edge-field signatures. First, a dedicated multi-head attention block learns rich representations of the peripheral channels, where gradient-rich but low-amplitude signals coexist with dominant noise sources. These edge-aware features are then fused with central-region embeddings through a second multi-head attention layer that jointly encodes global spatial coherence and local temporal structure. Finally, an attention-selection gating mechanism adaptively suppresses noise-related attention heads while amplifying signal-specific ones, yielding a purified, high-fidelity reconstruction of the cardiac magnetic field. Extensive experiments on the publicly released Kiel Cardio Database—containing 128-channel unshielded recordings from 312 subjects—demonstrate that EA-MHT outperforms state-of-the-art CNN, LSTM, and vanilla Transformer baselines in denoising (SNR $$\\uparrow $$ ↑ 4.7 dB), spatial fidelity (STE $$\\uparrow $$ ↑ 18%), and downstream arrhythmia detection (F1 $$\\uparrow $$ ↑ 6.3%), while preserving interpretable spatial attention maps that correlate with known cardiac source distributions. Our framework offers a robust, data-driven pathway to unlock the full potential of high-resolution MCG in both research and clinical settings.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s00371-025-04260-6",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s00371-025-04260-6"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "The Dynamic Data Driven Applications Systems (DDDAS) Paradigm Informs Artificial Intelligence Toward Digital Science and Engineering",
+    "authors": [
+      "Blasch, Erik P.",
+      "Darema, Frederica",
+      "Aved, Alex J."
+    ],
+    "year": "2026",
+    "venue": "Handbook of Dynamic Data Driven Applications Systems",
+    "publisher": "Springer",
+    "doi": "10.1007/978-3-031-88574-7_1",
+    "doi_source": "api",
+    "abstract": "The Dynamic Data Driven Applications Systems (DDDAS) paradigm has endured since its inception in 1980, and starting in 2000, science and technology (S&T) developments have exploited the key tenet of DDDAS of combining executing models with instrumentation data estimation as well as augmented data from other models. More recently, similar paradigms have been adopted by the artificial intelligence (AI) community such as generative adversarial networks (GANs), with the difference being that, in GANs, the seeded augmented data comes from a corpus of represented data versus DDDAS, wherein data augmentation results from first-principle physical modeling. In the preceding DDDAS handbooks, various theoretical and strategic approaches were shown that integrate augmented data from models with that of real-time data or targeted data from archival collections. This introductory chapter highlights recent advances by the DDDAS community such as physics-enhanced machine learning (PEML), uncertainty-aware digital engineering, and edge computing. Each of these methods utilizes the DDDAS paradigm, such as PEML applying the traditional DDDAS methods with a high-fidelity systems model orchestrated with an instrumented system. Digital engineering with “dynamic” digital twins (DTs) utilizes the advances in the past decade to process large amounts of data to provide augmented data for analysis. As from the first handbook, edge computing includes instrumentation systems to control the uncertainty by incorporating computed knowledge to maintain a system’s function when real-time data is incomplete. This introductory chapter highlights some of the broader scopes of the science and technology developments under the rubric of DDDAS as well as the DDDAS impact over time in challenging application areas and in emerging directions of artificial intelligence, digital twins, edge computing, communication networks, and related advances based on the DDDAS paradigm tenets. Additional information and archival materials are available in the DDDAS society’s website: www.1dddas.org .",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-88574-7_1",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-88574-7_1"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Chaos and Complexity Analysis of a Fractional-Order Memristor-Based Discrete Computer Virus Model",
+    "authors": [
+      "Zouak, Imane",
+      "Ouannas, Adel",
+      "Kahouli, Omar"
+    ],
+    "year": "2026",
+    "venue": "Choas and Control of Fractional Order Discrete Time Memristive Systems",
+    "publisher": "Springer",
+    "doi": "10.1007/978-3-032-14315-0_14",
+    "doi_source": "api",
+    "abstract": "In this paper, we propose an extended discrete-time computer virus model by integrating a memristor map to enhance the system’s dimensionality. The original three-dimensional virus model is transformed into a four-dimensional memristor-based discrete map, enabling the exploration of richer dynamical behaviors. The chaotic dynamics of the model are investigated using phase portraits, bifurcation diagrams, and the maximum Lyapunov exponent. To capture memory effects inherent in networked systems, the integer-order memristor model is further generalized to the fractional-order domain. The nonlinear dynamics and complexity of the resulting fractional-order system are analyzed through $$C_0$$ C 0 complexity and Approximate Entropy (ApEn). Numerical results demonstrate the emergence of complex chaotic behavior and highlight the impact of fractional-order parameters on the system dynamics. These findings provide a theoretical basis for developing more robust strategies in computer virus detection and control.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-032-14315-0_14",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-032-14315-0_14"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "The Hénon-Based Fractional Memristor Map: Chaos and Complexity",
+    "authors": [
+      "Zouak, Imane",
+      "Ouannas, Adel",
+      "Abbes, Abderrahmane"
+    ],
+    "year": "2026",
+    "venue": "Choas and Control of Fractional Order Discrete Time Memristive Systems",
+    "publisher": "Springer",
+    "doi": "10.1007/978-3-032-14315-0_5",
+    "doi_source": "api",
+    "abstract": "In this work, a fractional Hénon memristor model is studied, with a systematic analysis of its dynamic response under both commensurate and incommensurate orders. Extensive numerical methods, such as phase portraits, bifurcation plots, Lyapunov exponents, sample entropy, and $$C_0$$ C 0 complexity, are utilized to investigate the system’s chaotic characteristics and quantify its complexity. Notably, the nonexistence of stationary states in the introduced fractional map gives rise to a variety of hidden dynamic behaviors, contributing to the emergence of intricate, fractal-like chaotic attractors. Our results demonstrate a strong sensitivity of the system’s dynamics to changes in the fractional parameters, leading to diverse and rich behavior. The layered construction and rich dynamics of the memristor chaotic system make it a promising candidate for further studies in nonlinear science and fractional-order modeling.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-032-14315-0_5",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-032-14315-0_5"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "A Structured Survey of Anomaly Types and Classification-Based Detection Models in IoT",
+    "authors": [
+      "Gilvari, Atefeh",
+      "Kobti, Ziad",
+      "Kar, Narayan",
+      "Tavakoli, Nasrin",
+      "Verma, Rajeev"
+    ],
+    "year": "2026",
+    "venue": "Computational Intelligence",
+    "publisher": "Springer",
+    "doi": "10.1007/978-3-032-15638-9_35",
+    "doi_source": "api",
+    "abstract": "In dynamic Internet of Things (IoT) environments, traditional anomaly detection surveys often treat all anomalies as a unified concept, overlooking the distinct characteristics posed by specific anomaly types. This paper presents a structured survey and comparative analysis of anomaly detection models, organized by type of anomalies such as drift, novelty, bias, noise, constant-value, and stuck-at-zero anomalies. Each anomaly type is formally defined along with its theoretical foundation, followed by a systematic review and analysis of how model effectiveness varies across these types to identify techniques best suited for each. Our findings emphasize the need for interpretable, adaptive, and type-aware anomaly detection systems and outline open challenges in unified benchmarking, cross-type detectors, and ontology development for anomaly classification. A novel contribution of this work is a broader mapping framework that illustrates how various models differ in their ability to detect specific anomaly types across different IoT domains, offering insight into the generality and specialization of current detection approaches.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-032-15638-9_35",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-032-15638-9_35"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "A State-of-the-Art Review of the Bouc-Wen Class Model of Hysteresis: Origin, Evolution and Current State",
+    "authors": [
+      "Heredia-Pérez, Michael",
+      "Alvarez, Diego A.",
+      "Bedoya-Ruiz, Daniel"
+    ],
+    "year": "2026",
+    "venue": "Archives of Computational Methods in Engineering",
+    "publisher": "Springer",
+    "doi": "10.1007/s11831-025-10301-z",
+    "doi_source": "api",
+    "abstract": "This paper presents a comprehensive review of the Bouc-Wen model for hysteresis, analyzing its historical development, mathematical formulations, and capacity to represent complex behaviors such as asymmetry, degradation, pinching, and two newly identified response patterns: s-shaped and flag-shaped curves. The phenomenological nature of the model is examined, highlighting the absence of a rigorous mathematical and physical foundation in many of its variations. A systematic survey of the available literature is conducted to assess the physical compatibility of the Bouc-Wen formulation and its derivatives, identifying cases where modifications align with fundamental mechanical principles and others that remain purely empirical. Additionally, trends, challenges, and gaps in existing implementations are discussed, providing insights into the model’s evolution over the past two decades. Commentary on biaxial developments, stochastic dynamic implementation, and parameter identification of the model is presented. The review concludes by outlining potential research directions, emphasizing the need for enhanced physical consistency, improved parameter identification strategies, broader applications in structural and mechanical systems, and further generalization of the model through multi-representation capability.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11831-025-10301-z",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11831-025-10301-z"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Physical AI: bridging the sim-to-real divide toward embodied, ethical, and autonomous intelligence",
+    "authors": [
+      "Ray, Partha Pratim"
+    ],
+    "year": "2025",
+    "venue": "Machine Learning for Computational Science and Engineering",
+    "publisher": "Springer",
+    "doi": "10.1007/s44379-025-00050-y",
+    "doi_source": "api",
+    "abstract": "Physical Artificial Intelligence (Physical AI) represents a new scientific paradigm in which intelligence is not merely computed but physically instantiated through closed-loop interaction with the real world. Unlike digital AI, which operates primarily in symbolic, linguistic, or pixel domains, Physical AI grounds cognition within the constraints of physics, embodiment, and thermodynamics. This article provides the first comprehensive synthesis of the field, integrating previously isolated advances across robotics, differentiable simulation, neuromorphic systems, multimodal world models, and autonomous control into a unified conceptual landscape. Beyond synthesizing state-of-the-art developments, this work introduces several foundational contributions that advance Physical AI as a distinct scientific discipline. First, we propose a novel PDE-assisted generative–physical framework for simulation and world-model construction, embedding partial differential equations as structural priors that enforce physical consistency within generative models. This formalism bridges high-dimensional perception with physics-grounded predictive modeling, establishing a principled substrate for embodied reasoning. Second, we introduce the field’s first capability-based Physical AI taxonomy , offering a six-level progression from reactive automation to collective and societal symbiosis. This taxonomy provides a measurable and conceptually rigorous scaffold for evaluating embodied intelligence across cognitive, physical, and ethical dimensions. Third, we develop the first quantitative evaluation framework for Physical AI , defining mathematically grounded metrics for task efficiency, safety reliability, energy–performance trade-offs, sim-to-real transfer fidelity, uncertainty calibration, and ecological sustainability. No prior work offers an integrated metric suite spanning technical, physical, and ethical performance. Alongside these novel contributions, the article reviews enabling foundations—including synthetic data generation, differentiable rendering, reinforcement learning in simulation, neuromorphic edge computing, and global robotics datasets—and analyzes persistent bottlenecks in embodiment, interaction, and multi-modal world-modeling. Finally, we articulate future trajectories across federated autonomy, affect-aware interaction, socio-technical governance, and planetary-scale robotic coordination.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s44379-025-00050-y",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s44379-025-00050-y"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Improvement of college students’ higher mathematics problem solving ability based on neural network and multiple regression model",
+    "authors": [
+      "Liu, Tengyi",
+      "Li, Chuantao"
+    ],
+    "year": "2025",
+    "venue": "Scientific Reports",
+    "publisher": "Nature",
+    "doi": "10.1038/s41598-025-27138-y",
+    "doi_source": "api",
+    "abstract": "This study aims at the limitations of the evaluation of Problem Solving Ability (PSA) in college students’ advanced mathematics problem-solving. It constructs a dual-dimensional evaluation system integrating cognitive dimensions (conceptual understanding, logical reasoning, etc.) and behavioral dimensions (time allocation, operation sequence, etc.) based on Piaget’s cognitive theory and Schoenfeld’s behavioral framework. Meanwhile, this study proposes a hybrid model of Convolutional Neural Network-Bidirectional Long Short-Term Memory-Regression (CNN-BiLSTM-Reg) optimized by Multi-Verse Optimizer (MVO). Through a regression-guided attention mechanism, the model converted multiple regression coefficients into neural network weights, achieving a balance between interpretability and prediction accuracy (R²=0.95, Root Mean Square Error (RMSE) = 5.32). The experimental results show that: The contribution rate of the cognitive dimension to PSA reaches 78.6% (β = 0.35 for logical reasoning). Ablation experiments verify that MVO optimization improves performance by 13.7%. The prediction error of the time dimension decreases from 6.85 at the beginning of the semester to 4.06 at the end of the semester. The improvement range of PSA in the intervention group is 3.3 times that in the control group. This study confirms the scientific nature of the integrated modeling of cognition and behavior, and is expected to provide a technical framework with both prediction function and teaching guidance value for intelligent education.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://www.nature.com/articles/s41598-025-27138-y",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://www.nature.com/articles/s41598-025-27138-y"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Dynamics Analysis of the Piecewise Burgers’ Map and Its Application in Steganography",
+    "authors": [
+      "Rajagopal, Shivakumar",
+      "Emin, Berkay",
+      "Hassane, Ahamat Mahamat",
+      "Akgül, Akif",
+      "Rajagopal, Karthikeyan"
+    ],
+    "year": "2025",
+    "venue": "Iranian Journal of Science and Technology, Transactions of Electrical Engineering",
+    "publisher": "Springer",
+    "doi": "10.1007/s40998-025-00958-4",
+    "doi_source": "api",
+    "abstract": "This paper proposes a piecewise Burgers’ map (PBM) generated by replacing the quadratic nonlinearity of the Burgers’ map with an absolute value function. It involves dynamical probing, microcontroller execution, derivation of random number generation (RNG), and secure steganography application with two-level chaos-based encryption on a PBM. PBM has trivial, line, or symmetric fixed points depending on its parameters. Stability analysis of the fixed points results in stable and unstable fixed points in the considered plane. The numerical simulations of PBM reveal limit cycles, quasiperiodic characteristics, a quasiperiodic route to chaos, and five different shapes of chaotic characteristics. Two constant parameters are introduced in the rate equations of PBM to implement partial and total amplitude controls. The dynamical behaviors of PBM are validated by the design of the microcontroller implementation. An RNG based on PBM is developed for the process of secure steganography application with two-level chaos-based encryption. The generated bit sequences validate the NIST 800 − 22 tests. A chaos-based Blowfish algorithm is proposed using this RNG, and the image is encrypted. In the proposed image privacy algorithm, first a random 64-bit key and initialization vector (IV) are generated from PBM sequences. The input image is permuted with these sequences and then encrypted using the Blowfish algorithm in CBC mode. Subsequently, PBM-generated random numbers are used to select cover pixels, and the encrypted bits are embedded through a 4-LSB substitution strategy. This procedure is repeated for the entire binary data of the original image to construct the final steganographic image. The encryption and data hiding processes are checked for their security performances, and their performances are evaluated. The proposed method has high performance and provides superior protection against statistical analysis attacks, as shown by the results.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s40998-025-00958-4",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s40998-025-00958-4"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Solution of fractional order mathematical lungs cancer operation model: a radial basis neural network",
+    "authors": [
+      "Sabir, Zulqurnain",
+      "Abdelkawy, M. A.",
+      "Raja, Muhammad Asif Zahoor",
+      "Mushtaq, Warda"
+    ],
+    "year": "2025",
+    "venue": "Network Modeling Analysis in Health Informatics and Bioinformatics",
+    "publisher": "Springer",
+    "doi": "10.1007/s13721-025-00544-y",
+    "doi_source": "api",
+    "abstract": "The aim of current work is to perform the numerical solutions of the fractional order nonlinear mathematical lungs cancer model by applying a stochastic computing approaches. The fractional kind of the derivatives is used to present the reliable and accurate performance of the lungs cancer model in comparison with the integer order derivatives. The lungs cancer model is categorized into the cells of cancer in lung tissue, cancer cells spread to the remaining body parts, and cells of immune in lung tissue. Three cases of the fractional order derivatives between 0 and 1 have been used to present the numerical solutions of the model in order to check, which fractional values perform better closer to 0 or 1. A construction of single hidden layer is performed by applying the radial basis activation function, whereas the tests of optimization are provided through the Bayesian regularization. A dataset is collected through the Runge–Kutta solver, which is used to reduce the mean square error by data separating into training, verification and testing with reasonable percentages. The proposed stochastic computing process contains a radial basis merit function, twenty neurons, and the optimization through the Bayesian regularization. The correctness of proposed solver is perceived via outputs overlapping, and minor absolute error. Moreover, the reliability of scheme is approved through different tests including state transition, regression coefficient performances, and error histogram values.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s13721-025-00544-y",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s13721-025-00544-y"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Nonlinear Vibration and Energy Harvesting Analysis of a Quasi-Zero Stiffness System with an Inertial Amplifier",
+    "authors": [
+      "Wang, Xinzong",
+      "Kang, Xiaofang",
+      "Zhu, Weijie",
+      "Zhu, Zhengxing",
+      "Wang, Chengyu"
+    ],
+    "year": "2025",
+    "venue": "Journal of Vibration Engineering & Technologies",
+    "publisher": "Springer",
+    "doi": "10.1007/s42417-024-01692-7",
+    "doi_source": "api",
+    "abstract": "Introduction In this article, a quasi-zero stiffness energy harvesting system with an inertial amplifier is proposed. The device has adjustable performance and can adjust the intrinsic frequency of the system by varying the dynamic effective mass of the system. Materials and methods The amplitude-frequency response equations and curves of the system when it is in the resonance state are obtained using the multi-scale method. In addition, the image of the system’s basin of attraction is plotted in terms of the system’s Lyapunov exponent, and the trajectory changes and energy harvesting changes of the system are investigated for different initial value states. Results The results show that changes in the initial angle of the inertial amplification device will cause changes in the resonance frequency band of the system, and the energy collection efficiency of the system in the ultra-low frequency band can be improved by reasonably adjusting the initial angle of the inertial amplification device. Conclusion The coexistence basins of attraction of the system can give a very good identification scheme, which can greatly improve the energy harvesting efficiency within a certain range.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s42417-024-01692-7",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s42417-024-01692-7"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Event-Triggered Backstepping Control of Fractional-Order Chaotic Systems with Dead Zone Via Disturbance Observer",
+    "authors": [
+      "Zhang, Lili",
+      "Han, Lu",
+      "Liu, Heng"
+    ],
+    "year": "2024",
+    "venue": "Journal of Nonlinear Mathematical Physics",
+    "publisher": "Springer",
+    "doi": "10.1007/s44198-024-00237-6",
+    "doi_source": "api",
+    "abstract": "This paper comes up with an adaptive event-triggered tracking control scheme for a kind of fractional-order strict feedback nonlinear systems with actuator dead-zone inputs and uncertain external disturbances. The presented strategy can overcome the defect in standard backstepping control scheme which leads to the “explosion of complexity” problem of virtual signals, and strengthen the transmission efficiency by an event-triggered scheme. An error compensation mechanism is presented for promoting the tracking accuracy and reducing the effect filter error. The designed controller guarantees that the tracking error converges into a small neighborhood near the origin, and all closed-loop signals are bounded. Moreover, Zeno behavior will be avoided. The numerical simulation is given to verify the accuracy and effectiveness of the designed technique.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s44198-024-00237-6",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s44198-024-00237-6"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Health status assessment of pump station units based on spatio-temporal fusion and uncertainty information",
+    "authors": [
+      "Qiu, Panpan",
+      "Yan, Jianzhuo",
+      "Xu, Hongxia",
+      "Yu, Yongchuan"
+    ],
+    "year": "2024",
+    "venue": "Scientific Reports",
+    "publisher": "Nature",
+    "doi": "10.1038/s41598-024-74651-7",
+    "doi_source": "api",
+    "abstract": "An effective health status assessment (HSA) for pump station units (PSUs) is crucial for accurately determining their real status and providing technical support for safe operational decisions. Due to the limitations of existing data-driven HSA methods, which primarily focus on the temporal dependencies of monitoring signals and fail to explore the complex interconnections among signals comprehensively. Moreover, when constructing performance degradation indices based on linear differences, these methods do not effectively integrate heterogeneous signals, resulting in an incomplete and inaccurate assessment of the overall system degradation. This paper proposes a real-time comprehensive HSA method for PSUs based on multi-source heterogeneous uncertainty information. Initially, a health benchmark model (HBM) is built using CrossGNN, which possesses cross-scale and cross-variable interaction capabilities, to precisely capture the temporal dependencies and dynamic relationships among variables in monitoring signals. Subsequently, key measurement points that reflect the operational status of the PSUs are identified through correlation analysis to establish multi-source evaluation indices. Then, considering the uncertainty in signal changes, a novel health degradation index (HDI) is developed using Mahalanobis distance (MD) and the Gaussian Cloud Model (GCM) to analyze changes in unit status. Furthermore, a weighting calculation method based on the non-dominated sorting genetic algorithm (NSGA-II) is proposed to establish a real-time comprehensive health index (RCHDI) for a thorough assessment of PSUs status. Finally, the effectiveness of the proposed method is validated through a case study using data from a pump station in the South-to-North Water Diversion Project in China. The results show that, compared to other studies, the proposed method significantly improves the stability and smoothness of the state assessment curve, with increases of 21.5% and 47.1% respectively, providing a new perspective for comprehensively assessing the health status of PSUs.V",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://www.nature.com/articles/s41598-024-74651-7",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://www.nature.com/articles/s41598-024-74651-7"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  }
+]

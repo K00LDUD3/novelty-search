@@ -1,0 +1,634 @@
+[
+  {
+    "title": "Physics-informed reinforcement learning for energy-efficient unmanned aerial vehicle navigation with context-aware power estimation",
+    "authors": [
+      "Payam Shafiei Gohari"
+    ],
+    "year": "2026",
+    "venue": "Engineering Applications of Artificial Intelligence",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.engappai.2026.116161",
+    "doi_source": "api",
+    "abstract": "The transition of Unmanned Aerial Vehicles (UAVs) from simulation to real-world deployment presents significant challenges due to the simulation-to-reality (sim-to-real) gap, particularly concerning simplified electromechanical dynamics and energy optimization. To address these discrepancies, this paper proposes a hierarchical framework integrating bottom-up physics modeling, neural system identification, and energy-aware control. In contrast to conventional kinematic models, the developed high-fidelity environment explicitly integrates actuator dynamics, including voltage saturation, Back-Electromotive Force (Back-EMF), and transient delays, ensuring that the learned policies respect realistic physical constraints. Central to this framework is a novel context-aware neural architecture designed to decouple flight states from latent hardware signatures. This module achieves a hardware classification accuracy exceeding 97% and robust power estimation with a nominal Normalized Root Mean Square Error (NRMSE) of approximately 1.5%, effectively functioning as a virtual sensor. Leveraging these learned dynamics, we introduce an Energy-Cost-Optimized Reinforcement Learning (Eco-RL) policy that couples a Soft Actor-Critic (SAC) planner with a robust Feedback Linearization and Model Reference Adaptive Control (FBL-MRAC) execution layer. By incorporating the learned power consumption into the reinforcement learning reward loop, the agent synthesizes momentum-conserving trajectories that strategically trade off altitude potential against air density variations. Extensive validation across five heterogeneous hardware classes demonstrates an overall energy reduction of 19.8% across randomized sorties, which consolidates into a highly significant 13.5% efficiency gain under strict pair-wise evaluations compared to standard policies, confirming the efficacy of physics-informed Deep Reinforcement Learning (DRL) in optimizing flight efficiency.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.engappai.2026.116161",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "learned latent dynamics actuator degradation",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.engappai.2026.116161"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Sensor and actuator integrated tooling systems",
+    "authors": [
+      "F. Bleicher"
+    ],
+    "year": "2023",
+    "venue": "CIRP Annals",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.cirp.2023.05.009",
+    "doi_source": "api",
+    "abstract": "The advances in electronics, sensors, actuators, smart materials, computers, and communication technologies led to new and improved mechatronics-based smart tooling systems. This paper reviews the sensors and actuators used in tooling systems. The sensor principles to measure force, displacement, and temperature are explained. Actuators based on piezo, magnetorheological fluid, shape memory alloy, and magnetostrictive principles are discussed. Wireless and wire-based power supply and signal transmission techniques to stationary and rotating tools are described. The integration of sensors, actuators, power supply, and microcontrollers to various tooling systems used in boring, milling, turning, and grinding operations are presented along with their process monitoring and control applications in the industry. It is shown that the sensor-actuator tooling systems improve the accuracy, robustness, and productivity of machining which adds intelligence to the machine tools. The current challenges include widening the operating bandwidth of tooling systems, wireless power and high-speed data transmission, miniaturization of actuators and sensors, and onboard processing using embedded micro-controllers.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.cirp.2023.05.009",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.cirp.2023.05.009"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Fractional-order PD control at Hopf bifurcations in delayed fractional-order small-world networks",
+    "authors": [
+      "Min Xiao"
+    ],
+    "year": "2017",
+    "venue": "Journal of the Franklin Institute",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.jfranklin.2017.09.009",
+    "doi_source": "api",
+    "abstract": "Bifurcation and control of fractional-order systems are still an outstanding problem. In this paper, a novel delayed fractional-order model of small-world networks is introduced and several topics related to the dynamics and control of such a network are investigated, such as the stability, Hopf bifurcations, and bifurcation control. The nonlinear interactive strength is chosen as the bifurcation parameter to analyze the impact of the interactive strength parameter on the dynamics of the fractional-order small-world network model. Firstly, the stability domain of the equilibrium is completely characterized with respect to network parameters, delays and orders, and some explicit conditions for the existence of Hopf bifurcations are established for the delayed fractional-order model. Then, a fractional-order Proportional-Derivative (PD) feedback controller is first put forward to successfully control the Hopf bifurcation which inherently happens due to the change of the interactive parameter. It is demonstrated that the onset of Hopf bifurcations can be delayed or advanced via the proposed fractional-order PD controller by setting proper control parameters. Meanwhile, the conditions of the stability and Hopf bifurcations are obtained for the controlled fractional-order small-world network model. Finally, illustrative examples are provided to justify the validity of the control strategy in controlling the Hopf bifurcation generated from the delayed fractional-order small-world network model.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.jfranklin.2017.09.009",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.jfranklin.2017.09.009"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Adaptive type-1 and type-2 fuzzy-PI control for chaos suppression in 2D and 4D delayed fermionic models",
+    "authors": [
+      "Eren Tosyali"
+    ],
+    "year": "2026",
+    "venue": "Communications in Nonlinear Science and Numerical Simulation",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.cnsns.2026.110327",
+    "doi_source": "api",
+    "abstract": "Instanton solutions in the Gursey and Thirring models are renowned for their intricate nonlinear dynamics and profound ties to quantum field theory. In the delayed setting, time delay is considered as an effective representation of memory/retardation and feedback-latency effects, which can qualitatively alter stability and attractor structure. When these models incorporate delays, they lead to highly complex and often chaotic behavior, rendering traditional control techniques insufficient. Therefore, adaptive Type-1 fuzzy PI (T1FAC) and adaptive Interval Type-2 fuzzy PI (T2FAC) controllers are developed and compared for chaos suppression in the delayed Gursey and Thirring models. Both controllers tune the PI gains online using a filtered error signal, while T2FAC further introduces a Footprint of Uncertainty to represent membership-evaluation uncertainty and improve robustness. Numerical simulations confirm stabilization at selected chaotic delay settings. Benchmarking against PI, PID, non-adaptive fuzzy PI, and non-adaptive fuzzy PID under identical conditions is reported using channel-wise RMSE and 2% settling-time metrics computed on uniformly resampled trajectories. The Interval Type-2 controller generally yields faster settling and improved tracking accuracy relative to the Type-1 design. A theoretical stability discussion is also provided to support the numerical findings.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.cnsns.2026.110327",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.cnsns.2026.110327"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Ghost imaging-based lightweight encryption scheme with auxiliary probe verification for industrial inspection robots",
+    "authors": [
+      "Junxin Liu"
+    ],
+    "year": "2026",
+    "venue": "Chaos, Solitons & Fractals",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.chaos.2026.118770",
+    "doi_source": "api",
+    "abstract": "In the Industrial Internet of Things (IIoT), drone-based industrial inspection robots have been widely deployed, posing significant challenges to the secure transmission of industrial vision data. This paper proposes a lightweight industrial vision encryption scheme based on computational ghost imaging (CGI) with auxiliary probe verification. First, a novel 3D memristor-modulated hyperchaotic map (3D-MMHM) is developed as the core encryption engine. Lyapunov exponent spectra, bifurcation analysis, and NIST randomness tests demonstrate that the proposed model exhibits excellent unpredictability and a large key space. Based on the 3D-MMHM, a dual-track encryption framework is constructed. The main track integrates CGI-inspired global pixel permutation with dynamically cascaded diffusion chains to enhance resistance against chosen-plaintext attacks, while the auxiliary track employs a lightweight CGI-based auxiliary probe mechanism to intercept abnormal packets prior to decryption, thereby reducing unnecessary computational overhead under channel interference. Security performance evaluations show that the NPCR and UACI values reach 99.61% and 33.46%, while the ciphertext entropy approaches 8.0. Moreover, the proposed scheme achieves an encryption throughput of up to 3578.60 KB/s for high-resolution industrial images, demonstrating strong potential for real-time visual data protection in harsh industrial environments.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.chaos.2026.118770",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.chaos.2026.118770"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Two-phase cooling architectures for sustainable data centers: From boiling physics to intelligent and reliable deployment",
+    "authors": [
+      "Kim Boon Lua"
+    ],
+    "year": "2026",
+    "venue": "International Communications in Heat and Mass Transfer",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.icheatmasstransfer.2026.112492",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.icheatmasstransfer.2026.112492",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.icheatmasstransfer.2026.112492"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Orchestrating the post‑silicon revolution of electronics through material-enabled intelligence",
+    "authors": [
+      "Bin Wang"
+    ],
+    "year": "2026",
+    "venue": "Chemical Engineering Journal",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.cej.2026.175242",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.cej.2026.175242",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.cej.2026.175242"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Dynamic behavior and sliding mode control for a stochastic SIR fast–slow model",
+    "authors": [
+      "Shihao Zhang"
+    ],
+    "year": "2027",
+    "venue": "Mathematics and Computers in Simulation",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.matcom.2026.08.001",
+    "doi_source": "api",
+    "abstract": "In this paper, a class of stochastic SIR epidemic models featuring alertness and nonlinear incidence rates is analyzed, which is constructed by the stochastic fast–slow system. The critical noise threshold near the folding point is derived, serving to classify noise into weak and strong categories. The impacts of noise on a range of dynamical phenomena within this system are analyzed. Meanwhile, some dynamical phenomena imply that the epidemic will undergo periodic large-scale outbreaks. To prevent this, an integral sliding mode controller is designed, and an observer is adopted to monitor the epidemic status with real-time feedback provided. The correctness of the theoretical analysis and the effectiveness of the controller are verified through numerical simulations.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.matcom.2026.08.001",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.matcom.2026.08.001"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Design of a liquid state space model proportional–integral– derivative controller for generator oscillation suppression in power cyber-physical systems",
+    "authors": [
+      "Hongliang Gao"
+    ],
+    "year": "2026",
+    "venue": "Engineering Applications of Artificial Intelligence",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.engappai.2026.114566",
+    "doi_source": "api",
+    "abstract": "Under short-circuit fault conditions in power cyber-physical systems, generator oscillations pose a serious threat to safe and stable operation. This study proposes a hybrid controller—the Liquid State Space Model Proportional–Integral–Derivative controller—that integrates a Liquid State Space Model with conventional Proportional–Integral–Derivative control. By selecting suitable state matrices to represent the controlled plant's state information, the Liquid State Space Model produces effective parameter updates for the Proportional–Integral–Derivative controller. Leveraging the Liquid State Space Model's ability to handle sequential data and to dynamically adjust its state transition matrix, the proposed controller enables real-time adaptive tuning of Proportional–Integral–Derivative gains. We apply the Liquid State Space Model Proportional–Integral–Derivative controller to a Single Machine Infinite Bus power cyber-physical system. Simulation experiments evaluate its ability to suppress generator oscillations, benchmarked against a Backpropagation Neural Network Proportional–Integral–Derivative controller, a Recurrent Neural Network Proportional–Integral–Derivative controller, and a no-controller baseline, under short-circuit faults and communication-layer network interference. For example, under a three-phase short-circuit fault with a 2-ms disturbance, the Liquid State Space Model Proportional–Integral–Derivative controller achieves an overshoot of 1.154079, outperforming the Backpropagation Neural Network Proportional–Integral–Derivative (3.294508) and the Recurrent Neural Network Proportional–Integral–Derivative (1.504131) and delivering the best overall control performance among the tested methods. Overall, results show that the Liquid State Space Model Proportional–Integral–Derivative controller provides stronger oscillation suppression and faster recovery across all tested conditions, confirming its effectiveness for complex dynamic systems.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.engappai.2026.114566",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.engappai.2026.114566"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "A review on cutting chatter detection and suppression in robotic milling",
+    "authors": [
+      "Ning Li"
+    ],
+    "year": "2026",
+    "venue": "Robotics and Computer-Integrated Manufacturing",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.rcim.2025.103219",
+    "doi_source": "api",
+    "abstract": "Robotic milling offers high manufacturing flexibility and reduced tooling costs for machining large, complex workpieces, but its inherently low structural stiffness makes it highly prone to cutting chatter. Chatter deteriorates surface quality and dimensional accuracy, accelerates tool wear, and may compromise robotic system safety. This review comprehensively examines cutting chatter in robotic milling, focusing on mechanisms, monitoring, and suppression strategies. First, it analyses robot-specific chatter mechanisms, including regenerative and modal coupling effects, posture-dependent compliant multi-body dynamics, and nonlinear chatter phenomena within unified rigid–flexible and multi-body dynamic frameworks. Second, chatter monitoring and diagnosis methods are summarised, spanning classical time–frequency and cyclostationary analysis to advanced data-driven and deep learning techniques, with emphasis on multi-sensor fusion and real-time edge deployment in robotic settings. Third, chatter suppression and control strategies are reviewed, covering machining parameter and robot pose optimisation, passive and active damping (e.g., tuned mass dampers, smart materials), and emerging reinforcement learning techniques and digital twin-based approaches. Unlike prior surveys focusing on conventional CNC machines or treating dynamics, detection, and control in isolation, this review uniquely addresses the interplay of posture-dependent robot dynamics with chatter across all stages. By highlighting distinctive challenges such as nonlinear chatter in compliant robotic systems and discussing state-of-the-art solutions, it clarifies research gaps and provides guidance for achieving stable, high-precision robotic milling.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.rcim.2025.103219",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.rcim.2025.103219"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Fog-Quant: A quantum computing inspired framework for fog computing deployment over 6G radio access networks",
+    "authors": [
+      "Shabir Ali"
+    ],
+    "year": "2026",
+    "venue": "Sustainable Computing: Informatics and Systems",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.suscom.2026.101367",
+    "doi_source": "api",
+    "abstract": "Future 6G networks promise revolutionary capabilities with terabit speeds and sub-millisecond latency. However, achieving these goals requires fundamental changes in how we manage computing resources. Traditional cloud architectures cannot meet 6G's strict timing requirements because data must travel too far to distant servers. Fog computing brings processing power closer to users by embedding micro data centers in cell towers and street infrastructure. Yet current fog orchestration methods struggle with 6G's unique challenges. Terahertz frequencies suffer severe signal degradation. Reconfigurable intelligent surfaces need constant adjustment as users move. Managing thousands of diverse fog nodes while optimizing latency, energy, and resource usage becomes impossibly complex for classical algorithms. This paper introduces Fog-Quant, the first quantum-powered orchestration system designed specifically for 6G fog networks. Our framework combines two quantum algorithms to solve placement problems that defeat traditional methods. Quantum Annealing rapidly explores millions of possible solutions in microseconds. The Quantum Approximate Optimization Algorithm then refines these solutions with mathematical precision. Fog-Quant uses intelligent entropy-based decision making. Simple placement choices use fast classical methods. Complex scenarios activate quantum processing. This adaptive approach ensures optimal performance without wasting computational resources. We evaluated Fog Quant on a calibrated emulation testbed with 10,000 fog nodes and 10,000 microservices. Fog Quant reaches 96.1 percent placement success at 10,000 nodes and reduces energy use by 28.8 percent versus classical baselines. It maintains reliability above 99.995 percent with up to 30 percent node unavailability. Over 90 percent of control loop events finish within 2.2 ms, with a 2.16 ms decision time bound, meeting a 10 ms URLLC requirement in dense urban scenarios.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.suscom.2026.101367",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.suscom.2026.101367"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "SIHQR model with time delay for worm spread analysis in IIoT-enabled PLC network",
+    "authors": [
+      "Guowen Wu"
+    ],
+    "year": "2024",
+    "venue": "Ad Hoc Networks",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.adhoc.2024.103504",
+    "doi_source": "api",
+    "abstract": "Industrial Internet of Things (IIoT) is a product of deep integration between Internet of Things (IoT) and industrial control networks. As an important component of IIoT, Programmable Logic Controller (PLC) has become a springboard for many hackers to disrupt industrial networks by spreading viruses. It is known that worm can cause enormous loss. Therefore, revealing the rules of worm spread in PLC networks and exploring methods to inhibit worm spread are increasingly important. To this end, we propose a new worm spread model named SIHQR with time delay. Additionally, we establish a game model between susceptible and infected nodes in order to express the infection rate by several game parameters. Through analysis, we discuss the conditions for the emergence of three scenarios: disease-free equilibrium, endemic equilibrium and Hopf bifurcation. We study the stability at the equilibrium points and obtain an expression for a threshold value which determines whether the system exhibits endemic equilibrium or Hopf bifurcation. In the experimental section, we analyze the impact of initial values of node states and the magnitude of game parameters on worm spread in the three aforementioned scenarios. Finally, we propose a method to mitigate or even eliminate the Hopf bifurcation. The experimental results show that the proposed model has welldone performance.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.adhoc.2024.103504",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.adhoc.2024.103504"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Chapter 2: Mechanical and thermal energy storage technologies",
+    "authors": [
+      "Ying Xue"
+    ],
+    "year": "2026",
+    "venue": "Modern Energy Storage",
+    "publisher": "Elsevier",
+    "doi": "10.1016/b978-0-32-395419-8.00008-8",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/b978-0-32-395419-8.00008-8",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/b978-0-32-395419-8.00008-8"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Control based on the Koopman operator: A comprehensive review",
+    "authors": [
+      "Juan Francisco Durán-Siguenza"
+    ],
+    "year": "2025",
+    "venue": "Journal of the Franklin Institute",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.jfranklin.2025.108256",
+    "doi_source": "api",
+    "abstract": "The Koopman operator provides a powerful linear framework for analyzing nonlinear dynamical systems by lifting their behavior into a higher-dimensional space. This article presents a comprehensive review of the main methodologies for estimating the Koopman operator, with particular attention to forced systems–those influenced by external inputs. The approaches are organized into three primary categories: variants of Dynamic Mode Decomposition (DMD), sparse regression techniques such as Sparse Identification of Nonlinear Dynamics (SINDy), and data-driven methods based on deep neural networks. Building on this foundation, we propose a unified strategy for Koopman operator estimation and its integration into a model predictive control (MPC) framework. Using a multi-tank system as a case study, we show that the Koopman-based MPC yields a response that is twice as fast and significantly more stable under external disturbances–including fault conditions such as leaks–compared to a conventional linearized MPC. These results underscore the Koopman operator’s potential to enhance the modeling, control, and fault diagnosis of complex systems, offering a promising foundation for the development of robust, disturbance-tolerant predictive control architectures.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.jfranklin.2025.108256",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.jfranklin.2025.108256"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "A type-3 fuzzy synchronization system subjected to hysteresis quantizer inputs and unknown dynamics: Applicable to financial and physical chaotic systems",
+    "authors": [
+      "Manwen Tian"
+    ],
+    "year": "2026",
+    "venue": "ISA Transactions",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.isatra.2025.12.007",
+    "doi_source": "api",
+    "abstract": "In this paper, a new control approach is proposed for the synchronization and stabilization of a class of chaotic systems with unknown dynamics and input nonlinearities. Type-3 fuzzy logic systems (T3-FLSs) are developed to adaptively model the dynamics of both master and slave systems in real time. The input is affected by sector-bounded hysteresis and quantization, and these challenges are explicitly addressed in the control design. Unlike conventional methods, the proposed strategy does not require prior knowledge of the system equations or the derivatives of system signals. The adaptation laws for the T3-FLS parameters and estimation errors are rigorously derived using stability and robustness analysis, ensuring smooth control signals without chattering. Extensive simulations and real-time examinations demonstrate that the method achieves accurate synchronization even under severe uncertainties, high levels of random noise, and non-identical chaotic systems. Comparative results confirm the superiority of the proposed approach over existing fuzzy control methods.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.isatra.2025.12.007",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.isatra.2025.12.007"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Multi-objective graph optimization for dynamic task–machine assignment in STEP-NC compliant smart factories using extended Floyd–Warshall algorithm",
+    "authors": [
+      "Oluwasheyi Oyename"
+    ],
+    "year": "2026",
+    "venue": "Journal of Manufacturing Systems",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.jmsy.2026.07.003",
+    "doi_source": "api",
+    "abstract": "Future smart factories equipped with STEP-NC compliant machine tools promise a shift from machine-specific G-code to interoperable and feature-based manufacturing. While this enables unprecedented task assignment flexibility, it introduces a critical challenge in optimally allocating machining tasks across a heterogeneous and dynamic manufacturing floor. This limitation compromises factory resilience which can lead to accelerated resource wear, suboptimal throughput, and poor responsiveness to disruptions such as machine failures. To address this, we formulate the task-to-machine assignment as a multi-objective graph optimization problem. Our solution centers on an extended Floyd–Warshall algorithm that operates in a 4D state space by simultaneously evaluating task sequences, machine capabilities, and spatial constraints. This approach efficiently generates globally optimal manufacturing sequences that are both temporally efficient and physically executable. An empirical Hardware-in-the-Loop (HIL) surrogate testbed validates the approach by isolating and stress-testing the cyber–physical communication architecture under dynamic physical distress. Disruption scenarios confirmed the system's self-healing capability and demonstrated autonomous recovery from cascading hardware faults with a proven median latency of <1.5 s. Furthermore, 10 ms edge-level safety reflexes successfully protect physical nodes from severe parameter fluctuations, enforcing a “Correct-by-Construction” safety paradigm. Qualitatively, the framework provides factory managers with a highly tunable operational strategy to seamlessly shift between rush order processing and high-precision distributed routing while guaranteeing physical execution. By effectively transforming raw STEP-NC data into operationally feasible schedules that exhibit graceful degradation during disruptions, this work provides a critical step toward resilient and autonomous manufacturing systems capable of self-optimization in the face of dynamic change.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.jmsy.2026.07.003",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.jmsy.2026.07.003"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Integrating CFD, molecular dynamics, and AI techniques for thermal management of heat transfer devices in microelectronic chip cooling using nano-enhanced PCMs and hybrid cooling systems",
+    "authors": [
+      "Monica Jayaram Indhe"
+    ],
+    "year": "2026",
+    "venue": "International Journal of Thermofluids",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.ijft.2026.101587",
+    "doi_source": "api",
+    "abstract": "Thermal management plays a key role in ensuring efficient operation across EVs, aerospace, power plants, and high-performance computing. Excessive heat flux and rising operating temperatures can significantly compromise the reliability and efficiency of devices such as CPUs, GPUs, and stretchable electronics. This review addresses thermal stress issues in modern electronic systems and highlights advanced cooling strategies, with a particular focus on microchannel heat exchangers (MCHS). Further this review emphasizes on evaluating cooling technologies for better energy efficiency and clean-energy support, highlighting nanofluids and PCMs for effective transient heat control. This study presents a recent progress in computational approaches including molecular dynamics simulations (MDS), computational fluid dynamics (CFD), and machine learning techniques such as genetic algorithms and artificial neural networks for optimizing microchannel geometries and enhancing heat transfer efficiency. Special attention is given to emerging microchannel designs, fluid flow behavior, and cooling performance, including concepts such as the Zwieback–Fung effect and fractal like branching channels. The review concludes by outlining future research directions toward the development of highly efficient and cost-effective cooling solutions for next-generation high-power electronic systems.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.ijft.2026.101587",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.ijft.2026.101587"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "A scenario-driven review of multi-agent cooperation for lunar surface missions",
+    "authors": [
+      "Jiaxiang E"
+    ],
+    "year": "2026",
+    "venue": "Acta Astronautica",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.actaastro.2026.05.046",
+    "doi_source": "api",
+    "abstract": "The transition from short-term lunar sorties to sustained International Lunar Research Station calls for multi-agent cooperative systems. However, terrestrial swarm paradigms face a severe reality gap under lunar constraints in communication, SWaP, and radiation-hardened computing. This systematic review organizes lunar multi-agent research using a new operational taxonomy spanning three mission phases and a six-domain cooperative technical framework, and assesses validation readiness via an Evidence Maturity scale (L0–L4). Our evidence-weighted synthesis shows a bifurcated maturity landscape: while foundational exploration and mapping architectures have achieved L3 validation in terrestrial planetary analogs, actual lunar flight deployments (L4) remain absent, and research into construction, logistics, and maintenance is critically sparse. Our synthesis further reveals that validated systems consistently adopt hybrid modular architectures with communication-aware planning and human-on-the-loop supervision, while fully decentralized end-to-end learning paradigms remain confined to simulation. We further expose an assumption gap between algorithmic prerequisites and lunar physical reality. To narrow the sim-to-real chasm, we identify transferable methods from deep-space learning and in-orbit servicing, and propose a roadmap emphasizing communication autonomy, task self-organization, and engineering realism.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.actaastro.2026.05.046",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.actaastro.2026.05.046"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Deployment-oriented multi-objective feature selection and neural architecture optimization for comprehensive diesel engine performance prediction",
+    "authors": [
+      "Xianyan Lin"
+    ],
+    "year": "2026",
+    "venue": "Applied Thermal Engineering",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.applthermaleng.2026.132621",
+    "doi_source": "api",
+    "abstract": "Comprehensive diesel engine performance prediction, covering power, fuel economy, emissions, thermal state, and combustion response, requires a balance among predictive accuracy, robustness, model compactness, and computational efficiency, which conventional accuracy-driven optimization does not adequately address. This limitation makes it difficult to select suitable models for digital-twin analysis, online estimation, and low-latency deployment. To address this issue, a deployment-oriented multi-objective optimization framework is developed based on Hierarchical Density-Based Spatial Clustering of Applications with Noise and Non-dominated Sorting Genetic Algorithm III to jointly select input features and optimize heterogeneous neural architectures, including multilayer perceptron (MLP), radial basis function (RBF), and Kolmogorov-Arnold network (KAN). Six objectives are optimized simultaneously: mean loss, loss variation rate, test-set R(Pitchaiah et al., 2023 2), parameter count, training time, and inference time. KAN delivers the highest predictive fidelity (best test-set R2 = 0.9668) with approximately 2530 parameters and tends to select combustion-process variables, indicating suitability for high-fidelity offline analysis. MLP achieves a balanced accuracy–stability trade-off (best R2 = 0.9177) with control-related variables, supporting stable online estimation. RBF provides the lightest candidate solution, with only 173 parameters and an inference time of 0.00001 s, supporting fast local mapping and latency-sensitive deployment. Overall, no single architecture dominates all objectives; deployment constraints should determine both feature subsets and neural architecture choices for comprehensive diesel engine performance prediction.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.applthermaleng.2026.132621",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.applthermaleng.2026.132621"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Universal nonlinear dynamics in damped and driven physical systems: From Pendula via Josephson junctions to power grids",
+    "authors": [
+      "Subrata Ghosh"
+    ],
+    "year": "2025",
+    "venue": "Physics Reports",
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.physrep.2025.09.005",
+    "doi_source": "api",
+    "abstract": "Understanding the collective behavior of dynamical systems is essential for explaining various emergent phenomena in natural and engineered settings. A key step in this process is formulating an appropriate mathematical description of the individual systems and network of systems. In this context, a range of physical systems is considered here, including the classical pendula, superconducting Josephson junctions, power grids, and various others. Despite the diversity of the systems in terms of physical structure and their application domains, they exhibit strikingly similar dynamical features, namely, phase dynamics governed by inertia and damping, and in their response to external forcing. This observation creates interest and motivates a search for a unified theoretical framework capable of capturing the fundamentals of their dynamical behaviors exhibited across the systems. This review critically examines the up-to-date research activities on the dynamics of the second-order phase oscillator, henceforth claimed here as a universality class by its own merits as a simple nonlinear dynamical model representing a broad class of physical systems. It offers a common mathematical framework to develop a comprehensive understanding, from a general perspective, that bridges, the theoretical and experimental observations of pendulum motion, Josephson junctions, and power grids and their collective behaviors. While each of these systems has been discussed in disparate physical contexts, their underlying mathematical structures reveal strong commonalities. In particular, we highlight the importance of analyzing these systems through the lens of nonlinear phase dynamics to uncover their shared mechanisms and system-specific variety of behaviors as well. This survey mainly focuses on some specific interrelated themes: (i) collective phenomena and emergent synchronization; (ii) the role of heterogeneity in terms of system parameters and effects of noise on the emergent dynamics; (iii) multi-stability and complex transient regimes; (iv) the integration of machine learning for model discovery, control, and prediction; and (v) the broader applicability of phase oscillator models across diverse domains beyond the canonical systems considered here. By systematically comparing the dynamical behaviors of the varied physical systems within a cohesive mathematical framework of second-order phase oscillators, this review seeks for the universal and distinctive features of nonlinear dynamics of the three systems, their collective behaviors such as emergent synchrony, partial synchrony, or chimera states, and specifically explains real-life phenomena, and crowd synchrony that may lead to a collapse of a footbridge and the failure of a power grid. Besides our main emphasis on these systems, brief notes have been added on other systems where this second-order phase model explains their dynamical properties. A broad synthesis on the topic will not only deepen our theoretical understanding but also suggest any design and control of complex dynamical systems in both natural and engineered settings.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://doi.org/10.1016/j.physrep.2025.09.005",
+    "pdf_url": null,
+    "source_sites": [
+      "sciencedirect"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1016/j.physrep.2025.09.005"
+    ],
+    "source_site": "sciencedirect",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  }
+]

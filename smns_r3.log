@@ -1,0 +1,53 @@
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+04:26:06 [INFO] scraper: Search plan:
+04:26:06 [INFO] scraper:   IEEE Xplore: 6 queries
+04:26:06 [INFO] scraper: ════════════════════════════════════════════════════════════
+04:26:06 [INFO] scraper: Site: IEEE Xplore
+04:26:06 [INFO] scraper: [IEEE Xplore] Running query: "actuator degradation" AND bifurcation
+04:26:08 [INFO] scraper: [ieee] Query done — raw: 0, unique: 0
+04:26:08 [INFO] scraper: [IEEE Xplore] Running query: "actuator fault" AND bifurcation AND control
+04:26:09 [INFO] scraper: [ieee] Query done — raw: 3, unique: 3
+04:26:09 [INFO] scraper: [IEEE Xplore] Running query: "fault-induced bifurcation" AND nonlinear control
+04:26:11 [INFO] scraper: [ieee] Query done — raw: 0, unique: 0
+04:26:11 [INFO] scraper: [IEEE Xplore] Running query: "actuator effectiveness" AND bifurcation
+04:26:13 [INFO] scraper: [ieee] Query done — raw: 0, unique: 0
+04:26:13 [INFO] scraper: [IEEE Xplore] Running query: "incipient actuator fault" AND bifurcation
+04:26:15 [INFO] scraper: [ieee] Query done — raw: 0, unique: 0
+04:26:15 [INFO] scraper: [IEEE Xplore] Running query: "latent dynamics" AND actuator fault AND control
+04:26:17 [INFO] scraper: [ieee] Query done — raw: 0, unique: 0
+04:26:17 [INFO] scraper: Checkpoint saved → smns_r3_ieee_checkpoint.json (3 papers)
+04:26:17 [INFO] scraper: ════════════════════════════════════════════════════════════
+04:26:17 [INFO] scraper: Running cross-site deduplication …
+04:26:17 [INFO] scraper: Wrote 3 papers to smns_r3.json
+04:26:17 [INFO] scraper: Wrote 3 raw results to smns_r3_raw.json
+04:26:17 [INFO] scraper: Wrote Markdown to smns_r3.md
+
+════════════════════════════════════════════════════════════
+RETRIEVAL SUMMARY
+════════════════════════════════════════════════════════════
+
+IEEE Xplore
+  Query: '"actuator degradation" AND bifurcation'
+    raw: 0  unique: 0
+  Query: '"actuator fault" AND bifurcation AND control'
+    raw: 3  unique: 3
+  Query: '"fault-induced bifurcation" AND nonlinear control'
+    raw: 0  unique: 0
+  Query: '"actuator effectiveness" AND bifurcation'
+    raw: 0  unique: 0
+  Query: '"incipient actuator fault" AND bifurcation'
+    raw: 0  unique: 0
+  Query: '"latent dynamics" AND actuator fault AND control'
+    raw: 0  unique: 0
+  TOTAL raw: 3  unique: 3  with abstract: 3
+
+────────────────────────────────────────────────────────────
+Cross-site unique papers : 3
+Papers with abstracts    : 3
+Papers without abstracts : 0
+
+Outputs:
+  smns_r3.json
+  smns_r3.md
+  smns_r3_raw.json
+════════════════════════════════════════════════════════════

@@ -1,0 +1,1843 @@
+[
+  {
+    "title": "Review: advances in flexible dielectric elastomer smart materials-from electromechanical fundamentals to frontier applications",
+    "authors": [
+      "Hong, Yang",
+      "Jiang, Tao",
+      "Luo, Zirong"
+    ],
+    "year": "2026",
+    "venue": "Journal of Materials Science",
+    "publisher": "Springer",
+    "doi": "10.1007/s10853-026-13616-9",
+    "doi_source": "api",
+    "abstract": "In recent years, dielectric elastomers (DEs) have been widely adopted for flexible artificial muscles, soft robotics, flexible electronics, and biomedicine due to their excellent electromechanical conversion, large electrostrain, high energy density, and great flexibility. To systematically clarify the 25-year research evolution of DE smart materials, this paper performs bibliometric and quantitative analysis on Scopus-indexed publications and visualizes the developmental trends of DE technologies. First, the fundamental properties and characteristics of flexible DE smart materials and their composites are systematically classified and summarized. Second, recent advances in DE-related theoretical research are comprehensively sorted out and elaborated. Third, based on the unique performance merits of DEs, the state-of-the-art applications of DE technology are reviewed across diverse fields, covering flexible artificial muscles and soft robotics, flexible electronics, energy devices, optical devices, and biomedical engineering. Finally, the key bottlenecks limiting the further development of DE technology are discussed based on the current research status. On this basis, a design philosophy for fully flexible integration of energy, actuation, sensing, and control (FEASCI) is proposed for DE smart devices. Ultimately, existing limitations and future developmental directions of DE technologies are concluded to provide innovative insights for subsequent research. Graphical abstract",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10853-026-13616-9",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10853-026-13616-9"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Supersonic Air Flow Induced Nonlinear Vibrations of a Temperature-dependent Al/SiC-based Non-Uniform-Inextensible- Viscoelastic Beam",
+    "authors": [
+      "Alimoradzadeh, Mehdi",
+      "Sedighi, Hamid M.",
+      "Ouakad, Hassen",
+      "Alneamy, Ayman"
+    ],
+    "year": "2026",
+    "venue": "Journal of Vibration Engineering & Technologies",
+    "publisher": "Springer",
+    "doi": "10.1007/s42417-026-02731-1",
+    "doi_source": "api",
+    "abstract": "Objectives The nonlinear aero-thermo-viscoelastic oscillation of inextensible functionally graded (FG) cantilever beams with non-uniform cross-section and temperature-dependent properties is investigated under the synchronous action of a concentrated harmonic point load and supersonic airflow. Methods Were Used The system dynamics are described by nonlinear partial differential equations formulated according to the principles of the inextensible Euler-Bernoulli beam theory. The model integrates nonlinear piston theory to address unsteady aerodynamic loads and explicitly incorporates the effects of viscous aerodynamic heating. Additionally, energy dissipation resulting from internal material damping is represented through the Kelvin-Voigt viscoelastic constitutive relation. The properties of the FGM beam constituents are considered temperature-dependent and expressed by nonlinear equations of thermoplastic material properties. The governing nonlinear partial differential equation is discretized using a Galerkin modal expansion approach, which converts it into a finite set of nonlinear ordinary differential equations. Then, to obtain an analytical solution for the governing equation of motion, the method of multiple time scales is deployed. A comparative study is conducted to verify the soundness of the analysis. Results Through numerical study, the influence of different parameters, such as the breadth taper ratio, degree of the breadth variation function, Mach number, and power index of the constituent material variation profile, on the fundamental frequency, phase-plane trajectory, and frequency-response curves of primary and secondary resonances is investigated. In primary resonance, softening-hardening-type nonlinear behavior is observed, whereas, in superharmonic resonance, simultaneous resonance takes place at some Mach numbers (i.e., M∞ ≤ 8) or for cubic breadth variation functions. Conclusions The analysis demonstrates the nonlinear aero-thermo-viscoelastic oscillatory behavior of the inextensible FG cantilever beam under the synchronous action of a concentrated harmonic point load and supersonic airflow, while accounting for non-uniform cross-section, temperature-dependent material properties, aerodynamic heating, and internal material damping.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s42417-026-02731-1",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s42417-026-02731-1"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Finding of Activation Energy and Self-Healing Mechanism of Sustainable Porous Ceramic Microcapsule Encapsulated Polydimethylsiloxane Elastomeric Composite",
+    "authors": [
+      "Ayyanar, Chellaiah",
+      "Pramanik, Sumit"
+    ],
+    "year": "2026",
+    "venue": "Journal of Polymers and the Environment",
+    "publisher": "Springer",
+    "doi": "10.1007/s10924-026-03947-8",
+    "doi_source": "api",
+    "abstract": "Polydimethylsiloxane (PDMS)-based elastomers have recently attracted significant attention as self-healing materials for advanced engineering and biomedical applications. In this study, self-healing PDMS composites were developed by incorporating porous ceramic microcapsules containing PDMS healing agents and sustainable, bioceramic nanohydroxyapatite (HA) at concentrations of 1, 2, and 3 mass%. The novelty of the study, particularly the development of HA-based carrier microcapsules in which porous HA particles act as shells that retain PDMS resin and hardener as healing agents. The microcapsules were fabricated using a spray-based technique and embedded within a PDMS elastomer matrix to investigate their crack-healing performance. The self-healing mechanism involves the release of healing agents from ruptured microcapsules at damaged sites, followed by crosslinking through hydrogen-bond interactions between HA and the PDMS resin/hardener system. Among the investigated formulations, the composite containing 2 mass% HA (SH-B2) exhibited the most effective healing performance. UV–Vis analysis revealed that the optimum band gap energy of 3.6 eV, while kinetic analysis using the Kissinger–Akahira–Sunose (KAS) model yielded the lowest activation energy of 54.023 kJ/mol, indicating enhanced polymerization and healing kinetics. Correspondingly, SH-B2 demonstrated superior tensile strength and elongation compared with the other compositions. The maximum healing efficiency, determined from tensile strain recovery, reached 77.24%. Furthermore, the composite exhibited excellent crack-recovery behavior under unloading conditions. These findings demonstrate that HA-containing microcapsules significantly enhance the self-healing capability of PDMS elastomers, highlighting their potential for biomedical devices and smart protective coatings.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10924-026-03947-8",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10924-026-03947-8"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Nonlinear vibration of bolted shaft-disk-shaft rotors with clearance fit",
+    "authors": [
+      "Yu, Changyuan",
+      "Cui, Yuansong",
+      "Wang, Yan Qing"
+    ],
+    "year": "2026",
+    "venue": "Nonlinear Dynamics",
+    "publisher": "Springer",
+    "doi": "10.1007/s11071-026-13010-9",
+    "doi_source": "api",
+    "abstract": "Bolted shaft-disk-shaft rotors (BSDSRs) are key components in rotating machinery. They are typically supported by rolling bearings, where clearance fit is employed between the pedestal and the bearing. However, the vibration mechanism of BSDSRs with this support is still not well understood. In this paper, the nonlinear dynamic model of BSDSRs is constructed based on the Kirchhoff plate theory and Euler–Bernoulli beam theory, accounting for the bolted joint, the clearance fit, and disk deformation effects. The nonlinear vibration response is analyzed by the Newmark- β method. The nonlinear dynamic characteristics of BSDSRs are analyzed under different rotational speeds, fit clearances, and unbalanced masses. Results show that the fit clearance introduces strong nonlinear behavior. The chaotic, quasi-periodic, and periodic motions appear alternately when rotational speed increases. At low rotational speeds, rub-impact within the fit clearance drives the system into chaos. At high rotational speeds, sub-synchronous vibration component induces quasi-periodic motions. As the fit clearance increases, high-order harmonics in the spectrum are gradually enhanced. Increasing unbalanced mass widens the range of rotational speed for periodic motion, but it also increases the vibration response. The results provide a basis for fault diagnosis, performance evaluation, and design optimization of rotor systems with clearance fit.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11071-026-13010-9",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "fault induced bifurcation nonlinear control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11071-026-13010-9"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Characterization of quasi-periodic and chaotic dynamics in a memristive MEMS: parameter-induced transitions and thermo-sensitive modulation",
+    "authors": [
+      "Koudafokê, N. G.",
+      "Njougouo, Thierry",
+      "Cerdeira, Hilda A.",
+      "Miwadinou, C. H."
+    ],
+    "year": "2026",
+    "venue": "Journal of Computational Electronics",
+    "publisher": "Springer",
+    "doi": "10.1007/s10825-026-02626-0",
+    "doi_source": "api",
+    "abstract": "This work presents the mathematical modeling and numerical characterization of a Micro-Electro-Mechanical System (MEMS) integrating an HP memristor coupled to electrical and mechanical resonators. Based on the linear-drift HP memristor model, the nonlinear electromechanical dynamics are investigated through Lyapunov exponents, bifurcation diagrams, Poincaré sections, recurrence plots, phase portraits, and Fourier spectra. The numerical results demonstrate that the intrinsic memristor parameters, namely the low-resistance state $$R_{on}$$ R on , the high-resistance state $$R_{off}$$ R off , the oxide thickness D , and the ionic mobility $$\\mu _{v}$$ μ v , directly control the amplitude, frequency content, and dynamical regime of the electromechanical oscillations, inducing transitions between quasi-periodic and chaotic behaviors. Temperature-dependent variations of these memristive parameters are shown to modulate both the oscillation amplitudes and the distribution of quasi-periodic and chaotic regimes, highlighting the thermo-sensitive character of the proposed architecture. A qualitative comparison with Josephson-junction-based MEMS is provided, emphasizing that the HP memristor exhibits similar nonlinear dynamical features while remaining fully operational at room temperature. These results suggest that memristive thermo-sensitive MEMS constitute a promising platform for adaptive nonlinear oscillators, thermo-sensitive sensing devices, and chaos-assisted electromechanical applications.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10825-026-02626-0",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10825-026-02626-0"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "The Scalability Trap: A Systematic Review of Mobility Constraints in Mid-size Unmanned Ground Vehicles",
+    "authors": [
+      "Chicaiza, Fernando A.",
+      "Chuchico, Cristian P.",
+      "Romero, Estalin J.",
+      "Moreno-Vega, Esteban"
+    ],
+    "year": "2026",
+    "venue": "Journal of Intelligent & Robotic Systems",
+    "publisher": "Springer",
+    "doi": "10.1007/s10846-026-02443-4",
+    "doi_source": "api",
+    "abstract": "The deployment of Unmanned Ground Vehicles in unstructured environments is currently polarized between lightweight scouting platforms and heavy industrial machinery, leaving a significant void in the functional capabilities of mid-sized robotic systems. This systematic review investigates the architectural constraints of the mid-size category, strictly defined in this work by a total Gross Vehicle Weight (GVW) ranging from 100 to 1000 kg through a Comparative Boundary Analysis of 24 empirical studies. By stratifying the literature into lightweight, mid-size, and heavy-duty clusters, the analysis identifies a Scalability Trap where kinematic principles effective at small scales become energetically prohibitive when upscaled. Specifically, the review demonstrates that the resistive turning moment inherent to skid-steering architectures scales linearly with mass, rendering differential drive mechanisms increasingly inefficient and prone to immobilization as payload scales in highly deformable soils. Furthermore, the synthesis of suspension dynamics reveals that rigid chassis designs in this intermediate class struggle to manage dynamic vertical forces, leading to high-frequency sensor noise and intermittent traction loss that pneumatic tyre compliance cannot mitigate. Algorithmically, the review establishes that reactive kinematic controllers frequently diverge under the inertial non-linearities of this mass regime during high-speed or transient maneuvers, necessitating predictive dynamic frameworks capable of explicitly managing actuator saturation and stochastic wheel slip. Despite these architectural and algorithmic limitations, empirical evidence confirms the agronomic superiority of the mid-size class, which delivers measurable crop yield improvements relative to conventional tractors by preserving soil porosity through reduced ground pressure. Consequently, this study concludes that the future of field robotics depends on shifting from rigid, skid-steered prototypes to morphologically adaptive systems utilizing 4-Wheel Steering, passive articulation, and predictive traction control to unlock the operational potential of the mid-size sector.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10846-026-02443-4",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "fault induced bifurcation nonlinear control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10846-026-02443-4"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Self-adaptive metamaterial plate enabling asymmetric wave propagation for crack detection",
+    "authors": [
+      "Li, Zheng-Yang",
+      "Wang, Yanzheng",
+      "Wang, Kai",
+      "Wu, Jun",
+      "Yan, Dongjia",
+      "Chen, Weiqiu",
+      "Zhang, Chuanzeng"
+    ],
+    "year": "2026",
+    "venue": "Acta Mechanica Sinica",
+    "publisher": "Springer",
+    "doi": "10.1007/s10409-026-51095-x",
+    "doi_source": "api",
+    "abstract": "Wave-based structural health monitoring (WSHM) methods employing metamaterials have attracted significant attention from both industry and academia. However, leveraging metamaterials with asymmetric wave propagation to purify signals and improve modeling of elastic wave-damage interactions remains a challenge. In this work, we propose exploiting asymmetric flexural wave propagation to enhance the accuracy and efficiency of WSHM. This phenomenon is realized in a self-adaptive metamaterial plate, for which two designs are developed. In the first, asymmetric wave propagation is achieved by applying different control parameters depending on the wave propagation direction. Secondly, gradient control parameters are introduced to break structural symmetry, thereby enabling asymmetric wave propagation. As an application, we propose a novel WSHM method for crack detection in plates based on the designed self-adaptive metamaterial. Compared with conventional approaches, the proposed method generates a more ordered wave field with minimal interference, leading to higher efficiency and accuracy. This work not only introduces two strategies for designing self-adaptive metamaterial plates that realize asymmetric wave propagation, but also opens new avenues for advancing metamaterial-based WSHM technologies. 基于超材料波动调控特性的结构健康监测方法已受到工业界和学术界的广泛关注. 然而, 如何利用超材料的非对称传输特性有效过滤杂波信号并提升结构健康监测精度, 仍是一个具有挑战性的问题. 针对该问题, 本研究提出了一种基于自适应超材料板的弯曲波非对称传输方法, 可有效提高结构健康监测的准确性. 本研究中, 自适应超材料板的非对称传输主要通过两种方式实现: 第一种是根据波的传播方向施加不同的控制参数, 从而实现弯曲波的非对称传输; 第二种是通过引入梯度控制参数打破结构对称性, 进而实现弯曲波的非对称传输. 基于自适应超材料板中宽频、 高效的弯曲波非对称传输特性, 本研究提出了一种用于板结构裂纹检测的新型结构健康监测策略. 数值结果表明, 与传统方法相比, 本文所提出的结构健康监测策略具有更高的检测准确性.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10409-026-51095-x",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "fault induced bifurcation nonlinear control",
+      "actuator effectiveness bifurcation",
+      "incipient actuator fault bifurcation"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10409-026-51095-x"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Smart vibration control of structural-functional integrated SMA-composite systems: nonlinear dynamics, progress, and perspectives",
+    "authors": [
+      "Wang, Zhi-Jian",
+      "Xu, Duo",
+      "Zang, Jian",
+      "Zhang, Ye-Wei",
+      "Chen, Li-Qun"
+    ],
+    "year": "2026",
+    "venue": "Nonlinear Dynamics",
+    "publisher": "Springer",
+    "doi": "10.1007/s11071-026-13009-2",
+    "doi_source": "api",
+    "abstract": "In the aerospace context, advanced composite materials are subjected to severe broadband dynamic loads. NiTiNOL shape memory alloys (NiTi-SMA) and novel NiTi steel wire ropes (NiTi-ST) provide a smart pathway for nonlinear vibration suppression through superelastic hysteresis. This review systematically presents the progress and perspectives of nonlinear dynamics and smart vibration control in NiTi-SMA-composite coupled systems, mapping a comprehensive technical framework from material modeling, structural dynamics, reduced-order solutions, physical validation to future technological pathways. This review paper compiles advanced structural mechanics frameworks for various composite configurations. It includes nonlinear hysteretic constitutive models into multi-type structural governing equations, and assesses the theoretical benefits of Galerkin truncation and frequency-time dual-track analytical mechanisms to describe complex topologies, e.g., resonance peak deflection, multi-stability. Most importantly, it emphasizes the systematic physical capture and validation of strong nonlinear phenomena, highlighting key experimental demonstrations of the nonlinear vibration reduction potential of NiTi-SMA and NiTi-ST in composite structures. State of the art testing methodologies such as slow bidirectional sweeps and dwell control are studied for an accurate calibration of jump boundaries and multi-stable topological evolution. Cross-verification shows small discrepancies between theoretical and physical realities. In addition, the survey proposes the future development routes such as multiphysics coupling, active/semi-active controllable damping, and data-driven optimization, which can provide an important theoretical reference for the next-generation intelligent aerospace equipment.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11071-026-13009-2",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation",
+      "latent representation bifurcation nonlinear dynamics"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11071-026-13009-2"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Nonlinear vibration and energy harvesting of a piezoelectric cantilever beam enhanced by a nonlinear boundary oscillator",
+    "authors": [
+      "Chen, Liming",
+      "Cong, Yunyue",
+      "Qian, Dengyu",
+      "Kang, Houjun",
+      "Su, Xiaoyang"
+    ],
+    "year": "2026",
+    "venue": "Nonlinear Dynamics",
+    "publisher": "Springer",
+    "doi": "10.1007/s11071-026-13027-0",
+    "doi_source": "api",
+    "abstract": "Abstract The nonlinear energy harvesting system enhanced by a resonance mechanism is proposed, which consists of a piezoelectric cantilever beam supported by a nonlinear boundary oscillator. The nonlinear boundary oscillator comprises three springs and a lumped mass, which introduces tunable nonlinear stiffness and modifies the overall dynamic characteristics. The dynamic equations for the electromechanically coupled system are derived using the extended Hamilton principle. The direct multiple-scale method is employed to derive the modulation equations governing the slow dynamics of amplitude and phase. The perturbation solutions are validated against numerical simulations via the Runge–Kutta method. At primary resonance, the coupled system exhibits nonlinear behaviors, including hardening spring behavior, jump phenomena, and multiple solutions. Parametric studies indicate that the mass ratio between the boundary oscillator and the cantilever beam significantly influences the frequency response, enabling enhancement of the electrical output and adjustment of the effective harvesting bandwidth. The nonlinear stiffness parameter primarily affects the extent of hardening nonlinearity, while the load resistance largely determines the electrical output characteristics. Compared with a conventional single piezoelectric cantilever beam, the coupled system yields larger vibration amplitudes and higher electrical output, demonstrating its potential for efficient broadband vibration energy harvesting. Graphical abstract",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11071-026-13027-0",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11071-026-13027-0"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Engineering Next-generation Drug Delivery Systems Via 4-D Printing: A Paradigm Shift Toward Precision Medicine",
+    "authors": [
+      "Dudhat, Charmi",
+      "Rawal, Shruti",
+      "Shah, Mohit",
+      "Patel, Riya"
+    ],
+    "year": "2026",
+    "venue": "AAPS PharmSciTech",
+    "publisher": "Springer",
+    "doi": "10.1208/s12249-026-03532-1",
+    "doi_source": "api",
+    "abstract": "Four-dimensional (4-D) printed constructs have recently become clinically relevant platforms for customized and precise drug delivery due to their bio-programmability, bio-responsiveness, and spatiotemporal transformative potential. The 4-DP bio-constructs are highly bio-interactive and dynamically evolving as per therapeutic requisite. In this review, we aim to provide a detailed discourse on the key mechanisms that drive 4-D transformations of a broad spectrum of materials-ranging from shape-memory (SM) systems, liquid crystalline elastomers (LCEs), self-healing and multi-responsive polymers, metamaterials, and select bio-derived materials. The review also summarizes various conventional and advanced additive manufacturing strategies that have been employed for 4-DP of various bio-constructs. Contemporary representatives of various 4-DP drug delivery devices such as smart hydrogels and scaffolds, implants, stents, prosthetics, microneedles, responsive biomedical devices, and dynamic organ- and tumor-on-chip platforms have also been highlighted. Characterization methodologies, preclinical considerations, translational challenges, and the evolving patent and industrial landscape have also been recapitulated. The review also intends to provide critical perspectives on the expanding horizons and translational glitches of 4-DP while elucidating the key bottlenecks to its commercial large-scale integration and clinical translation. Graphical Abstract",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1208/s12249-026-03532-1",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1208/s12249-026-03532-1"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Structurally-based dual-torsional modeling of nose landing gear for nonlinear shimmy dynamics analysis",
+    "authors": [
+      "Ding, Jianbin",
+      "Feng, Guang",
+      "Liu, Panglun",
+      "Yuan, Li",
+      "Jiang, Yiyao",
+      "Jiang, Bingyan"
+    ],
+    "year": "2026",
+    "venue": "Nonlinear Dynamics",
+    "publisher": "Springer",
+    "doi": "10.1007/s11071-026-12702-6",
+    "doi_source": "api",
+    "abstract": "Nose landing gear (NLG) shimmy is a self-excited vibration phenomenon that poses serious threats to aircraft safety during taxiing and take-off. Motivated by the structural integration of steering and shimmy-damper mechanisms in modern aircraft, this study proposes a nonlinear dynamic model with two distinct torsional degrees of freedom, explicitly representing the sliding tube and shimmy damper. Independent stiffness and damping elements are incorporated to accurately capture the torsional transmission characteristics, while coupling terms account for the interaction between the two torsional subsystems. Numerical continuation using MATCONT reveals a pronounced folding of the Hopf torus bifurcation branch in the vertical load ( $$F_z$$ F z ) and forward speed ( V ) parameter plane, typically within $$F_z\\in [270,330]\\,\\textrm{kN}$$ F z ∈ [ 270 , 330 ] kN and $$V\\in [8,122]\\,\\mathrm {m/s}$$ V ∈ [ 8 , 122 ] m / s . This folding indicates multivalued bifurcation structures and heightened sensitivity to nonlinear coupling effects, which cannot be captured by conventional single-DOF models. Comparative analysis demonstrates that the dual-torsion model not only reproduces the fundamental features of shimmy onset but also uncovers richer bifurcation phenomena, including multiple Neimark-Sacker loci, complex bistability regions with transient quasi-periodic dynamics, and amplitude-switching behavior. The refined modeling framework provides deeper insight into the mechanisms governing shimmy dynamics and offers a parameter-oriented foundation for integrated landing gear design and suppression strategies.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11071-026-12702-6",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11071-026-12702-6"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Jamming mitigation via hyperchaos underactuated synchronization",
+    "authors": [
+      "Gularte, Kevin Herman Muraro",
+      "Gabalán, Willian Arvey Molano",
+      "Vargas, José Alfredo Ruiz",
+      "Costa, João Paulo Javidi",
+      "Silva, Antonio Santos",
+      "Santos, Giovani Almeida",
+      "Gómez, Juan Carlos González",
+      "Bestard, Guillermo Alvarez"
+    ],
+    "year": "2026",
+    "venue": "Nonlinear Dynamics",
+    "publisher": "Springer",
+    "doi": "10.1007/s11071-026-12975-x",
+    "doi_source": "api",
+    "abstract": "Chaos-based synchronization has attracted significant attention in secure communications due to the inherent unpredictability, broadband characteristics, and high sensitivity of chaotic dynamics. However, many existing synchronization frameworks still suffer from significant limitations, including discontinuous control laws, limited robustness against uncertainties and external perturbations, high structural complexity, and considerable computational burden. These limitations become even more critical in practical communication environments, such as vehicle-to-everything (V2X) and large-scale cyber-physical systems, where low latency, scalability to multi-node networks, robustness against uncertainties such as external disturbances and jamming, and secure information exchange constitute fundamental operational requirements. Under such conditions, disturbances, jamming, and implementation constraints can significantly degrade synchronization quality and communication reliability. To address these issues, this paper proposes a robust underactuated synchronization framework for a high-dimensional hyperchaotic system based on Lyapunov theory and investigates its application to secure communications. The proposed approach employs a single scalar linear feedback control law, thereby reducing structural complexity while preserving robustness properties. Disturbances and jamming signals are explicitly incorporated into the stability analysis. It is shown that the synchronization error and the corresponding message-decryption error are uniformly ultimately bounded and converge to a residual neighborhood of the origin. The synchronizer gain provides a practical tuning parameter that can influence the residual synchronization region, although the corresponding Lyapunov estimate is conservative and does not imply an arbitrary monotonic reduction of the actual synchronization error. A comprehensive simulation study is conducted to evaluate synchronization performance, robustness, and secure message recovery under adverse operating conditions. The obtained results demonstrate that the proposed framework achieves robust synchronization and reliable secure communication with reduced actuation complexity, highlighting its potential applicability to practical secure communication systems operating under disturbances and jamming conditions.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11071-026-12975-x",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11071-026-12975-x"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Advances in Hardware Reliability Assessment for Production Systems: A Review of Methods, Developments, Challenges and Future Perspectives",
+    "authors": [
+      "Sadraoui, Youssef",
+      "Er-Ratby, Mohamed",
+      "Kadiri, Moulay Saddik",
+      "Kobi, Abdessamad"
+    ],
+    "year": "2026",
+    "venue": "Journal of Systems Science and Systems Engineering",
+    "publisher": "Springer",
+    "doi": "10.1007/s11518-026-5748-2",
+    "doi_source": "api",
+    "abstract": "Hardware Reliability Assessment HWRA has become essential in modern systems engineering due their increasing complexity. Traditional methods, including Markov models, Bayesian networks, fault tree analysis, reliability block diagrams, Petri nets and FMEA/FMECA, remain fundamental for reliability evaluation. However, Industry 4.0 technologies, including cyber-physical systems, digital twins, industrial IoT and data-driven decision support, expose limitations of conventional approaches. This paper presents a comprehensive critical review of HWRA methods, examining theoretical foundations, modelling capabilities and applications across production systems. It emphasizes dynamic reliability, multi-state systems, mission reliability, hybridization and integration with fuzzy logic, Monte Carlo simulation and data-driven techniques. Unlike previous reviews, it synthesizes the evolution of HWRA toward dynamic, hybrid and AI-enabled frameworks. The literature is analysed through challenges involving uncertainty, scalability, dynamic behaviour, emerging technologies and balance between realism and usability. Remaining gaps include computational burden, expert dependence and limited standardization, motivating future research directions emphasizing HWRA architectures.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11518-026-5748-2",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation",
+      "latent representation bifurcation nonlinear dynamics"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11518-026-5748-2"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Design, modelling, testing and application of hydraulic suspension components for rail vehicles: a state-of-the-art review",
+    "authors": [
+      "Isacchi, Gioele",
+      "Shi, Huailong",
+      "Ripamonti, Francesco",
+      "Zeng, Jing",
+      "Bruni, Stefano"
+    ],
+    "year": "2026",
+    "venue": "Railway Engineering Science",
+    "publisher": "Springer",
+    "doi": "10.1007/s40534-026-00450-7",
+    "doi_source": "api",
+    "abstract": "Rail transport is a safe, efficient and ecological way to meet the growing demand for a more connected and developed society. In the last decades, the development of passenger rail vehicles with improved ride quality and higher commercial speed have been supported by the research and optimization of new suspension components. Hydraulic suspension components (HSCs) represent a significant share of the most recent innovations proposed in this context. This paper provides a state-of-the-art review of the design, modelling, testing and application of HSCs, also discussing the effect of degradation and failure in these components. The paper aims to highlight the most recent advancements in these fields and the emerging trends that will likely be addressed in the near future to further support the development of new rail vehicles.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s40534-026-00450-7",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "fault induced bifurcation nonlinear control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s40534-026-00450-7"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Nonlinear Interaction of Material Gradation and Electromagnetic Excitation in Rotating Shafts",
+    "authors": [
+      "Eftekhari, Malihe"
+    ],
+    "year": "2026",
+    "venue": "Journal of Vibration Engineering & Technologies",
+    "publisher": "Springer",
+    "doi": "10.1007/s42417-026-02675-6",
+    "doi_source": "api",
+    "abstract": "Purpose This study investigates the nonlinear dynamic behavior of rotating shafts made from functionally graded materials (FGMs) under oscillating electromagnetic excitation. The primary goal is to understand the resonant response, governed by geometric nonlinearity and influenced by material inhomogeneity and the inertial nonlinearity of high-speed rotation. Methods The nonlinear governing partial differential equations were discretized into ordinary differential equations using the Galerkin method. The method of multiple scales was then employed to derive approximate analytical solutions for the system’s response, focusing on primary and combination resonances. Results Frequency-response relationships were obtained, revealing complex nonlinear phenomena. A detailed parametric analysis demonstrated high sensitivity to the material gradation profile, magnetic field characteristics, and excitation parameters. Numerical simulations captured the emergence and disappearance of double-jump hysteresis and the occurrence of Hopf bifurcations. Conclusion This analysis confirms that the dynamic stability and resonant response of FGM rotating shafts can be effectively tuned through material composition and electromagnetic field control. The identified nonlinear phenomena, such as bifurcations and jump behavior, are critical for the design and safe operation of high-speed rotating machinery. The presented analytical framework provides a valuable foundation for predicting and controlling the dynamics of such advanced systems.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s42417-026-02675-6",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "fault induced bifurcation nonlinear control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s42417-026-02675-6"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Scientific Highlights and Status of the Mars Science Laboratory Mission, Years 9 Through 12",
+    "authors": [
+      "Vasavada, Ashwin R.",
+      "Fraeman, Abigail A.",
+      "Grotzinger, John P.",
+      "Michael Battalio, J.",
+      "Berger, Jeff A.",
+      "Bryk, Alex B.",
+      "Davis, Joel M.",
+      "Dietrich, William E.",
+      "Gasnault, Olivier",
+      "Grant, John A.",
+      "Guzewich, Scott D.",
+      "Holloway, Alexandra",
+      "Larsen, Reidar",
+      "Quade, Jack",
+      "Rampe, Elizabeth B.",
+      "Schwenzer, Susanne P.",
+      "Treiman, Allan H.",
+      "Tutolo, Benjamin M.",
+      "Williams, Amy J."
+    ],
+    "year": "2026",
+    "venue": "Space Science Reviews",
+    "publisher": "Springer",
+    "doi": "10.1007/s11214-026-01321-7",
+    "doi_source": "api",
+    "abstract": "We present the scientific highlights and status from years 9-12 of NASA’s Mars Science Laboratory mission, with its Curiosity rover. A thermochemolysis-based sample analysis revealed a variety of organic molecules preserved in clay mineral-rich lake/lake margin deposits of the Glen Torridon region. The stratigraphically higher clay-sulfate mineral transition on Aeolis Mons was found to be associated with a lithological change from lacustrine to dry aeolian depositional environments. Water intermittently returned to the surface after the increase in aridity, including during the deposition of wave ripple strata which indicate a climate capable of sustaining an ice-free lake in the early Hesperian. The overlying Mg sulfate-bearing unit has both poly- and monohydrated Mg sulfates and is also enriched in iron carbonate of a purity consistent with chemical sedimentation and therefore atmospheric sequestration. A channel-incised canyon within Gediz Vallis and distal alluvial deposits recorded numerous fluvial and debris flow events after the deposition, lithification, and erosion of the clay- and sulfate-bearing units. Bright clasts found in Gediz Vallis canyon are composed of native sulfur. The investigation of the modern atmosphere and environment focused on the influence of the crater and mountain topography and captured high-altitude noctilucent and iridescent clouds. Radiation monitoring now spans an 11-year solar cycle. Rover systems and science instruments remain capable of addressing mission scientific objectives. All ten scientific instruments continue to return high-value data despite degradation of the Chemistry and Camera instrument’s high-voltage system, loss of multispectral imaging capability, and loss of active neutron spectroscopy. The mission has mitigated the loss of redundant brakes on two arm joints, additional wheel wear, and highly reduced capability of the redundant flight computer. Efficiency improvements in rover energy utilization and operations staffing have allowed the mission team to maintain a high level of productivity despite declining rover power generation and funding.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11214-026-01321-7",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11214-026-01321-7"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "A Cyber-Physical framework for Energy-Aware distributed optimization of 6-DOF robotic manufacturing cells via hybrid bioinspired metaheuristics",
+    "authors": [
+      "Santos de Araujo, Rennan",
+      "Francisco Justo, João"
+    ],
+    "year": "2026",
+    "venue": "The International Journal of Advanced Manufacturing Technology",
+    "publisher": "Springer",
+    "doi": "10.1007/s00170-026-18940-7",
+    "doi_source": "api",
+    "abstract": "Energy-aware coordination is a fundamental cornerstone for the future of autonomous Cyber-Physical Systems (CPS). This work proposes a novel distributed CPS framework to address the decoupling between high-level coordination of autonomous agents and the nonlinear dynamics of six-degree-of-freedom (6-DOF) manipulators. These dynamics are modeled through Euler-Lagrange equations and electromechanical dissipation heuristics. To discover energy-efficient coordination strategies, a hybrid algorithm based on Ant Colony Optimization (ACO), Firefly Algorithm (FA), and Particle Swarm Optimization (PSO) was developed. The framework was rigorously validated through a three-phase experimental protocol, including 1,600 high-density scalability simulations with clusters of up to 20 agents, complemented by a computational complexity analysis. Results demonstrate that the ACO-driven component reduces median total energy by 55.4% relative to the PSO-only baseline in the stochastic analysis, while the integration of PSO and FA demonstrates robust empirical safety performance even in high-density environments. Such gains are achieved while upholding strict operational fidelity, with positional deviations constrained within a 3.5% threshold. The framework further exhibits statistically validated robustness across diverse multi-agent geometric configurations, supported by non-parametric hypothesis testing and tail-sensitive safety analyses. The overall findings demonstrate the effectiveness, scalability, and robustness of the framework for intelligent digital twins and the transition from Industry 4.0 to Industry 5.0.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s00170-026-18940-7",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s00170-026-18940-7"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Performance enhancement via a structure-independent monostable-bistable tuning strategy in an electromagnetic QZS vibration isolator",
+    "authors": [
+      "Zhu, Beining",
+      "Su, Xukun",
+      "Xu, Junjie",
+      "Lai, Zhihui",
+      "Wen, Xiangxiang",
+      "Yang, Yubin",
+      "Qian, Nan",
+      "Chen, Xiaoyu",
+      "Leng, Yonggang"
+    ],
+    "year": "2026",
+    "venue": "Nonlinear Dynamics",
+    "publisher": "Springer",
+    "doi": "10.1007/s11071-026-12927-5",
+    "doi_source": "api",
+    "abstract": "The monostable nature of traditional passive quasi-zero stiffness (QZS-VI) vibration isolators dictates their performance under different excitation. While they are highly effective under small excitations, their vibration isolation capability may degrade under large excitations. To overcome this, this study proposes an electromagnetic dual-mode QZS-VI (EDM QZS-VI) with a structure-independent monostable-bistable tuning strategy. The structure employs multiple coupling of coils and permanent magnets to generate coupled positive and negative stiffness forces. The stiffness is tuned by only adjusting current magnitude without modifying its structure. As a result, the system can be tuned to either a monostable QZS or bistable QZS mode. Results from harmonic balance method indicate that the monostable QZS mode is optimal for small amplitude excitations, offering low initial vibration isolation frequency and transmissibility. Moreover, the bistable QZS mode demonstrates superior vibration isolation performance under large amplitude excitations, effectively suppressing the resonance frequency band shift and maintaining high vibration isolation performance. Experiments confirm that dynamically adjusting coil currents and switching between the two modes allows the structure to adapt to different loads and excitation amplitudes, significantly enhancing the performance of low frequency vibration isolation.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11071-026-12927-5",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11071-026-12927-5"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Effects of linear and nonlinear acceleration feedback on the impact dynamics of a cantilever beam using the incremental harmonic balance method",
+    "authors": [
+      "Prasad, Ponnada Durga",
+      "Kumar, Ranjan",
+      "Mitra, Ranjan Kumar",
+      "Gayen, Debabrata"
+    ],
+    "year": "2026",
+    "venue": "Nonlinear Dynamics",
+    "publisher": "Springer",
+    "doi": "10.1007/s11071-026-12795-z",
+    "doi_source": "api",
+    "abstract": "Impact phenomena occur in many engineering systems—such as gear transmissions with backlash, robotic manipulators, and jib cranes—where structural components often behave like cantilever beams with distinct piecewise-linear or nonlinear properties. Traditional perturbation-based analyses relying on a few harmonics often fail to capture the complex and strongly nonlinear dynamics associated with discontinuities in the equation of motion. A thorough understanding of these dynamics, along with effective control strategies, is therefore crucial for ensuring performance and safety. This study provides a detailed frequency-domain analysis of the fundamental and multi-periodic resonances of a highly nonlinear cantilever beam with a tip mass, subjected to one-sided and two-sided elastic impact constraints. The analysis uses the incremental harmonic balance (IHB) method, which accurately characterizes steady state responses of the beam with strong nonlinearity and discontinuities. For the one-sided impact case, both subcritical and supercritical flip bifurcations are identified, leading to period-doubling cascades and chaotic responses. To reduce unwanted multi-periodic resonances and chaos, the study introduces time-delayed linear and nonlinear acceleration feedback control schemes—an area rarely explored with the IHB framework. Control gains and delay parameters are chosen based on the linearized stability of the static equilibrium. The proposed controllers effectively prevent jump phenomena and bi-stability, producing small-amplitude, mono-stable responses. Chaotic motions caused by period-doubling bifurcations can be stabilized to a low-amplitude period-1 response through suitable gain–delay settings. Time-domain simulations, including time histories, phase portraits, Fourier spectra, bifurcation diagrams, and basins of attraction, strongly agree with steady-state IHB results for both uncontrolled and controlled cases. Basin analysis shows that increasing the negative linear acceleration feedback reduces the likelihood of convergence to higher-harmonic attractors. Overall, the findings offer new insights into analyzing and controlling impact-driven systems and demonstrate the effectiveness of time-delayed acceleration feedback within the IHB framework.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11071-026-12795-z",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11071-026-12795-z"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "A hydro-mechanical mechanism for cyclic ratcheting of embedded cantilever retaining walls in saturated sand",
+    "authors": [
+      "Sahare, Anurag",
+      "Ueda, Kyohei",
+      "Furuya, Rikako"
+    ],
+    "year": "2026",
+    "venue": "Acta Geotechnica",
+    "publisher": "Springer",
+    "doi": "10.1007/s11440-026-03184-2",
+    "doi_source": "api",
+    "abstract": "Saturated backfills behind embedded cantilever walls deform through coupled hydro-mechanical processes that pseudo-static methods cannot capture. Three 40 g dynamic centrifuge tests are presented to isolate how the pre-seismic static state, set by wall flexural stiffness, together with motion intensity, governs cyclic response, fluid migration, and permanent wall demand. Two models used different wall stiffness under the same motion; a third used the stiffer wall with higher peak acceleration. Full-field imaging, pore pressure transducers and accelerometers were combined with stress–strain loops and effective-stress paths, together with a spin-up-based estimate of the near-wall static-shear state. The flexible wall mobilized smaller near-wall static shear and started closer to an active condition, producing a contractive, softening zone next to the wall with excess pore pressure ratios approaching 0.8, late-shaking upward redistribution followed by near-surface excess pore pressure retention, and the largest permanent wall translation. The stiffer wall mobilized larger near-wall static shear and remained closer to an at-rest condition, generating repeated dilative drops (negative excess pore pressure), thereby limiting sustained upward redistribution; the effective-stress path rarely approached the critical state line, and the residual wall deformation remained small. With the same stiffness but higher input acceleration, early dilation at the wall was overcome by a strongly contractive free field: isochrones and image-based volumetric strain maps show lateral inflow toward the wall followed by upward redistribution along the interface, which suppressed strong passive pulses, broadened the near-surface deformation zone, shifted the maximum moment upward, and increased permanent wall translation. These observations are consolidated in a conceptual mechanism linking the pre-seismic static state and motion intensity to the direction of pore pressure migration and the overall wall deformation mechanism. The proposed mechanism provides system-scale evidence that the near-wall response is governed by the combined pre-seismic static-shear bias and motion intensity: higher static bias promotes dilation and limited residual wall demand under moderate shaking, whereas stronger shaking can override early dilation and drive contractive softening with lateral inflow and upward redistribution along the interface, producing larger permanent wall translation.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11440-026-03184-2",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11440-026-03184-2"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Interventional Embolization Under Multifactorial Coupling: Mechanisms of Embolic-Agent Distribution and Feasibility of Closed-Loop Automatic Injection",
+    "authors": [
+      "Ren, Dongcheng",
+      "Li, Xingyuan",
+      "Guo, Shijie",
+      "Li, Yang",
+      "Zhou, Bo"
+    ],
+    "year": "2026",
+    "venue": "Annals of Biomedical Engineering",
+    "publisher": "Springer",
+    "doi": "10.1007/s10439-026-04329-w",
+    "doi_source": "api",
+    "abstract": "Purpose This narrative review aims to synthesize current knowledge on the mechanisms governing embolic-agent distribution and to examine the engineering rationale and translational feasibility of closed-loop or semi-automated embolic-agent injection. Methods A structured search and targeted review of experimental, computational, and clinical studies were used to synthesize evidence on particle properties, injection parameters, hemodynamics, imaging feedback, and pressure monitoring related to embolization. Evidence was analyzed from a biomedical engineering perspective, with emphasis on transport mechanisms, sensing modalities, and control-relevant variables. Results Embolic-agent distribution arises from the coupled effects of particle size, shape, and material properties; injection rate, mode, and catheter configuration; and lesion- and device-induced hemodynamic alterations. Quantitative digital subtraction angiography (qDSA and 4D-DSA) provides spatial and perfusion-related information, whereas local arterial pressure more directly reflects distal resistance evolution and reflux tendency. Taken together, these findings support an engineering interpretation of embolization as a constrained transport–flow–control process in which embolic distribution, endpoint assessment, and procedural safety are jointly influenced by particle characteristics, hemodynamics, and feedback-informed injection strategy. Conclusion By reframing embolization as a coupled transport and control problem, this review integrates multifactorial distribution mechanisms with multimodal feedback concepts and outlines a preliminary engineering framework for future feedback-informed embolic-agent delivery systems.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10439-026-04329-w",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10439-026-04329-w"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Dynamic Characteristics and Reliability of Multi-Link Mechanisms Considering Hybrid Clearances under Deterministic Parameters",
+    "authors": [
+      "Meng, Kai",
+      "Wang, Yilin",
+      "Zheng, Siyuan",
+      "Xu, Le",
+      "Jiang, Shuai",
+      "Zhou, Shutong"
+    ],
+    "year": "2026",
+    "venue": "Mechanics of Solids",
+    "publisher": "Springer",
+    "doi": "10.1134/s0025654425607529",
+    "doi_source": "api",
+    "abstract": "Abstract Among the primary factors affecting the motion accuracy and reliability of multi-link mechanisms, clearance in kinematic joints is an unavoidable and critical issue. To overcome the limitations of studies focusing on a single type of clearance and to enhance the engineering relevance of the research, this paper investigates a planar multi-link mechanism featuring hybrid clearances involving both revolute and prismatic joints under certainty parameters. A systematic study is conducted on its dynamic response and reliability. First, mathematical models for different types of clearances within the hybrid clearances configuration are developed. Then, using the particle coordinate method combined with the Lagrange multiplier approach, the dynamic equations of the mechanism are derived. Numerical simulations are performed to evaluate the influence of kinematic clearance on the dynamic characteristics of the mechanism. The effects of deterministic parameters on the system’s dynamic behavior are examined in detail. The deterministic parameters comprise clearance sizes, driving speeds, friction coefficients, and clearance types. And based on the first-order second-moment method and stress interference theory, the reliability was investigated. Furthermore, the sensitivity of different clearance types to varying parameters is analyzed. This study aims to bridge the research clearance in the kinematic behavior and accuracy of mechanisms with hybrid clearances under deterministic parameters. Through sensitivity analysis, it seeks to provide actionable guidelines for the precision adjustment and optimization of mechanism parameters in industrial practice.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1134/S0025654425607529",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1134/S0025654425607529"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "A Semi-Active Quasi-Zero-Stiffness Vibration Isolator Integrating Electromagnetic Spring and Magnetorheological Damper Under Variable Load",
+    "authors": [
+      "Tang, Haoze",
+      "Li, Jianyong",
+      "Nie, Meng",
+      "Fan, Wengang"
+    ],
+    "year": "2026",
+    "venue": "Journal of Vibration Engineering & Technologies",
+    "publisher": "Springer",
+    "doi": "10.1007/s42417-026-02666-7",
+    "doi_source": "api",
+    "abstract": "Background The quasi-zero-stiffness vibration isolator (QZS VI) has attracted extensive interest in the field of nonlinear vibration isolation due to its unique capability of achieving low-frequency vibration suppression. However, most QZS isolators are highly susceptible to variations in external loads. Moreover, as the excitation amplitude increases, they tend to exhibit undesirable nonlinear oscillation behavior and may even become unstable. Purpose To address these limitations, this paper proposes a novel semi-active quasi-zero-stiffness vibration isolator (SAQZS VI). Unlike conventional QZS isolators, the proposed isolator uniquely integrates an electromagnetic spring with a magnetorheological (MR) damper, enabling online, simultaneous adjustment of both stiffness and damping via independent control of the electromagnetic spring coil current and MR damper excitation current. Methods A nonlinear dynamic model for the SAQZS VI was established. The amplitude-frequency response characteristics, isolation performance and stability of the vibration isolation system were analyzed. A variable universe fuzzy PID controller based on adaptive particle swarm optimization (APSO-VUFPID) was proposed for damping force control and compared with traditional passive control and PID control under various operating conditions. Results The co-simulation results demonstrate that under harmonic excitations, the SAQZS VI employing the APSO-VUFPID control algorithm effectively reduces the RMS displacement response and achieves vibration isolation at low frequencies above 2 Hz. Under random track irregularity excitation, the proposed APSO-VUFPID control yields a 48.3% reduction in RMS displacement and a 26.7% reduction in RMS acceleration relative to passive control. In addition, tuning the electromagnetic spring excitation current from − 1.5 A to + 1.5 A enables accurate compensation for external load variations, allowing the SAQZS VI to retain its QZS characteristic across a ± 200 N load range and improving the robustness of the system. Conclusion Within its rated load range and target low-frequency operating band, the proposed SAQZS VI exhibits more favorable low-frequency vibration isolation performance and anti-interference capability compared with traditional passive QZS vibration isolators. The proposed vibration isolator delivers a practical technical solution for vibration control in engineering applications, with strong adaptability to on-board equipment vibration isolation and suspension systems in the rail transit field.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s42417-026-02666-7",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s42417-026-02666-7"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Fluorescence spectroscopy of advanced materials for applications in environmental monitoring and diagnostics",
+    "authors": [
+      "Somaprakash, Nagarjun",
+      "Shivananda, Kishan Balehalli",
+      "Rikhari, Bhavana",
+      "Badiya, Pradeep Kumar"
+    ],
+    "year": "2026",
+    "venue": "Discover Chemistry",
+    "publisher": "Springer",
+    "doi": "10.1007/s44371-026-00899-9",
+    "doi_source": "api",
+    "abstract": "This study comprehensively explores the origin and applications of fluorescence, a photophysical process which has emerged as a core technique in modern science and technology through the process of electron absorption and relaxation. High selectivity, sensitivity, rapid response, and non-destructive nature make fluorescence spectroscopy and imaging indispensable tools across diverse research domains. Fluorescence provides critical insights into electronic transitions, molecular conformations, and local environments at nanoscale with remarkable precision. Innovation in fluorescent probes, quantum dots, and organic dyes have expanded the applicability of fluorescence-based methods, enabling selective detection of ions, and pollutants at trace levels. In biomedical applications, fluorescence aids in clinical diagnostics, cellular imaging, drug delivery monitoring, and tracking for the early detection of cancer, obesity and diabetes. Fluorescence plays a crucial role in environmental monitoring by facilitating rapid detection of heavy metals like cadmium, lead, mercury, chromium, copper, nickel and others, along with organic contaminants and atmospheric pollutants such as ozone, carbon monoxide, nitrogen oxide and sulfur dioxide. In materials science, fluorescence is widely used to study nanomaterials, assess defect structures, and to design and develop LEDs, laser diodes, optical fibers and other optoelectronic devices. Further, integration with artificial intelligence and Machine learning, fluorescence paves way for the next generation analytical and diagnostic technologies. Consequently, fluorescence not only serves as a fundamental photophysical phenomenon but also as a transformative analytical strategy driving innovations in chemistry, biology, environmental science, and materials research. Graphical abstract",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s44371-026-00899-9",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s44371-026-00899-9"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "High-Resolution Tri-Modal Particle Separation Using a Horizontally Extended Cruciform Microchannel via Newtonian/Viscoelastic Co-Flow",
+    "authors": [
+      "Baek, SeungJin",
+      "Jang, Jaekyeong",
+      "Lee, Seung Jae",
+      "Cho, Younghak"
+    ],
+    "year": "2026",
+    "venue": "International Journal of Precision Engineering and Manufacturing",
+    "publisher": "Springer",
+    "doi": "10.1007/s12541-026-01571-z",
+    "doi_source": "api",
+    "abstract": "Continuous separation of particles and cells in viscoelastic fluid has gained much attention due to its high precision in manipulating target entities, including submicron-sized particles, without external actuators. In this study, we demonstrate a high-resolution tri-modal separation of three distinct micron-sized particles utilizing a horizontally extended cruciform microchannel integrated with a Newtonian/viscoelastic co-flow system. Building upon the previous cruciform channel design, we introduce a lateral width extension to strategically modulate the elasto-inertial force distribution. This unique channel geometry induces size-dependent multi-point focusing and amplifies the disparities in lateral migration velocities among particles. Using polystyrene beads (13 μm, 6 μm, and 2.1 μm) as size-specific models, we characterized the fundamental elasto-inertial migration behavior under two distinct co-flow configurations: PEO/PEO and PEO/DI water. By optimizing the channel width and the viscoelastic properties of the sheath flows, we successfully mapped the transition of particles across the fluidic interface. Specifically, the large (13 μm) and medium (6 μm) particles exhibited distinct elasto-inertial equilibrium points within the central and extended regions, respectively, while the small (2.1 μm) particles remained within their initial streamlines due to a negligible blockage ratio. The performance of the proposed device was systematically evaluated to demonstrate the enhanced resolution provided by the horizontal extension compared to standard cruciform geometries. Our findings reveal that the horizontally extended cruciform geometry achieves a superior separation efficiency and recovery ratio exceeding 90% for all particle sizes. Furthermore, the proposed device served as an effective enrichment platform, yielding enrichment factors as high as 46.93 ± 2.4 for 13 μm particles due to their rapid focusing into narrow spatial bands. These results suggest that the synergistic combination of horizontally extended cruciform microchannel and Newtonian/viscoelastic co-flow interface provides a highly effective and robust platform, serving as a foundational study with significant potential for the high-purity preparation of diverse biological cell populations in future clinical applications.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s12541-026-01571-z",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s12541-026-01571-z"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Hybrid tribodynamic modeling and multi-parametric genetic optimization for serpentine propulsion in snake robots",
+    "authors": [
+      "Zhang, Peng",
+      "Liu, Xupeng",
+      "Gao, Zhiying",
+      "Guan, Ben",
+      "Zang, Yong"
+    ],
+    "year": "2026",
+    "venue": "Multibody System Dynamics",
+    "publisher": "Springer",
+    "doi": "10.1007/s11044-026-10172-7",
+    "doi_source": "api",
+    "abstract": "Serpentine locomotion in snake robots is inherently susceptible to lateral slip induced by environmental interactions, leading to propulsion efficiency degradation and trajectory deviations. To address these tribodynamic coupling challenges, this study systematically investigates slip dynamics and parametric optimization strategies for high-efficiency serpentine propulsion. First, a hybrid Coulomb-viscous friction model is developed to characterize anisotropic contact constraints while ensuring numerical convergence. Based on this formulation, a generalized multibody dynamics framework incorporating passive wheel position parameters is established using planar rigid-body motion theorems. Numerical simulations comprehensively evaluate the sensitivity of frictional anisotropy, propulsion loss coefficient, and propulsion velocity to distinct control parameters. Subsequently, a genetic algorithm (GA) optimization framework is employed to determine optimal gait parameters, yielding an explicit empirical mapping between optimal initial angles and friction coefficient ratios to facilitate terrain-dependent parameter selection. Crucially, experimental validation on a physical prototype confirms the theoretical trends across varying friction conditions. Demonstrating significant enhancements in locomotion stability and efficiency, the proposed framework provides quantitative design guidelines and a theoretical basis for robust terrain-adaptive control of snake robots in unstructured environments.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11044-026-10172-7",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11044-026-10172-7"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Dynamic modelling and adaptive vibration control strategy for rotor systems with elastic support–dry friction damper",
+    "authors": [
+      "Wang, Chengyang",
+      "Zhao, Lu",
+      "Li, Lihui",
+      "Wang, Siji",
+      "Li, Quankun",
+      "Xie, Zhongliang",
+      "Wu, Qian",
+      "Zhang, Jinqi"
+    ],
+    "year": "2026",
+    "venue": "Nonlinear Dynamics",
+    "publisher": "Springer",
+    "doi": "10.1007/s11071-026-12787-z",
+    "doi_source": "api",
+    "abstract": "Abstract The elastic support–dry friction damper (ESDFD) offers a promising solution for aero-engine rotor vibration control by providing tunable stiffness and damping. However, its practical application is hindered by incomplete engineering integration, simplified dynamic modeling, and control strategies that do not adequately account for rotor modal evolution under variable operating conditions. To address these issues, this study proposes an integrated ESDFD configuration and a corresponding adaptive control approach for aero-engine rotor systems. First, an improved ESDFD structure is developed. It incorporates damper sealing, axial clearance management, and elastic support stiffness design under realistic installation constraints, while also enhancing the capability to apply and modulate the normal force. Second, a finite element-based dynamic model of the ESDFD–rotor system is established. The model integrates a dry friction contact description with the electromechanical properties of piezoelectric actuators, enabling accurate characterization of the coupled stiffness and damping behavior. Third, a model-free adaptive control strategy is formulated. This strategy considers rotor operating characteristics and damper working principles, allowing adaptive selection of appropriate modal reference quantities to maintain rotor stability near critical speeds. The experimental results demonstrate that the proposed configuration and control strategy achieve up to a 40.75% reduction in vibration amplitude and a 29.7% reduction in control response time compared with an unimproved scheme. The proposed methodology provides a practical framework for active vibration control of aero-engine rotors and is also applicable to other high-speed rotating systems. Graphical abstract",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11071-026-12787-z",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11071-026-12787-z"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Thermodynamic evaluation of a shipboard organic Rankine cycle with an intermediate heat exchanger under actual vessel operating conditions",
+    "authors": [
+      "Yoon, Ji-Won",
+      "Lee, Ho-Saeng",
+      "Lim, Seung-Taek",
+      "Seol, Sung-Hoon"
+    ],
+    "year": "2026",
+    "venue": "Journal of Mechanical Science and Technology",
+    "publisher": "Springer",
+    "doi": "10.1007/s12206-026-0758-z",
+    "doi_source": "api",
+    "abstract": "In response to maritime emission regulations, the demand for marine waste heat recovery systems is progressively critical. This study investigates the dynamic stability and thermodynamic performance of a marine organic Rankine cycle (ORC) equipped with an intermediate heat exchanger (IHX) under realistic vessel operational conditions. Thermodynamically, the system achieved a maximum thermal efficiency of 14.5 %. By modulating pump speed to maintain a 20 °C superheat, the system demonstrated robust dynamic behavior against typical heat source variations. However, rapid mass flow variation during vessel departure induced integral windup effects, highlighting operational limitations. Thermal analysis indicated that increasing IHX capacity enhances performance primarily at lower heat sink temperatures, while compact IHX configurations optimize efficiency under mid-range heat sink temperatures. Overall, leveraging both the thermodynamic and spatial benefits of the IHX-ORC configuration, this research bridges theoretical modeling with practical marine applications, providing scalable design recommendations for stable, efficient, and space-conserving systems.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s12206-026-0758-z",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s12206-026-0758-z"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "End-to-end analysis of vibration of time-varying mass systems",
+    "authors": [
+      "Wang, Kai",
+      "Cheng, Ao",
+      "Chen, Tingting",
+      "Zhou, Jiaxi",
+      "Li, Zhuang",
+      "Zhang, Shengtao",
+      "Cheng, Li"
+    ],
+    "year": "2026",
+    "venue": "Applied Mathematics and Mechanics",
+    "publisher": "Springer",
+    "doi": "10.1007/s10483-026-3414-8",
+    "doi_source": "api",
+    "abstract": "Vibration systems with time-varying mass are prevalent in engineering practice, exemplified by rockets with fuel depletion, vehicles with changing mass, and systems with cable-hoisted payloads. However, progress has been constrained by the lack of an end-to-end approach capable of integrating modeling, closed-form analysis, numerically stable calculations, and isolation design. Focusing on a typical system involving rocket fuel combustion with linear mass depletion, we first derive the equations of motion from the momentum theorem. A parameter transformation, constructed via the method of undetermined coefficients, converts the time-varying differential equation into a standard Bessel equation, yielding a closed-form analytical solution. To achieve reliable numerical solutions, a strategy combining variable upper-limit integration with grid-search-optimized lower bounds is deployed to replace indefinite integrals, thereby overcoming non-integrable products of Bessel functions. Benchmark comparisons with harmonic excitations show excellent agreement, validating the formulation and solution scheme. Building on the closed-form response, an end-to-end vibration isolation workflow is established via transmissibility and isolation failure-time-threshold (FTT) metrics, allowing for the selection of stiffness based on the instantaneous frequency ratio throughout the mass variation process. The resulting framework provides a general analytical tool for linear differential equations with time-varying mass and a practical pathway for vibration isolation design in mass-varying structures, with special relevance to aerospace applications.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10483-026-3414-8",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10483-026-3414-8"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "A Multi-Channel GASF-Based hyperspectral classification framework integrating feature enhancement and interpretability for green chili pepper quality assessment",
+    "authors": [
+      "Li, Xiong",
+      "Guo, Yawen",
+      "Xiong, Xinlin",
+      "Jiao, Shaohe",
+      "Liu, Yande",
+      "Aiguo, Ouyang"
+    ],
+    "year": "2026",
+    "venue": "Journal of Food Measurement and Characterization",
+    "publisher": "Springer",
+    "doi": "10.1007/s11694-026-04689-w",
+    "doi_source": "api",
+    "abstract": "To achieve nondestructive classification of green pepper quality, a classification framework integrating Gramian Angular Summation Field (GASF) encoding, Borderline-SMOTE, three-channel input, and ResNet-SVM was developed using hyperspectral data in the range of 372.66–1039.65 nm. One-dimensional spectra were converted into GASF images to enhance the representation of inter-band correlation information. Borderline-SMOTE was employed to alleviate class imbalance and improve the recognition of boundary samples. A three-channel input strategy integrating raw, SG-, and SNV-processed spectra was employed to enhance feature representation. The results showed that ResNet-SVM outperformed the standalone ResNet, demonstrating the synergistic advantage of deep feature extraction and SVM-based discrimination. Compared with single-channel input, the three-channel strategy further improved classification performance. Among all tested configurations, ResNet-SVM combined with Borderline-SMOTE and SG-SNV achieved the best overall performance, attaining a test accuracy of 95.0%. SHAP and Grad-CAM analyses further identified the key spectral bands associated with model decisions. This study provides an accurate, robust, and interpretable framework for the nondestructive classification of visible quality conditions in green peppers.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11694-026-04689-w",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11694-026-04689-w"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Event-triggered Practical Synchronization of Complex Dynamic Networks with Saturation and Persistent Disturbances",
+    "authors": [
+      "Lisbôa, C.",
+      "Flores, J. V.",
+      "Moreira, L. G.",
+      "Silva, J. M. Gomes, Jr."
+    ],
+    "year": "2026",
+    "venue": "Journal of Control, Automation and Electrical Systems",
+    "publisher": "Springer",
+    "doi": "10.1007/s40313-026-01287-5",
+    "doi_source": "api",
+    "abstract": "In this paper, we propose a novel criterion for practical synchronization of discrete-time Lur’e-type complex dynamic networks (CDNs) with event-triggered control. In particular, we consider that each node is a Lur’e system subject to control saturation and persistent disturbances, operating with an asynchronous relaxed event-triggering mechanism (ETM). Based on the Lyapunov Theory, we derive constructive conditions expressed in terms of quasi-linear matrix inequalities to guarantee that the synchronization error of the CDN is ultimately bounded considering prescribed sets of admissible initial errors and disturbances. These conditions are cast into a semidefinite programming problem to codesign the decentralized controllers and the parameters of the ETMs aiming at reducing the frequency of control updates compared to the time-triggered strategy. The synchronization error norm in the ultimate bounded regime is upper bounded by a positive constant specified by the designer. A numerical example is presented to illustrate the proposed method.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s40313-026-01287-5",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s40313-026-01287-5"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Review of homotopy methods for aerospace trajectory optimization",
+    "authors": [
+      "Pan, Binfeng",
+      "Ran, Yunting",
+      "Zhao, Mengxin",
+      "Qing, Wenjie"
+    ],
+    "year": "2026",
+    "venue": "Astrodynamics",
+    "publisher": "Springer",
+    "doi": "10.1007/s42064-026-0315-7",
+    "doi_source": "api",
+    "abstract": "Homotopy methods have received increasing attention for their effectiveness in solving nonlinear optimal control problems, particularly in the aerospace domain. This review provides a comprehensive survey of the development and application of homotopy methods for trajectory optimization, with a particular emphasis on recent advances. The methodological evolution and theoretical foundations of homotopy are first outlined. Subsequently, homotopy methods within the optimal control framework are presented according to the indirect and direct approaches. Based on the scope of influence of the homotopy mapping, these methods are further categorized into locally structured and globally structured approaches, with their respective characteristics emphasized. Finally, the key open challenges are synthesized to elucidate the inherent limitations of current homotopy approaches and to highlight research directions that may further unlock their potential in aerospace trajectory design and optimization.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s42064-026-0315-7",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s42064-026-0315-7"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "The Digital Harvest: A Critical Review of Technology, Sustainability, and Equity in Post-pandemic Agri-food Supply Chains",
+    "authors": [
+      "Suttikhana, Itthanan",
+      "Ha, My Khanh Tran Thi",
+      "Le, Thanh-Do",
+      "Ashaolu, Tolulope Joshua"
+    ],
+    "year": "2026",
+    "venue": "The European Journal of Development Research",
+    "publisher": "Springer",
+    "doi": "10.1057/s41287-026-00743-x",
+    "doi_source": "api",
+    "abstract": "La pandemia de COVID-19 expuso fragilidades sistémicas en las cadenas globales de suministro agroalimentario (CGSA), impulsando una transformación digital rápida pero desigual. Esta revisión examina críticamente la tensión entre el potencial de las tecnologías digitales para fortalecer la resiliencia y la sostenibilidad, y los riesgos de que profundicen la inequidad. Al introducir el marco de la \"paradoja de la sostenibilidad\", se analizan los compromisos ambientales y sociales inherentes a las soluciones tecnológicas. El análisis revela trayectorias divergentes de digitalización: un modelo intensivo en capital y centrado en la automatización en el norte global, frente a un modelo basado en plataformas móviles en el sur global. Se sostiene que el principal obstáculo para una transición justa es de carácter institucional, no tecnológico. Por lo tanto, un futuro digital sostenible para la agricultura depende del desarrollo de una gobernanza equitativa y contextualizada, que garantice que los beneficios de la “cosecha digital” sean compartidos por todos, superando el tecno-optimismo simplista. La pandémie de COVID-19 a mis en lumière les fragilités systémiques des chaînes d’approvisionnement agroalimentaires mondiales (CAAM), entraînant une transformation numérique rapide mais inégale. Cette revue examine de manière critique la tension entre le potentiel des technologies numériques pour renforcer la résilience et la durabilité, et les risques qu’elles posent en matière d’aggravation des inégalités. En introduisant le cadre du « paradoxe de la durabilité », elle analyse les compromis environnementaux et sociaux inhérents aux solutions technologiques. L'analyse met en évidence des trajectoires de numérisation divergentes : un modèle axé sur l’automatisation et l’investissement en capital dans le Nord global, contre un modèle centré sur le mobile et les plateformes dans le Sud global. Il est soutenu que le principal obstacle à une transition juste est d’ordre institutionnel, et non technologique. Un avenir numérique durable pour l’agriculture dépend donc de la mise en place d’une gouvernance équitable et adaptée aux contextes, afin que les bénéfices de la « récolte numérique » profitent à tous, dépassant ainsi un techno-optimisme simpliste. The COVID-19 pandemic exposed systemic fragilities in global agri-food supply chains (AFSCs), spurring a rapid but uneven digital transformation. This review critically examines the tension between the promise of digital technologies for enhancing resilience and sustainability and their risks of exacerbating inequity. Introducing the “sustainability paradox” framework, it analyzes the environmental and social trade-offs inherent in technological solutions. The analysis reveals divergent digitalization pathways: a capital-intensive, automation-focused model in the global north versus a mobile-centric, platform-based model in the global south. It is argued that the primary bottleneck to a just transition is institutional, not technological. A sustainable digital future for agriculture, therefore, depends on developing equitable, context-aware governance to ensure the benefits of the “digital harvest” are shared by all, moving beyond simplistic techno-optimism.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1057/s41287-026-00743-x",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1057/s41287-026-00743-x"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Reactive molecular robotics: toward molecular cybernetics based on artificial metabolism",
+    "authors": [
+      "Hamada, Shogo",
+      "Kumagai, Sota",
+      "Nomura, Shin-ichiro M.",
+      "Murata, Satoshi"
+    ],
+    "year": "2026",
+    "venue": "Journal of Micro and Bio Robotics",
+    "publisher": "Springer",
+    "doi": "10.1007/s12213-026-00210-0",
+    "doi_source": "api",
+    "abstract": "Reactive architectures, robotic systems that directly couple sensory inputs to motor outputs, have enabled building dynamic and adaptive behaviors in mechanical robots. Extending this paradigm to molecular robotics could allow further autonomous and responsive functionalities with lifelike characteristics built from the nanoscale. Here, we introduce the concept of Reactive Molecular Robotics (RMR), a framework in which dissipative molecular processes are regulated by external cues to achieve dynamic behavior. As a first step toward realizing this goal, we implemented light-induced directional locomotion of slime-type molecular robots powered by artificial metabolism. Using 3-Cyanovinylcarbazole nucleoside ( $$^{\\textrm{CNV}}$$ K), a reversible photocrosslinker, the light-triggered structure generation mechanism of artificial metabolism has been implemented. As an initial, open-loop proof of concept, quasi-phototactic behavior is demonstrated through pre-irradiation of UV light with specific wavelengths to the generation mix of slime-type molecular robots. The reaction results in directional locomotion within a Y-shaped microfluidic device towards the channel with the generation-triggered side, representing an analogy to Braitenberg vehicle 2a motion based on the molecular-level control of the metabolic pathway. The proposed RMR framework provides an architectural basis for developing molecular robots toward higher-order adaptability and lays the groundwork for creating adaptive and dynamically regulated forms of synthetic matter.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s12213-026-00210-0",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s12213-026-00210-0"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Microfluidic pulse oscillator enabled by a shapeshifting liquid metal capacitor",
+    "authors": [
+      "Liu, Yong",
+      "Liang, Mingyi",
+      "Liu, Ping",
+      "Wu, Jialin",
+      "Xu, Shanshan",
+      "Liu, Minsu",
+      "Yu, Aibing",
+      "Yan, Sheng"
+    ],
+    "year": "2026",
+    "venue": "Nature Communications",
+    "publisher": "Nature",
+    "doi": "10.1038/s41467-026-76085-3",
+    "doi_source": "api",
+    "abstract": "Analogous to an inductor-capacitor oscillator circuit, the microfluidic oscillator employs a logic fluidic network to generate cascading and oscillatory flows, bringing the advanced function of flow control to the lab-on-chip platform. Despite notable advancements, current microfluidic oscillators are predominantly limited to fixed multilayer structures and cannot satisfy the requirements for flexibility, reconfigurability, and rapid-response characteristics. Herein, we developed a monolayer microfluidic pulse oscillator with a shapeshifting liquid metal (LM) capacitor for real-time control of oscillatory flows. This fluidic pulse oscillator exploits the interplay between LM capacitive energy storage and the surrounding Marangoni flow to convert stored interfacial energy into fluidic pulsed motion and realize fluid oscillation in alternating current fields. A theoretical model considering fluidic resistance, capacitance, and inductance is developed to decipher the fluid flow behavior. Furthermore, we employed both particle tracing to track transient flow field changes and numerical simulations to characterize the flow dynamics. The results reveal that vortex flow emerges in the near-field region adjacent to the LM capacitor, while pulse oscillatory flow prevails in the far-field region distant from the LM capacitor and occupies most of the microchannel. Axial oscillation and lateral lift-induced cumulative displacement are employed by oscillatory flow for frequency-tunable particle focusing and separation. By leveraging the principles of electronic circuits, the microfluidic pulse oscillator enables the advanced control of liquids and suspended particles for more lab-on-a-chip applications. Microfluidic oscillators primarily rely on fixed multilayer structures or passive elastomeric components, limiting their reconfigurability and dynamic control. This study achieved a reconfigurable, monolayer microfluidic pulse oscillator utilizing a shapeshifting liquid metal capacitor, enabling real-time, electrically tuneable flow control and particle manipulation.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://www.nature.com/articles/s41467-026-76085-3",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://www.nature.com/articles/s41467-026-76085-3"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Engineering etiology-aligned in vitro models of human vessels",
+    "authors": [
+      "Li, Qi",
+      "Lin, Jiaxin",
+      "Zou, Wenyu",
+      "You, Jiangfeng",
+      "Yu, Shuyuan",
+      "Gao, Ziqi",
+      "Du, Huilong",
+      "Shen, Xinyi",
+      "Yin, Jun",
+      "Yang, Huayong",
+      "Shen, Luqi",
+      "Zhou, Hongzhao"
+    ],
+    "year": "2026",
+    "venue": "Microsystems & Nanoengineering",
+    "publisher": "Nature",
+    "doi": "10.1038/s41378-026-01397-9",
+    "doi_source": "api",
+    "abstract": "Vascular diseases remain a major global health burden, yet traditional animal models often fail to capture the human-specific mechanisms that drive disease progression. Recent policy shifts, including the FDA Modernization Act and the NIH’s transition away from animal-only studies, have intensified the need for human-relevant vascular platforms. This review introduces an etiology-to-model framework that maps six principal classes of vascular disease, including congenital, metabolic, neoplastic, inflammatory, degenerative, and risk factor-induced, to the in vitro systems best equipped to reproduce their defining microenvironmental disturbances. We evaluate how 2D assays, organoids, organ-on-chip platforms, tissue-engineered grafts, and bioprinted vessels each recapitulate distinct structural, cellular, and hemodynamic features of human pathology. We argue that the central challenge is no longer the lack of advanced tools, but the need to validate models against disease-specific benchmarks and integrate biological complexity without compromising reproducibility. By embedding disease etiology into model design, this framework provides a foundation for developing predictive vascular platforms that accelerate mechanistic insight and support precision therapy development.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://www.nature.com/articles/s41378-026-01397-9",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://www.nature.com/articles/s41378-026-01397-9"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "High-order optimization of quasi-zero stiffness energy harvesting vibration isolator",
+    "authors": [
+      "Liu, Jiayi",
+      "Yang, Tao",
+      "Cui, Yingxuan",
+      "Cao, Qingjie",
+      "Luo, Hongchun",
+      "Fang, Jupeng",
+      "Liu, Yongshou"
+    ],
+    "year": "2026",
+    "venue": "Acta Mechanica Sinica",
+    "publisher": "Springer",
+    "doi": "10.1007/s10409-026-51055-x",
+    "doi_source": "api",
+    "abstract": "传统准零刚度(QZS)系统在超低频隔振与能量俘获中的应用受限于其等效刚度难以进一步降低, 构建高阶准零刚度(HQZS)结构是突破该限制的有效途径. 然而, 现有HQZS的实现方案有限, 通常依赖于特定构型, 且难以设计与扩展. 本文强调了高阶优化对进一步降低系统等效刚度的重要作用, 并提出一种基于恢复力泰勒展开系数的系数补偿方法. 该方法通过组合不同结构, 形成了一种新的HQZS设计思路. 通过设计一种仿生负刚度结构, 成功将经典的三弹簧QZS系统优化为9阶QZS系统. 理论分析、 仿真计算与实验测试结果均表明, 高阶优化显著降低了能量俘获隔振器的等效刚度, 显著提升了其在简谐与随机激励下的超低频隔振与能量俘获性能. 本研究为HQZS系统的设计提供了重要参考, 并为超低频振动控制与能量俘获技术的发展提供了新思路. The performance of traditional quasi-zero stiffness (QZS) systems in ultra-low frequency vibration isolation and energy harvesting is limited by constraints in achieving further stiffness reduction. The construction of high-order quasi-zero stiffness (HQZS) structures is a viable path to break through these barriers. Nevertheless, current HQZS implementations are limited in number, typically configuration-dependent, and difficult to design and extend. This paper highlights the essential role of high-order optimization in further reducing equivalent stiffness and proposes a coefficient compensation approach by focusing on Taylor expansion coefficients of the restoring force. This methodology pioneers a new design paradigm through the strategic combination of structures. A bio-inspired negative stiffness structure is designed to upgrade a conventional three-spring QZS system into a 9th-order QZS system. Theoretical, simulation, and experimental results demonstrate that high-order optimization significantly reduces the equivalent stiffness of the energy harvesting vibration isolator, leading to greatly enhanced performance in both ultra-low frequency vibration isolation and energy harvesting under harmonic and random excitations. This study offers valuable insights for designing high-order QZS systems and inspires new ideas for ultra-low frequency vibration control and energy harvesting technology.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10409-026-51055-x",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10409-026-51055-x"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Bridging the Embedded Execution Gap: A Review of the Functional Mock-up Interface for Actuator-Centric Execution Workflows in Industrial Embedded Systems",
+    "authors": [
+      "Rojas-Ordoñez, Sebastian",
+      "Segura, Mikel",
+      "Yarza, Irune",
+      "Zulueta, Ekaitz"
+    ],
+    "year": "2026",
+    "venue": "Archives of Computational Methods in Engineering",
+    "publisher": "Springer",
+    "doi": "10.1007/s11831-026-10715-3",
+    "doi_source": "api",
+    "abstract": "Industrial actuators integrate multi-domain physical dynamics with embedded control algorithms under strict timing constraints. Despite mature model-based design workflows, a persistent embedded execution gap separates validated high-fidelity simulation models from deterministic, resource-bounded execution on embedded industrial platforms. This review examines the Functional Mock-up Interface (FMI) as an interoperability enabler for actuator development workflows and argues that interoperability at the model-exchange level does not automatically translate into interoperability at the execution level. The review analyzes the evolution of FMI from version 2.0 to 3.0, systematizes actuator-relevant fidelity requirements (nonlinearities, compliance/resonance, timing effects), and evaluates representative approaches for integrating FMI into industrial and robotic toolchains. Two deployment trajectories are synthesized: (i) runtime-constrained FMU execution on edge/MCU-class platforms for prototyping, monitoring, and non-safety-critical functions; and (ii) analyzable code-generation paths such as Embedded FMI (eFMI) and GALEC, which target bounded memory and timing transparency for certification-oriented workflows. Although FMI 3.0 introduces improved timing semantics through clocks and Scheduled Execution, end-to-end feasibility remains limited by toolchain maturity, scheduler integration patterns, and the scarcity of complete quantitative evidence on jitter, WCET, and memory footprint under realistic load. The review identifies key challenges in determinism, fidelity management, certification alignment, and ecosystem-level conformance/validation, clarifying the technical barriers that must be addressed to fully bridge the gap between high-fidelity simulation and embedded actuator deployment.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11831-026-10715-3",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11831-026-10715-3"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "A critical review of demand response methods and technologies for voltage stability in isolated mini grids",
+    "authors": [
+      "Caleb, Mbabazi",
+      "Bakare, Mutiu Shola",
+      "Abdulkarim, Abubakar"
+    ],
+    "year": "2026",
+    "venue": "Discover Electronics",
+    "publisher": "Springer",
+    "doi": "10.1007/s44291-026-00254-3",
+    "doi_source": "api",
+    "abstract": "The operational reliability of isolated mini-grids is⁠ constrained by voltage instability arising from weak network⁠s, high renewable energy penetration, and evolving rural demand. Demand Response (D‌R) emerges as a cost-effective‍ and flexible approach to‌ stabilising such systems by reshaping electricity‌ consumption. This study proposes a conceptual Voltage-Centric Demand Response (VCDR) framework, derived from a structured cr⁠itical review, to examine how demand-side flexibility⁠ can‍ contribute to‍ voltage stability in isolated mini-grids. It‌ employs simulation and field studies‌ to evaluate DR con⁠tro‌l logics, load class⁠‌es, system structures, and reported pe‌rformance ga‌ins. Although modelling results⁠ predominantly⁠ sup⁠po‌rt cost savi⁠ngs, reliability improvements, a‌nd‍ de‍mand control, a‍ notable gap persists between the theoretical foundations⁠ of vo‍l‍tage-cent⁠ric DR‍ and i⁠ts practical⁠ implementatio⁠n in‌ mini-⁠grids. Key challenges remain underexplored, including communication architectures, socio-technical constraints, and the co-‍design of rene‍wable energy systems. E⁠⁠merging technologies suc‍h⁠ as artificial intelligence, edge compu⁠tin‌g, block‌chain, and digital tw‌ins are identified as potential enablers of sc⁠alable and resilient DR systems. Conceptually, th⁠‌e study prop⁠oses a hierarch⁠⁠ical⁠ control frame⁠work and‌ an adaptive DR al⁠gorith⁠m; however, these lac‍k empiri‌⁠ca⁠l validatio⁠n⁠ in real-‌world c⁠ommunity setti⁠‍ngs.‌ While DR has⁠ the potenti⁠al to stabilize v⁠oltages i⁠n isolated mini-grids, its p‌r⁠actical impl‌ementa⁠t‌ion remains fragment‍ed‍ and at⁠ an early stage, indicating significant resea⁠⁠rc⁠h and deplo‍⁠ymen⁠t gaps. Restates demand response as a voltage control measure with a Voltage-Centric Demand Response (VCDR) paradigm specific to isolated, high R/X mini-grids. Integrates simulations, experimental, and field results to demonstrate how voltage-constrained demand modulation can be more effective than supply-only control when using rural infrastructure. Identifies decentralised and hybrid control architectures as the most resilient and scalable pathways for voltage stability in inverter-dominated mini-grids. Discloses socio-technical/governance barriers as driving influences on the performance of voltage-centric demand response in the real world.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s44291-026-00254-3",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s44291-026-00254-3"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Alignment switching in 3D-printed smectic liquid crystal elastomers",
+    "authors": [
+      "Lee, Jin-Hyeong",
+      "Kim, Kyeong Pyo",
+      "Ding, Lijie",
+      "Li, Michael",
+      "Kim, Min Chan",
+      "Hyun, Kyu",
+      "Kim, Ji Hoon",
+      "Carrillo, Jan-Michael Y.",
+      "Ahn, Suk-kyun"
+    ],
+    "year": "2026",
+    "venue": "Nature Communications",
+    "publisher": "Nature",
+    "doi": "10.1038/s41467-026-75368-z",
+    "doi_source": "api",
+    "abstract": "Extrusion-based additive manufacturing has emerged as a powerful platform for designing shape-morphing materials through controlled orientation. However, existing approaches primarily rely on a single mode of flow-induced alignment, limiting orientation programmability. Herein, we present a direct-ink-writing approach for smectic liquid crystal elastics that exploits two distinct alignment modes within a single ink. The smectic ink exhibits shear- and temperature-dependent orientation switching, enabling molecular alignment either perpendicular or parallel to the print direction. Combined rheological, X-ray, and molecular dynamics analyses reveal that this alignment inversion arises from the preservation or collapse of smectic layers under flow. This reversible switching encodes both contractile and elongational actuation within individual filaments, greatly expanding the design freedom of printed liquid crystal elastomers. We demonstrate 2D and 3D structures with diverse programmed shape transformations, highlighting the potential of this platform for adaptive soft actuators and architected functional materials. Extrusion based additive manufacturing is a powerful tool to design shape morphing material, though it is challenging to program shape morphing. Here the authors report a direct-ink-writing method to control the alignment of liquid crystal mesogens for programmable actuation.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "https://www.nature.com/articles/s41467-026-75368-z",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://www.nature.com/articles/s41467-026-75368-z"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Chaotic pseudo-random number generator enhancement via generative adversarial networks with an integrated BiLSTM-transformer",
+    "authors": [
+      "Liu, Xiaobing",
+      "Ye, Qing",
+      "Liu, Wei",
+      "Zhou, Qian",
+      "Song, Zebin",
+      "Kou, Guangyue"
+    ],
+    "year": "2026",
+    "venue": "Journal of King Saud University Computer and Information Sciences",
+    "publisher": "Springer",
+    "doi": "10.1007/s44443-026-01037-2",
+    "doi_source": "api",
+    "abstract": "Pseudo-random number generators (PRNGs) are essential for cryptography, secure communications, and simulations. Traditional chaos-based PRNGs suffer from periodicity degradation, inadequate statistical properties, and security vulnerabilities. To address these limitations, this paper proposes a novel PRNG model based on a generative adversarial network (GAN) integrating BiLSTM and Transformer architectures, termed BiLSTM-Transformer-GAN. A hybrid training set constructed from multiple chaotic systems provides rich samples. Within the generator, BiLSTM captures short-term dependencies, a lightweight sparse Transformer enhances long-range features, and chaotic positional encoding improves sensitivity to initial conditions. The discriminator employs parallel multi-branch dilated convolutions to capture multi-scale temporal features. The model adopts the Wasserstein GAN with gradient penalty (WGAN-GP) framework to ensure statistical matching with real chaotic sequences while avoiding mode collapse. Experimental results show that the generated sequences pass all NIST SP 800-22 and TestU01 tests, achieving an information entropy of 7.98 and a Lyapunov exponent of 10.23. Furthermore, by embedding chaotic signals during training, the generator produces sequences in a single forward pass at inference, significantly reducing per-step computational cost compared with traditional iterative chaotic PRNGs. These results validate the model’s superior randomness, chaotic properties, computational efficiency, and cryptographic security, offering an innovative approach for high-security PRNG applications.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s44443-026-01037-2",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s44443-026-01037-2"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "AI-powered 3D printed concrete technology: a new paradigm of intelligent construction integrating materials, equipment, and structures",
+    "authors": [
+      "Wang, Li",
+      "Zhang, Zupan",
+      "Guo, Yupeng",
+      "Xu, Jinggang",
+      "Zhou, Yahong"
+    ],
+    "year": "2026",
+    "venue": "AI in Civil Engineering",
+    "publisher": "Springer",
+    "doi": "10.1007/s43503-026-00104-x",
+    "doi_source": "api",
+    "abstract": "3D printed concrete (3DPC) technology is driving the construction industry toward automation and sustainable practices. However, its widespread adoption remains hindered by inherent material anisotropy, unpredictable process control, and complex structural design. To overcome these bottlenecks, artificial intelligence (AI) has emerged as a transformative solution. This paper provides a comprehensive review of AI in 3DPC across three core dimensions, highlighting a paradigm shift from an empirical, open-loop pipeline to a unified cyber-physical framework driven by bidirectional information feedback. At the material level, machine learning (ML) enables inverse design and multi-objective optimization of mix proportions. During the printing process, the integration of machine vision and adaptive control establishes a robust perception-decision-execution closed-loop system, ensuring deposition quality and geometric fidelity. At the structural level, generative design and topology optimization facilitate the creation of complex geometries. Meanwhile, AI models enable multi-scale performance evaluations, ranging from micro-defect identification to macro-scale load-bearing capacity assessment. Despite these achievements, bottlenecks such as data heterogeneity and physics-agnostic models persist. Future research is expected to focus on cross-layer coupling, physics-informed modeling, and digital twin interoperability. By continuously feeding process execution and structural evaluation data back into material formulation, this new paradigm is poised to transform 3DPC into a fully self-adaptive and autonomous construction ecosystem.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s43503-026-00104-x",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s43503-026-00104-x"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Biofabrication and biomedical manufacturing research frontiers in the United States",
+    "authors": [
+      "Chen, Yunxia",
+      "Phillips, Kyle R.",
+      "Alsberg, Eben",
+      "Angelini, Thomas E.",
+      "Annabi, Nasim",
+      "Atala, Anthony",
+      "Bandyopadhyay, Amit",
+      "Bellan, Leon M.",
+      "Bertassoni, Luiz E.",
+      "Blazeski, Adriana",
+      "Boland, Thomas",
+      "Bose, Susmita",
+      "Burdick, Jason A.",
+      "Chang, Robert C.",
+      "Chen, Christopher S.",
+      "Chen, Roland K.",
+      "Chrisey, Douglas B.",
+      "Cosgriff-Hernandez, Elizabeth",
+      "Dalton, Paul D.",
+      "Dean, David",
+      "Ding, Aixiang",
+      "Duan, Bin",
+      "Ferrer, Marc",
+      "Fisher, John P.",
+      "Forgacs, Gabor",
+      "Ghosh, Debolina",
+      "Grayson, Warren L.",
+      "Guvendiren, Murat",
+      "Habib, MD Ahasan",
+      "Heilshorn, Sarah C.",
+      "Hicks, Ashley",
+      "Hollister, Scott J.",
+      "Jin, Congrui",
+      "Jin, Yifei",
+      "Kamm, Roger D.",
+      "Khoda, Bashir",
+      "Langer, Robert",
+      "Laurencin, Cato T.",
+      "Lee, Sang Jin",
+      "Leong, Kam W.",
+      "Leu, Ming C.",
+      "Li, Wei",
+      "Mak, Michael",
+      "Miri, Amir K.",
+      "Narayan, Roger J.",
+      "Ning, Liqun",
+      "Ogle, Brenda M.",
+      "Ozbolat, Ibrahim T.",
+      "Pei, Zhijian",
+      "Qiu, Peihua",
+      "Saha, Krishanu",
+      "Saksena, Jayant",
+      "Serpooshan, Vahid",
+      "Shih, Albert",
+      "Shirwaiker, Rohan A.",
+      "Soman, Pranav",
+      "Tamayol, Ali",
+      "Tibitt, Mark W.",
+      "Xu, Changxue",
+      "Yang, Yunzhi Peter",
+      "Zhang, Lijie Grace",
+      "Yoo, James J.",
+      "Chen, Shaochen",
+      "Zhang, Yu Shrike",
+      "Huang, Yong"
+    ],
+    "year": "2026",
+    "venue": "Bio-Design and Manufacturing",
+    "publisher": "Springer",
+    "doi": "10.1631/bdm.2600246",
+    "doi_source": "api",
+    "abstract": "生物制造与生物医学制造具有天然的多学科交叉属性, 其将生命系统与先进制造相结合, 以构建适用于再生医学、体外疾病模型、药物研发和医疗器械等领域的功能性产品。随着这些技术不断发展, 它们正逐步成为推动下一代医疗健康与生命科学创新的核心支撑技术。在美国, 围绕制造工艺、材料体系、物理建模以及转化策略所取得的快速进展, 正在不断拓展可实现的设计空间, 并加速推动该领域从实验室验证走向临床与产业化应用。本文作为一篇前瞻性综述, 介绍了美国在该领域的主要研究前沿, 并重点概述了支撑类器官及其他微生理系统体外测试、体内应用的工程化组织构建, 以及医疗器械和生物混合平台等方向的代表性进展。本文还进一步展望了如何在美国科研生态中推动稳健且符合伦理的生物构建与生物医学制造发展。 Biofabrication and biomedical manufacturing are inherently multidisciplinary, integrating living systems with advanced manufacturing to create functional products for applications spanning regenerative engineering and medicine, in vitro disease modeling, drug discovery, and medical devices. As these technologies develop, they are emerging as core enablers of next-generation healthcare and life-science innovation. In the United States (U.S.), rapid progress across fabrication processes, material systems, physics-based modeling, and translation-oriented strategies is expanding the achievable design space and accelerating movement from laboratory demonstrations toward clinical and commercial deployment. We introduce major U.S. research frontiers and highlight representative advances in this field that support applications including organoids and other microphysiological systems for in vitro testing, engineered tissue constructs for in vivo use, and medical devices and biohybrid platforms. We further provide an outlook on advancing robust, ethical biofabrication and biomedical manufacturing in the U.S. research ecosystem.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1631/bdm.2600246",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1631/bdm.2600246"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Security Control Strategy Design and Synchronization Analysis for INNs with Heterogeneous Time-varying Delays Under Hybrid Cyber Attacks",
+    "authors": [
+      "Niu, Yuchen",
+      "Shi, Kaibo",
+      "Cai, Xiao",
+      "Wen, Shiping",
+      "Yan, Huaicheng"
+    ],
+    "year": "2026",
+    "venue": "International Journal of Control, Automation, and Systems",
+    "publisher": "Springer",
+    "doi": "10.1007/s12555-026-00096-5",
+    "doi_source": "api",
+    "abstract": "This paper focuses on addressing the synchronization issue of inertial neural networks (INNs) with heterogeneous time-varying delays (HTVDs) under hybrid cyber attacks. First, hybrid cyber-attacks in network communications are considered, highlighting the variety of attack strategies and the uncertainties inherent in their occurrence and impact. Second, an aperiodic quantized sampled-data (AQSD) controller is proposed to address the limited transmission capacity in network communications. In addition, an asymmetric Lyapunov–Krasovskii functional (LKF) method and looped-functional terms are introduced to further relax the initial constraints requirement. Next, less conservative synchronization criteria for the drive–response systems are deduced. Finally, numerical simulation is used to demonstrate the effectiveness and superiority of the proposed method.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s12555-026-00096-5",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s12555-026-00096-5"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "A comparative study on the performances of linear, cubic, and quasi-zero-stiffness absorbers in mitigating galloping oscillations",
+    "authors": [
+      "Xing, Juntong",
+      "Rezaei, Masoud",
+      "Liao, Wei-Hsin"
+    ],
+    "year": "2026",
+    "venue": "Acta Mechanica",
+    "publisher": "Springer",
+    "doi": "10.1007/s00707-026-04682-w",
+    "doi_source": "api",
+    "abstract": "Galloping-induced vibrations pose a significant threat to the stability and durability of slender bluff-body structures exposed to wind flows. Inspired by the successful application of quasi-zero stiffness (QZS) isolator in base excitation scenarios, this study aims to investigate the effectiveness of this novel passive nonlinear method for suppressing galloping-induced vibrations. First, the mathematical model of the coupled system is established and parametric studies are performed to determine the optimal system parameter. Next, to evaluate its overall performance compared to traditional passive control methods, specifically linear and cubic absorbers, a comprehensive comparative study is conducted on these three methods. The results show that up to the wind speed of 20 m/s, which corresponds to the No. 8 Beaufort wind scale (fresh gale), linear absorber outperforms both nonlinear absorbers, with a cut-in wind speed improvement of 188.9%, compared to 26.8% for both nonlinear absorbers. Besides, QZS absorber outperforms pure cubic absorber in terms of the jump wind speed. This suggests that the effectiveness of QZS absorber in base excitation scenarios is not applied to flow-induced excitation scenarios. Furthermore, the nonlinear dynamic behaviour of the QZS absorber is explored based on the numerical continuation technique via MATCONT, and bifurcations are observed. Finally, the system is nondimensionalised, and an approximate-analytical solution is derived using the harmonic balance method. This analytical approach further illustrates the complex bifurcation characteristics of the system.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s00707-026-04682-w",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s00707-026-04682-w"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Research on the Influence of Geometric Parameters of Bistable Triangular Structures on Stable State Transition Process",
+    "authors": [
+      "Gao, Jiarui",
+      "Zhang, Shujie",
+      "Zhou, Yang",
+      "Xie, Hanqi",
+      "Zhao, Hongxiao",
+      "Yang, Weidong"
+    ],
+    "year": "2026",
+    "venue": "Acta Mechanica Solida Sinica",
+    "publisher": "Springer",
+    "doi": "10.1007/s10338-026-00713-0",
+    "doi_source": "api",
+    "abstract": "This study proposes an innovative design methodology for bistable triangular composite laminates, establishing for the first time a quantitative relationship between geometric parameters and snap-through behavior. Nine triangular configurations with distinct geometric features were systematically generated by maintaining a constant base length while varying side length and vertex angle. Finite element analysis (FEA) models, rigorously validated against 3D-scanned prototypes, were employed to accurately compute the static equilibrium states of each configuration. Through comparative analysis of dual-point loading experiments and corresponding simulations, this research reveals for the first time unique evolution patterns during state transitions across different configurations (acute/right/obtuse triangles): obtuse configurations exhibit significant sensitivity to loading position, while acute configurations demonstrate more stable transition characteristics. The breakthrough enables predictive snap-through behavior based on geometric parameters, providing theoretical foundations and design guidelines for the precise placement of remotely controlled actuators.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10338-026-00713-0",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10338-026-00713-0"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Hygrothermal analysis of composite beams with graphene nanoplatelet reinforcements",
+    "authors": [
+      "Ma, Rui",
+      "Zhang, Mingran",
+      "Liu, Quanyi",
+      "Guo, Fanzeng",
+      "Ghaffar, Abdul",
+      "Zhang, Manyu",
+      "Jin, Qilin"
+    ],
+    "year": "2026",
+    "venue": "Acta Mechanica",
+    "publisher": "Springer",
+    "doi": "10.1007/s00707-026-04646-0",
+    "doi_source": "api",
+    "abstract": "Models transverse strain for accurate hygrothermal stress prediction. C^0 beam model enables efficient hygrothermal stress analysis. GNP content and layout affect hygrothermal beam response. Graphene-based nanocomposites offer exceptional multifunctional performance, yet conventional higher-order beam models struggle to accurately predict interlaminar stresses in functionally graded graphene nanoplatelet-reinforced composites (FG-GNPRC) under hygrothermal loading due to abrupt stiffness variation and mismatched hygrothermal expansion across layers. This study proposes an enhanced higher-order beam formulation that integrates hygrothermal-induced transverse normal strain directly into the displacement field without introducing additional degrees of freedom. Traction-free boundary conditions are enforced, and first-order transverse displacement derivatives are removed, enabling an efficient C^0 continuous finite element implementation. A three-node beam element is developed and validated against three-dimensional elasticity solutions, demonstrating excellent accuracy in predicting interlaminar shear stresses. Comparative analyses further reveal clear improvements over existing higher-order theories. Parametric studies quantify the influence of key design parameters on the hygrothermal response of FG-GNPRC beams. The proposed framework offers a computationally efficient and physically consistent approach for accurately capturing through-thickness hygrothermal behavior in graded nanocomposite beams.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s00707-026-04646-0",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s00707-026-04646-0"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "A survey on dynamic modeling, analysis, and testing of deployable mesh reflector antennas",
+    "authors": [
+      "Khoroshylov, Serhii",
+      "Martyniuk, Serhii",
+      "Medzmariashvili, Elguja",
+      "Tserodze, Shota"
+    ],
+    "year": "2026",
+    "venue": "Multibody System Dynamics",
+    "publisher": "Springer",
+    "doi": "10.1007/s11044-026-10150-z",
+    "doi_source": "api",
+    "abstract": "Deployable mesh reflector antennas (MRA) have been utilized in space missions for satellite communications, Earth remote sensing, and deep space exploration due to their high accuracy, low mass, and thermal stability. The deployment of the MRA is a complex process that may lead to satellite failures and reduced capabilities. Additionally, the dynamics of the deployed MRA may influence spacecraft stability and performance. Thus, it is crucial to accurately predict the dynamic features of the MRA in deployment and operational modes during the design phase of any space mission. Dynamic simulation and ground testing of the MRA have attracted much attention from space researchers and engineers because of their importance and challenges. The survey focuses on advances in this area, considering various MRA designs. Different approaches for modeling support structures, mesh-cable systems, driving forces, as well as numerical algorithms, and simulation software are analyzed. Results of modal analysis, deployment studies, and testing are reviewed. Finally, key results in this field are summarized, and future work tasks are specified.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11044-026-10150-z",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11044-026-10150-z"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Research on Aircraft Spin Recovery Method Utilizing Deep Deterministic Policy Gradient",
+    "authors": [
+      "Li, Zhenwen",
+      "Tu, Lianghui",
+      "Lu, Jun"
+    ],
+    "year": "2026",
+    "venue": "International Journal of Aeronautical and Space Sciences",
+    "publisher": "Springer",
+    "doi": "10.1007/s42405-026-01140-8",
+    "doi_source": "api",
+    "abstract": "Spin, a highly complex and hazardous flight condition, poses a significant threat to pilot and aircraft safety. Modern high-performance aircraft, designed for exceptional maneuverability, are particularly susceptible to loss of control and subsequent spin entry. This study investigates a novel spin recovery strategy based on Deep Deterministic Policy Gradient (DDPG) reinforcement learning to overcome the limitations of traditional methods in addressing the inherent nonlinearity and uncertainty of spin dynamics. First, using a high-fidelity aircraft dynamic and kinematic model, the spin recovery problem was formulated as a Markov Decision Process (MDP). The DDPG algorithm is then employed to train an agent to learn an optimal control policy through interaction with the simulated flight environment. Simulation results demonstrate that the DDPG-based control law achieves significantly faster and smoother recovery trajectories compared to conventional dynamic inversion control. Furthermore, the proposed approach exhibits robust performance in the presence of control surface and engine failures. These findings suggest that DDPG-based control offers a promising and robust solution for advanced spin recovery systems, contributing to enhanced flight safety and the mitigation of aircraft loss-of-control accidents.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s42405-026-01140-8",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s42405-026-01140-8"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Continuum dynamics of rectilinear locomotion of a metameric earthworm-like robot",
+    "authors": [
+      "Shi, Rui",
+      "Fang, Hongbin",
+      "Xu, Jian"
+    ],
+    "year": "2026",
+    "venue": "Multibody System Dynamics",
+    "publisher": "Springer",
+    "doi": "10.1007/s11044-026-10142-z",
+    "doi_source": "api",
+    "abstract": "This study presents a continuum dynamic framework for modeling the rectilinear locomotion of a segmented earthworm-like robot, with the goal of bridging discrete and continuous modeling paradigms. Beginning from a discrete dynamic model that captures segment-level actuation and frictional interactions, a continuum model is derived via approximation based on a shift operator. In this continuum formulation, both discrete gait actuation and phase-coordination control—each characterized by retrograde peristaltic wave propagation—are represented as traveling strain waves along the robot body. This approach facilitates efficient analysis of the robot’s global behavior while preserving the essential mechanics of metameric actuation and anisotropic friction. The continuum model is then applied to investigate the locomotion performance under various control schemes. Comparative simulations demonstrate strong consistency between the continuum and discrete models, validating the continuum framework’s accuracy in capturing key dynamic phenomena. The model successfully predicts performance degradation due to backward slippage induced by dry friction and limitations arising from insufficient actuation force. Parameter studies further reveal that increasing the anchoring ratio and enhancing friction anisotropy effectively mitigate backward slippage, while a longer actuation wavelength can significantly improve locomotion efficiency. Overall, the proposed continuum model provides a unified and computationally tractable framework for the dynamic analysis and control of soft, worm-like robots. These insights have practical implications for the design and deployment of worm-inspired robots in confined or dynamically changing environments.",
+    "abstract_source": "api",
+    "abstract_status": "ok",
+    "search_snippet": null,
+    "paper_url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11044-026-10142-z",
+    "pdf_url": null,
+    "source_sites": [
+      "springer"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11044-026-10142-z"
+    ],
+    "source_site": "springer",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  }
+]

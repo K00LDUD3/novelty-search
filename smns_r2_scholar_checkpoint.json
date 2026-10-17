@@ -1,0 +1,1676 @@
+[
+  {
+    "title": "Chaos and itsdegradation-promoting-basedcontrolin an antithetic integral feedback circuit",
+    "authors": [
+      "AM Zand",
+      "MS Tavazoei …"
+    ],
+    "year": "2021",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "This letter deals with a novel variant of antithetic integral feedback controller (AIFC) motifs which can feature robust perfect adaptation, a pervasive (desired) ability in natural (synthetic) biomolecular circuits, when coupled with a wide class of process networks to be regulated. Using the separation of time-scales in the proposed kind of AIFC, here we find a reduced-order controller that captures the governing slow part of the original solutions under suitable assumptions. Inspired by Rössler systems, we then make use of such a simpler controller to show that the antithetic circuit can exhibit chaotic behaviors with strange attractors, where the bifurcation from a homeostatic state to chaotic orbits can happen, e.g., when considering saturated Hill-type reactions for the actuation. Addition of degradation terms to the controller species, whether naturally due to dilution or exogenously using protein tags, is showcased by simulation results to be an effective solution in suppressing deterministic chaos and aperiodic oscillations. In the same vein, we recapitulate the recently introduced antithetic rein IFC motif and confirm that the promotion of degradation by a rein mechanism also can control chaos and improve the stability of closed-loop circuit.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… behaviors with strange attractors, where the bifurcation from a homeostatic state to chaotic … reactions for the actuation . Addition of degradation terms to the controller species, whether …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/9621220/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/7782633/9462165/09621220.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/9621220/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Beneficialactuator-inducedbifurcationsin compressorcontrol",
+    "authors": [
+      "BD Coller",
+      "M Larsen"
+    ],
+    "year": "1998",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "There has been a concerted effort to use feedback to either stabilize or ameliorate the detrimental effects of the aerodynamic instabilities of rotating stall and surge in compression systems of jet aircraft engines. Typical model-based efforts have largely focused on eliminating a treacherous hysteresis loop in the Moore-Greitzer equations, making stall recovery possible without resorting to drastic measures. The present note is motivated by peculiar and very interesting observations of the behavior of certain control laws when the performance of the actuator deteriorates (increased time lag between the commanded and actual control input). The degradation induces an instability which surprisingly improves the performance of the controller. In the following sections, we briefly describe the phenomenon and then offer an explanation by unfolding a doubly-degenerate bifurcation.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… behavior of certain control laws when the performance of the actuator deteriorates (increased time lag between the commanded and actual control input.) The degradation induces an …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/702974/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel4/5651/15190/00702974.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/702974/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Identifying limits of linearcontroldesign validity in nonlinear systems: a continuation-based approach: DH Nguyen et al.",
+    "authors": [
+      "DH Nguyen",
+      "MH Lowenberg",
+      "SA Neild"
+    ],
+    "year": "2021",
+    "venue": "Springer",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… We will see later that this is no longer the case when actuator rate saturation is … by bifurcation analysis in identifying regions where behaviour degrades and to help guide controller …",
+    "paper_url": "https://link.springer.com/article/10.1007/s11071-021-06341-2",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11071-021-06341-2.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://link.springer.com/article/10.1007/s11071-021-06341-2"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [
+      "PDF download failed or not a PDF: https://link.springer.com/content/pdf/10.1007/s11071-021-06341-2.pdf"
+    ]
+  },
+  {
+    "title": "Intriguing nonlinear dynamics of acontrollerwith a sluggishactuator",
+    "authors": [
+      "BD Coller"
+    ],
+    "year": "2003",
+    "venue": "Elsevier",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… We apply a bifurcation -theoretic approach to the standard Moore–… When one forces the actuator to respond sluggishly to … controller improves dramatically after a severe degradation in …",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0005109803002589",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://www.sciencedirect.com/science/article/pii/S0005109803002589"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Bifurcation controlof an electrostatically-actuated memsactuatorwith time-delay feedback",
+    "authors": [
+      "L Li",
+      "Q Zhang",
+      "W Wang",
+      "J Han"
+    ],
+    "year": "2016",
+    "venue": "mdpi.com",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… bifurcation conditions of a class of electrostatically-driven MEMS actuators with a time-delay feedback controller . … flow that is analyzed for stability and bifurcation . Results show that time-…",
+    "paper_url": "https://www.mdpi.com/2072-666X/7/10/177",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://www.mdpi.com/2072-666X/7/10/177"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Hidden oscillations in aircraft flightcontrolsystem with input saturation",
+    "authors": [
+      "BR Andrievsky",
+      "NV Kuznetsov",
+      "GA Leonov …"
+    ],
+    "year": "2013",
+    "venue": "Elsevier",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… actuator saturation can dramatically degrade the system performance. Since the feedback loop is broken when the actuator … observed a loss of stability ( bifurcation ) and A0 vanishes. In …",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S1474667015339380",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://www.sciencedirect.com/science/article/pii/S1474667015339380"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Bifurcation-induced limits of acontroller-reconfigured F-16 subject toactuatorfailures",
+    "authors": [
+      "S Thomas",
+      "HG Kwatny …"
+    ],
+    "year": "2005",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Complex systems like the F-16 when subject to actuator failures operate in nonlinear regimes and probably in the vicinity of bifurcation points. Therefore, in designing reconfigured controllers a designer must be aware of all bifurcation points, and their characteristics, within the impaired flight envelope. This work is the first step in that direction. The other limitations that were identified are the stability limits and the control saturation points. We considered both the nominal system, and the reconfigured system with the left elevator stuck. The nominal controller is designed according to the guidelines in the literature. The reconfigured controller is designed as a regulator with disturbance rejection capabilities. The bifurcations are associated with attempting to regulate the velocity and orientation of the aircraft. The main issues at the bifurcation points, in both the nominal and reconfigured system, are that the aircraft becomes uncontrollable and the control inputs become dependent",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… As such, the continued use of the nominal controller could not only degrade the performance but also destabilize the system. Thus a switch is made to the appropriate predesigned …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/1507119/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel5/10069/32294/01507119.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/1507119/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Stability andbifurcationanalysis of a 2DOF dynamical system with piezoelectric device and feedbackcontrol",
+    "authors": [
+      "TA Bahnasy",
+      "TS Amer",
+      "MK Abohamer …"
+    ],
+    "year": "2024",
+    "venue": "nature.com",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "This study aims to demonstrate the behaviors of a two degree-of-freedom (DOF) dynamical system consisting of attached mass to a nonlinear damped harmonic spring pendulum with a piezoelectric device. Such a system is influenced by a parametric excitation force on the direction of the spring’s elongation and an operating moment at the supported point. A negative-velocity-feedback (NVF) controller is inserted into the main system to reduce the undesired vibrations that affect the system’s efficiency, especially at the resonance state. The equations of motion (EOM) are derived by using Lagrangian equations. Through the use of the multiple-scales-strategy (MSS), approximate solutions (AS) are investigated up to the third order. The accuracy of the AS is verified by comparing them to the obtained numerical solutions (NS) through the fourth-order Runge-Kutta Method (RK-4). The study delves into resonance cases and solvability conditions to provide the modulation equations (ME). Graphical representations showing the time histories of the obtained solutions and frequency responses are presented utilizing Wolfram Mathematica 13.2 in addition to MATLAB software. Additionally, discusses the bifurcation diagrams, Poincaré maps, and Lyapunov exponent spectrums to show the various behavior patterns of the system. To convert vibrating motion into electrical power, a piezoelectric sensor is connected to the dynamical model, which is just one of the energy harvesting (EH) technologies with extensive applications in the commercial, industrial, aerospace, automotive, and medical industries. Moreover, the time histories of the obtained solutions with and without control are analyzed graphically. Finally, resonance curves are used to discuss stability analysis and steady-state solutions.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… In1, time-delayed feedback control for displacement and velocity was developed to enhance the stability of a single DOF giant magnetostrictive actuator system and regulate its …",
+    "paper_url": "https://www.nature.com/articles/s41598-024-75342-z",
+    "pdf_url": "https://www.nature.com/articles/s41598-024-75342-z.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://www.nature.com/articles/s41598-024-75342-z"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Stability andbifurcationanalysis of an asymmetrically electrostatically actuated microbeam",
+    "authors": [
+      "H Madinei",
+      "G Rezazadeh …"
+    ],
+    "year": "2015",
+    "venue": "asmedigitalcollection.asme.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… The appearance of other modes can lead to degrading … a new type of electrostatic actuation mechanism by shaping the … by undergoing a pitchfork bifurcations . To demonstrate and …",
+    "paper_url": "https://asmedigitalcollection.asme.org/computationalnonlinear/article-abstract/10/2/021002/371844",
+    "pdf_url": "https://asmedigitalcollection.asme.org/computationalnonlinear/article-pdf/10/2/021002/6106878/cnd_010_02_021002.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://asmedigitalcollection.asme.org/computationalnonlinear/article-abstract/10/2/021002/371844"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [
+      "PDF download failed or not a PDF: https://asmedigitalcollection.asme.org/computationalnonlinear/article-pdf/10/2/021002/6106878/cnd_010_02_021002.pdf"
+    ]
+  },
+  {
+    "title": "Bifurcationand chaos characteristics of hysteresis vibration system of giant magnetostrictiveactuator",
+    "authors": [
+      "HB Yan",
+      "H Gao",
+      "GW Yang",
+      "HB Hao",
+      "Y Niu…"
+    ],
+    "year": "2020",
+    "venue": "iopscience.iop.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… When the system damping coefficient ξ is about 0.38, the system generates paroxysmal chaos, which is accompanied by bifurcation degradation into a period of 3. When the system …",
+    "paper_url": "https://iopscience.iop.org/article/10.1088/1674-1056/ab65b4/meta",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://iopscience.iop.org/article/10.1088/1674-1056/ab65b4/meta"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Event generation and simulation of exception handling with the ITER PCSSP",
+    "authors": [
+      "G Raupp",
+      "ML Walker",
+      "G Ambrosino…"
+    ],
+    "year": "2014",
+    "venue": "Elsevier",
+    "publisher": null,
+    "doi": "10.1016/j.fusengdes.2014.04.068",
+    "doi_source": "crossref",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… is the plasma control system (PCS), which drives a dozen of actuator plant systems for … control action). Bifurcation and degradation relevant to PCS may occur in the domains of the …",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0920379614003457",
+    "pdf_url": "https://www.academia.edu/download/47063715/Event_generation_and_simulation_of_excep20160706-30745-91n2u6.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "bifurcation early warning actuator degradation"
+    ],
+    "source_urls": [
+      "https://www.sciencedirect.com/science/article/pii/S0920379614003457",
+      "https://www.academia.edu/download/47063715/Event_generation_and_simulation_of_excep20160706-30745-91n2u6.pdf"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [
+      "PDF download failed or not a PDF: https://www.academia.edu/download/47063715/Event_generation_and_simulation_of_excep20160706-30745-91n2u6.pdf"
+    ]
+  },
+  {
+    "title": "Hierarchicalcontrolof enzymaticactuatorsusing DNA-based switchable memories",
+    "authors": [
+      "LHH Meijer",
+      "A Joesaar",
+      "E Steur",
+      "W Engelen …"
+    ],
+    "year": "2017",
+    "venue": "nature.com",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Inspired by signaling networks in living cells, DNA-based programming aims for the engineering of biochemical networks capable of advanced regulatory and computational functions under controlled cell-free conditions. While regulatory circuits in cells control downstream processes through hierarchical layers of signal processing, coupling of enzymatically driven DNA-based networks to downstream processes has rarely been reported. Here, we expand the scope of molecular programming by engineering hierarchical control of enzymatic actuators using feedback-controlled DNA-circuits capable of advanced regulatory dynamics. We developed a translator module that converts signaling molecules from the upstream network to unique DNA strands driving downstream actuators with minimal retroactivity and support these findings with a detailed computational analysis. We show our modular approach by coupling of a previously engineered switchable memories circuit to downstream actuators based on β-lactamase and luciferase. To the best of our knowledge, our work demonstrates one of the most advanced DNA-based circuits regarding complexity and versatility. Naturally evolved regulatory circuits have hierarchical layers of signal generation and processing. Here, the authors emulate these networks using feedback-controlled DNA circuits that convert upstream signaling to downstream enzyme activity in a switchable memories circuit.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… degraded over time by exonuclease, while the template strands are protected from degradation … using the concentration of γ and δ as bifurcation parameters in the absence of translator …",
+    "paper_url": "https://www.nature.com/articles/s41467-017-01127-w",
+    "pdf_url": "https://www.nature.com/articles/s41467-017-01127-w.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://www.nature.com/articles/s41467-017-01127-w"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Sliding modebifurcation controlbased on acceleration feedback correction adaptive compensation for maglev train suspension system with time-varying disturbance",
+    "authors": [
+      "C Chen",
+      "J Xu",
+      "G Lin",
+      "Y Sun …"
+    ],
+    "year": "2022",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "In order to ensure the suspension stability of maglev train, the active control problems of static suspension and dynamic suspension are studied. First, the mathematical model of dynamic suspension characteristics of medium- and low-speed maglev train is established. Second, the PID controller is studied. The results show that the controller is very sensitive to time-varying disturbances such as nonuniformity and load, which leads to the decrease in system robustness. In order to suppress the disturbance effectively, a suspension control method based on the sliding mode reaching law is proposed. Based on the bifurcation phenomenon, the bifurcation point is solved to determine the main control parameters. On the basis of this, an acceleration feedback correction and adaptive control module based on the radial basis function (RBF) network is constructed to effectively suppress the vibration of the electromagnet. The controller consists of a sliding mode bifurcation control law, an acceleration feedback correction module, and an adaptive compensation loop. The simulation and experimental results show that the proposed control algorithm can significantly reduce the variation range of suspension gap with a smoother control current in the presence of complex disturbances and significantly suppress the coupled vibration.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… The controller consists of a sliding mode bifurcation control law, an acceleration … control algorithm can significantly reduce the variation range of suspension gap with a smoother control …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/9684866/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/6687316/9761278/09684866.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/9684866/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Electromechanical deformations andbifurcationsin soft dielectrics: A review",
+    "authors": [
+      "Y Su",
+      "X Shen",
+      "Z Zhao",
+      "B Wu",
+      "W Chen"
+    ],
+    "year": "2024",
+    "venue": "mdpi.com",
+    "publisher": null,
+    "doi": "10.3390/ma17071499",
+    "doi_source": "crossref",
+    "abstract": "Dielectric elastomers have attracted considerable attention both from academia and industry alike over the last two decades due to their superior mechanical properties. In parallel, research on the mechanical properties of dielectrics has been steadily advancing, including the theoretical, experimental, and numerical aspects. It has been recognized that the electromechanical coupling property of dielectric materials can be utilized to drive deformations in functional devices in a more controllable and intelligent manner. This paper reviews recent advances in the theory of dielectrics, with specific attention focused on the theory proposed by Dorfmann and Ogden. Additionally, we provide examples illustrating the application of this theory to analyze the electromechanical deformations and the associated bifurcations in soft dielectrics. We compared the bifurcations in elastic and dielectric materials and found that only compressive bifurcation modes exist in elastic structures, whereas both compressive and tensile modes coexist in dielectric structures. We summarize two proposed ways to suppress and prevent the tensile bifurcations in dielectric materials. We hope that this literature survey will foster further advancements in the field of the electroelastic theory of soft dielectrics.",
+    "abstract_source": "crossref",
+    "abstract_status": "ok",
+    "search_snippet": "… We note that, for the limiting case J m → ∞ , the Gent model will degrade into the neo-… As shown in Figure 1, a standard voltage- controlled DE actuator with high deformability usually …",
+    "paper_url": "https://www.mdpi.com/1996-1944/17/7/1499",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation",
+      "bifurcation early warning actuator degradation"
+    ],
+    "source_urls": [
+      "https://www.mdpi.com/1996-1944/17/7/1499"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Hopfbifurcationanalysis of actuated bogie with multiple delays: P. Guo et al.",
+    "authors": [
+      "P Guo",
+      "C Huang",
+      "J Zeng"
+    ],
+    "year": "2025",
+    "venue": "Springer",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… instability more likely [3], which in turn degrades ride quality, worsens wheel-rail interaction, … and yaw dampers with actuators . The control forces supplied by the lateral and longitudinal …",
+    "paper_url": "https://link.springer.com/article/10.1007/s11071-025-11342-6",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11071-025-11342-6.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://link.springer.com/article/10.1007/s11071-025-11342-6"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [
+      "PDF download failed or not a PDF: https://link.springer.com/content/pdf/10.1007/s11071-025-11342-6.pdf"
+    ]
+  },
+  {
+    "title": "Improvement ofactuationdisplacement of LIPCA implementingbifurcationphenomena",
+    "authors": [
+      "QV Nguyen",
+      "S Lee",
+      "HC Park"
+    ],
+    "year": "2006",
+    "venue": "spiedigitallibrary.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… devices as an actuator , the flapping performance is degraded quite quickly when the … actuation displacement and force of the LIPCA need to be improved. When a piezoceramic actuator …",
+    "paper_url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6170/61701L/Improvement-of-actuation-displacement-of-LIPCA-implementing-bifurcation-phenomena/10.1117/12.657861.short",
+    "pdf_url": "https://www.researchgate.net/profile/Hoon-Park-4/publication/253928098_Improvement_of_actuation_displacement_of_LIPCA_implementing_bifurcation_phenomena/links/570c501308ae8883a1ffeabd/Improvement-of-actuation-displacement-of-LIPCA-implementing-bifurcation-phenomena.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6170/61701L/Improvement-of-actuation-displacement-of-LIPCA-implementing-bifurcation-phenomena/10.1117/12.657861.short"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [
+      "PDF download failed or not a PDF: https://www.researchgate.net/profile/Hoon-Park-4/publication/253928098_Improvement_of_actuation_displacement_of_LIPCA_implementing_bifurcation_phenomena/links/570c501308ae8883a1ffeabd/Improvement-of-actuation-displacement-of-LIPCA-implementing-bifurcation-phenomena.pdf"
+    ]
+  },
+  {
+    "title": "Application of continuation andbifurcationmethods to the design ofcontrolsystems",
+    "authors": [
+      "MG Goman",
+      "AV Khramtsovsky"
+    ],
+    "year": "1998",
+    "venue": "JSTOR",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… actuators provide additional constraints such as deflection limits and rate sat The existing multivariable control … After encountering a bifurcation point, when the Jacobian matrix degrades …",
+    "paper_url": "https://www.jstor.org/stable/55029",
+    "pdf_url": "https://www.jstor.org/stable/pdf/55029.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://www.jstor.org/stable/55029"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [
+      "PDF download failed or not a PDF: https://www.jstor.org/stable/pdf/55029.pdf"
+    ]
+  },
+  {
+    "title": "A noveldegradationmodeling and prognostic framework for closed-loop systems withdegrading actuator",
+    "authors": [
+      "X Si",
+      "Z Ren",
+      "X Hu",
+      "C Hu",
+      "Q Shi"
+    ],
+    "year": "2019",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "This article presents a novel degradation modeling and prognostic method for a class of closed-loop feedback systems with degrading actuators. Toward this end, we first present a degradation modeling framework by integrating the stochastic degradation process model of the actuator and the state transition model of the system. This takes into consideration the mutual effects between the component-level degradation and system-level state. Then, the particle filter algorithm is utilized to jointly estimate the hidden degradation state of the actuator and the system state through indirect observations. Further, a time-varying nonlinear diffusion process equipped with two-stage parameters updating procedure is used to learn the evolving progression of the hidden degradation state. As such, a residual-threshold-based remaining useful life (RUL) prediction method is presented by simulating future system states and degradation trajectories based on the learned degradation process. As the application of the predicted RUL, a fault tolerant control method is presented by adjusting the controller parameter so as to extend the life of the system. Finally, a simulation study is conducted using a closed-loop control system in an inertial platform to verify the proposed method. The results indicate that the proposed method can reduce prognosis error, improve robustness, and extend the lifetime of the system.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… -loop systems where the degradation process was described … the degradation of the actuator and the decline of the control … degradation process of the output efficiency of the actuator …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/8902212/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/41/9144648/08902212.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/8902212/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Effect ofactuatorsaturation on pilot-induced oscillation: a nonlinearbifurcationanalysis",
+    "authors": [
+      "DH Nguyen",
+      "MH Lowenberg",
+      "SA Neild"
+    ],
+    "year": "2021",
+    "venue": "arc.aiaa.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… In recent years, bifurcation analysis and numerical continuation have proven to be a … on the effect of actuator saturation on flight dynamics using bifurcation analysis apart from a brief …",
+    "paper_url": "https://arc.aiaa.org/doi/full/10.2514/1.G005840",
+    "pdf_url": "https://research-information.bris.ac.uk/files/264460038/JGCD_3_PURE.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation",
+      "bifurcation early warning actuator degradation"
+    ],
+    "source_urls": [
+      "https://arc.aiaa.org/doi/full/10.2514/1.G005840"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [
+      "PDF download failed or not a PDF: https://research-information.bris.ac.uk/files/264460038/JGCD_3_PURE.pdf"
+    ]
+  },
+  {
+    "title": "Quantized feedback fault-tolerantcontrolof teleoperated robot systems subject toactuator degradation",
+    "authors": [
+      "Z Bochao",
+      "F Xiyu",
+      "Y Xin",
+      "K Yajin"
+    ],
+    "year": "2016",
+    "venue": "search.proquest.com",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Explore millions of resources from scholarly journals, books, newspapers, videos and more, on the ProQuest Platform.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… control design for teleoperated robotic systems.The teleoperated robot systems are obstructed by problems of actuator degradation , control … The construction of the controller includes …",
+    "paper_url": "https://search.proquest.com/openview/0f2d9f5e1afbb4888469baa73aab889a/1?pq-origsite=gscholar&cbl=396471",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://search.proquest.com/openview/0f2d9f5e1afbb4888469baa73aab889a/1?pq-origsite=gscholar&cbl=396471"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Diagnostic tools for multivariable model-basedcontrolsystems",
+    "authors": [
+      "P Kesavan",
+      "JH Lee"
+    ],
+    "year": "1997",
+    "venue": "ACS Publications",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… the performance degradation and bifurcate the potential causes for the degradation . These … the input specified by the controller , udk is the input error signal due to an actuator fault, ek is …",
+    "paper_url": "https://pubs.acs.org/doi/abs/10.1021/ie9606653",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://pubs.acs.org/doi/abs/10.1021/ie9606653"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Neural approximation-based adaptivecontrolfor pure-feedback fractional-order systems with output constraints andactuatornonlinearities",
+    "authors": [
+      "F Zouari",
+      "A Boubellouta"
+    ],
+    "year": "2018",
+    "venue": "global.com",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… suppression, such actuator nonlinearities may cause performance degradation and even … As a result, compensating for actuator nonlinearities is an important issue in adaptive control …",
+    "paper_url": "https://www.igi-global.com/chapter/neural-approximation-based-adaptive-control-for-pure-feedback-fractional-order-systems-with-output-constraints-and-actuator-nonlinearities/204809",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://www.igi-global.com/chapter/neural-approximation-based-adaptive-control-for-pure-feedback-fractional-order-systems-with-output-constraints-and-actuator-nonlinearities/204809"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Optimising the braking performance via nonlinear analysis andbifurcationtheory",
+    "authors": [
+      "M Tanelli",
+      "A Gragnani",
+      "A Astolfi …"
+    ],
+    "year": "2008",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": "10.1109/cdc.2008.4738762",
+    "doi_source": "crossref",
+    "abstract": "This paper shows how the properties of a recently proposed nonlinear output feedback controller for active braking control systems can be exploited to optimise the braking performance. The control algorithm, in fact, allows to detect in which region of the friction curve the system is operating. Thus, via nonlinear analysis and bifurcation theory, we show that the closed-loop system exhibits a supercritical Hopf bifurcation. Based on this, we propose a way to estimate the current road conditions and to adapt the set-point in order to optimise the braking performance. A bifurcation diagram is also worked out to study the closed-loop dynamics modifications due to possible actuator faults or degradations.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… are imposed by the actuator characteristics. We consider that the actuator limits Tb and Tb … This analysis suggests that, if a gradual degradation of the braking performance is observed…",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/4738762/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel5/4721212/4738560/04738762.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/4738762/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Composite multi-modal vibrationcontrolfor a stiffened plate using non-collocated acceleration sensor and piezoelectricactuator",
+    "authors": [
+      "S Li",
+      "J Li",
+      "Y Mo",
+      "R Zhao"
+    ],
+    "year": "2014",
+    "venue": "iopscience.iop.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… non-collocated sensor/ actuator pairs, degrades the performance of the control system, even … controller and acceleration feed-forward with an output predictor design produce the control …",
+    "paper_url": "https://iopscience.iop.org/article/10.1088/0964-1726/23/1/015006/meta",
+    "pdf_url": "https://www.researchgate.net/profile/Shengquan-Li/publication/260665677_Composite_multi-modal_vibration_control_for_a_stiffened_plate_using_non-collocated_acceleration_sensor_and_piezoelectric_actuator/links/547cecb90cf285ad5b08883d/Composite-multi-modal-vibration-control-for-a-stiffened-plate-using-non-collocated-acceleration-sensor-and-piezoelectric-actuator.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://iopscience.iop.org/article/10.1088/0964-1726/23/1/015006/meta"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [
+      "PDF download failed or not a PDF: https://www.researchgate.net/profile/Shengquan-Li/publication/260665677_Composite_multi-modal_vibration_control_for_a_stiffened_plate_using_non-collocated_acceleration_sensor_and_piezoelectric_actuator/links/547cecb90cf285ad5b08883d/Composite-multi-modal-vibration-control-for-a-stiffened-plate-using-non-collocated-acceleration-sensor-and-piezoelectric-actuator.pdf"
+    ]
+  },
+  {
+    "title": "Unmanned aerial vehicle flightcontrolevaluations under sensor andactuatorfaults",
+    "authors": [
+      "CR Ashokkumar",
+      "GWP York"
+    ],
+    "year": "2017",
+    "venue": "Springer",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… in the modified stability region could lead to flight control degradation . In this paper, first, a … as flight control evaluations under a sensor or an actuator fault. Trajectory bifurcations in the …",
+    "paper_url": "https://link.springer.com/article/10.1007/s10846-017-0514-9",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://link.springer.com/article/10.1007/s10846-017-0514-9"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Enhance the stability and vibrationcontrolof the electrostatic micro-actuatorwith time-delayed fractional order PDcontroller",
+    "authors": [
+      "PR Nwagoum Tuwa",
+      "UG Ngouabo…"
+    ],
+    "year": "2025",
+    "venue": "journals.sagepub.com",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… to the control of electrostatic micro- actuators using fractional-order … -derivative (PD) controller is proposed as an unexplored … , bifurcation diagrams of the micro- actuator displacement are …",
+    "paper_url": "https://journals.sagepub.com/doi/abs/10.1177/10775463251364313",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://journals.sagepub.com/doi/abs/10.1177/10775463251364313"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Nonlinear effects ofactuatorrate and acceleration limits on closed-loop systems: a describing function approach",
+    "authors": [
+      "L Marino",
+      "J Sodja"
+    ],
+    "year": "2026",
+    "venue": "Springer",
+    "publisher": null,
+    "doi": "10.21203/rs.3.rs-7632329/v1",
+    "doi_source": "crossref",
+    "abstract": "Abstract\n                Actuator nonlinearities can significantly affect control systems, leading to performance degradation and even loss of stability. Physical constraints such as rate and acceleration limits are particularly detrimental in applications where rapid actuation is required, yet their combined effects remain largely unexplored.\nThis paper investigates the nonlinear dynamic behaviour induced by rate and acceleration limits in closed-loop systems, focusing on their steady-state response to sinusoidal excitation. The saturation regimes induced by these actuator limits are fully characterized, and their analytical boundaries are represented in a two-dimensional parameter space defined by normalized rate and acceleration limits.\nSinusoidal describing functions are derived for each regime, capturing the actuator dynamics in the frequency domain. These are used to analyse the effects of actuator nonlinearities on closed-loop performance, including the onset of nonlinear behaviour, phase lag and gain reduction.\nThe conditions for the presence of jump resonance are analytically derived, along with the lowest frequency where multiple solutions appear, leading to potential abrupt changes in system response. The findings highlight how these nonlinear phenomena can severely degrade the performance and stability of closed loops, underlining the importance of accounting for actuator rate and acceleration limits in the analysis and design of feedback control systems.",
+    "abstract_source": "crossref",
+    "abstract_status": "ok",
+    "search_snippet": "… Actuator nonlinearities can significantly affect control systems, leading to performance degradation … Jump resonance is a wellknown phenomenon associated with fold bifurcations and …",
+    "paper_url": "https://link.springer.com/article/10.1007/s11071-026-12449-0",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11071-026-12449-0.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://link.springer.com/article/10.1007/s11071-026-12449-0"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": [
+      "PDF download failed or not a PDF: https://link.springer.com/content/pdf/10.1007/s11071-026-12449-0.pdf"
+    ]
+  },
+  {
+    "title": "Feedback-ControlledLimit Cycle Oscillation in Spherical DielectricActuator",
+    "authors": [
+      "DK Giri",
+      "RA Ranjan",
+      "S Sarangi"
+    ],
+    "year": "2025",
+    "venue": "World Scientific",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… damping ζ is the dominant parameter governing the bifurcation behavior and oscillation … Real-world factors such as viscoelasticity, actuator degradation , and external disturbances …",
+    "paper_url": "https://www.worldscientific.com/doi/abs/10.1142/S1758825125500498",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://www.worldscientific.com/doi/abs/10.1142/S1758825125500498"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Stabilitycontrolof suspended monorail vehicles based on PID and quadratic programming allocation",
+    "authors": [
+      "Y Jiang",
+      "D Wang",
+      "R Chen",
+      "Q Wang",
+      "Z Du"
+    ],
+    "year": "2026",
+    "venue": "nature.com",
+    "publisher": null,
+    "doi": "10.1038/s41598-026-52944-3",
+    "doi_source": "crossref",
+    "abstract": "Suspended monorail vehicles are susceptible to coupled lateral–vertical vibrations under multi-source disturbances, such as track irregularities and fluctuating crosswinds, which can degrade operational stability and passenger comfort. To address this issue, this study develops an actuator-constrained hierarchical control framework for suspended monorail vehicles. The main methodological contribution is a vehicle-specific constrained control-allocation procedure. This procedure links measurable lateral–vertical acceleration feedback to physically bounded multi-actuator forces through sensitivity-based actuator configuration, data-identified control-effectiveness mapping, and QP-based allocation. Specifically, a high-fidelity vehicle dynamics model calibrated using measured data is subjected to track irregularities and Simiu-spectrum fluctuating wind loads. Sobol sensitivity analysis is then used to determine the actuator installation locations and acting directions, and a local control-effectiveness matrix is identified through single-actuator excitation simulations and linear regression. In the inner loop, a genetic-algorithm-optimized fixed-parameter PID controller and a fuzzy self-tuning PID controller are designed to generate virtual control commands. In the outer loop, a quadratic-programming-based allocation problem distributes these commands among the actuators while enforcing amplitude constraints. An LQR-QP controller is also introduced as a classical linear optimal-control benchmark. Under identical disturbances and actuator constraints, the fuzzy self-tuning PID-QP controller achieves the best overall performance among the compared methods. Relative to the uncontrolled case, it reduces the lateral and vertical acceleration RMS values by 21.15% and 20.80%, the corresponding acceleration peaks by 28.54% and 32.42%, and the RMS values of the lateral and vertical stability indices by 6.55% and 6.84%, respectively. These results indicate that the proposed hierarchical cooperative control framework can effectively improve the lateral and vertical stability of suspended monorail vehicles while satisfying actuator amplitude constraints.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… , which can degrade operational stability and passenger comfort. To address this issue, this study develops an actuator -constrained hierarchical control framework for suspended …",
+    "paper_url": "https://www.nature.com/articles/s41598-026-52944-3",
+    "pdf_url": "https://www.nature.com/articles/s41598-026-52944-3_reference.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://www.nature.com/articles/s41598-026-52944-3"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "MechanicalActuationUsing Solid State Electrochemistry",
+    "authors": [
+      "T Chin",
+      "M Tupper",
+      "R Gyory",
+      "M Cima …"
+    ],
+    "year": "2010",
+    "venue": "iopscience.iop.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… a degradation mechanism. However, the crystallographic strains are large enough to warrant investigation as actuators . … regime, and an actuator discharged into the bifurcation regime. …",
+    "paper_url": "https://iopscience.iop.org/article/10.1149/MA2010-03/1/723/meta",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://iopscience.iop.org/article/10.1149/MA2010-03/1/723/meta"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "A passive self-tuning vibration neutraliser",
+    "authors": [
+      "R Xia",
+      "X Wei"
+    ],
+    "year": "2025",
+    "venue": "Elsevier",
+    "publisher": null,
+    "doi": "10.1016/j.ymssp.2025.112799",
+    "doi_source": "crossref",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… an actuator between the primary structure and the TMD [25]. This is because the feedback control force of the actuator … In addition, complex bifurcations may degrade the performance of …",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S088832702500500X",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://www.sciencedirect.com/science/article/pii/S088832702500500X"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Local Stability and HopfBifurcationin a Three-Dimensional Photocatalytic Microplastic Reactor Model with Adaptive Gain",
+    "authors": [
+      "SS Sütlü"
+    ],
+    "year": "2026",
+    "venue": "mdpi.com",
+    "publisher": null,
+    "doi": "10.3390/sym18081390",
+    "doi_source": "crossref",
+    "abstract": "Adaptive feedback can destabilize a loop that would be stable under any fixed gain, so the speed at which the gain adapts is itself a design parameter. We study this effect in a minimal three-dimensional model motivated by the photocatalytic degradation of microplastics: a pollutant concentration is driven toward a setpoint by an ultraviolet (UV) actuator whose gain adapts online. The model has a single bilinear nonlinearity, so the local analysis can be carried out in closed form. Under an explicit feasibility condition, the system has a unique positive equilibrium. The Routh–Hurwitz criterion shows that this equilibrium is locally asymptotically stable below an explicit critical adaptation speed κc and unstable above it. At κ=κc, a purely imaginary eigenvalue pair crosses the imaginary axis transversally, and a Hopf bifurcation occurs, with an explicit onset frequency. The first Lyapunov coefficient is computed in closed form; it separates a supercritical onset, for well-damped actuators, from a subcritical onset with hysteresis, for weakly damped actuators. Numerical experiments confirm the predicted limit cycle and the classification. All the stability results established here are local.",
+    "abstract_source": "crossref",
+    "abstract_status": "ok",
+    "search_snippet": "… degradation of microplastics: a pollutant concentration is driven toward a setpoint by an ultraviolet (UV) actuator … any one state removes the controlled system, the actuator lag or the …",
+    "paper_url": "https://www.mdpi.com/2073-8994/18/8/1390",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "incipient actuator fault bifurcation"
+    ],
+    "source_urls": [
+      "https://www.mdpi.com/2073-8994/18/8/1390"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Stabilization of the side pull-inbifurcationof electrostatic comb driveactuatorsusing oscillatory open-loopcontrol",
+    "authors": [
+      "M Wickramasinghe"
+    ],
+    "year": "2012",
+    "venue": "ir.tdl.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Constant-gap electrostatic actuators like transverse comb drives exhibit the side pull-in instability, which may occur with respect to translational, rotational, or deformational degrees of freedom.  Techniques that are successful in delaying the related pull-in instability for voltage-controlled gap-closing actuators-including charge control and charge or position feedback-are ineffective against side pull-in. Although closed-loop stabilization techniques do not work, side pull-in can be significantly delayed using open-loop oscillatory techniques similar to parametric resonance. This research considers the translational planar dynamics of an electrostatic comb drive, in which side pull-in appears as a subcritical pitchfork bifurcation. For small lateral perturbations and negligible damping, the lateral dynamics are approximated by a decoupled second-order linear model in the form of Hill's equation. Classical results of Floquet theory provide a stability diagram, from which is obtained an open-loop oscillatory drive voltage signal that stabilizes the lateral dynamics well beyond the pull-in voltage. We take a heuristic approach to adapt the stability analysis developed for the translational rigid body dynamics to describe the dynamics of a deformed electrode. For that we map the properties of the cantilever on to those of the translational rigid body. We show that the dynamics of the model with the rotational degree of freedom can be put into the form of the translational dynamics.  Numerical and finite element simulations show that the linear stability analysis remains valid when the simplifying assumptions are relaxed. To our knowledge, this is the first demonstration of stabilization of side pull-in without adding sensors, actuators, or closed-loop control logic. To our knowledge it is also the first application of open-loop oscillatory control to an electrostatic MEMS model using a single control voltage.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… charge control or feedback to modify the pitchfork bifurcation . … to bifurcation control , and in particular based on control … performance of the actuator may be degraded . Therefore it is …",
+    "paper_url": "https://ttu-ir.tdl.org/items/120641f4-a4d0-4be4-9470-d28948a2f506",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://ttu-ir.tdl.org/items/120641f4-a4d0-4be4-9470-d28948a2f506"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Dynamics of a capsule robot driven by a bistable dielectric elastomeractuator",
+    "authors": [
+      "C Wu",
+      "X Zhou",
+      "L Xia",
+      "C Cao"
+    ],
+    "year": "2026",
+    "venue": "Elsevier",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… -doubling bifurcations and chaotic motion, leading to performance … degradation in unstructured scenarios. For vibro-impact robots, most existing designs are driven by rigid actuators …",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0093641326001886",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://www.sciencedirect.com/science/article/pii/S0093641326001886"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Adaptive backstepping decoupled fast terminal sliding modecontrolfor underactuated systems under uncertainties andactuatorfaults",
+    "authors": [
+      "B Ata"
+    ],
+    "year": "2025",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "This paper presents an Adaptive Backstepping Decoupled Fast Terminal Sliding Mode Control (ABDFTSMC) framework for underactuated nonlinear systems with coupled dynamics. Traditional sliding mode control methods often suffer from chattering, reliance on conservative uncertainty bounds, and inefficiency in managing underactuation. The proposed framework integrates adaptive backstepping with a decoupling mechanism and fast terminal sliding mode control to ensure finite-time convergence and enhance resilience to uncertainties and actuator faults. Using a recursive Lyapunov-based design, the controller dynamically estimates and compensates for uncertainties and actuator faults without requiring prior knowledge of disturbance bounds. A hierarchical decoupling strategy stabilizes subsystems, reducing control complexity while maintaining precise tracking. Experimental validation on an inverted pendulum-cart system demonstrates the effectiveness of the framework, showing significant reductions in chattering under nominal conditions. When subjected to disturbances—including a 25% loss in actuator effectiveness, additive faults, and parametric uncertainties—the proposed controller achieved superior tracking performance with a settling time of 4.73 seconds, outperforming conventional sliding mode controls, which failed to stabilize the system under the same conditions.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… bifurcations , limit cycles, and extreme sensitivity to initial conditions, making them significantly more challenging to analyze and control … in control signals that can degrade the actuator …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11029217/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel8/6287639/6514899/11029217.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/11029217/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Predictingbifurcationof mechanical systems using reservoir computing: Case studies on legged locomotion and pneumatic softactuator",
+    "authors": [
+      "J Shen",
+      "R Al Ajroudi",
+      "N Akashi",
+      "T Jo…"
+    ],
+    "year": "2026",
+    "venue": "pubs.aip.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… scenario in which the physics knowledge is entirely unavailable for the soft actuator . … soft actuator shown in (c). Our results show that the ESN can reliably predict bifurcation structures in …",
+    "paper_url": "https://pubs.aip.org/aip/cha/article/36/1/013103/3376040",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "actuator effectiveness bifurcation"
+    ],
+    "source_urls": [
+      "https://pubs.aip.org/aip/cha/article/36/1/013103/3376040"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Population regulation in microbial consortia using dual feedbackcontrol",
+    "authors": [
+      "X Ren",
+      "AA Baetica",
+      "A Swaminathan…"
+    ],
+    "year": "2017",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": "10.1101/120253",
+    "doi_source": "crossref",
+    "abstract": "An ongoing area of study in synthetic biology has been the design and construction of synthetic circuits that maintain homeostasis at the population level. Here, we are interested in designing a synthetic control circuit that regulates the total cell population and the relative ratio between cell strains in a culture that contains two different cell strains. We have developed a dual feedback control strategy that uses two separate control loops to achieve the two control objectives respectively. We have implemented the strategy in a population regulation circuit where both the total population size and relative cell strain ratio can be set by reference signals. The circuit shows robustness and adaptation to perturbations in cell growth rate and changes in cell numbers. The control architecture is general and could apply to any organism for which synthetic biology tools for quorum sensing, comparison between outputs, and growth control are available.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… biological sensors, comparators, and actuators [17]. The sensors … We can assume that the degradation rate of species D and G is … The Hopf bifurcation diagrams demonstrate that the …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/8264450/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/8253407/8263624/08264450.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/8264450/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Rotating stall and surgecontrol: A survey",
+    "authors": [
+      "B De Jager"
+    ],
+    "year": "1995",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "The paper presents an analysis of the current state of the art in the control of aero- or hydrodynamic instabilities in turbomachines. It describes the flow phenomena associated with rotating stall and surge, discusses methods devised to prevent these instabilities occuring, but concentrates mainly on the active control (stabilization) of the unstable flows. It appears that lately significant progress has been made in this area. It seems to foster to a more mature state, although several problems deserve further consideration. The consequences of this state of the art for several interested parties, researchers, developers, manufacturers, and users, are stipulated.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… The essential features of nonlinear control with ID actuation … of the rotating stall, leading to less performance degradation . … for video bifurcations , nl control control by air inlet control by …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/480612/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel2/3470/10221/00480612.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/480612/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "DegradationPhenomenon of Electrical Contacts Using a Micro-Sliding Mechanism-Minimal Sliding Amplitudes Estimated under Some Conditions by the Mechanism",
+    "authors": [
+      "S Wada",
+      "K Sawa"
+    ],
+    "year": "2012",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": "10.1109/holm.2012.6336598",
+    "doi_source": "crossref",
+    "abstract": "Authors have developed a mechanism which gives damping vibration to electrical contacts by periodical hammering-oscillation and another mechanism which gives reciprocal micro-sliding to electrical contacts directly driven by a magmetostrictive actuator or a piezo-electrical one. It is shown that each mechanism is able to make a test simulate an actual degradation phenomenon on electrical contacts by the influence of micro-oscillation. By using the above mechanisms and their models they have studied the influences of micro-oscillation on contact resistance. In this paper, first, it is shown that there is degradation phenomenon of electrical contacts by experimental results using micro-sliding mechanism (MSM). And it is also shown that the phenomenon depends on contact frictional force between a male pin and a female pin in a connector and on sliding amplitude directly driven by a magmetostrictive actuator. Second, it is indicated that there are minimal sliding amplitudes estimated in six conditions. The conditions are two types of input waveform whish are sinusoidal and rectangular and three types of frictional force between a male-pin and a female-pin in an actual connector which are usual, middle and smaller. Finally, it is suggested that there are non-linear elements in the system from the minimal sliding amplitudes. Because of phase plane analyses of contact voltages it is clear that there are limit cycle and bifurcation which are typical of non-linear phenomenon. It is, however, not yet clear what element is major and what element is minor in the system.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… actuator or a piezo-electrical one. It is shown that each mechanism is able to make a test simulate an actual degradation … that there are limit cycle and bifurcation which are typical of non-…",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/6336598/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel5/6335082/6336548/06336598.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/6336598/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Enhancing the post-buckling response of a composite panel structure utilising shape memory alloyactuators–a smart structural concept",
+    "authors": [
+      "SP Thompson",
+      "J Loughlan"
+    ],
+    "year": "2001",
+    "venue": "Elsevier",
+    "publisher": null,
+    "doi": "10.1016/s0263-8223(00)00097-0",
+    "doi_source": "crossref",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… 1 and Table 2, it is not expected that the constrained recovery force of an embedded abraded 0.3 mm diameter SMA actuator will degrade the interface, though, this may only hold true …",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0263822300000970",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://www.sciencedirect.com/science/article/pii/S0263822300000970"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Chaos Anticontrol and Switching Frequency Impact on MOSFET Junction Temperature and Lifetime",
+    "authors": [
+      "C Morel",
+      "JY Morel"
+    ],
+    "year": "2025",
+    "venue": "mdpi.com",
+    "publisher": null,
+    "doi": "10.3390/act14050203",
+    "doi_source": "crossref",
+    "abstract": "Generating chaos from originally non-chaotic systems is a promising issue. Indeed, chaos has been successfully applied in many fields to improve system performance. In this work, a Buck converter is chaotified using a combination of the switching piecewise-constant characteristic and of anticontrol of chaos feedback. For electromagnetic compatibility compliance reasons, this feedback control method is able, at the same time, to achieve low spectral emissions and to maintain a small ripple of the output voltage and the inductance current. This new feedback implies a fast and non-linear switching action of the Buck MOSFET on a period of the ramp generator. Thus, it is essential to analyze its thermal performance. This is why we propose an original analysis of the influence of anticontrol of chaos and switching frequency variation on junction temperature: we investigate the correlation between the lifetime of the power electronic switching component and its thermal stress due to the addition of chaos. It appeared that a reduction in the current ripple did not degrade the MOSFET junction thermal performance, despite the fast switching of the MOSFET. Furthermore, a small degradation in the MOSFET lifetime was indicated for chaotic behavior versus periodic behavior. Thus, this leads to the conclusion that using anticontrol of chaos produces a low accumulated fatigue effect on a Buck converter semiconductor.",
+    "abstract_source": "crossref",
+    "abstract_status": "ok",
+    "search_snippet": "… It appeared that a reduction in the current ripple did not degrade the MOSFET junction thermal performance, despite the fast switching of the MOSFET. Furthermore, a small degradation …",
+    "paper_url": "https://www.mdpi.com/2076-0825/14/5/203",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control",
+      "bifurcation early warning actuator degradation"
+    ],
+    "source_urls": [
+      "https://www.mdpi.com/2076-0825/14/5/203"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Task-Oriented Biomedical Microrobots: Access, Working Environment,Actuation, Body Design, Detection andControl",
+    "authors": [
+      "H Sun",
+      "A Zhou",
+      "T Liu",
+      "Z Sun",
+      "L Zhou",
+      "J Hu",
+      "C Iliescu …"
+    ],
+    "year": "2026",
+    "venue": "mdpi.com",
+    "publisher": null,
+    "doi": "10.3390/mi17091048",
+    "doi_source": "crossref",
+    "abstract": "Biomedical microrobots are often classified by propulsion, materials or fabrication, but clinical translation depends on whether a device can complete a task in a specific biological setting. This review frames biomedical microrobots as task-oriented execution systems. Access and the working environment define the first constraints; actuation and body design convert inputs into useful local work; detection and control close the loop by linking measured states to the next action. Examples from vascular, gastrointestinal, pulmonary, luminal, cellular and biofilm-facing systems show that route, medium, motion, retention, payload function, imaging and post-task fate are coupled rather than separate design labels. Magnetic fields can resist flow or guide motion in confined anatomy, acoustic and optical inputs supply penetrative or local energy, and chemical or biological motors use cues from the surrounding medium. Body design then determines whether movement remains compatible with contact, release, sensing, retrieval and biocompatibility. By focusing on task execution rather than platform identity, this review clarifies what should be preserved in test models, what should be measured, and how fair comparisons can be made before translation.",
+    "abstract_source": "crossref",
+    "abstract_status": "ok",
+    "search_snippet": "… degradation and biomedical function [46]. These examples show that cargo loading, degradation … None of these studies tested active shape deformation during bifurcation transit, so its …",
+    "paper_url": "https://www.mdpi.com/2072-666X/17/9/1048",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://www.mdpi.com/2072-666X/17/9/1048"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Bifurcationanalysis of a wheel‐slipcontrolloop under low wheel‐slip regulation considering time‐delay",
+    "authors": [
+      "Á Horváth",
+      "P Béda"
+    ],
+    "year": "2023",
+    "venue": "Wiley Online Library",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… , and can cause severe performance degradation . Hopf-… for bifurcation analysis, consists of the MFTM, the model of the wheel, and the delayed model of the controller without actuator …",
+    "paper_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pamm.202300214",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://onlinelibrary.wiley.com/doi/abs/10.1002/pamm.202300214"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Feedbackcontrolof instabilities in the two-dimensional Blasius boundary layer: the role of sensors andactuators",
+    "authors": [
+      "BA Belson",
+      "O Semeraro",
+      "CW Rowley …"
+    ],
+    "year": "2013",
+    "venue": "pubs.aip.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… of actuator and sensor. We find an actuator -sensor pair that is well-suited for feedback control , and … We show that the feedforward controller's performance is degraded by an additional …",
+    "paper_url": "https://pubs.aip.org/aip/pof/article/25/5/054106/258692",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://pubs.aip.org/aip/pof/article/25/5/054106/258692"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Comparative study between positive position feedback and negative derivative feedback for vibrationcontrolof a flexible arm featuring piezoelectricactuator",
+    "authors": [
+      "HH Syed"
+    ],
+    "year": "2017",
+    "venue": "journals.sagepub.com",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… control performances of PPF and NDF via implementation on a flexible manipulator featuring smart piezoelectric actuator , … controller performance will degrade . Hence, robustness of the …",
+    "paper_url": "https://journals.sagepub.com/doi/abs/10.1177/1729881417718801",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://journals.sagepub.com/doi/abs/10.1177/1729881417718801"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Stability analysis of high speed trains based on active anti-yaw dampercontrolwith electro-hydraulicactuator",
+    "authors": [
+      "Y Qi",
+      "S Luo",
+      "Y Zheng",
+      "H Jing",
+      "J Wang…"
+    ],
+    "year": "2026",
+    "venue": "Taylor & Francis",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… and the degradation of … bifurcation characteristics of a vehicle system equipped with an active anti-yaw damper. The results show that linear control effectively delays the Hopf bifurcation …",
+    "paper_url": "https://www.tandfonline.com/doi/abs/10.1080/00423114.2026.2621043",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://www.tandfonline.com/doi/abs/10.1080/00423114.2026.2621043"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Softactuatorsfor real-world applications",
+    "authors": [
+      "M Li",
+      "A Pal",
+      "A Aghakhani",
+      "A Pena"
+    ],
+    "year": "2022",
+    "venue": "nature.com",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "Inspired by physically adaptive, agile, reconfigurable and multifunctional soft-bodied animals and human muscles, soft actuators have been developed for a variety of applications, including soft grippers, artificial muscles, wearables, haptic devices and medical devices. However, the complex performance of biological systems cannot yet be fully replicated in synthetic designs. In this Review, we discuss new materials and structural designs for the engineering of soft actuators with physical intelligence and advanced properties, such as adaptability, multimodal locomotion, self-healing and multi-responsiveness. We examine how performance can be improved and multifunctionality implemented by using programmable soft materials, and highlight important real-world applications of soft actuators. Finally, we discuss the challenges and opportunities for next-generation soft actuators, including physical intelligence, adaptability, manufacturing scalability and reproducibility, extended lifetime and end-of-life strategies. Soft actuators are flexible and compliant and thus perfectly suited to interact with the human body. This Review discusses tethered, untethered and biohybrid soft actuation strategies, highlights promising real-world applications of soft robots and identifies key future challenges, such as implementing physical intelligence and end-of-life strategies.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… Similarly, bifurcation - based buckling allows the design … controlled degradation can add functionalities to robots, such as structural changes and/or the release of drugs upon degradation …",
+    "paper_url": "https://www.nature.com/articles/s41578-021-00389-7",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7612659/pdf/EMS144353.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://www.nature.com/articles/s41578-021-00389-7"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Trends in vehicle motioncontrolfor automated driving on public roads",
+    "authors": [
+      "M Klomp",
+      "M Jonasson",
+      "L Laine …"
+    ],
+    "year": "2019",
+    "venue": "Taylor & Francis",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": "… In this paper, we discuss how the vehicle control , actuation (… bifurcation analysis of system state transformations are … the problem with steering actuator degradation is to use differential …",
+    "paper_url": "https://www.tandfonline.com/doi/abs/10.1080/00423114.2019.1610182",
+    "pdf_url": null,
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://www.tandfonline.com/doi/abs/10.1080/00423114.2019.1610182"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Equation-free coarsecontrolof distributed parameter systems via local neural operators",
+    "authors": [
+      "G Fabiani",
+      "C Siettos …"
+    ],
+    "year": "2026",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "The control of high-dimensional distributed parameter systems (DPS) remains a challenge when explicit coarse-grained equations are unavailable. Classical equation-free (EF) approaches rely on fine-scale simulators treated as black-box timesteppers. However, repeated simulations for steady-state computation, linearization, and control design are often computationally prohibitive, or the microscopic timestepper may not even be available, leaving us with data as the only resource. We propose a data-driven alternative that uses local neural operators, trained on spatiotemporal microscopic/mesoscopic data, to obtain efficient short-time solution operators. These surrogates are employed within Krylov subspace methods to compute coarse stable and unstable steady states, while also providing Jacobian information in a matrix-free manner. Krylov-Arnoldi iterations then approximate the dominant eigenspectrum, yielding reduced models that capture the open-loop slow dynamics without explicit Jacobian assembly. Both discrete-time Linear Quadratic Regulator (dLQR) and pole-placement (PP) controllers are based on this reduced system and lifted back to the full nonlinear dynamics, thereby closing the feedback loop. The framework is validated by stabilizing an unstable steady-state of the Liouville-Bratu PDE, demonstrating consistent performance between the learned surrogate and the true system, with quantified degradation under plant-model mismatch.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… stability and bifurcation analysis, as well as for control design, … the actuator physics are unknown due to complex actuation … The latter case shows mild performance degradation due to …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11615833/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel8/11615322/11615323/11615833.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "actuator degradation bifurcation control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/11615833/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Powersystemvoltage regulation via STATCOM internalnonlinear control",
+    "authors": [
+      "K Wang",
+      "ML Crow"
+    ],
+    "year": "2010",
+    "venue": "ieeexplore.ieee.org",
+    "publisher": null,
+    "doi": null,
+    "doi_source": null,
+    "abstract": "A new internal STATCOM control based on feedback linearization is proposed. The feedback linearization controller is developed without any simplifying assumptions to the STATCOM model. The proposed control is validated on the IEEE 118-bus system with full-order generator and network models as opposed to a small test system. Furthermore, the proposed control is benchmarked against published results. Lastly controllability issues associated with a singularity in the feedback linearization control (FBLC) coordinate transformation is identified, and a solution is provided to avoid instability.",
+    "abstract_source": "publisher_page",
+    "abstract_status": "ok",
+    "search_snippet": "… induced bifurcation during the application of the control . Singularity induced bifurcations may … In this system , a three-phase to ground fault is applied at bus 3 and is cleared after 0.1 s. …",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/5585850/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel5/59/5958775/05585850.pdf",
+    "source_sites": [
+      "google_scholar"
+    ],
+    "source_queries": [
+      "fault induced bifurcation nonlinear control"
+    ],
+    "source_urls": [
+      "https://ieeexplore.ieee.org/abstract/document/5585850/"
+    ],
+    "source_site": "google_scholar",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  }
+]

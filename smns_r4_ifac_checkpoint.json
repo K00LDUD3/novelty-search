@@ -1,0 +1,634 @@
+[
+  {
+    "title": "Physics-informed reinforcement learning for energy-efficient unmanned aerial vehicle navigation with context-aware power estimation",
+    "authors": [
+      "Payam Shafiei Gohari"
+    ],
+    "year": "2026",
+    "venue": "Engineering Applications of Artificial Intelligence",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.engappai.2026.116161",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0952197626024450",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "learned latent dynamics actuator degradation",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0952197626024450"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Sensor and actuator integrated tooling systems",
+    "authors": [
+      "F. Bleicher"
+    ],
+    "year": "2023",
+    "venue": "CIRP Annals",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.cirp.2023.05.009",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0007850623001385",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0007850623001385"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Fractional-order PD control at Hopf bifurcations in delayed fractional-order small-world networks",
+    "authors": [
+      "Min Xiao"
+    ],
+    "year": "2017",
+    "venue": "Journal of the Franklin Institute",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.jfranklin.2017.09.009",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0016003217304787",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0016003217304787"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Adaptive type-1 and type-2 fuzzy-PI control for chaos suppression in 2D and 4D delayed fermionic models",
+    "authors": [
+      "Eren Tosyali"
+    ],
+    "year": "2026",
+    "venue": "Communications in Nonlinear Science and Numerical Simulation",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.cnsns.2026.110327",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S1007570426006830",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S1007570426006830"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Ghost imaging-based lightweight encryption scheme with auxiliary probe verification for industrial inspection robots",
+    "authors": [
+      "Junxin Liu"
+    ],
+    "year": "2026",
+    "venue": "Chaos, Solitons & Fractals",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.chaos.2026.118770",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0960077926009112",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0960077926009112"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Two-phase cooling architectures for sustainable data centers: From boiling physics to intelligent and reliable deployment",
+    "authors": [
+      "Kim Boon Lua"
+    ],
+    "year": "2026",
+    "venue": "International Communications in Heat and Mass Transfer",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.icheatmasstransfer.2026.112492",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0735193326020130",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0735193326020130"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Orchestrating the post‑silicon revolution of electronics through material-enabled intelligence",
+    "authors": [
+      "Bin Wang"
+    ],
+    "year": "2026",
+    "venue": "Chemical Engineering Journal",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.cej.2026.175242",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S1385894726027014",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S1385894726027014"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Dynamic behavior and sliding mode control for a stochastic SIR fast–slow model",
+    "authors": [
+      "Shihao Zhang"
+    ],
+    "year": "2027",
+    "venue": "Mathematics and Computers in Simulation",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.matcom.2026.08.001",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0378475426003381",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0378475426003381"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Design of a liquid state space model proportional–integral– derivative controller for generator oscillation suppression in power cyber-physical systems",
+    "authors": [
+      "Hongliang Gao"
+    ],
+    "year": "2026",
+    "venue": "Engineering Applications of Artificial Intelligence",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.engappai.2026.114566",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S095219762600847X",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S095219762600847X"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "A review on cutting chatter detection and suppression in robotic milling",
+    "authors": [
+      "Ning Li"
+    ],
+    "year": "2026",
+    "venue": "Robotics and Computer-Integrated Manufacturing",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.rcim.2025.103219",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S073658452500273X",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S073658452500273X"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Fog-Quant: A quantum computing inspired framework for fog computing deployment over 6G radio access networks",
+    "authors": [
+      "Shabir Ali"
+    ],
+    "year": "2026",
+    "venue": "Sustainable Computing: Informatics and Systems",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.suscom.2026.101367",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S2210537926000776",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S2210537926000776"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "SIHQR model with time delay for worm spread analysis in IIoT-enabled PLC network",
+    "authors": [
+      "Guowen Wu"
+    ],
+    "year": "2024",
+    "venue": "Ad Hoc Networks",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.adhoc.2024.103504",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S157087052400115X",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S157087052400115X"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Chapter 2: Mechanical and thermal energy storage technologies",
+    "authors": [
+      "Ying Xue"
+    ],
+    "year": "2026",
+    "venue": "Modern Energy Storage",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/b978-0-32-395419-8.00008-8",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/B9780323954198000088",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/B9780323954198000088"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Control based on the Koopman operator: A comprehensive review",
+    "authors": [
+      "Juan Francisco Durán-Siguenza"
+    ],
+    "year": "2025",
+    "venue": "Journal of the Franklin Institute",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.jfranklin.2025.108256",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0016003225007483",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0016003225007483"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "A type-3 fuzzy synchronization system subjected to hysteresis quantizer inputs and unknown dynamics: Applicable to financial and physical chaotic systems",
+    "authors": [
+      "Manwen Tian"
+    ],
+    "year": "2026",
+    "venue": "ISA Transactions",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.isatra.2025.12.007",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0019057825006998",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0019057825006998"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Multi-objective graph optimization for dynamic task–machine assignment in STEP-NC compliant smart factories using extended Floyd–Warshall algorithm",
+    "authors": [
+      "Oluwasheyi Oyename"
+    ],
+    "year": "2026",
+    "venue": "Journal of Manufacturing Systems",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.jmsy.2026.07.003",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0278612526001871",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "bifurcation early warning actuator degradation latent"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0278612526001871"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Integrating CFD, molecular dynamics, and AI techniques for thermal management of heat transfer devices in microelectronic chip cooling using nano-enhanced PCMs and hybrid cooling systems",
+    "authors": [
+      "Monica Jayaram Indhe"
+    ],
+    "year": "2026",
+    "venue": "International Journal of Thermofluids",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.ijft.2026.101587",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S2666202726000431",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S2666202726000431"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "A scenario-driven review of multi-agent cooperation for lunar surface missions",
+    "authors": [
+      "Jiaxiang E"
+    ],
+    "year": "2026",
+    "venue": "Acta Astronautica",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.actaastro.2026.05.046",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0094576526003607",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault",
+      "actuator degradation latent space bifurcation"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0094576526003607"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Deployment-oriented multi-objective feature selection and neural architecture optimization for comprehensive diesel engine performance prediction",
+    "authors": [
+      "Xianyan Lin"
+    ],
+    "year": "2026",
+    "venue": "Applied Thermal Engineering",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.applthermaleng.2026.132621",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S1359431126029297",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S1359431126029297"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  },
+  {
+    "title": "Universal nonlinear dynamics in damped and driven physical systems: From Pendula via Josephson junctions to power grids",
+    "authors": [
+      "Subrata Ghosh"
+    ],
+    "year": "2025",
+    "venue": "Physics Reports",
+    "publisher": "Elsevier / IFAC",
+    "doi": "10.1016/j.physrep.2025.09.005",
+    "doi_source": "api",
+    "abstract": null,
+    "abstract_source": null,
+    "abstract_status": "unavailable",
+    "search_snippet": null,
+    "paper_url": "https://api.elsevier.com/content/article/pii/S0370157325002443",
+    "pdf_url": null,
+    "source_sites": [
+      "ifac"
+    ],
+    "source_queries": [
+      "latent bifurcation dynamics actuator fault"
+    ],
+    "source_urls": [
+      "https://api.elsevier.com/content/article/pii/S0370157325002443"
+    ],
+    "source_site": "ifac",
+    "relevant_equations": [],
+    "relevant_passages": [],
+    "relevant_conclusions": [],
+    "errors": []
+  }
+]
